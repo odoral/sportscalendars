@@ -7,6 +7,7 @@ import net.fortuna.ical4j.model.parameter.XParameter;
 import net.fortuna.ical4j.model.property.Description;
 import net.fortuna.ical4j.model.property.XProperty;
 import net.fortuna.ical4j.util.RandomUidGenerator;
+import org.apache.commons.lang3.time.DateUtils;
 import org.doral.sportcalendars.webscraper.model.Channel;
 import org.doral.sportcalendars.webscraper.model.SportEvent;
 import org.doral.sportcalendars.webscraper.writer.exception.CalendarWriterException;
@@ -17,7 +18,6 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.util.Comparator;
 import java.util.List;
-import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -27,7 +27,7 @@ import java.util.stream.Stream;
 public class ICal4jWriter implements ICalendarWriter {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(ICal4jWriter.class);
-    public static final String TIMEZONE = "Europe/Madrid";
+    public static final String TIME_ZONE = "Europe/Madrid";
 
     @Override
     public void write(OutputStream outputStream, String prodId, org.doral.sportcalendars.webscraper.model.Calendar... calendar) throws CalendarWriterException {
@@ -56,13 +56,15 @@ public class ICal4jWriter implements ICalendarWriter {
         String html = toHTML(sportEvent, sportEvent.getChannels());
         XProperty htmlProp = new XProperty("X-ALT-DESC", htmlParameters, html);
 
+        TimeZone timeZone = TimeZoneRegistryFactory.getInstance()
+                .createRegistry()
+                .getTimeZone(TIME_ZONE);
+
         return new VEvent(
-                new DateTime(sportEvent.getStartTimestamp().getTime()),
-                new DateTime(sportEvent.getStartTimestamp().getTime() + TimeUnit.HOURS.toMillis(2)),
+                new DateTime(sportEvent.getStartTimestamp(), timeZone),
+                new DateTime(DateUtils.addHours(sportEvent.getStartTimestamp(), 2)),
                 sportEvent.getName())
-                .withProperty(TimeZoneRegistryFactory.getInstance()
-                        .createRegistry()
-                        .getTimeZone(TIMEZONE)
+                .withProperty(timeZone
                         .getVTimeZone()
                         .getTimeZoneId())
                 .withProperty(new RandomUidGenerator().generateUid())
