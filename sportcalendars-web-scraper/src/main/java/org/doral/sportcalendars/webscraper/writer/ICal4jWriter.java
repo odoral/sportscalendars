@@ -30,7 +30,7 @@ public class ICal4jWriter implements ICalendarWriter {
 
     public static final TimeZone TIME_ZONE = TimeZoneRegistryFactory.getInstance()
             .createRegistry()
-            .getTimeZone("Europe/Madrid");
+            .getTimeZone("UTC");
 
     @Override
     public void write(OutputStream outputStream, String prodId, org.doral.sportcalendars.webscraper.model.Calendar... calendar) throws CalendarWriterException {
@@ -61,13 +61,19 @@ public class ICal4jWriter implements ICalendarWriter {
         XProperty htmlProp = new XProperty("X-ALT-DESC", htmlParameters, html);
 
         return new VEvent(
-                new DateTime(sportEvent.getStartTimestamp(), TIME_ZONE),
-                new DateTime(DateUtils.addHours(sportEvent.getStartTimestamp(), 2), TIME_ZONE),
+                buildDateTime(sportEvent.getStartTimestamp()),
+                buildDateTime(DateUtils.addHours(sportEvent.getStartTimestamp(), 2)),
                 sportEvent.getName())
                 .withProperty(new RandomUidGenerator().generateUid())
                 .withProperty(htmlProp)
                 .withProperty(new Description(toPlain(sportEvent, sportEvent.getChannels())))
                 .getFluentTarget();
+    }
+
+    private static DateTime buildDateTime(java.util.Date timestamp) {
+        DateTime dateTime = new DateTime(true);
+        dateTime.setTime(timestamp.getTime());
+        return dateTime;
     }
 
     protected String toHTML(SportEvent sportEvent, List<Channel> channels) {
