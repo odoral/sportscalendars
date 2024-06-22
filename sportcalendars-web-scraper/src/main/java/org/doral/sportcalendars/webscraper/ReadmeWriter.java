@@ -88,8 +88,11 @@ public class ReadmeWriter implements Closeable {
             for (KeyValue<File, String> calendar : calendars) {
                 writer.write("- ");
                 writer.write(calendar.getValue());
-                writer.write(" [URL]");
-                writer.write("(" + getGithubRawURL(projectBaseDirectory, calendar.getKey()) + ")");
+                writer.write(" [ICS]");
+                String githubRawURL = getGithubRawURL(projectBaseDirectory, calendar.getKey());
+                writer.write("(" + githubRawURL + ")");
+                writer.write(" [Google Calendar]");
+                writer.write("(https://calendar.google.com/calendar/r?cid=" + githubRawURL + ")");
                 writer.newLine();
             }
             writer.newLine();
