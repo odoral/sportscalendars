@@ -11,11 +11,12 @@ echo "Build"
 echo "Run"
 java -jar ./sportcalendars-web-scraper/build/libs/sportcalendars-web-scraper-all.jar -pd=./ -gr
 
-echo "Commit"
+echo "Configure git"
 git config --global user.name 'github-actions[bot]'
 git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-git add calendars
-git commit -m "[AUTOMATION] ${TIMESTAMP} execution"
+
+echo "Commit"
+git commit -a -m "[AUTOMATION] ${TIMESTAMP} execution"
 git tag "${TIMESTAMP}"
 git push origin master --follow-tags
 
