@@ -62,7 +62,7 @@ public class ICal4jWriter implements ICalendarWriter {
 
         return new VEvent(
                 new DateTime(sportEvent.getStartTimestamp(), timeZone),
-                new DateTime(DateUtils.addHours(sportEvent.getStartTimestamp(), 2)),
+                new DateTime(DateUtils.addHours(sportEvent.getStartTimestamp(), 2), timeZone),
                 sportEvent.getName())
                 .withProperty(timeZone
                         .getVTimeZone()
