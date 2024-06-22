@@ -7,6 +7,7 @@ import net.fortuna.ical4j.model.parameter.XParameter;
 import net.fortuna.ical4j.model.property.Description;
 import net.fortuna.ical4j.model.property.XProperty;
 import net.fortuna.ical4j.util.RandomUidGenerator;
+import org.apache.commons.lang3.time.DateUtils;
 import org.doral.sportcalendars.webscraper.model.Channel;
 import org.doral.sportcalendars.webscraper.model.SportEvent;
 import org.doral.sportcalendars.webscraper.writer.exception.CalendarWriterException;
@@ -17,7 +18,6 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.util.Comparator;
 import java.util.List;
-import java.util.concurrent.TimeUnit;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -61,10 +61,9 @@ public class ICal4jWriter implements ICalendarWriter {
         XProperty htmlProp = new XProperty("X-ALT-DESC", htmlParameters, html);
 
         return new VEvent(
-                new DateTime(sportEvent.getStartTimestamp().getTime()),
-                new DateTime(sportEvent.getStartTimestamp().getTime() + TimeUnit.HOURS.toMillis(2)),
+                new DateTime(sportEvent.getStartTimestamp(), TIME_ZONE),
+                new DateTime(DateUtils.addHours(sportEvent.getStartTimestamp(), 2), TIME_ZONE),
                 sportEvent.getName())
-                .withProperty(TIME_ZONE.getVTimeZone().getTimeZoneId())
                 .withProperty(new RandomUidGenerator().generateUid())
                 .withProperty(htmlProp)
                 .withProperty(new Description(toPlain(sportEvent, sportEvent.getChannels())))
