@@ -2,7 +2,7 @@
 
 set -eo
 
-TZ=Europe/Madrid
+export TZ=Europe/Madrid
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 
 echo "Build"
