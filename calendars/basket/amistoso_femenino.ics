@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Sport Events App//iCal4j 1.0//ES
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20240622T092708Z
+DTSTART:20240622T170000Z
+DTEND:20240622T190000Z
+SUMMARY:Amistoso Femenino - China - Turquía
+TZID:Europe/Madrid
+UID:65b3eb7d-bd13-40f5-b8e5-53d056bdef35
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240622T092708Z
+DTSTART:20240623T120000Z
+DTEND:20240623T140000Z
+SUMMARY:Amistoso Femenino - España - China
+TZID:Europe/Madrid
+UID:1b3e8bf1-7c56-42ed-9f70-bde0bd60a2b3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+END:VCALENDAR
