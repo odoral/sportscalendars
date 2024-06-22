@@ -167,23 +167,21 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240622T020000Z
-DTEND:20240622T040000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240622T040000
+DTEND;TZID=Europe/Madrid:20240622T060000
 SUMMARY:Copa América - Perú - Chile
-TZID:Europe/Madrid
-UID:d7e3be4b-c3a1-47e3-98aa-23d63fef9bb4
+UID:3b10219e-e462-46c9-b856-38ae03bcbe56
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240623T000000Z
-DTEND:20240623T020000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240623T020000
+DTEND;TZID=Europe/Madrid:20240623T040000
 SUMMARY:Copa América - Ecuador - Venezuela
-TZID:Europe/Madrid
-UID:6cbcea56-d944-48a9-8fb5-00c080dcbcec
+UID:54c65d90-6564-40d9-ba89-f28c343bad64
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
@@ -191,23 +189,21 @@ DESCRIPTION:- Open: Esport 3\n- PPV: M+ Copa América\n- PPV: Movistar Plu
  s+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240623T030000Z
-DTEND:20240623T050000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240623T050000
+DTEND;TZID=Europe/Madrid:20240623T070000
 SUMMARY:Copa América - México - Jamaica
-TZID:Europe/Madrid
-UID:70843ea2-2d1b-4c0f-ac8c-094e8f0e9cd2
+UID:4df244c4-f054-4a9c-9a4b-1f5054975662
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240624T000000Z
-DTEND:20240624T020000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240624T020000
+DTEND;TZID=Europe/Madrid:20240624T040000
 SUMMARY:Copa América - Estados Unidos - Bolivia
-TZID:Europe/Madrid
-UID:f5ac7922-5299-4931-a4c6-46fb7837fef0
+UID:f1d069b4-4841-4270-b263-301aa9915dac
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
@@ -215,166 +211,151 @@ DESCRIPTION:- Open: Esport 3\n- PPV: M+ Copa América\n- PPV: Movistar Plu
  s+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240624T030000Z
-DTEND:20240624T050000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240624T050000
+DTEND;TZID=Europe/Madrid:20240624T070000
 SUMMARY:Copa América - Uruguay - Panamá
-TZID:Europe/Madrid
-UID:dd3207b2-8239-45d3-9839-93dd6f65c315
+UID:9a858254-3c88-434c-ad42-75aa8b423a3c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240625T000000Z
-DTEND:20240625T020000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240625T020000
+DTEND;TZID=Europe/Madrid:20240625T040000
 SUMMARY:Copa América - Colombia - Paraguay
-TZID:Europe/Madrid
-UID:78d3d76e-575c-47d9-87a3-738ab4afe913
+UID:22d9164b-1452-43fa-a8da-29a015fcc055
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: M+ Copa América</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: M+ Copa América\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240625T030000Z
-DTEND:20240625T050000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240625T050000
+DTEND;TZID=Europe/Madrid:20240625T070000
 SUMMARY:Copa América - Brasil - Costa Rica
-TZID:Europe/Madrid
-UID:65b02ece-42e8-4f4a-906d-e758e66885a7
+UID:093a8989-d67b-416e-a046-acfb47a0c2b7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240626T000000Z
-DTEND:20240626T020000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240626T020000
+DTEND;TZID=Europe/Madrid:20240626T040000
 SUMMARY:Copa América - Perú - Canada
-TZID:Europe/Madrid
-UID:24a66930-1260-447e-b03c-99f1c845a220
+UID:514d1603-6cce-49d6-bc6f-9642cd0e1aef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: M+ Copa América</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: M+ Copa América\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240626T030000Z
-DTEND:20240626T050000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240626T050000
+DTEND;TZID=Europe/Madrid:20240626T070000
 SUMMARY:Copa América - Chile - Argentina
-TZID:Europe/Madrid
-UID:78e2cfd7-fd8f-4a0b-9278-80fade68cc5c
+UID:2eb17709-e369-4baf-a086-0fbdb0278017
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240627T000000Z
-DTEND:20240627T020000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240627T020000
+DTEND;TZID=Europe/Madrid:20240627T040000
 SUMMARY:Copa América - Ecuador - Jamaica
-TZID:Europe/Madrid
-UID:7f302201-f394-4e23-96d9-3bc1308025f2
+UID:ba8e037d-94da-4862-b4d3-5cf93e056cac
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: M+ Copa América</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: M+ Copa América\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240627T030000Z
-DTEND:20240627T050000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240627T050000
+DTEND;TZID=Europe/Madrid:20240627T070000
 SUMMARY:Copa América - Venezuela - México
-TZID:Europe/Madrid
-UID:86ec4883-c8b7-4606-afe9-5fe4a6480557
+UID:a1abaafc-4a78-4eed-aa26-3e7c8b47292e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240628T000000Z
-DTEND:20240628T020000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240628T020000
+DTEND;TZID=Europe/Madrid:20240628T040000
 SUMMARY:Copa América - Panamá - Estados Unidos
-TZID:Europe/Madrid
-UID:453e84ac-dee7-42b3-8b95-246ea70368fe
+UID:c39b230e-4b1b-4157-9657-17cb348229c3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: M+ Copa América</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: M+ Copa América\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240628T030000Z
-DTEND:20240628T050000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240628T050000
+DTEND;TZID=Europe/Madrid:20240628T070000
 SUMMARY:Copa América - Uruguay - Bolivia
-TZID:Europe/Madrid
-UID:722cee9f-c728-4846-b3a2-c083c0c93d57
+UID:ade52687-15e0-407f-b5f9-90264c11cf24
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240629T000000Z
-DTEND:20240629T020000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240629T020000
+DTEND;TZID=Europe/Madrid:20240629T040000
 SUMMARY:Copa América - Colombia - Costa Rica
-TZID:Europe/Madrid
-UID:417cf259-e40e-401e-bd60-f64d5fd1a491
+UID:c979b964-f89b-468b-a74f-a948906950cb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: M+ Copa América</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: M+ Copa América\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240629T030000Z
-DTEND:20240629T050000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240629T050000
+DTEND;TZID=Europe/Madrid:20240629T070000
 SUMMARY:Copa América - Paraguay - Brasil
-TZID:Europe/Madrid
-UID:e29ffb48-98fe-40cb-a752-b00d3e0d1586
+UID:6eb27377-6503-420e-97a0-3967df41ff7c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240630T020000Z
-DTEND:20240630T040000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240630T040000
+DTEND;TZID=Europe/Madrid:20240630T060000
 SUMMARY:Copa América - Canada - Chile
-TZID:Europe/Madrid
-UID:ddbd41b0-efce-444a-89f6-a945235e6fa2
+UID:0601c659-b3e1-4294-9757-1f0516f1e7cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: M+ Copa América 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: M+ Copa América 2\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240630T020000Z
-DTEND:20240630T040000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240630T040000
+DTEND;TZID=Europe/Madrid:20240630T060000
 SUMMARY:Copa América - Argentina - Perú
-TZID:Europe/Madrid
-UID:575af3f2-8da8-452f-89ad-af00885a8304
+UID:c3f96101-f690-4faf-a6b0-72c06ebbf2ac
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240701T020000Z
-DTEND:20240701T040000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240701T040000
+DTEND;TZID=Europe/Madrid:20240701T060000
 SUMMARY:Copa América - México - Ecuador
-TZID:Europe/Madrid
-UID:a2aebe87-038c-43e1-b566-b0d30cedb177
+UID:d7d42fda-8ca4-4979-bb3c-523ce2dafae3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240701T020000Z
-DTEND:20240701T040000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240701T040000
+DTEND;TZID=Europe/Madrid:20240701T060000
 SUMMARY:Copa América - Jamaica - Venezuela
-TZID:Europe/Madrid
-UID:9d21bb6e-80c4-4371-bdcc-354048d74cf7
+UID:83a7ded7-584e-4297-8509-980416b2c0c2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: M+ Copa América 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: M+ Copa América 2\n- PPV: M+ Vamos

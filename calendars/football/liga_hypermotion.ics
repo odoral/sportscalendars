@@ -167,12 +167,11 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240622T102344Z
-DTSTART:20240623T183000Z
-DTEND:20240623T203000Z
+DTSTAMP:20240622T110308Z
+DTSTART;TZID=Europe/Madrid:20240623T203000
+DTEND;TZID=Europe/Madrid:20240623T223000
 SUMMARY:Liga Hypermotion - Espanyol - Real Oviedo
-TZID:Europe/Madrid
-UID:12fa1c20-02e2-42a0-a959-178c62ffc33c
+UID:73bb6c1c-43d8-40f4-ba48-4f1dd885d04a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  M+ LaLiga TV</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
