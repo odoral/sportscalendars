@@ -3,23 +3,23 @@ PRODID:-//Sport Events App//iCal4j 1.0//ES
 CALSCALE:GREGORIAN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20240622T095312Z
+DTSTAMP:20240622T095946Z
 DTSTART;TZID=Europe/Madrid:20240625T210000
-DTEND:20240625T210000Z
+DTEND;TZID=Europe/Madrid:20240625T230000
 SUMMARY:Amistoso - España - Italia
 TZID:Europe/Madrid
-UID:b345d01e-ceba-4e18-b97a-70b2b731e9d1
+UID:c041efc4-6358-4767-93e8-a4458d7be5eb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T095312Z
+DTSTAMP:20240622T095946Z
 DTSTART;TZID=Europe/Madrid:20240628T210000
-DTEND:20240628T210000Z
+DTEND;TZID=Europe/Madrid:20240628T230000
 SUMMARY:Amistoso - España - República Dominicana
 TZID:Europe/Madrid
-UID:beef442d-8ae5-424a-b4b2-13ad3ebe80c4
+UID:1dcac0c7-e900-4a39-b623-175eeb77f771
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play

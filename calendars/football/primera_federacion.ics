@@ -3,23 +3,23 @@ PRODID:-//Sport Events App//iCal4j 1.0//ES
 CALSCALE:GREGORIAN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20240622T095306Z
+DTSTAMP:20240622T095937Z
 DTSTART;TZID=Europe/Madrid:20240622T223000
-DTEND:20240622T223000Z
+DTEND;TZID=Europe/Madrid:20240623T003000
 SUMMARY:Primera Federación - Nàstic Tarragona - Málaga
 TZID:Europe/Madrid
-UID:8bf557a4-b758-4b4b-8d0d-5e1effe8f6a6
+UID:7f466541-907f-4048-a872-39144b0f6386
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Canal Sur\n- Open: Esport 3\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240622T095306Z
+DTSTAMP:20240622T095937Z
 DTSTART;TZID=Europe/Madrid:20240623T230000
-DTEND:20240623T230000Z
+DTEND;TZID=Europe/Madrid:20240624T010000
 SUMMARY:Primera Federación - Córdoba - Barcelona Atlètic
 TZID:Europe/Madrid
-UID:f40bdd28-d123-4fdb-ac80-8c7d2200ac52
+UID:efe221b4-d39c-4b8f-b7fb-93c05d0104aa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Canal Sur\n- Open: Esport 3\n- PPV: FEF TV
