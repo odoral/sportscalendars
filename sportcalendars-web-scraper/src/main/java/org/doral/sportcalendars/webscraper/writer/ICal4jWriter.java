@@ -27,14 +27,18 @@ import java.util.stream.Stream;
 public class ICal4jWriter implements ICalendarWriter {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(ICal4jWriter.class);
-    public static final String TIMEZONE = "Europe/Madrid";
+
+    public static final TimeZone TIME_ZONE = TimeZoneRegistryFactory.getInstance()
+            .createRegistry()
+            .getTimeZone("Europe/Madrid");
 
     @Override
     public void write(OutputStream outputStream, String prodId, org.doral.sportcalendars.webscraper.model.Calendar... calendar) throws CalendarWriterException {
         LOGGER.info("Writing {} calendars for {}", calendar.length, prodId);
         FluentCalendar outputCalendar = new Calendar()
+                .withDefaults()
                 .withProdId("-//" + prodId + "//iCal4j 1.0//ES")
-                .withDefaults();
+                .withComponent(TIME_ZONE.getVTimeZone());
 
         Stream.of(calendar)
                 .flatMap(c -> c.getEvents().stream())
@@ -60,11 +64,7 @@ public class ICal4jWriter implements ICalendarWriter {
                 new DateTime(sportEvent.getStartTimestamp().getTime()),
                 new DateTime(sportEvent.getStartTimestamp().getTime() + TimeUnit.HOURS.toMillis(2)),
                 sportEvent.getName())
-                .withProperty(TimeZoneRegistryFactory.getInstance()
-                        .createRegistry()
-                        .getTimeZone(TIMEZONE)
-                        .getVTimeZone()
-                        .getTimeZoneId())
+                .withProperty(TIME_ZONE.getVTimeZone().getTimeZoneId())
                 .withProperty(new RandomUidGenerator().generateUid())
                 .withProperty(htmlProp)
                 .withProperty(new Description(toPlain(sportEvent, sportEvent.getChannels())))
