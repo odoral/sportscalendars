@@ -17,7 +17,8 @@ git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
 echo "Commit"
 git commit -a -m "[AUTOMATION] ${TIMESTAMP} execution"
+git push origin master
 git tag "${TIMESTAMP}"
-git push origin master --follow-tags
+git push origin --tags
 
 echo "Done!"
