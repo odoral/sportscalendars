@@ -16,43 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240626T011921Z
+DTSTAMP:20240626T042356Z
 DTSTART:20240626T160000Z
 DTEND:20240626T180000Z
 SUMMARY:Eurocopa 2024 - Ucrania - Bélgica
-UID:d9f6f98b-3e89-4ede-8b3c-20f16d835e4c
+UID:a4db8300-b571-4b05-849b-07bc7497ad74
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240626T011921Z
+DTSTAMP:20240626T042356Z
 DTSTART:20240626T160000Z
 DTEND:20240626T180000Z
 SUMMARY:Eurocopa 2024 - Eslovaquia - Rumanía
-UID:df319d26-2fde-4e19-b79d-c2799d595d1d
+UID:ea51ca9f-2df6-4b53-bf06-db5079303c6c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
  n: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 2\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240626T011921Z
+DTSTAMP:20240626T042356Z
 DTSTART:20240626T190000Z
 DTEND:20240626T210000Z
 SUMMARY:Eurocopa 2024 - Georgia - Portugal
-UID:978e7b34-afc5-4cea-9b39-97c9e4437c4c
+UID:4097b35b-cba9-478f-9826-b2af6d504129
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240626T011921Z
+DTSTAMP:20240626T042356Z
 DTSTART:20240626T190000Z
 DTEND:20240626T210000Z
 SUMMARY:Eurocopa 2024 - República Checa - Turquía
-UID:4ca3db89-f43d-4408-8b6b-90dda64ad78b
+UID:ee7b4658-afac-4589-bb0e-ad888335124c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
  n: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 2\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240626T042356Z
+DTSTART:20240629T160000Z
+DTEND:20240629T180000Z
+SUMMARY:Eurocopa 2024 - Suiza - Italia
+UID:350f086d-1e73-4f8c-81c1-c8b94c02866d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
