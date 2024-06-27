@@ -16,51 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240626T042356Z
-DTSTART:20240626T160000Z
-DTEND:20240626T180000Z
-SUMMARY:Eurocopa 2024 - Ucrania - Bélgica
-UID:a4db8300-b571-4b05-849b-07bc7497ad74
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240626T042356Z
-DTSTART:20240626T160000Z
-DTEND:20240626T180000Z
-SUMMARY:Eurocopa 2024 - Eslovaquia - Rumanía
-UID:ea51ca9f-2df6-4b53-bf06-db5079303c6c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
- n: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 2\n- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240626T042356Z
-DTSTART:20240626T190000Z
-DTEND:20240626T210000Z
-SUMMARY:Eurocopa 2024 - Georgia - Portugal
-UID:4097b35b-cba9-478f-9826-b2af6d504129
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240626T042356Z
-DTSTART:20240626T190000Z
-DTEND:20240626T210000Z
-SUMMARY:Eurocopa 2024 - República Checa - Turquía
-UID:ee7b4658-afac-4589-bb0e-ad888335124c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
- n: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 2\n- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240626T042356Z
+DTSTAMP:20240627T011939Z
 DTSTART:20240629T160000Z
 DTEND:20240629T180000Z
 SUMMARY:Eurocopa 2024 - Suiza - Italia
-UID:350f086d-1e73-4f8c-81c1-c8b94c02866d
+UID:ba12e209-e42b-4ff0-ad01-0cc1c2c90881
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
