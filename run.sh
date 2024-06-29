@@ -31,7 +31,7 @@ if [ ${UPDATED_CALENDARS} -gt 0 ]; then
   echo "Commit"
   git add README.md || true
   git commit -m "[AUTOMATION] ${TIMESTAMP} execution"
-  git push origin master
+  git push origin HEAD
   git tag "${TIMESTAMP}"
   git push origin --tags
 fi
