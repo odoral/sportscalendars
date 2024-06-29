@@ -24,6 +24,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.function.Function;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 /**
  * @author odoral
@@ -152,16 +153,18 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
         } catch (ParseException e) {
             throw new RuntimeException(e);
         }
-        int year = CalendarUtils.getInstance().getYear();
-        newEventDate = DateUtils.setYears(newEventDate, year);
-        if (DateUtils.truncatedCompareTo(new Date(), newEventDate, java.util.Calendar.DATE) > 0) {
-            newEventDate = DateUtils.addYears(newEventDate, 1);
-        }
-        if (eventDate == null) {
-            eventDate = newEventDate;
-        } else if (eventDate.after(newEventDate)) {
-            eventDate = DateUtils.addYears(newEventDate, 1);
-        }
-        return eventDate;
+
+        return calculateEventYear(newEventDate);
+    }
+
+    protected Date calculateEventYear(Date eventDate) {
+        int currentYear = CalendarUtils.getInstance().getYear();
+        Date currentDate = new Date();
+
+        return Stream.of(currentYear - 1, currentYear, currentYear + 1)
+          .map(year -> DateUtils.setYears(eventDate, year))
+          .sorted(Comparator.comparingLong(date -> Math.abs(date.getTime() - currentDate.getTime())))
+          .findFirst()
+          .orElse(eventDate);
     }
 }
