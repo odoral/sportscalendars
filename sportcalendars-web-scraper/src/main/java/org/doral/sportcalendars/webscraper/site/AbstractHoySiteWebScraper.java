@@ -2,6 +2,7 @@ package org.doral.sportcalendars.webscraper.site;
 
 import org.apache.commons.collections4.KeyValue;
 import org.apache.commons.collections4.keyvalue.DefaultKeyValue;
+import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.time.CalendarUtils;
 import org.apache.commons.lang3.time.DateUtils;
 import org.doral.sportcalendars.webscraper.model.Calendar;
@@ -91,6 +92,8 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
                 .startTimestamp(startTimestampAndDisclaimer.getKey())
                 .disclaimer(startTimestampAndDisclaimer.getValue())
                 .name(String.join(" - ", calendarName, parseEventName(htmlElement)))
+                .teamA(parseTeamA(htmlElement))
+                .teamB(parseTeamB(htmlElement))
                 .channels(parseEventChannels(htmlElement))
                 .build();
         assert sportEvent.getName() != null;
@@ -112,6 +115,14 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
 
     protected String parseEventName(HtmlElement htmlElement) {
         return HTMLUnitUtils.extractTextByFirstXpath(htmlElement, ".//div[contains(@class, 'm_title')]").orElseThrow();
+    }
+
+    protected String parseTeamA(HtmlElement htmlElement) {
+        return StringUtils.trimToNull(parseEventName(htmlElement).split("-")[0]);
+    }
+
+    protected String parseTeamB(HtmlElement htmlElement) {
+        return StringUtils.trimToNull(parseEventName(htmlElement).split("-")[1]);
     }
 
     protected KeyValue<Date, String> parseEventTimeStamp(Date eventDate, HtmlElement htmlElement) {
