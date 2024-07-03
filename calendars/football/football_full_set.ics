@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240703T003247Z
+DTSTAMP:20240703T081026Z
 DTSTART:20240703T010000Z
 DTEND:20240703T030000Z
 SUMMARY:Copa América - Costa Rica - Paraguay
-UID:bd4aa661-d99c-4737-a2da-b8246936b2c0
+UID:6054a3ab-2a9d-422d-92a4-489a19982ae7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 3Cat</li>\n<li>Ope
  n: Esport 3</li>\n<li>PPV: M+ Copa América 2</li>\n<li>PPV: M+ Vamos</li
  ></ul></body></html>
@@ -28,71 +28,81 @@ DESCRIPTION:- Open: 3Cat\n- Open: Esport 3\n- PPV: M+ Copa América 2\n- P
  PV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T003247Z
+DTSTAMP:20240703T081026Z
 DTSTART:20240703T010000Z
 DTEND:20240703T030000Z
 SUMMARY:Copa América - Brasil - Colombia
-UID:4f8a65f9-b112-402c-9149-9e8fa6a46a90
+UID:c9c32a8b-d748-4d2c-9d85-69e7094fe382
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T003247Z
+DTSTAMP:20240703T081026Z
 DTSTART:20240705T010000Z
 DTEND:20240705T030000Z
 SUMMARY:Copa América - Argentina - Ecuador
-UID:e9b46ec8-2cb0-411b-8791-574987159fe8
+UID:4dd4468d-5316-4613-bedd-5720293a41df
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 3Cat</li>\n<li>PPV
  : M+ Copa América</li></ul></body></html>
 DESCRIPTION:- Open: 3Cat\n- PPV: M+ Copa América
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T003247Z
+DTSTAMP:20240703T081026Z
 DTSTART:20240705T160000Z
 DTEND:20240705T180000Z
 SUMMARY:Eurocopa 2024 - España - Alemania
-UID:6df71587-663f-48d2-9bb4-7469d88d9e4e
+UID:ea35261f-c2d2-4923-a78a-d724c849017e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T003247Z
+DTSTAMP:20240703T081026Z
 DTSTART:20240705T190000Z
 DTEND:20240705T210000Z
 SUMMARY:Eurocopa 2024 - Portugal - Francia
-UID:a5b5a305-c4d4-4ff9-8204-cc2f45eb21d9
+UID:1675db4f-cc4d-45f4-9f63-a2ef0de6f4da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T003247Z
+DTSTAMP:20240703T081026Z
 DTSTART:20240706T010000Z
 DTEND:20240706T030000Z
 SUMMARY:Copa América - Venezuela - Canada
-UID:426785fc-5c33-49f0-9116-96dd5e6d4dc3
+UID:8fd9f117-6ce0-42d8-881b-1e3a3822cf30
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 3Cat</li>\n<li>PPV
  : M+ Copa América</li></ul></body></html>
 DESCRIPTION:- Open: 3Cat\n- PPV: M+ Copa América
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T003247Z
+DTSTAMP:20240703T081026Z
 DTSTART:20240706T160000Z
 DTEND:20240706T180000Z
 SUMMARY:Eurocopa 2024 - Inglaterra - Suiza
-UID:f4dec336-211b-4d87-b565-64ac08217a35
+UID:56f41163-d3b4-42b1-bf74-bf1fbe72cc7a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240703T003247Z
+DTSTAMP:20240703T081026Z
+DTSTART:20240706T190000Z
+DTEND:20240706T210000Z
+SUMMARY:Eurocopa 2024 - Holanda - Turquía
+UID:d8cd1776-e7db-49b1-bab6-f9b4c5854605
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240703T081026Z
 DTSTART:20240711T220000Z
 DTEND:20240712T000000Z
 SUMMARY:Eurocopa Femenina - República Checa - España
-UID:d87423ff-cf92-41a1-8368-a632b3378127
+UID:ad57c6bd-0272-4cfb-9f6c-7d36d33cb862
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: La 1</li>\n<li>Open: rtve Play</li></ul></body></h
  tml>
