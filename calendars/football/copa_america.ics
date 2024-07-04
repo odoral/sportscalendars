@@ -16,23 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240704T040916Z
+DTSTAMP:20240704T081032Z
 DTSTART:20240705T010000Z
 DTEND:20240705T030000Z
 SUMMARY:Copa América - Argentina - Ecuador
-UID:41f45f2b-7342-4f37-aafc-92c04a4700cb
+UID:bfe1cfdb-bda2-4377-9d09-6cae0b2e9899
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 3Cat</li>\n<li>PPV
  : M+ Copa América</li></ul></body></html>
 DESCRIPTION:- Open: 3Cat\n- PPV: M+ Copa América
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240704T040916Z
+DTSTAMP:20240704T081032Z
 DTSTART:20240706T010000Z
 DTEND:20240706T030000Z
 SUMMARY:Copa América - Venezuela - Canada
-UID:c8671f04-0576-4620-a5f7-0ab7e8fd8aa1
+UID:6709c266-bd94-42af-9963-3bb8d90e827e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 3Cat</li>\n<li>PPV
  : M+ Copa América</li></ul></body></html>
 DESCRIPTION:- Open: 3Cat\n- PPV: M+ Copa América
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240704T081032Z
+DTSTART:20240706T220000Z
+DTEND:20240707T000000Z
+SUMMARY:Copa América - Colombia - Panamá
+UID:16b9ecf3-4428-4cf3-9be2-961c85088f6b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 3Cat</li>\n<li>PPV
+ : M+ Copa América</li></ul></body></html>
+DESCRIPTION:- Open: 3Cat\n- PPV: M+ Copa América
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240704T081032Z
+DTSTART:20240707T010000Z
+DTEND:20240707T030000Z
+SUMMARY:Copa América - Uruguay - Brasil
+UID:f760c789-ee75-489e-8c7c-a75f5e876e01
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 3Cat</li>\n<li>PPV
+ : M+ Copa América 2</li></ul></body></html>
+DESCRIPTION:- Open: 3Cat\n- PPV: M+ Copa América 2
 END:VEVENT
 END:VCALENDAR
