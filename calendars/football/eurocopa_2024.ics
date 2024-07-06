@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240706T003140Z
+DTSTAMP:20240706T081050Z
 DTSTART:20240706T160000Z
 DTEND:20240706T180000Z
 SUMMARY:Eurocopa 2024 - Inglaterra - Suiza
-UID:11606a38-0c09-41f8-bc21-b28f9c13c656
+UID:0cab11f5-55a7-4b9c-bc18-04f8144f59ee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240706T003140Z
+DTSTAMP:20240706T081050Z
 DTSTART:20240706T190000Z
 DTEND:20240706T210000Z
 SUMMARY:Eurocopa 2024 - Holanda - Turquía
-UID:ed74c878-54bd-4a68-a86d-f755b0f3ae3e
+UID:dea1a8f2-a396-4cad-bc30-16c5c3720cfd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240706T081050Z
+DTSTART:20240709T190000Z
+DTEND:20240709T210000Z
+SUMMARY:Eurocopa 2024 - España - Francia
+UID:04c13726-cf9b-4117-8128-66fc2ef4ab8c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
