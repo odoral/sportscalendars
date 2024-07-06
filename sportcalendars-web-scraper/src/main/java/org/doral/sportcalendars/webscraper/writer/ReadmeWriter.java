@@ -1,17 +1,20 @@
-package org.doral.sportcalendars.webscraper;
+package org.doral.sportcalendars.webscraper.writer;
 
 import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
-import org.apache.commons.collections4.KeyValue;
 import org.apache.commons.io.IOUtils;
 import org.apache.commons.lang3.StringUtils;
+import org.doral.sportcalendars.webscraper.model.readme.ReadmeItem;
 import org.doral.sportcalendars.webscraper.runner.exception.WebScraperAppException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.*;
+import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
 
 import static java.nio.charset.StandardCharsets.UTF_8;
 
@@ -45,7 +48,7 @@ public class ReadmeWriter implements Closeable {
                         }
 
                         @Override
-                        public ReadmeWriter writeCalendars(String sport, List<KeyValue<File, String>> calendars) {
+                        public ReadmeWriter writeCalendars(String sport, List<ReadmeItem> calendars) {
                             // Nothing
                             return this;
                         }
@@ -79,24 +82,26 @@ public class ReadmeWriter implements Closeable {
         }
     }
 
-    public ReadmeWriter writeCalendars(String sport, List<KeyValue<File, String>> calendars) {
-        LOGGER.info("Writing readme for {} with {} calendars.", sport, calendars.size());
+    public ReadmeWriter writeCalendars(String sport, List<ReadmeItem> readmeItems) {
+        LOGGER.info("Writing readme for {} with {} items.", sport, readmeItems.size());
         try {
             writer.write("## " + StringUtils.capitalize(sport));
             writer.newLine();
 
-            for (KeyValue<File, String> calendar : calendars) {
-                writer.write("- ");
-                writer.write(calendar.getValue());
-                writer.write(" [Download ICS]");
-                String githubRawURL = getGithubRawURL(projectBaseDirectory, calendar.getKey());
-                writer.write("(" + githubRawURL + ")");
-                writer.write(" ");
-                writer.write(" [Add to Google Calendar]");
-                writer.write("(https://calendar.google.com/calendar/r?cid=" + githubRawURL.replace("https", "webcal") + ")");
-                writer.newLine();
-            }
+            Map<ReadmeItem.SortType, List<ReadmeItem>> itemsSorted = readmeItems.stream().collect(Collectors.groupingBy(ReadmeItem::getSortType));
+
+            // All item
+            writeItems(itemsSorted.get(ReadmeItem.SortType.ALL));
+
+            // Tournament items
+            writer.write("### By Tournament");
             writer.newLine();
+            writeItems(itemsSorted.get(ReadmeItem.SortType.BY_TOURNAMENT));
+
+            // Team items
+            writer.write("### By Team");
+            writer.newLine();
+            writeItems(itemsSorted.get(ReadmeItem.SortType.BY_TEAM));
 
         } catch (IOException e) {
             throw new WebScraperAppException(e);
@@ -105,7 +110,28 @@ public class ReadmeWriter implements Closeable {
         return this;
     }
 
-    private String getGithubRawURL(File projectBaseDirectory, File calendarFile) {
+    protected void writeItems(List<ReadmeItem> readmeItems) throws IOException {
+        readmeItems.stream()
+                .sorted(Comparator.comparing(ReadmeItem::getDescription))
+                .forEach(readmeItem -> {
+                    try {
+                        writer.write("- ");
+                        writer.write(readmeItem.getDescription());
+                        writer.write(" [Download ICS]");
+                        String githubRawURL = getGithubRawURL(projectBaseDirectory, readmeItem.getFile());
+                        writer.write("(" + githubRawURL + ")");
+                        writer.write(" ");
+                        writer.write(" [Add to Google Calendar]");
+                        writer.write("(https://calendar.google.com/calendar/r?cid=" + githubRawURL.replace("https", "webcal") + ")");
+                        writer.newLine();
+                    } catch (IOException e) {
+                        throw new RuntimeException(e);
+                    }
+                });
+        writer.newLine();
+    }
+
+    protected String getGithubRawURL(File projectBaseDirectory, File calendarFile) {
         String relativePath = projectBaseDirectory.toURI().relativize(calendarFile.toURI()).getPath();
         return GITHUB_RAW_BASE_PATH.concat(relativePath);
     }

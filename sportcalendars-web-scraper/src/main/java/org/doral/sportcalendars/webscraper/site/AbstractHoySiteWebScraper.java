@@ -5,9 +5,9 @@ import org.apache.commons.collections4.keyvalue.DefaultKeyValue;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.time.CalendarUtils;
 import org.apache.commons.lang3.time.DateUtils;
-import org.doral.sportcalendars.webscraper.model.Calendar;
-import org.doral.sportcalendars.webscraper.model.Channel;
-import org.doral.sportcalendars.webscraper.model.SportEvent;
+import org.doral.sportcalendars.webscraper.model.calendar.Calendar;
+import org.doral.sportcalendars.webscraper.model.calendar.Channel;
+import org.doral.sportcalendars.webscraper.model.calendar.SportEvent;
 import org.doral.sportcalendars.webscraper.util.htmlunit.HTMLUnitUtils;
 import org.htmlunit.BrowserVersion;
 import org.htmlunit.WebClient;
@@ -70,6 +70,7 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
                 } else if (HTMLUnitUtils.attributeContainsValue(descendant, "class", "matchdayCompetitionHeader")) {
                     calendar = Calendar.builder()
                             .name(HTMLUnitUtils.extractTextByFirstXpath(descendant, "./h3").orElseThrow())
+                            .sortType(Calendar.SortType.BY_TOURNAMENT)
                             .events(new ArrayList<>())
                             .build();
                     calendars.add(calendar);
@@ -173,9 +174,9 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
         Date currentDate = new Date();
 
         return Stream.of(currentYear - 1, currentYear, currentYear + 1)
-          .map(year -> DateUtils.setYears(eventDate, year))
-          .sorted(Comparator.comparingLong(date -> Math.abs(date.getTime() - currentDate.getTime())))
-          .findFirst()
-          .orElse(eventDate);
+                .map(year -> DateUtils.setYears(eventDate, year))
+                .sorted(Comparator.comparingLong(date -> Math.abs(date.getTime() - currentDate.getTime())))
+                .findFirst()
+                .orElse(eventDate);
     }
 }

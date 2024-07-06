@@ -1,4 +1,4 @@
-package org.doral.sportcalendars.webscraper.model;
+package org.doral.sportcalendars.webscraper.model.calendar;
 
 import lombok.*;
 

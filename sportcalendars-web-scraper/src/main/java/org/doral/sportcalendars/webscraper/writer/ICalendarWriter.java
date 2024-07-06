@@ -1,6 +1,6 @@
 package org.doral.sportcalendars.webscraper.writer;
 
-import org.doral.sportcalendars.webscraper.model.Calendar;
+import org.doral.sportcalendars.webscraper.model.calendar.Calendar;
 import org.doral.sportcalendars.webscraper.writer.exception.CalendarWriterException;
 
 import java.io.OutputStream;

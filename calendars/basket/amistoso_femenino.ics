@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240623T201902Z
-DTSTART:20240623T100000Z
-DTEND:20240623T120000Z
-SUMMARY:Amistoso Femenino - España - China
-UID:b8616467-1b38-4c49-bcd0-564f0c3e57fd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+DTSTAMP:20240706T205744Z
+DTSTART:20240712T183000Z
+DTEND:20240712T203000Z
+SUMMARY:Amistoso Femenino - Bélgica - España
+UID:5a32ee88-5ea6-43d7-b068-5200761a4591
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240706T205744Z
+DTSTART:20240713T183000Z
+DTEND:20240713T203000Z
+SUMMARY:Amistoso Femenino - Canada - España
+UID:6b4b1bf4-707a-4df9-811b-e6ddd290f36f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
