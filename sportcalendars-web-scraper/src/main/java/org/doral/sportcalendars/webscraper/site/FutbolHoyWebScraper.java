@@ -1,7 +1,7 @@
 package org.doral.sportcalendars.webscraper.site;
 
 import org.apache.commons.lang3.StringUtils;
-import org.doral.sportcalendars.webscraper.model.Calendar;
+import org.doral.sportcalendars.webscraper.model.calendar.Calendar;
 import org.doral.sportcalendars.webscraper.site.exception.SiteWebScraperException;
 import org.htmlunit.BrowserVersion;
 import org.htmlunit.WebClient;

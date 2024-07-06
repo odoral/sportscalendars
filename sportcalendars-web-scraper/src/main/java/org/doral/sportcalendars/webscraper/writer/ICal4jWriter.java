@@ -8,8 +8,8 @@ import net.fortuna.ical4j.model.property.Description;
 import net.fortuna.ical4j.model.property.XProperty;
 import net.fortuna.ical4j.util.RandomUidGenerator;
 import org.apache.commons.lang3.time.DateUtils;
-import org.doral.sportcalendars.webscraper.model.Channel;
-import org.doral.sportcalendars.webscraper.model.SportEvent;
+import org.doral.sportcalendars.webscraper.model.calendar.Channel;
+import org.doral.sportcalendars.webscraper.model.calendar.SportEvent;
 import org.doral.sportcalendars.webscraper.writer.exception.CalendarWriterException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -33,7 +33,7 @@ public class ICal4jWriter implements ICalendarWriter {
             .getTimeZone("UTC");
 
     @Override
-    public void write(OutputStream outputStream, String prodId, org.doral.sportcalendars.webscraper.model.Calendar... calendar) throws CalendarWriterException {
+    public void write(OutputStream outputStream, String prodId, org.doral.sportcalendars.webscraper.model.calendar.Calendar... calendar) throws CalendarWriterException {
         LOGGER.info("Writing {} calendars for {}", calendar.length, prodId);
         FluentCalendar outputCalendar = new Calendar()
                 .withDefaults()

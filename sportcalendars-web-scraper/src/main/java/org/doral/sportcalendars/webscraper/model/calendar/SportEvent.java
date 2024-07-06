@@ -1,4 +1,4 @@
-package org.doral.sportcalendars.webscraper.model;
+package org.doral.sportcalendars.webscraper.model.calendar;
 
 import lombok.Builder;
 import lombok.EqualsAndHashCode;
@@ -18,6 +18,8 @@ import java.util.List;
 public class SportEvent {
     Date startTimestamp;
     String name;
+    String teamA;
+    String teamB;
     List<Channel> channels;
     String disclaimer;
 }

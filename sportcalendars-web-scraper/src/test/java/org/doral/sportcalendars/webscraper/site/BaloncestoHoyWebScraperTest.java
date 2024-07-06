@@ -1,6 +1,6 @@
 package org.doral.sportcalendars.webscraper.site;
 
-import org.doral.sportcalendars.webscraper.model.Calendar;
+import org.doral.sportcalendars.webscraper.model.calendar.Calendar;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
@@ -20,13 +20,15 @@ class BaloncestoHoyWebScraperTest {
     protected URL url;
     protected BaloncestoHoyWebScraper scraper;
 
-    @BeforeEach void setUp() {
+    @BeforeEach
+    void setUp() {
         url = getClass().getResource("/baloncestohoy/index.html");
         assert url != null;
         scraper = new BaloncestoHoyWebScraper();
     }
 
-    @Test public void test() {
+    @Test
+    public void test() {
         Map<String, Calendar> result = scraper.parsePage(url);
 
         assertNotNull(result);

@@ -1,18 +1,17 @@
 package org.doral.sportcalendars.webscraper.runner;
 
-import org.apache.commons.collections4.KeyValue;
-import org.doral.sportcalendars.webscraper.ReadmeWriter;
-import org.doral.sportcalendars.webscraper.model.Calendar;
+import org.doral.sportcalendars.webscraper.model.calendar.Calendar;
+import org.doral.sportcalendars.webscraper.model.readme.ReadmeItem;
 import org.doral.sportcalendars.webscraper.runner.exception.WebScraperAppException;
 import org.doral.sportcalendars.webscraper.site.BaloncestoHoyWebScraper;
 import org.doral.sportcalendars.webscraper.site.FutbolHoyWebScraper;
 import org.doral.sportcalendars.webscraper.site.exception.SiteWebScraperException;
+import org.doral.sportcalendars.webscraper.writer.ReadmeWriter;
 import org.doral.sportcalendars.webscraper.writer.exception.CalendarWriterException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import picocli.CommandLine;
 
-import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
@@ -35,7 +34,7 @@ public class WebScraperApp extends AbstractBaseScraperCommand {
     }
 
     @CommandLine.Command(name = FOOTBALL)
-    public List<KeyValue<File, String>> parseFootball() {
+    public List<ReadmeItem> parseFootball() {
         LOGGER.info("Running command football");
         try {
             List<Calendar> calendars = new FutbolHoyWebScraper().parseCalendars();
@@ -46,7 +45,7 @@ public class WebScraperApp extends AbstractBaseScraperCommand {
     }
 
     @CommandLine.Command(name = BASKET)
-    public List<KeyValue<File, String>> parseBasket() {
+    public List<ReadmeItem> parseBasket() {
         LOGGER.info("Running command basket");
         try {
             List<Calendar> calendars = new BaloncestoHoyWebScraper().parseCalendars();

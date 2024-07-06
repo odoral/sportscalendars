@@ -2,11 +2,12 @@ package org.doral.sportcalendars.webscraper.site;
 
 import org.apache.commons.collections4.KeyValue;
 import org.apache.commons.collections4.keyvalue.DefaultKeyValue;
+import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.time.CalendarUtils;
 import org.apache.commons.lang3.time.DateUtils;
-import org.doral.sportcalendars.webscraper.model.Calendar;
-import org.doral.sportcalendars.webscraper.model.Channel;
-import org.doral.sportcalendars.webscraper.model.SportEvent;
+import org.doral.sportcalendars.webscraper.model.calendar.Calendar;
+import org.doral.sportcalendars.webscraper.model.calendar.Channel;
+import org.doral.sportcalendars.webscraper.model.calendar.SportEvent;
 import org.doral.sportcalendars.webscraper.util.htmlunit.HTMLUnitUtils;
 import org.htmlunit.BrowserVersion;
 import org.htmlunit.WebClient;
@@ -69,6 +70,7 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
                 } else if (HTMLUnitUtils.attributeContainsValue(descendant, "class", "matchdayCompetitionHeader")) {
                     calendar = Calendar.builder()
                             .name(HTMLUnitUtils.extractTextByFirstXpath(descendant, "./h3").orElseThrow())
+                            .sortType(Calendar.SortType.BY_TOURNAMENT)
                             .events(new ArrayList<>())
                             .build();
                     calendars.add(calendar);
@@ -91,6 +93,8 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
                 .startTimestamp(startTimestampAndDisclaimer.getKey())
                 .disclaimer(startTimestampAndDisclaimer.getValue())
                 .name(String.join(" - ", calendarName, parseEventName(htmlElement)))
+                .teamA(parseTeamA(htmlElement))
+                .teamB(parseTeamB(htmlElement))
                 .channels(parseEventChannels(htmlElement))
                 .build();
         assert sportEvent.getName() != null;
@@ -112,6 +116,14 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
 
     protected String parseEventName(HtmlElement htmlElement) {
         return HTMLUnitUtils.extractTextByFirstXpath(htmlElement, ".//div[contains(@class, 'm_title')]").orElseThrow();
+    }
+
+    protected String parseTeamA(HtmlElement htmlElement) {
+        return StringUtils.trimToNull(parseEventName(htmlElement).split("-")[0]);
+    }
+
+    protected String parseTeamB(HtmlElement htmlElement) {
+        return StringUtils.trimToNull(parseEventName(htmlElement).split("-")[1]);
     }
 
     protected KeyValue<Date, String> parseEventTimeStamp(Date eventDate, HtmlElement htmlElement) {
@@ -162,9 +174,9 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
         Date currentDate = new Date();
 
         return Stream.of(currentYear - 1, currentYear, currentYear + 1)
-          .map(year -> DateUtils.setYears(eventDate, year))
-          .sorted(Comparator.comparingLong(date -> Math.abs(date.getTime() - currentDate.getTime())))
-          .findFirst()
-          .orElse(eventDate);
+                .map(year -> DateUtils.setYears(eventDate, year))
+                .sorted(Comparator.comparingLong(date -> Math.abs(date.getTime() - currentDate.getTime())))
+                .findFirst()
+                .orElse(eventDate);
     }
 }
