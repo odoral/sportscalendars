@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240706T205721Z
+DTSTAMP:20240707T003639Z
 DTSTART:20240712T160000Z
 DTEND:20240712T180000Z
 SUMMARY:Eurocopa Femenina - República Checa - España
-UID:33ad28e9-6e4e-41be-b350-b1492570f59f
+UID:39b0e98f-f66e-43ee-9d0d-c95e2e252389
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240707T003639Z
+DTSTART:20240716T170000Z
+DTEND:20240716T190000Z
+SUMMARY:Eurocopa Femenina - España - Bélgica
+UID:c19b55c9-dd89-435c-8595-ea63f6832223
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
