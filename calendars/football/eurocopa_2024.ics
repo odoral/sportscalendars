@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240707T003639Z
+DTSTAMP:20240707T080914Z
 DTSTART:20240709T190000Z
 DTEND:20240709T210000Z
 SUMMARY:Eurocopa 2024 - España - Francia
-UID:f68cbd2b-35ef-4d7f-9d87-56c48c1512e4
+UID:1a83099e-363a-4d82-a5ee-3a23431ca607
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240707T080914Z
+DTSTART:20240710T190000Z
+DTEND:20240710T210000Z
+SUMMARY:Eurocopa 2024 - Holanda - Inglaterra
+UID:1de6bea7-262a-48ef-bf83-61243e52c0f0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
