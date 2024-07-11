@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240708T041047Z
+DTSTAMP:20240711T081027Z
 DTSTART:20240711T000000Z
 DTEND:20240711T020000Z
 SUMMARY:Copa América - Uruguay - Colombia
-UID:3c53ebbb-1c9c-4b1d-a15a-00597eeab941
+UID:06f34dc3-4222-4dc3-8615-adda135a65f8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240711T081027Z
+DTSTART:20240714T000000Z
+DTEND:20240714T020000Z
+SUMMARY:Copa América - Canada - Uruguay
+UID:e56e6e6a-bf42-4370-b737-ab4baeab1c3b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Copa América</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Copa América\n- PPV: Movistar Plus+
