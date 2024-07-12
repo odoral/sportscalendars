@@ -12,6 +12,14 @@ echo "Run"
 java -jar ./sportcalendars-web-scraper/build/libs/sportcalendars-web-scraper-all.jar -pd=./ -gr
 
 UPDATED_CALENDARS=0
+
+echo "Checking for new calendars"
+for calendar in $(git ls-files --others --exclude-standard | grep -e '^calendars\/'); do 
+  echo "Adding new calendar: ${calendar}"
+  git add ${calendar}
+  UPDATED_CALENDARS=$(expr ${UPDATED_CALENDARS} + 1)
+done
+
 for calendar in $(find calendars -name *.ics); do
   if ! git diff --unified=0 -- ${calendar}| grep -e "^[+-][^-+]" | grep -ve "^.DTSTAMP\|^.UID"; then
     echo "No changes in ${calendar}."
