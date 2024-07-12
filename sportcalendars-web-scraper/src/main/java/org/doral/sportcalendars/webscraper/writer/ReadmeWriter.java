@@ -132,9 +132,9 @@ public class ReadmeWriter implements Closeable {
     }
 
     protected void writeReadmeItemsTable(List<ReadmeItem> readmeItems) throws IOException {
-        writer.write("|Name|Action #1|Action #2|");
+        writer.write("|Name|Action #1|Action #2|Action #3|");
         writer.newLine();
-        writer.write("|----|---------|---------|");
+        writer.write("|----|---------|---------|---------|");
         writer.newLine();
         readmeItems.stream()
                 .sorted(Comparator.comparing(ReadmeItem::getDescription))
@@ -143,12 +143,15 @@ public class ReadmeWriter implements Closeable {
                         writer.write("|");
                         writer.write(readmeItem.getDescription());
                         writer.write("|");
-                        writer.write(" [Download ICS]");
+                        writer.write("[Download ICS]");
                         String githubRawURL = getGithubRawURL(projectBaseDirectory, readmeItem.getFile());
                         writer.write("(" + githubRawURL + ")");
                         writer.write("|");
-                        writer.write(" [Add to Google Calendar]");
+                        writer.write("[Add to Google Calendar]");
                         writer.write("(https://calendar.google.com/calendar/r?cid=" + githubRawURL.replace("https", "webcal") + ")");
+                        writer.write("|");
+                        writer.write("[Add to default calendar app]");
+                        writer.write("(" + githubRawURL + ")");
                         writer.write("|");
                         writer.newLine();
                     } catch (IOException e) {
