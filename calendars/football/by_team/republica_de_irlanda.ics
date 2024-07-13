@@ -16,11 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240706T205722Z
+DTSTAMP:20240713T080904Z
 DTSTART:20240715T110000Z
 DTEND:20240715T130000Z
 SUMMARY:Europeo Sub-19 Femenino - España - República de Irlanda
-UID:cbdf48d2-5589-4789-923f-c79febd20cb0
+UID:d6ca023c-01c6-4d16-9879-abd01bce22c8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: UEFA TV</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: UEFA TV\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240713T080904Z
+DTSTART:20240718T110000Z
+DTEND:20240718T130000Z
+SUMMARY:Europeo Sub-19 Femenino - República de Irlanda - Alemania
+UID:d8c4bf0e-88a5-452c-8796-303d1e88ec70
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li></ul><
+ /body></html>
+DESCRIPTION:- Open: UEFA TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240713T080904Z
+DTSTART:20240721T110000Z
+DTEND:20240721T130000Z
+SUMMARY:Europeo Sub-19 Femenino - República de Irlanda - Holanda
+UID:6e584832-9123-496c-b9f0-36c9ef44b1fb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li></ul><
  /body></html>
 DESCRIPTION:- Open: UEFA TV
