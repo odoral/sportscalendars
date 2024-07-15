@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240714T081204Z
-DTSTART:20240714T173000Z
-DTEND:20240714T193000Z
-SUMMARY:Europeo Sub-20 Femenino - Francia - España
-UID:c2dcc76d-ba46-4b73-a38b-ed958962c8a7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240714T081204Z
+DTSTAMP:20240715T041129Z
 DTSTART:20240727T151500Z
 DTEND:20240727T171500Z
 SUMMARY:Juegos Olímpicos - Francia - Brasil
-UID:2879d79a-d162-4168-8ca6-a52d4cf50aaa
+UID:7d6fd996-9452-460e-af0c-4d2f8366b08b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240715T041129Z
+DTSTART:20240728T220000Z
+DTEND:20240729T000000Z
+SUMMARY:Juegos Olímpicos Femeninos - Canada - Francia
+UID:a4489609-b753-44a2-8998-61803bd89e40
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR
