@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240717T003353Z
+DTSTAMP:20240718T003308Z
 DTSTART:20240725T220000Z
 DTEND:20240726T000000Z
 SUMMARY:Amistoso - Barnsley - Mallorca
-UID:8455b78b-1827-4ca7-8015-80ed95e04009
+UID:81b4c9bf-7549-4d68-ab5d-07a725f2726b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240718T003308Z
+DTSTART:20240726T220000Z
+DTEND:20240727T000000Z
+SUMMARY:Amistoso - West Bromwich - Mallorca
+UID:80f4f314-4fb0-4d3a-ae0e-2b1f5a8517b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n
