@@ -33,6 +33,7 @@ import java.util.stream.Stream;
 public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(AbstractHoySiteWebScraper.class);
+    public static final Locale LOCALE_ES_es = Locale.of("ES", "es");
 
     protected Map<String, Calendar> parsePage(URL pageURL) {
         LOGGER.info("Parsing {}", pageURL);
@@ -66,7 +67,7 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
             List<Calendar> calendars = new ArrayList<>();
             for (HtmlElement descendant : htmlDivision.getHtmlElementDescendants()) {
                 if (descendant.getAttribute("class").contains("matchdayHeader")) {
-                    eventDate = parseEventDate(descendant, eventDate);
+                    eventDate = parseEventDate(descendant);
                 } else if (HTMLUnitUtils.attributeContainsValue(descendant, "class", "matchdayCompetitionHeader")) {
                     calendar = Calendar.builder()
                             .name(HTMLUnitUtils.extractTextByFirstXpath(descendant, "./h3").orElseThrow())
@@ -152,8 +153,8 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
         }
     }
 
-    protected Date parseEventDate(HtmlElement dateElement, Date eventDate) {
-        String datePattern = "dd 'de' MMMM";
+    protected Date parseEventDate(HtmlElement dateElement) {
+        String datePattern = "d 'de' MMMM";
         String textContent = dateElement.getTextContent();
         String[] fields = textContent.split("\\s+");
         int deIndex = Arrays.binarySearch(fields, "de");
@@ -161,7 +162,7 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
 
         Date newEventDate;
         try {
-            newEventDate = new SimpleDateFormat(datePattern).parse(textContent);
+            newEventDate = new SimpleDateFormat(datePattern, LOCALE_ES_es).parse(textContent);
         } catch (ParseException e) {
             throw new RuntimeException(e);
         }

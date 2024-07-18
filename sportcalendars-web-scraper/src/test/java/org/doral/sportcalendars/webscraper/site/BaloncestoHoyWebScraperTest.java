@@ -1,13 +1,17 @@
 package org.doral.sportcalendars.webscraper.site;
 
 import org.doral.sportcalendars.webscraper.model.calendar.Calendar;
+import org.htmlunit.html.HtmlElement;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.net.URL;
+import java.util.Locale;
 import java.util.Map;
 
 import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
 
 /**
  * @author odoral
@@ -40,5 +44,19 @@ class BaloncestoHoyWebScraperTest {
 
         assertTrue(result.containsKey(NBA));
         assertEquals(1, result.get(NBA).getEvents().size());
+    }
+
+    @Test
+    public void testParseEventDate() {
+        Locale defaultLocale = Locale.getDefault();
+        try {
+            Locale.setDefault(Locale.US);
+
+            HtmlElement dateElement = mock(HtmlElement.class);
+            when(dateElement.getTextContent()).thenReturn("1 de agosto");
+            scraper.parseEventDate(dateElement);
+        } finally {
+            Locale.setDefault(defaultLocale);
+        }
     }
 }
