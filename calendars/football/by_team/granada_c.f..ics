@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240718T040928Z
+DTSTAMP:20240719T065900Z
 DTSTART:20240720T173000Z
 DTEND:20240720T193000Z
 SUMMARY:Amistoso - Granada C.F. - Almería
-UID:57dc4107-1c55-4eec-b656-bcf072ae35c0
+UID:9dd6f2bb-d740-421e-a422-33390331a6df
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Granada CF YouTube
  </li></ul></body></html>
 DESCRIPTION:- Open: Granada CF YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240718T040928Z
+DTSTAMP:20240719T065900Z
 DTSTART:20240725T170000Z
 DTEND:20240725T190000Z
 SUMMARY:Amistoso - Granada C.F. - Las Palmas
-UID:217f352b-45ad-4d32-9e33-8f574e331e40
+UID:64b6ab63-4924-4deb-9eb3-a0343d3291dc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Granada CF YouTube
- </li></ul></body></html>
-DESCRIPTION:- Open: Granada CF YouTube
+ </li>\n<li>Open: TV Canaria</li>\n<li>PPV: LaLiga+</li></ul></body></htm
+ l>
+DESCRIPTION:- Open: Granada CF YouTube\n- Open: TV Canaria\n- PPV: LaLiga
+ +
 END:VEVENT
 END:VCALENDAR

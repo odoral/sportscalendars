@@ -16,41 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240719T041041Z
+DTSTAMP:20240719T065859Z
 DTSTART:20240719T180000Z
 DTEND:20240719T200000Z
 SUMMARY:Europeo Sub-19 - Turquía - España
-UID:94c5e353-214d-4ba5-b333-982cf273ec95
+UID:dc25d851-0f7f-4d27-bd8c-2e3b7b933615
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
  Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: UEFA TV\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240719T041041Z
+DTSTAMP:20240719T065859Z
 DTSTART:20240721T110000Z
 DTEND:20240721T130000Z
 SUMMARY:Europeo Sub-19 Femenino - Alemania - España
-UID:874a70cf-cb52-4b58-a89a-dcff5cca6f2a
+UID:b8b183c0-07f5-4b63-9e18-401c59fe0758
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: UEFA TV</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: UEFA TV\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240719T041041Z
+DTSTAMP:20240719T065859Z
 DTSTART:20240722T180000Z
 DTEND:20240722T200000Z
 SUMMARY:Europeo Sub-19 - España - Francia
-UID:2a91431a-eb19-4e38-a6c0-88eafd28cb3a
+UID:449d8bd1-3666-4b2d-a9f7-1d0fa751e7e8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: UEFA TV</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: UEFA TV\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240719T041041Z
+DTSTAMP:20240719T065859Z
 DTSTART:20240724T130000Z
 DTEND:20240724T150000Z
 SUMMARY:Juegos Olímpicos - Uzbekistán - España
-UID:8659ffa5-6ea9-4f98-9c99-1d1e06746644
+UID:b58de448-e0a7-421f-849b-4ac48b6fd0a8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
+ i>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PPV: MAX</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MA
+ X
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240719T065859Z
+DTSTART:20240725T150000Z
+DTEND:20240725T170000Z
+SUMMARY:Juegos Olímpicos Femeninos - España - Japón
+UID:dbff8f73-975e-4e6a-acc3-dd085876195b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
  i>PPV: DAZN</li>\n<li>PPV: Eurosport 1</li>\n<li>PPV: MAX</li></ul></bod
  y></html>
@@ -58,31 +70,21 @@ DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurosport 1\n- PPV: MA
  X
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240719T041041Z
-DTSTART:20240725T150000Z
-DTEND:20240725T170000Z
-SUMMARY:Juegos Olímpicos Femeninos - España - Japón
-UID:714a5a33-a779-40c9-8d39-17a5c6d8708a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
- i>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: rtve Play\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240719T041041Z
+DTSTAMP:20240719T065859Z
 DTSTART:20240727T130000Z
 DTEND:20240727T150000Z
 SUMMARY:Juegos Olímpicos - República Dominicana - España
-UID:9c277e03-f935-45eb-995a-609228eb5369
+UID:a712e6be-ad55-48e0-8dfa-3dfc93eb8fa6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
  i>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- Open: rtve Play\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240719T041041Z
+DTSTAMP:20240719T065859Z
 DTSTART:20240728T170000Z
 DTEND:20240728T190000Z
 SUMMARY:Juegos Olímpicos Femeninos - España - Nigeria
-UID:4f975c9b-9a01-41d5-a983-15eb286105f0
+UID:b9cc48d2-2e93-43f3-9c4b-b28fc24fe251
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
  i>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- Open: rtve Play\n- PPV: MAX
