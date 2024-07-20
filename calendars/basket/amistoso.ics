@@ -16,13 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240720T003258Z
+DTSTAMP:20240720T080914Z
+DTSTART:20240720T190000Z
+DTEND:20240720T210000Z
+SUMMARY:Amistoso - Estados Unidos - Sudán del sur
+UID:d7627cb3-5e69-497c-b11f-deadd9c69066
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: NBA Youtube</li>\n
+ <li>PPV: NBA League Pass</li></ul></body></html>
+DESCRIPTION:- Open: NBA Youtube\n- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240720T080914Z
+DTSTART:20240721T190000Z
+DTEND:20240721T210000Z
+SUMMARY:Amistoso - Francia - Australia
+UID:4e5150f8-7d66-4578-94b1-7046af0c386a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: NBA Youtube</li>\n
+ <li>PPV: Courtside 1891 Max</li></ul></body></html>
+DESCRIPTION:- Open: NBA Youtube\n- PPV: Courtside 1891 Max
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240720T080914Z
+DTSTART:20240722T190000Z
+DTEND:20240722T210000Z
+SUMMARY:Amistoso - Alemania - Estados Unidos
+UID:45eb49ce-1419-4189-90d4-5eb6c7e371a4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: NBA Youtube</li>\n
+ <li>PPV: NBA League Pass</li></ul></body></html>
+DESCRIPTION:- Open: NBA Youtube\n- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240720T080914Z
 DTSTART:20240723T183000Z
 DTEND:20240723T203000Z
 SUMMARY:Amistoso - España - Puerto Rico
-UID:146e3ada-a48a-49cb-b0aa-3e6b64a73193
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
- ></body></html>
-DESCRIPTION:- Open: rtve Play
+UID:b22019e6-1f08-4968-9f5c-9518f5834429
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

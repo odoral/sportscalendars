@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240718T003308Z
-DTSTART:20240725T220000Z
-DTEND:20240726T000000Z
-SUMMARY:Amistoso - Barnsley - Mallorca
-UID:81b4c9bf-7549-4d68-ab5d-07a725f2726b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
- firmar\n<ul></ul></body></html>
-DESCRIPTION:Atención: Pendientede confirmar\n
+DTSTAMP:20240720T080906Z
+DTSTART:20240721T110000Z
+DTEND:20240721T130000Z
+SUMMARY:Amistoso - Crewe Alexandra - Mallorca
+UID:c30860b6-2081-4851-bbc3-41e7268d6aaa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3 Online</li></u
+ l></body></html>
+DESCRIPTION:- Open: IB3 Online
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240718T003308Z
-DTSTART:20240726T220000Z
-DTEND:20240727T000000Z
+DTSTAMP:20240720T080906Z
+DTSTART:20240726T110000Z
+DTEND:20240726T130000Z
+SUMMARY:Amistoso - Barnsley - Mallorca
+UID:eaa9c7bb-290f-44bf-a0c1-c1175c72e25d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3 Online</li></u
+ l></body></html>
+DESCRIPTION:- Open: IB3 Online
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240720T080906Z
+DTSTART:20240727T120000Z
+DTEND:20240727T140000Z
 SUMMARY:Amistoso - West Bromwich - Mallorca
-UID:80f4f314-4fb0-4d3a-ae0e-2b1f5a8517b8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
- firmar\n<ul></ul></body></html>
-DESCRIPTION:Atención: Pendientede confirmar\n
+UID:b8cf5ce0-197a-477b-90f2-c86680486f4f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3 Online</li></u
+ l></body></html>
+DESCRIPTION:- Open: IB3 Online
 END:VEVENT
 END:VCALENDAR
