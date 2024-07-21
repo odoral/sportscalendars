@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240720T080906Z
-DTSTART:20240720T160000Z
-DTEND:20240720T180000Z
-SUMMARY:Amistoso - Alavés - Real Sociedad
-UID:c8e4c33f-33c6-4bb5-9e43-46ffc6dc833a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Real Sociedad TV</
- li></ul></body></html>
-DESCRIPTION:- Open: Real Sociedad TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240720T080906Z
+DTSTAMP:20240721T040913Z
 DTSTART:20240724T170000Z
 DTEND:20240724T190000Z
 SUMMARY:Amistoso - Valencia - Alavés
-UID:40f6b3f1-7a0c-4ac2-a46d-153ad948f55d
+UID:296f2cdc-303c-4603-b6c5-57bffe5ccb9c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: GolStadium</li></ul
  ></body></html>
 DESCRIPTION:- PPV: GolStadium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240721T040913Z
+DTSTART:20240729T220000Z
+DTEND:20240730T000000Z
+SUMMARY:Amistoso - Alavés - Tenerife
+UID:0783332d-0d63-4f06-a0f4-1db055a05d95
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: TV Canaria</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: TV Canaria
 END:VEVENT
 END:VCALENDAR
