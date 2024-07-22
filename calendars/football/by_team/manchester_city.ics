@@ -16,13 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240721T080915Z
+DTSTAMP:20240722T003522Z
 DTSTART:20240726T220000Z
 DTEND:20240727T000000Z
 SUMMARY:Amistoso - Manchester City - A.C. Milan
-UID:59441da1-fe22-45f0-8635-9d45235e3915
+UID:15d895e3-80ab-4a58-ab7d-ecb1e0ed78e0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>PPV: M+ Champions Tour</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- PPV: M+ Champions Tour
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240722T003522Z
+DTSTART:20240730T230000Z
+DTEND:20240731T010000Z
+SUMMARY:Amistoso - Manchester City - Barcelona
+UID:90b372b1-8aad-430a-b50e-d2b0a355b92a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  M+ Champions Tour</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+ 
+DESCRIPTION:- Open: TV3\n- PPV: M+ Champions Tour\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
