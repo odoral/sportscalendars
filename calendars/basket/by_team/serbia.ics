@@ -16,61 +16,131 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240720T003258Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240728T151500Z
 DTEND:20240728T171500Z
 SUMMARY:Juegos Olímpicos - Serbia - Estados Unidos
-UID:789a1e4b-dc7d-46ba-995b-76bcad3b0890
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:23b03315-0945-459b-85e2-bc1bda60e0b7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240720T003258Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240728T190000Z
 DTEND:20240728T210000Z
 SUMMARY:Juegos Olímpicos Femeninos - Serbia - Puerto Rico
-UID:5ddc08f9-c6d4-4434-b683-99dfbd786579
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:446963b2-e36b-4396-ae3c-248b53f030c6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240720T003258Z
+DTSTAMP:20240723T081203Z
+DTSTART:20240730T203500Z
+DTEND:20240730T223500Z
+SUMMARY:Juegos Olímpicos 3x3 Masculino - Estados Unidos - Serbia
+UID:fa8878c3-b204-40db-b954-acdb6306b1da
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Eurosport 2</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
 DTSTART:20240731T113000Z
 DTEND:20240731T133000Z
 SUMMARY:Juegos Olímpicos Femeninos - China - Serbia
-UID:89fee4a5-68ac-4ad2-abac-ffbef3517056
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:d0ab1744-96a0-402a-8c76-0abc3ad749da
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240720T003258Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240731T151500Z
 DTEND:20240731T171500Z
 SUMMARY:Juegos Olímpicos - Puerto Rico - Serbia
-UID:2c80af9a-d1e2-4c6f-86c7-47da5186df8d
+UID:e0b1247c-ce3d-4c73-9f8e-8ce42357e2e3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
+DTSTART:20240731T170500Z
+DTEND:20240731T190500Z
+SUMMARY:Juegos Olímpicos 3x3 Masculino - Serbia - China
+UID:c2357458-1e9e-41e4-82aa-9eeed4a9aba9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240720T003258Z
+DTSTAMP:20240723T081203Z
+DTSTART:20240801T080500Z
+DTEND:20240801T100500Z
+SUMMARY:Juegos Olímpicos 3x3 Masculino - Holanda - Serbia
+UID:c34c8f60-ae37-469b-b12c-73c9ac824a58
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
+DTSTART:20240801T203500Z
+DTEND:20240801T223500Z
+SUMMARY:Juegos Olímpicos 3x3 Masculino - Serbia - Francia
+UID:119849f0-4030-41ea-bea1-fd1cbab771d4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
+DTSTART:20240802T170500Z
+DTEND:20240802T190500Z
+SUMMARY:Juegos Olímpicos 3x3 Masculino - Serbia - Letonia
+UID:f649a8d5-3e1a-4133-827e-d1ea041dac0b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
+DTSTART:20240802T200500Z
+DTEND:20240802T220500Z
+SUMMARY:Juegos Olímpicos 3x3 Masculino - Polonia - Serbia
+UID:cdbf74be-2997-417c-ab12-62592f6e5d18
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
 DTSTART:20240803T113000Z
 DTEND:20240803T133000Z
 SUMMARY:Juegos Olímpicos Femeninos - Serbia - España
-UID:08c0a985-c834-4109-b582-f68ef9e33663
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:d517695d-06b0-4e54-b212-092b6ee13e71
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240720T003258Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240803T190000Z
 DTEND:20240803T210000Z
 SUMMARY:Juegos Olímpicos - Serbia - Sudán del sur
-UID:16845dd6-6f73-4292-85ba-dc1f471813ee
+UID:7ed2c358-ffab-40f6-935a-ef43d3d0abe1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
+DTSTART:20240804T163500Z
+DTEND:20240804T183500Z
+SUMMARY:Juegos Olímpicos 3x3 Masculino - Serbia - Lituania
+UID:55f61dfd-c03e-4e7e-8630-d950b36eeeec
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX

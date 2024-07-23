@@ -16,63 +16,137 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240723T003404Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240727T090000Z
 DTEND:20240727T110000Z
 SUMMARY:Juegos Olímpicos - Australia - España
-UID:9e0b5743-d003-4407-8247-1ab4feac82ee
+UID:f4aaedd0-db4d-493f-a3b4-ec8a7c6d5eb2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  Eurosport 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MAX
+  Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
+ AX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240723T003404Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240729T090000Z
 DTEND:20240729T110000Z
 SUMMARY:Juegos Olímpicos Femeninos - Nigeria - Australia
-UID:e923495b-d122-47f3-b5ae-786ccec9b3ec
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:2a0cffa7-f59d-4d34-badf-2195d1ab4e80
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
+ AX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240723T003404Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240730T113000Z
 DTEND:20240730T133000Z
 SUMMARY:Juegos Olímpicos - Canada - Australia
-UID:1bc5b417-864c-4bfd-bafe-15fee9ced9aa
+UID:e4a5c0f9-3f90-44fd-9799-37a4bc8806a6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
+DTSTART:20240730T160000Z
+DTEND:20240730T180000Z
+SUMMARY:Juegos Olímpicos 3x3 Femenino - Australia - Canada
+UID:9f73c3f6-4bbf-453c-92d2-9592f60344bc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240723T003404Z
+DTSTAMP:20240723T081203Z
+DTSTART:20240731T153000Z
+DTEND:20240731T173000Z
+SUMMARY:Juegos Olímpicos 3x3 Femenino - Australia - Alemania
+UID:50f93a28-4dbb-4165-90a7-bf031e3217f6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
+DTSTART:20240801T070000Z
+DTEND:20240801T090000Z
+SUMMARY:Juegos Olímpicos 3x3 Femenino - China - Australia
+UID:749e11b8-5d67-4886-8fe8-931521b0489c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
+DTSTART:20240801T110000Z
+DTEND:20240801T130000Z
+SUMMARY:Juegos Olímpicos 3x3 Femenino - Estados Unidos - Australia
+UID:58b58a4c-d7f6-4595-b0d0-2f8a248dc95c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
 DTSTART:20240801T113000Z
 DTEND:20240801T133000Z
 SUMMARY:Juegos Olímpicos Femeninos - Australia - Canada
-UID:fa74a23a-a920-4818-be76-445d4c9dd188
+UID:06dd3ca4-f336-41ac-9cff-2fb6de5b0fb9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
+DTSTART:20240802T073000Z
+DTEND:20240802T093000Z
+SUMMARY:Juegos Olímpicos 3x3 Femenino - Australia - Azerbaiyan
+UID:b5eb84dc-5afe-4f2d-bb62-4d088716bd53
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240723T003404Z
+DTSTAMP:20240723T081203Z
+DTSTART:20240802T103000Z
+DTEND:20240802T123000Z
+SUMMARY:Juegos Olímpicos 3x3 Femenino - Australia - España
+UID:cc7d2d68-bdeb-4e03-9819-26b22dc08812
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
 DTSTART:20240802T113000Z
 DTEND:20240802T133000Z
 SUMMARY:Juegos Olímpicos - Australia - Grecia
-UID:d7e79471-b00d-4bea-a789-72d51e91d536
+UID:e54c91c3-049d-4e59-a460-908d45a6d970
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081203Z
+DTSTART:20240803T163500Z
+DTEND:20240803T183500Z
+SUMMARY:Juegos Olímpicos 3x3 Femenino - Francia - Australia
+UID:828bccdb-6f00-4c4a-b6fc-2d23b222c093
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240723T003404Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240804T190000Z
 DTEND:20240804T210000Z
 SUMMARY:Juegos Olímpicos Femeninos - Australia - Francia
-UID:a0dbc897-56f3-4d57-81c6-e64e4f48f44a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:cee95860-0a85-48cb-aff5-a62fa520c2a7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR

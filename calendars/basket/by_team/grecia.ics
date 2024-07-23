@@ -16,33 +16,37 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240722T003530Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240727T190000Z
 DTEND:20240727T210000Z
 SUMMARY:Juegos Olímpicos - Grecia - Canada
-UID:ba6de605-5779-4881-9aa1-2b98f186decc
+UID:39c5bfba-24e2-4595-a56b-4f3deba505db
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  Eurosport 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MAX
+  Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
+ AX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240722T003530Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240730T090000Z
 DTEND:20240730T110000Z
 SUMMARY:Juegos Olímpicos - España - Grecia
-UID:6e41d761-a7d9-4c9e-82e2-ee54d8eb75a9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:426aeec5-4073-48a6-a836-a75ca92a88e5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
+ AX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240722T003530Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240802T113000Z
 DTEND:20240802T133000Z
 SUMMARY:Juegos Olímpicos - Australia - Grecia
-UID:0089ec15-1977-44a9-958b-ae4bd56f98cc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:23e3a4d4-1f12-4296-ad0b-d83ef278ed24
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR

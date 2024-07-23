@@ -16,33 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240721T003711Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240728T090000Z
 DTEND:20240728T110000Z
 SUMMARY:Juegos Olímpicos - Sudán del sur - Puerto Rico
-UID:b440fffc-0f52-491e-8c08-40ff523e1e69
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:b5ec3d85-8286-4b70-8da1-3deebff591f3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240721T003711Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240731T190000Z
 DTEND:20240731T210000Z
 SUMMARY:Juegos Olímpicos - Estados Unidos - Sudán del sur
-UID:9784dd68-db1d-4b03-8a59-b95cb5ef64e8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:1824d905-d3c7-48f8-9a26-cb7e54688667
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
+ AX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240721T003711Z
+DTSTAMP:20240723T081203Z
 DTSTART:20240803T190000Z
 DTEND:20240803T210000Z
 SUMMARY:Juegos Olímpicos - Serbia - Sudán del sur
-UID:e8b289f7-c1c3-4637-aa0f-e20d2a0b985d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:b69de293-c985-4dab-a4e1-181eb7c18d68
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR

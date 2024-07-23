@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240721T040913Z
+DTSTAMP:20240723T081158Z
 DTSTART:20240725T220000Z
 DTEND:20240726T000000Z
 SUMMARY:Amistoso - Heerenveen - Rayo Vallecano
-UID:70534911-faf4-4ebe-aadc-f86572d75f67
+UID:7002c61d-09d0-4e78-b9cf-5e6a16f11bf9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240723T081158Z
+DTSTART:20240730T220000Z
+DTEND:20240731T000000Z
+SUMMARY:Amistoso - Córdoba - Rayo Vallecano
+UID:48f05b91-73e4-40f2-a91e-99783ab4ef74
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n

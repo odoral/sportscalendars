@@ -16,33 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240722T003522Z
+DTSTAMP:20240723T081158Z
 DTSTART:20240725T170000Z
 DTEND:20240725T190000Z
 SUMMARY:Juegos Olímpicos Femeninos - Nigeria - Brasil
-UID:8b9b461f-47fc-4c35-bcaf-7cddfe8e2df5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:b924b53d-fbd0-41de-b9b7-00d40120de18
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240722T003522Z
+DTSTAMP:20240723T081158Z
 DTSTART:20240728T150000Z
 DTEND:20240728T170000Z
 SUMMARY:Juegos Olímpicos Femeninos - Brasil - Japón
-UID:bb742255-d0e1-4b95-b65e-38df2e43192a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:1e8ec77a-fb41-42db-9e41-f7351ddc87cd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240722T003522Z
+DTSTAMP:20240723T081158Z
 DTSTART:20240731T150000Z
 DTEND:20240731T170000Z
 SUMMARY:Juegos Olímpicos Femeninos - Brasil - España
-UID:c0797a1a-25c1-4c96-a6e7-085aedae847d
+UID:613cef75-85ec-4f3f-86bd-622b227ff6cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
- i>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: rtve Play\n- PPV: MAX
+ i>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PPV: MAX</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MA
+ X
 END:VEVENT
 END:VCALENDAR
