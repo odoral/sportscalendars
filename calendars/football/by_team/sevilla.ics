@@ -16,21 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240724T003440Z
+DTSTAMP:20240724T081010Z
 DTSTART:20240726T200000Z
 DTEND:20240726T220000Z
 SUMMARY:Otras competiciones - Sevilla - Al-Ittihad Jeddah Club
-UID:7d3873e5-efa6-444c-9d1d-cef8e45998ff
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:217f27ce-b544-476a-a602-59f9ad36eb9a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SFC TV</li>\n<li>P
+ PV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: SFC TV\n- PPV: mitele
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240724T003440Z
-DTSTART:20240802T100000Z
-DTEND:20240802T120000Z
-SUMMARY:Amistoso - Sagan Tosu - Sevilla
-UID:b1951248-80ab-42ad-b9ba-876fc0e3bad9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+DTSTAMP:20240724T081010Z
+DTSTART:20240731T183000Z
+DTEND:20240731T203000Z
+SUMMARY:Amistoso - Sevilla - Granada C.F.
+UID:c886bac0-ad7b-4c77-9789-edfdcbf1443e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SFC TV</li>\n<li>P
+ PV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: SFC TV\n- PPV: mitele
 END:VEVENT
 END:VCALENDAR
