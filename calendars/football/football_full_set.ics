@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
+DTSTART:20240725T100000Z
+DTEND:20240725T120000Z
+SUMMARY:Amistoso - Gamba Osaka - Real Sociedad
+UID:fe76ebb8-bd22-4ee3-890b-5eb77d1a9079
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Real Sociedad TV Y
+ outube</li></ul></body></html>
+DESCRIPTION:- Open: Real Sociedad TV Youtube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
 DTSTART:20240725T130000Z
 DTEND:20240725T150000Z
 SUMMARY:Europeo Sub-19 - Italia - España
-UID:3a7c29cb-0f8c-4d7c-b0f8-9d4694d284ce
+UID:58c03170-3bc7-4e6d-877f-0b1363bf00fa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
  Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: UEFA TV\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240725T150000Z
 DTEND:20240725T170000Z
 SUMMARY:Juegos Olímpicos Femeninos - España - Japón
-UID:d003bb1e-bc9e-45e7-88f7-b0aa3b6b6650
+UID:f5e9287b-ba25-495b-98b9-bd97bd4e7751
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 1</li>\n<li>PP
  V: MAX</li></ul></body></html>
@@ -38,21 +48,31 @@ DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
  t 1\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240725T150000Z
 DTEND:20240725T170000Z
 SUMMARY:Juegos Olímpicos Femeninos - Canada - Nueva Zelanda
-UID:d6a07358-096e-4e03-8adb-4e9af9ae8c62
+UID:11af029b-4f30-49d4-801d-41f1ad88f4a3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
  li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
+DTSTART:20240725T163000Z
+DTEND:20240725T183000Z
+SUMMARY:Amistoso - Osasuna - Mirandés
+UID:6d4fd9a0-b1a0-430f-8da7-9a578374f469
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Navarra TV</li></u
+ l></body></html>
+DESCRIPTION:- Open: Navarra TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
 DTSTART:20240725T170000Z
 DTEND:20240725T190000Z
 SUMMARY:Amistoso - Granada C.F. - Las Palmas
-UID:7d27bb96-4ed7-4fbe-b8e2-1ed33790ba82
+UID:be299dc7-016a-49d5-aaff-aa51c1f17967
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Granada CF YouTube
  </li>\n<li>Open: TV Canaria</li>\n<li>PPV: LaLiga+</li></ul></body></htm
  l>
@@ -60,372 +80,171 @@ DESCRIPTION:- Open: Granada CF YouTube\n- Open: TV Canaria\n- PPV: LaLiga
  +
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240725T170000Z
 DTEND:20240725T190000Z
 SUMMARY:Juegos Olímpicos Femeninos - Alemania - Australia
-UID:ff654a84-9247-4f64-9a64-eaf4c07cc911
+UID:63f6c6d3-cdd5-4f83-9dea-edd2285bf329
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   Eurosport 1</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 1\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240725T170000Z
 DTEND:20240725T190000Z
 SUMMARY:Juegos Olímpicos Femeninos - Nigeria - Brasil
-UID:c3ec18d6-2a68-4b81-b3c2-5664d488f721
+UID:f3d4b3ec-042e-4e63-9795-ff348b50d14e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
  li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240725T180000Z
 DTEND:20240725T200000Z
 SUMMARY:Europeo Sub-19 - Francia - Ucrania
-UID:51c43d45-94fb-4992-af6f-629331026d06
+UID:ff1560a3-d4e4-42d6-a30c-12ca96760edb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li></ul><
  /body></html>
 DESCRIPTION:- Open: UEFA TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240725T190000Z
 DTEND:20240725T210000Z
 SUMMARY:Juegos Olímpicos Femeninos - Estados Unidos - Zambia
-UID:7dcdf924-2f1f-4385-bcb7-190883fe59d4
+UID:6f68a5cd-f3c3-449c-8880-a4db40ed81f1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
  li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240725T190000Z
 DTEND:20240725T210000Z
 SUMMARY:Juegos Olímpicos Femeninos - Francia - Colombia
-UID:96dd335a-a534-4b54-8704-a9e99d764dd1
+UID:1aad06a1-f8e9-4674-b487-e99bf3dd7216
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   Eurosport 1</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 1\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240726T110000Z
 DTEND:20240726T130000Z
 SUMMARY:Amistoso - Barnsley - Mallorca
-UID:1eeec919-45ee-4383-a98f-bdb8187c0cb2
+UID:30c53324-1da6-4385-b82f-5b1bdc860b53
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esports IB3 Youtub
  e</li>\n<li>Open: IB3 Online</li></ul></body></html>
 DESCRIPTION:- Open: Esports IB3 Youtube\n- Open: IB3 Online
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240726T170000Z
-DTEND:20240726T190000Z
-SUMMARY:Amistoso - Tenerife - Al Shabab F.C.
-UID:74581e63-a24c-4fec-9698-1238a1afb5bd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
- l></body></html>
-DESCRIPTION:- Open: TV Canaria
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240726T173000Z
-DTEND:20240726T193000Z
-SUMMARY:Amistoso - Cádiz - At. Sanluqueño
-UID:8720d238-a9cb-444e-8d29-b4594da00830
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Plaiz</li></ul></bo
- dy></html>
-DESCRIPTION:- PPV: Plaiz
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240726T183000Z
-DTEND:20240726T203000Z
-SUMMARY:Amistoso - Cádiz - Córdoba
-UID:d55e648f-e053-4aaa-90ab-bd3a8704972b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Plaiz</li></ul></bo
- dy></html>
-DESCRIPTION:- PPV: Plaiz
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240726T200000Z
-DTEND:20240726T220000Z
-SUMMARY:Otras competiciones - Sevilla - Al-Ittihad Jeddah Club
-UID:58893fc9-d7d6-4fe3-93c0-5e78c1d7c8a2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SFC TV</li>\n<li>P
- PV: mitele</li></ul></body></html>
-DESCRIPTION:- Open: SFC TV\n- PPV: mitele
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240726T233000Z
-DTEND:20240727T013000Z
-SUMMARY:Amistoso - Liverpool - Betis
-UID:28be3787-542f-4f1a-a1d3-a6fd9a7eacaa
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
- >PPV: mitele</li></ul></body></html>
-DESCRIPTION:- Open: Betis TV\n- PPV: mitele
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T090000Z
-DTEND:20240727T110000Z
-SUMMARY:Amistoso - Girona - Espanyol
-UID:cb788838-5418-4abc-a47a-d75961b98ed7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li></ul></bod
- y></html>
-DESCRIPTION:- Open: TV3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T090000Z
-DTEND:20240727T110000Z
-SUMMARY:Amistoso - Elche - Nottingham Forest
-UID:8a596f51-7351-4bb1-8da6-b46859de718d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: VegaFibra</li></ul>
- </body></html>
-DESCRIPTION:- PPV: VegaFibra
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T110000Z
-DTEND:20240727T130000Z
-SUMMARY:Amistoso - C.D. Atlético Paso - Tenerife
-UID:c46213de-7ba7-421b-9d29-26c23f2d8a7f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
- l></body></html>
-DESCRIPTION:- Open: TV Canaria
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T120000Z
-DTEND:20240727T140000Z
-SUMMARY:Amistoso - West Bromwich - Mallorca
-UID:2777369c-a4c0-46f7-97e6-cc41667c13c4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3 Online</li></u
- l></body></html>
-DESCRIPTION:- Open: IB3 Online
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T130000Z
-DTEND:20240727T150000Z
-SUMMARY:Juegos Olímpicos - República Dominicana - España
-UID:cb53f51f-56ad-412b-b249-47dec619ad20
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
- V: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
- t 2\n- PPV: Eurosport 5\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T130000Z
-DTEND:20240727T150000Z
-SUMMARY:Juegos Olímpicos - Argentina - Irak
-UID:ef21418a-d8bf-4e2a-83b6-a421cc8e5b91
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T143000Z
-DTEND:20240727T163000Z
-SUMMARY:Amistoso - Saint Etienne - Villarreal
-UID:f9add1cb-4873-4a58-a571-7fff8e13f646
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch VillarrealC
- F</li></ul></body></html>
-DESCRIPTION:- Open: Twitch VillarrealCF
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T150000Z
-DTEND:20240727T170000Z
-SUMMARY:Juegos Olímpicos - Ucrania - Marruecos
-UID:71326d41-50db-45db-90aa-26683f60586b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T150000Z
-DTEND:20240727T170000Z
-SUMMARY:Juegos Olímpicos - Uzbekistán - Egipto
-UID:8ceb403b-9bd8-43c8-a9db-867adf726625
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T160000Z
-DTEND:20240727T180000Z
-SUMMARY:Amistoso - PSV Eindhoven - Valencia
-UID:1e6818d0-6d0f-42ba-9433-403fbcd5656b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: GolStadium</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T160000Z
-DTEND:20240727T180000Z
-SUMMARY:Otras competiciones - Numancia - Atlético de Madrid
-UID:cc3cfd61-6bbd-4f14-9e89-6de1a32b3735
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T170000Z
-DTEND:20240727T190000Z
-SUMMARY:Juegos Olímpicos - Israel - Paraguay
-UID:191360ea-b724-4802-9a4c-987101f3d1ef
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T170000Z
-DTEND:20240727T190000Z
-SUMMARY:Juegos Olímpicos - Nueva Zelanda - Estados Unidos
-UID:1ca2cfa9-c4a6-4e24-bcdc-606f5e7fce99
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T173000Z
-DTEND:20240727T193000Z
-SUMMARY:Amistoso - Tarazona - Real Zaragoza
-UID:61bea5ef-55e2-4afc-9ecd-51347cdf88a3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: Aragón TV</li></ul></body></html>
-DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T180000Z
-DTEND:20240727T200000Z
-SUMMARY:Amistoso - Pontevedra - Deportivo
-UID:fba7982b-3777-409e-82d5-e524d68f11d3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: R.C. Deportivo You
- tube</li></ul></body></html>
-DESCRIPTION:- Open: R.C. Deportivo Youtube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T180000Z
-DTEND:20240727T200000Z
-SUMMARY:Amistoso - Ourense C.F. - Racing Ferrol
-UID:fb6c8ae1-a50e-4bbc-aaf1-d64f22e39759
+DTSTAMP:20240725T081133Z
+DTSTART:20240726T160000Z
+DTEND:20240726T180000Z
+SUMMARY:Amistoso - Celta - Gil Vicente
+UID:42441017-2940-4bc6-aa1c-c361eb69ad6e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
  ody></html>
 DESCRIPTION:- Open: TVG 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T180000Z
-DTEND:20240727T200000Z
-SUMMARY:Amistoso - Sabadell - Nàstic Tarragona
-UID:0792e901-472a-4b57-9133-ff545d9a4592
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch RadioSabade
- ll</li></ul></body></html>
-DESCRIPTION:- Open: Twitch RadioSabadell
+DTSTAMP:20240725T081133Z
+DTSTART:20240726T170000Z
+DTEND:20240726T190000Z
+SUMMARY:Amistoso - Tenerife - Al Shabab F.C.
+UID:40606c8c-3e15-45be-9c74-1c4cb5be607d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
+ l></body></html>
+DESCRIPTION:- Open: TV Canaria
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T180000Z
-DTEND:20240727T200000Z
-SUMMARY:Amistoso - Getafe - Albacete
-UID:61744449-2fdd-4220-aecf-41137c9ebd73
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
- LM)</li></ul></body></html>
-DESCRIPTION:- Open: CMMPlay (Castilla-LM)
+DTSTAMP:20240725T081133Z
+DTSTART:20240726T173000Z
+DTEND:20240726T193000Z
+SUMMARY:Amistoso - Cádiz - At. Sanluqueño
+UID:c01d89e0-0c58-4e88-898a-05263c6e1e02
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Plaiz</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Plaiz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T183000Z
-DTEND:20240727T203000Z
-SUMMARY:Amistoso - Sporting Portugal - Athletic Club
-UID:00a70a9f-d48b-45d6-a02d-68562edcf17d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVAthleticClub You
- Tube</li></ul></body></html>
-DESCRIPTION:- Open: TVAthleticClub YouTube
+DTSTAMP:20240725T081133Z
+DTSTART:20240726T183000Z
+DTEND:20240726T203000Z
+SUMMARY:Amistoso - Cádiz - Córdoba
+UID:08c6ca33-077f-4eee-ad04-b32f014eafab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Plaiz</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Plaiz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T190000Z
-DTEND:20240727T210000Z
-SUMMARY:Juegos Olímpicos - Japón - Mali
-UID:b94d9b6c-e070-4848-bf9f-bda6d55d1536
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+DTSTAMP:20240725T081133Z
+DTSTART:20240726T200000Z
+DTEND:20240726T220000Z
+SUMMARY:Otras competiciones - Sevilla - Al-Ittihad Jeddah Club
+UID:11fb080c-9aae-43af-a581-a1ea5902c0bc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SFC TV</li>\n<li>P
+ PV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: SFC TV\n- PPV: mitele
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T190000Z
-DTEND:20240727T210000Z
-SUMMARY:Juegos Olímpicos - Francia - Guinea
-UID:93c1a0d6-a336-4946-a33c-92f616e78b05
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
+DTSTAMP:20240725T081133Z
+DTSTART:20240726T233000Z
+DTEND:20240727T013000Z
+SUMMARY:Amistoso - Liverpool - Betis
+UID:46e9441d-a78a-458d-8066-3ed368b91266
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
+ >PPV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: Betis TV\n- PPV: mitele
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240727T220000Z
-DTEND:20240728T000000Z
-SUMMARY:Amistoso - Manchester City - A.C. Milan
-UID:2cb475fd-f33a-453c-adee-0458262e0816
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Champions Tour</
- li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Champions Tour\n- PPV: Movistar Plus+
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T090000Z
+DTEND:20240727T110000Z
+SUMMARY:Amistoso - Girona - Espanyol
+UID:359ecb8c-eec2-4662-bbf1-6239190b0bd5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: TV3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240728T150000Z
-DTEND:20240728T170000Z
-SUMMARY:Juegos Olímpicos Femeninos - Brasil - Japón
-UID:6e6c800a-d165-4f54-9e6b-94204b7c906e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 2</li>\n<
- li>PPV: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 2\n- PPV: Eurosport 5\n- PPV: MAX
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T090000Z
+DTEND:20240727T110000Z
+SUMMARY:Amistoso - Elche - Nottingham Forest
+UID:618d3391-5321-47cd-afe4-8a044d4ae09e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: VegaFibra</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: VegaFibra
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240728T150000Z
-DTEND:20240728T170000Z
-SUMMARY:Juegos Olímpicos Femeninos - Nueva Zelanda - Colombia
-UID:bcc894a8-8f49-4040-b06d-8df06e388fe7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T110000Z
+DTEND:20240727T130000Z
+SUMMARY:Amistoso - C.D. Atlético Paso - Tenerife
+UID:518852d8-6816-45f4-9541-72f147805f1a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
+ l></body></html>
+DESCRIPTION:- Open: TV Canaria
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240728T170000Z
-DTEND:20240728T190000Z
-SUMMARY:Juegos Olímpicos Femeninos - Australia - Zambia
-UID:36040032-37c0-4d60-9afd-fe94cc724586
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T120000Z
+DTEND:20240727T140000Z
+SUMMARY:Amistoso - West Bromwich - Mallorca
+UID:7d75cea9-2990-4c01-9c6b-e9737753c87a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3 Online</li></u
+ l></body></html>
+DESCRIPTION:- Open: IB3 Online
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240728T170000Z
-DTEND:20240728T190000Z
-SUMMARY:Juegos Olímpicos Femeninos - España - Nigeria
-UID:e1067b2e-4a77-42b1-a6c3-d5ddf75a4144
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T130000Z
+DTEND:20240727T150000Z
+SUMMARY:Juegos Olímpicos - República Dominicana - España
+UID:bbb806a9-9bd2-420a-ae25-27de6dca1187
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
  V: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -433,51 +252,283 @@ DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
  t 2\n- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240728T190000Z
-DTEND:20240728T210000Z
-SUMMARY:Juegos Olímpicos Femeninos - Francia - Canada
-UID:44aed917-ae54-42c2-b45b-b88c34656db8
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T130000Z
+DTEND:20240727T150000Z
+SUMMARY:Juegos Olímpicos - Argentina - Irak
+UID:2d66ca71-7ef4-44e4-aade-1822223d6148
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240728T190000Z
-DTEND:20240728T210000Z
-SUMMARY:Juegos Olímpicos Femeninos - Estados Unidos - Alemania
-UID:c7a04bac-4f64-4f7b-a3c1-2cf79a17af3e
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T143000Z
+DTEND:20240727T163000Z
+SUMMARY:Amistoso - Saint Etienne - Villarreal
+UID:727ca19a-145d-45e3-b9b5-c49a6d671ed1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch VillarrealC
+ F</li>\n<li>Open: VillarrealCF YouTube</li></ul></body></html>
+DESCRIPTION:- Open: Twitch VillarrealCF\n- Open: VillarrealCF YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T150000Z
+DTEND:20240727T170000Z
+SUMMARY:Juegos Olímpicos - Ucrania - Marruecos
+UID:e968790e-0861-4493-a763-ad2221fac8f6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
  li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240729T220000Z
-DTEND:20240730T000000Z
-SUMMARY:Amistoso - Alavés - Tenerife
-UID:ffbb3be7-e89f-4829-8b7e-3b6647e7c7b9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
- firmar\n<ul><li>Open: TV Canaria</li></ul></body></html>
-DESCRIPTION:Atención: Pendientede confirmar\n- Open: TV Canaria
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
-DTSTART:20240730T130000Z
-DTEND:20240730T150000Z
-SUMMARY:Juegos Olímpicos - República Dominicana - Uzbekistán
-UID:96eae055-ac72-4b2a-bedf-4ef5bd09021e
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T150000Z
+DTEND:20240727T170000Z
+SUMMARY:Juegos Olímpicos - Uzbekistán - Egipto
+UID:0fc2b615-a335-4f00-b954-e3f861202240
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T160000Z
+DTEND:20240727T180000Z
+SUMMARY:Amistoso - PSV Eindhoven - Valencia
+UID:7b56f26d-cf79-40d2-81b3-3a25e7c4fd50
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T160000Z
+DTEND:20240727T180000Z
+SUMMARY:Otras competiciones - Numancia - Atlético de Madrid
+UID:c6389bb7-5227-4fc5-93ef-0a3abf4a59e9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T170000Z
+DTEND:20240727T190000Z
+SUMMARY:Juegos Olímpicos - Israel - Paraguay
+UID:bdcd782a-7fb3-435b-b96b-f44f689d2c22
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T170000Z
+DTEND:20240727T190000Z
+SUMMARY:Juegos Olímpicos - Nueva Zelanda - Estados Unidos
+UID:afd0cb3e-98e4-4942-b2cc-1242cd9d9e9a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T173000Z
+DTEND:20240727T193000Z
+SUMMARY:Amistoso - Tarazona - Real Zaragoza
+UID:46c8800b-8af8-42b0-b0ac-abb85e90f060
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T173000Z
+DTEND:20240727T193000Z
+SUMMARY:Amistoso - Málaga - Almería
+UID:8ca4cb82-7c94-474b-90cd-41b8b18f47d1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 101TV</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: 101TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T180000Z
+DTEND:20240727T200000Z
+SUMMARY:Amistoso - Burgos C.F. - Valladolid
+UID:1318d7e0-4093-4e83-afaf-1ab911d482e3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T180000Z
+DTEND:20240727T200000Z
+SUMMARY:Amistoso - Pontevedra - Deportivo
+UID:6e9e0e67-677e-481b-954e-972bd4537525
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: R.C. Deportivo You
+ tube</li></ul></body></html>
+DESCRIPTION:- Open: R.C. Deportivo Youtube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T180000Z
+DTEND:20240727T200000Z
+SUMMARY:Amistoso - Ourense C.F. - Racing Ferrol
+UID:335eb3b6-bc99-4ec6-b19b-3ae633c93cc5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: TVG 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T180000Z
+DTEND:20240727T200000Z
+SUMMARY:Amistoso - Sabadell - Nàstic Tarragona
+UID:fcd3265f-f359-42e5-8afe-df3948878ca0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch RadioSabade
+ ll</li></ul></body></html>
+DESCRIPTION:- Open: Twitch RadioSabadell
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T180000Z
+DTEND:20240727T200000Z
+SUMMARY:Amistoso - Getafe - Albacete
+UID:a01cd443-dc82-4d6c-8862-41905ebed156
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T183000Z
+DTEND:20240727T203000Z
+SUMMARY:Amistoso - Sporting Portugal - Athletic Club
+UID:b43c90ed-1a1e-4f5f-9ebd-dd76f0ba5d95
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVAthleticClub You
+ Tube</li></ul></body></html>
+DESCRIPTION:- Open: TVAthleticClub YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T190000Z
+DTEND:20240727T210000Z
+SUMMARY:Juegos Olímpicos - Japón - Mali
+UID:80cf1349-520d-407d-99c5-fc7df7917b1d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T190000Z
+DTEND:20240727T210000Z
+SUMMARY:Juegos Olímpicos - Francia - Guinea
+UID:1a053d88-521f-4d76-bcba-78facbd89bf6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240727T220000Z
+DTEND:20240728T000000Z
+SUMMARY:Amistoso - Manchester City - A.C. Milan
+UID:988f508b-a19a-49fd-a82a-f976888ad359
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>PPV: M+ Champions Tour</li>\n<li>PPV: Movistar Plus+</li
+ ></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- PPV: M+ Champions Tour\n- 
+ PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240728T150000Z
+DTEND:20240728T170000Z
+SUMMARY:Juegos Olímpicos Femeninos - Brasil - Japón
+UID:3c9c58f1-a5ff-48b8-9832-ac9c262dcc1d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 2</li>\n<
+ li>PPV: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 2\n- PPV: Eurosport 5\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240728T150000Z
+DTEND:20240728T170000Z
+SUMMARY:Juegos Olímpicos Femeninos - Nueva Zelanda - Colombia
+UID:9a71f0e0-36c4-4e8b-bc70-82cbc5fda42d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240728T170000Z
+DTEND:20240728T190000Z
+SUMMARY:Juegos Olímpicos Femeninos - Australia - Zambia
+UID:3a1b6074-3261-4f0b-868e-85123bb06bd5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240728T170000Z
+DTEND:20240728T190000Z
+SUMMARY:Juegos Olímpicos Femeninos - España - Nigeria
+UID:beb1b0a9-e11c-449d-aaad-07088e88c089
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
+ V: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
+ t 2\n- PPV: Eurosport 5\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240728T190000Z
+DTEND:20240728T210000Z
+SUMMARY:Juegos Olímpicos Femeninos - Francia - Canada
+UID:63f70da6-401c-409c-9665-0771599ac489
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240728T190000Z
+DTEND:20240728T210000Z
+SUMMARY:Juegos Olímpicos Femeninos - Estados Unidos - Alemania
+UID:442afd9d-9ecd-4d8a-b72b-b10349a1c254
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240729T220000Z
+DTEND:20240730T000000Z
+SUMMARY:Amistoso - Alavés - Tenerife
+UID:77f24990-4370-44dc-a2f5-52e6ec7b44fe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: TV Canaria</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: TV Canaria
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
+DTSTART:20240730T130000Z
+DTEND:20240730T150000Z
+SUMMARY:Juegos Olímpicos - República Dominicana - Uzbekistán
+UID:a34ad493-abd9-4f8c-a4ce-c7dcefca541d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
 DTSTART:20240730T130000Z
 DTEND:20240730T150000Z
 SUMMARY:Juegos Olímpicos - España - Egipto
-UID:a3412f51-b407-4489-9685-f9a427d7f687
+UID:9a3de562-0c9d-413b-80de-3357219f0bbf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
  i>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PPV: MAX</li></ul></bod
  y></html>
@@ -485,112 +536,112 @@ DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MA
  X
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240730T150000Z
 DTEND:20240730T170000Z
 SUMMARY:Juegos Olímpicos - Ucrania - Argentina
-UID:897234cb-c234-4b4f-a1f1-923d64a43d48
+UID:4598afe9-94b6-42b1-a6ba-35a2816de672
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240730T150000Z
 DTEND:20240730T170000Z
 SUMMARY:Juegos Olímpicos - Marruecos - Irak
-UID:0a9f18b3-6957-49e9-a7f7-0d0a8410b929
+UID:ca60d17f-7a9e-485d-84ae-67bdf67699fd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240730T170000Z
 DTEND:20240730T190000Z
 SUMMARY:Juegos Olímpicos - Estados Unidos - Guinea
-UID:e6b7584a-edaa-411e-9604-78ab16327a95
+UID:b58cab7b-72cb-4d33-8bc7-156b5b3a2450
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240730T170000Z
 DTEND:20240730T190000Z
 SUMMARY:Juegos Olímpicos - Nueva Zelanda - Francia
-UID:9f91779e-d934-456b-8d63-75813af30e69
+UID:700d1f09-bd9d-4bd3-bba1-f70abb62b4f9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240730T173000Z
 DTEND:20240730T193000Z
 SUMMARY:Amistoso - Cádiz - Al Jazira
-UID:e24ab73c-5081-482c-b4ec-f1f4aa06a02f
+UID:15994af6-de4a-41d3-bf29-924ba0f35b92
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Plaiz</li></ul></bo
  dy></html>
 DESCRIPTION:- PPV: Plaiz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240730T190000Z
 DTEND:20240730T210000Z
 SUMMARY:Juegos Olímpicos - Paraguay - Mali
-UID:ac764b19-0337-4b91-9d51-a39d742c40a2
+UID:97650c0c-2ccc-4190-aa8b-78ba8d8889a6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240730T190000Z
 DTEND:20240730T210000Z
 SUMMARY:Juegos Olímpicos - Israel - Japón
-UID:ad4de888-a8f3-4dbc-868c-64d478f2e60b
+UID:ceb5ae22-521f-4568-851d-02ef2f8ab5b2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240730T230000Z
 DTEND:20240731T010000Z
 SUMMARY:Amistoso - Manchester City - Barcelona
-UID:dc34cd31-00cb-4824-a01e-2839e7fadae1
+UID:06452ff8-ce25-4db4-b3c4-a5076dbb2729
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Champions Tour</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
  
 DESCRIPTION:- Open: TV3\n- PPV: M+ Champions Tour\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T080000Z
 DTEND:20240731T100000Z
 SUMMARY:Amistoso - Albacete - Intercity C.F.
-UID:85295e16-40c6-40ef-ab88-470c04cbb87b
+UID:beca09db-ae32-472f-9675-2f210da4325a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li></ul></body></html>
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T090000Z
 DTEND:20240731T110000Z
 SUMMARY:Amistoso - Girona - Toulouse
-UID:df5bfa60-7141-4ecd-b670-f214be48745e
+UID:b6c6c838-5530-412d-9e8a-c05f021ad0d9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T150000Z
 DTEND:20240731T170000Z
 SUMMARY:Juegos Olímpicos Femeninos - Brasil - España
-UID:aa947c66-cd98-4081-a997-17b747a07016
+UID:14f003d9-91b7-4af4-bc5a-635c9973286c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
  i>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PPV: MAX</li></ul></bod
  y></html>
@@ -598,266 +649,286 @@ DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MA
  X
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T150000Z
 DTEND:20240731T170000Z
 SUMMARY:Juegos Olímpicos Femeninos - Japón - Nigeria
-UID:904551c3-58ff-47bc-b0d3-2e9bf386ba3a
+UID:bef91830-3eea-4fed-8eca-ad064ed285e6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Amistoso - Getafe - Real Zaragoza
-UID:f4a286c8-4f09-4e0f-b8cd-3cd561766608
+UID:58320314-6a3e-4aed-bdf9-26c33563b057
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Amistoso - Elche - C.D. Castellón
-UID:04965506-0351-48ca-a953-383d9ac73fdf
+UID:2eb509b0-4492-4c7a-b143-749473c66f64
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: VegaFibra</li></ul>
  </body></html>
 DESCRIPTION:- PPV: VegaFibra
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Amistoso - Espanyol - Huesca
-UID:9d886244-3b07-409d-931f-67e6203fa046
+UID:46bafdb2-78a9-427e-9fe1-f726df353747
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Juegos Olímpicos Femeninos - Australia - Estados Unidos
-UID:8dc79153-123f-4437-8caf-217ca805a0dc
+UID:89697848-421a-41ec-bc10-b66eab6760ce
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Juegos Olímpicos Femeninos - Zambia - Alemania
-UID:8363ddc7-f50f-45d4-8696-6e266c70e7f0
+UID:88d48a71-bd56-406f-be61-f815d61ec881
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T173000Z
 DTEND:20240731T193000Z
 SUMMARY:Amistoso - Poblense - Mallorca
-UID:b41c9f56-33f4-4927-8a95-ebcb2b27e555
+UID:205da780-7c0e-41d0-988b-94799af38ccd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li></ul></bod
  y></html>
 DESCRIPTION:- Open: IB3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
+DTSTART:20240731T180000Z
+DTEND:20240731T200000Z
+SUMMARY:Amistoso - Ponferradina - Sporting de Gijón
+UID:c912e28e-9ad8-46ce-8c23-5d606643143d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: TPA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T183000Z
 DTEND:20240731T203000Z
 SUMMARY:Amistoso - Sevilla - Granada C.F.
-UID:8e723cc1-6fc4-46e5-96c4-7de9fc1337a3
+UID:9223b217-02e4-4555-b302-977a57428795
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SFC TV</li>\n<li>P
  PV: mitele</li></ul></body></html>
 DESCRIPTION:- Open: SFC TV\n- PPV: mitele
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T190000Z
 DTEND:20240731T210000Z
 SUMMARY:Juegos Olímpicos Femeninos - Colombia - Canada
-UID:52004d8a-57eb-42a3-8b60-aca91f8f34d9
+UID:b397c538-08fc-4eb5-8e37-4fd89225a192
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240731T190000Z
 DTEND:20240731T210000Z
 SUMMARY:Juegos Olímpicos Femeninos - Nueva Zelanda - Francia
-UID:fa928013-bb2b-4d50-984f-0239f0ba9371
+UID:dfdf6d0b-8572-4878-80c1-9eb63462fb95
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240801T003000Z
 DTEND:20240801T023000Z
 SUMMARY:Amistoso - Real Madrid - A.C. Milan
-UID:a2741b19-758f-4db2-aaba-a97b1f37092f
+UID:991ab78d-2d34-49e7-84be-c924d30b83a6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Champions Tour</
  li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Champions Tour\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240801T020000Z
 DTEND:20240801T040000Z
 SUMMARY:Amistoso - Manchester United - Betis
-UID:5208207e-7cb5-4fc7-b423-781b719f0ee3
+UID:9c50dec3-0066-4904-893c-897186eb5610
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: mitele</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: mitele
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240801T170000Z
 DTEND:20240801T190000Z
 SUMMARY:Amistoso - Eibar - Athletic Club
-UID:50c3c6ab-0f2b-4a45-bb30-93490f4f41be
+UID:c9bbb392-5c37-46bb-a7be-06aec2baaa75
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVAthleticClub You
  Tube</li></ul></body></html>
 DESCRIPTION:- Open: TVAthleticClub YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240801T170000Z
 DTEND:20240801T190000Z
 SUMMARY:Amistoso - Cádiz - Recreativo Huelva
-UID:6e088514-8f6d-49c3-a269-2fb8c940fe99
+UID:c4ab6f2d-7d32-4ec9-ad9b-449340780228
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Plaiz</li></ul></bo
  dy></html>
 DESCRIPTION:- PPV: Plaiz
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240802T190000Z
 DTEND:20240802T210000Z
 SUMMARY:Amistoso - Nottingham Forest - Villarreal
-UID:b087ba78-7b9d-41cf-9709-006596029fc3
+UID:3a0da62d-2690-40c8-906e-7419f87f3f8f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240802T190000Z
 DTEND:20240802T210000Z
 SUMMARY:Amistoso - Málaga - Al Jazira
-UID:ca13ce34-ee0c-4ade-9d91-b48988e743b1
+UID:539acdc1-f26e-4f72-9e34-7c8c887ef6f5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 101TV</li></ul></b
  ody></html>
 DESCRIPTION:- Open: 101TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T090000Z
 DTEND:20240803T110000Z
 SUMMARY:Amistoso - Burgos C.F. - Mallorca
-UID:f5d58017-4b5d-4247-b8a5-2c68170f71b4
+UID:92cc1c02-00b1-4153-9aaf-5a28ae19fcfc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li></ul></bod
  y></html>
 DESCRIPTION:- Open: IB3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T120000Z
 DTEND:20240803T140000Z
 SUMMARY:Amistoso - Sheffield Wednesday - Leganés
-UID:048a856a-44fa-44e7-b3a4-467363823e64
+UID:029142d2-b7c3-480a-9eae-29925dbd883a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T140000Z
 DTEND:20240803T160000Z
 SUMMARY:Amistoso - Luton Town - Celta
-UID:20a39077-3e1a-4038-8542-248e34779ce0
+UID:2821b89d-9844-484a-a139-6b015a5c943a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T140000Z
 DTEND:20240803T160000Z
 SUMMARY:Amistoso - Leeds Utd - Valencia
-UID:4496328a-2dbb-421c-af26-6a69499b2781
+UID:88e8c132-c939-4db9-9822-18be0027b551
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T163000Z
 DTEND:20240803T183000Z
 SUMMARY:Amistoso - Nápoles - Girona
-UID:dd7d4049-ae63-468d-b953-ecbcaed5ce5d
+UID:0b4109c5-1391-4b64-b033-7b7522731a3f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
+DTSTART:20240803T163000Z
+DTEND:20240803T183000Z
+SUMMARY:Amistoso - Real Oviedo - Racing de Santander
+UID:baf510b1-9d98-4384-a820-5fc4a59233fa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: TPA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T170000Z
 DTEND:20240803T190000Z
 SUMMARY:Amistoso - Mirandés - Mallorca
-UID:146bfa83-e401-41d2-b6a5-639284c42326
+UID:14d33269-8d4e-4a44-bd5e-7de3752d3b87
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li></ul></bod
  y></html>
 DESCRIPTION:- Open: IB3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T170000Z
 DTEND:20240803T190000Z
 SUMMARY:Amistoso - Elche - Real Zaragoza
-UID:ca5e6971-9418-4bb3-a0fe-cb36c7c4d5af
+UID:1aeda44c-7d57-4b23-8c20-6dfd5e285781
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: VegaFibra</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: VegaFibra
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T170000Z
 DTEND:20240803T190000Z
 SUMMARY:Amistoso - Stade Rennais - Real Sociedad
-UID:165a88e8-2fc7-4d89-a911-6339edeabca4
+UID:81f65545-55d3-406c-8043-19a265d2b877
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T180000Z
 DTEND:20240803T200000Z
 SUMMARY:Amistoso - Orihuela - Albacete
-UID:a01cca34-2dd3-4b67-a3d0-532f90b49e04
+UID:b2d82fd2-f972-4a70-b9aa-022d3fcba8b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li></ul></body></html>
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T183000Z
 DTEND:20240803T203000Z
 SUMMARY:Otras competiciones - Osasuna - Athletic Club
-UID:563354dd-ae2a-4cc3-a7d9-c301dd7880a1
+UID:1b410d3e-d2e9-40af-be72-fa9d855b88af
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: TVAthleticClub YouTube</li></ul></body></html>
 DESCRIPTION:- Open: ETB1\n- Open: TVAthleticClub YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240725T040924Z
+DTSTAMP:20240725T081133Z
 DTSTART:20240803T190000Z
 DTEND:20240803T210000Z
 SUMMARY:Amistoso - Betis - Al-Ittihad Jeddah Club
-UID:00d69468-5923-456c-9789-ba3009e56b60
+UID:f73f6be3-3cc1-4cce-945e-849ac272f94d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: mitele</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: mitele
