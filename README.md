@@ -120,6 +120,7 @@ You can import the URL into your favourite calendar app to receive daily updates
 ### By Tournament
 |Name|Action #1|Action #2|
 |----|---------|---------|
+|Europeo Sub-16| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/europeo_sub-16.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/europeo_sub-16.ics)|
 |Europeo Sub-18| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/europeo_sub-18.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/europeo_sub-18.ics)|
 |Europeo Sub-18 Femenino| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/europeo_sub-18_femenino.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/europeo_sub-18_femenino.ics)|
 |Juegos Olímpicos| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/juegos_olimpicos.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/juegos_olimpicos.ics)|
