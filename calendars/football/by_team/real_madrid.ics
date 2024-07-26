@@ -16,13 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240723T081158Z
+DTSTAMP:20240726T003315Z
 DTSTART:20240801T003000Z
 DTEND:20240801T023000Z
 SUMMARY:Amistoso - Real Madrid - A.C. Milan
-UID:ef5ca697-068d-4e3a-b334-2c61407ae8b9
+UID:a6c2c95b-5e69-4049-912f-92464310c2ef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Champions Tour</
  li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Champions Tour\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240726T003315Z
+DTSTART:20240803T230000Z
+DTEND:20240804T010000Z
+SUMMARY:Amistoso - Barcelona - Real Madrid
+UID:7b9f1121-385c-42fc-a7d6-d1f59add6495
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  M+ Champions Tour</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+ 
+DESCRIPTION:- Open: TV3\n- PPV: M+ Champions Tour\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
