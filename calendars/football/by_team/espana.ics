@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240726T003315Z
+DTSTAMP:20240726T081017Z
 DTSTART:20240727T130000Z
 DTEND:20240727T150000Z
 SUMMARY:Juegos Olímpicos - República Dominicana - España
-UID:5ce5b07c-242a-45d0-a3fc-6c06ca4a7e87
+UID:e920d50f-5afd-462d-bb22-98472882e21e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
  V: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -28,11 +28,31 @@ DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
  t 2\n- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240726T003315Z
+DTSTAMP:20240726T081017Z
+DTSTART:20240727T150000Z
+DTEND:20240727T170000Z
+SUMMARY:Europeo Sub-19 Femenino - España - Holanda
+UID:5ce220b2-5609-415e-8408-dd387f19790a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240726T081017Z
+DTSTART:20240728T150000Z
+DTEND:20240728T170000Z
+SUMMARY:Europeo Sub-19 - España - Francia
+UID:9b03c667-211f-43a0-9e91-117f5dd095fa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240726T081017Z
 DTSTART:20240728T170000Z
 DTEND:20240728T190000Z
 SUMMARY:Juegos Olímpicos Femeninos - España - Nigeria
-UID:4b1ccc63-8853-4235-842f-e1ba38269d21
+UID:80429529-c762-4042-bb64-e22eb38913a1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
  V: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -40,11 +60,11 @@ DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
  t 2\n- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240726T003315Z
+DTSTAMP:20240726T081017Z
 DTSTART:20240730T130000Z
 DTEND:20240730T150000Z
 SUMMARY:Juegos Olímpicos - España - Egipto
-UID:2a993f98-d3ad-48f9-8ec4-5eb1b949403f
+UID:bf37f7a1-82d2-4adc-865d-e29bb4b7e3d1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
  i>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PPV: MAX</li></ul></bod
  y></html>
@@ -52,11 +72,11 @@ DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MA
  X
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240726T003315Z
+DTSTAMP:20240726T081017Z
 DTSTART:20240731T150000Z
 DTEND:20240731T170000Z
 SUMMARY:Juegos Olímpicos Femeninos - Brasil - España
-UID:399a026a-f3ff-4f74-be4b-1e7a0565ceb3
+UID:f9c294cf-812a-4902-815c-38eed0e15f0e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
  i>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PPV: MAX</li></ul></bod
  y></html>

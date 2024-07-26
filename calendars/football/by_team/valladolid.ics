@@ -16,12 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240725T081134Z
+DTSTAMP:20240726T081017Z
 DTSTART:20240727T180000Z
 DTEND:20240727T200000Z
 SUMMARY:Amistoso - Burgos C.F. - Valladolid
-UID:52fea169-b8ed-4d63-9b06-befe69bb83af
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:d1f9e3cd-c62e-428f-95d3-bc92563d3f28
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 (Castilla y L
+ eón)</li></ul></body></html>
+DESCRIPTION:- Open: La 7 (Castilla y León)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240726T081017Z
+DTSTART:20240731T180000Z
+DTEND:20240731T200000Z
+SUMMARY:Amistoso - Valladolid - Pau F.C.
+UID:39bfc7e3-5245-44d0-af28-59623799f50b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Real Valladolid Yo
+ uTube</li></ul></body></html>
+DESCRIPTION:- Open: Real Valladolid YouTube
 END:VEVENT
 END:VCALENDAR
