@@ -16,21 +16,103 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
+DTSTAMP:20240727T080922Z
 DTSTART:20240727T130000Z
 DTEND:20240727T150000Z
 SUMMARY:Juegos Olímpicos - Argentina - Irak
-UID:8e68045a-884b-491e-b091-81d6d8203702
+UID:3272d692-97ab-46e8-8170-082c1bebf0b9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
+DTSTAMP:20240727T080922Z
 DTSTART:20240727T130000Z
 DTEND:20240727T150000Z
 SUMMARY:Juegos Olímpicos - República Dominicana - España
-UID:27255f6e-8c1c-4735-bc63-903d69d49956
+UID:91d6eb6b-1b57-4754-9760-e84bd24f060a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\
+ n<li>PPV: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: E
+ urosport 2\n- PPV: Eurosport 5\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240727T080922Z
+DTSTART:20240727T150000Z
+DTEND:20240727T170000Z
+SUMMARY:Juegos Olímpicos - Ucrania - Marruecos
+UID:f042a00e-e621-41d4-83ca-b3b1639693a5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240727T080922Z
+DTSTART:20240727T150000Z
+DTEND:20240727T170000Z
+SUMMARY:Juegos Olímpicos - Uzbekistán - Egipto
+UID:de4b392d-e032-44da-ab8a-a5134062d34d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240727T080922Z
+DTSTART:20240727T170000Z
+DTEND:20240727T190000Z
+SUMMARY:Juegos Olímpicos - Israel - Paraguay
+UID:58ffa493-d7b9-4ed1-8a65-fa79cef391ed
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240727T080922Z
+DTSTART:20240727T170000Z
+DTEND:20240727T190000Z
+SUMMARY:Juegos Olímpicos - Nueva Zelanda - Estados Unidos
+UID:0dc7ca91-7a11-41b5-b747-8d99fd390c7b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240727T080922Z
+DTSTART:20240727T190000Z
+DTEND:20240727T210000Z
+SUMMARY:Juegos Olímpicos - Japón - Mali
+UID:0275230c-4af8-41d9-9d55-ddaf6902aebe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240727T080922Z
+DTSTART:20240727T190000Z
+DTEND:20240727T210000Z
+SUMMARY:Juegos Olímpicos - Francia - Guinea
+UID:a389964e-2ba1-4158-afe5-577b54a5cf07
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240727T080922Z
+DTSTART:20240730T130000Z
+DTEND:20240730T150000Z
+SUMMARY:Juegos Olímpicos - República Dominicana - Uzbekistán
+UID:fb4c0c17-1436-483c-8c4e-c407a3226ba4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240727T080922Z
+DTSTART:20240730T130000Z
+DTEND:20240730T150000Z
+SUMMARY:Juegos Olímpicos - España - Egipto
+UID:b37bf69a-b0c0-4ed7-a8c7-8f0b4abb1a15
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
  V: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -38,145 +120,63 @@ DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
  t 2\n- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
-DTSTART:20240727T150000Z
-DTEND:20240727T170000Z
-SUMMARY:Juegos Olímpicos - Ucrania - Marruecos
-UID:764814ce-a7f4-499e-a224-d12dbd2859d2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
-DTSTART:20240727T150000Z
-DTEND:20240727T170000Z
-SUMMARY:Juegos Olímpicos - Uzbekistán - Egipto
-UID:8082dc9e-a93f-4fc2-9adf-0dfa74c4e409
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
-DTSTART:20240727T170000Z
-DTEND:20240727T190000Z
-SUMMARY:Juegos Olímpicos - Israel - Paraguay
-UID:e436655c-0ce9-4df3-83b6-6c928785e5c2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
-DTSTART:20240727T170000Z
-DTEND:20240727T190000Z
-SUMMARY:Juegos Olímpicos - Nueva Zelanda - Estados Unidos
-UID:2f5e83ad-c4ad-4f1a-8383-26170d215e85
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
-DTSTART:20240727T190000Z
-DTEND:20240727T210000Z
-SUMMARY:Juegos Olímpicos - Japón - Mali
-UID:d6b21f80-7b51-46bd-8364-fce7688e2b28
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
-DTSTART:20240727T190000Z
-DTEND:20240727T210000Z
-SUMMARY:Juegos Olímpicos - Francia - Guinea
-UID:b9390ff6-4489-4ea8-b06d-b9609c25f2e5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
-DTSTART:20240730T130000Z
-DTEND:20240730T150000Z
-SUMMARY:Juegos Olímpicos - República Dominicana - Uzbekistán
-UID:b14d17ee-4f89-4596-aa20-740cf29feb17
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
-DTSTART:20240730T130000Z
-DTEND:20240730T150000Z
-SUMMARY:Juegos Olímpicos - España - Egipto
-UID:639c2e70-b52e-4bc3-a298-33bf9ddd3a0f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
- i>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PPV: MAX</li></ul></bod
- y></html>
-DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MA
- X
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
+DTSTAMP:20240727T080922Z
 DTSTART:20240730T150000Z
 DTEND:20240730T170000Z
 SUMMARY:Juegos Olímpicos - Marruecos - Irak
-UID:e8f8f341-e639-4ef2-a77a-c50fb191465b
+UID:9de038ee-8ea9-4705-bfc3-0364f8bc835c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
+DTSTAMP:20240727T080922Z
 DTSTART:20240730T150000Z
 DTEND:20240730T170000Z
 SUMMARY:Juegos Olímpicos - Ucrania - Argentina
-UID:e48a6357-78d3-4d28-9209-e3bb72557815
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:d5414cc6-c0e8-49dd-8fe4-006db4e1ad42
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
+DTSTAMP:20240727T080922Z
 DTSTART:20240730T170000Z
 DTEND:20240730T190000Z
 SUMMARY:Juegos Olímpicos - Nueva Zelanda - Francia
-UID:e2cddfb7-c0e8-456e-aa74-82bbabecac7d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:15104c75-e5e9-4dc8-ab14-e868e697d13b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
+DTSTAMP:20240727T080922Z
 DTSTART:20240730T170000Z
 DTEND:20240730T190000Z
 SUMMARY:Juegos Olímpicos - Estados Unidos - Guinea
-UID:bbfab85d-6378-469c-97d7-e3abf20f56d3
+UID:0bb455fd-4d6f-4440-b842-39c187c9987e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
+DTSTAMP:20240727T080922Z
 DTSTART:20240730T190000Z
 DTEND:20240730T210000Z
 SUMMARY:Juegos Olímpicos - Israel - Japón
-UID:3fdacbd9-ba5e-4125-9969-1426d938d8bd
+UID:4a0a686d-4d35-4242-aae5-6a7a4afc0931
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
+DTSTAMP:20240727T080922Z
 DTSTART:20240730T190000Z
 DTEND:20240730T210000Z
 SUMMARY:Juegos Olímpicos - Paraguay - Mali
-UID:06693407-70d2-4ecb-bbd8-6c224cb9e9a8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
+UID:a27783be-783c-4394-859f-a1c3e1738b39
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR
