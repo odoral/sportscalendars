@@ -16,83 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
-DTSTART:20240728T150000Z
-DTEND:20240728T170000Z
-SUMMARY:Juegos Olímpicos Femeninos - Brasil - Japón
-UID:6e02d10c-7482-41d1-879f-a66b9668e855
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
-DTSTART:20240728T150000Z
-DTEND:20240728T170000Z
-SUMMARY:Juegos Olímpicos Femeninos - Nueva Zelanda - Colombia
-UID:5194d28e-80b3-47b5-be35-619b18b1dd34
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
-DTSTART:20240728T170000Z
-DTEND:20240728T190000Z
-SUMMARY:Juegos Olímpicos Femeninos - Australia - Zambia
-UID:f90307e1-eac3-475e-a246-89e246dc5c03
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
-DTSTART:20240728T170000Z
-DTEND:20240728T190000Z
-SUMMARY:Juegos Olímpicos Femeninos - España - Nigeria
-UID:938a3fc0-92d2-4750-a819-9ffe1f336ffb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
- V: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
- t 2\n- PPV: Eurosport 5\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
-DTSTART:20240728T190000Z
-DTEND:20240728T210000Z
-SUMMARY:Juegos Olímpicos Femeninos - Francia - Canada
-UID:82cafdce-0ca4-4775-a314-465d24cc8437
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
-DTSTART:20240728T190000Z
-DTEND:20240728T210000Z
-SUMMARY:Juegos Olímpicos Femeninos - Estados Unidos - Alemania
-UID:53805978-1ee4-4810-890e-4b24a6c163e0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
-DTSTART:20240731T150000Z
-DTEND:20240731T170000Z
-SUMMARY:Juegos Olímpicos Femeninos - Japón - Nigeria
-UID:868d5e35-b1d8-41ab-b446-ec4ef9b6a0eb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
+DTSTAMP:20240729T003523Z
 DTSTART:20240731T150000Z
 DTEND:20240731T170000Z
 SUMMARY:Juegos Olímpicos Femeninos - Brasil - España
-UID:b55ac7f6-707f-4ca2-a54a-ce284d8b0442
+UID:a14cf0ac-70cb-46d5-89dd-d9fcdf03f727
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
  V: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -100,41 +28,51 @@ DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
  t 2\n- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
-DTSTART:20240731T170000Z
-DTEND:20240731T190000Z
-SUMMARY:Juegos Olímpicos Femeninos - Australia - Estados Unidos
-UID:99c43dad-ea6a-45e5-a40d-030248abdfc6
+DTSTAMP:20240729T003523Z
+DTSTART:20240731T150000Z
+DTEND:20240731T170000Z
+SUMMARY:Juegos Olímpicos Femeninos - Japón - Nigeria
+UID:0100f135-eaa7-42ac-90d5-d74c41542650
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
+DTSTAMP:20240729T003523Z
+DTSTART:20240731T170000Z
+DTEND:20240731T190000Z
+SUMMARY:Juegos Olímpicos Femeninos - Australia - Estados Unidos
+UID:ec00d350-1e59-4455-918f-417eae94430b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240729T003523Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Juegos Olímpicos Femeninos - Zambia - Alemania
-UID:17a09591-59f2-4599-9ee2-f6c6bcf24d44
+UID:1d4d63d2-97cb-45c0-8c42-3a4fcd0bc036
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
  li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
+DTSTAMP:20240729T003523Z
 DTSTART:20240731T190000Z
 DTEND:20240731T210000Z
 SUMMARY:Juegos Olímpicos Femeninos - Colombia - Canada
-UID:20b6d9fe-33c4-4c9f-90c5-26d727a138f8
+UID:ddff1f44-18cf-4e6b-b1fd-a89bfda7336e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
+DTSTAMP:20240729T003523Z
 DTSTART:20240731T190000Z
 DTEND:20240731T210000Z
 SUMMARY:Juegos Olímpicos Femeninos - Nueva Zelanda - Francia
-UID:efcee3bb-28b6-49d4-96e2-636d434d0768
+UID:1a4bc17c-8437-44c1-8b43-803e7c2429b3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
  li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX

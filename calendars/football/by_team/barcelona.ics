@@ -16,25 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240726T003315Z
+DTSTAMP:20240729T003523Z
 DTSTART:20240730T230000Z
 DTEND:20240731T010000Z
 SUMMARY:Amistoso - Manchester City - Barcelona
-UID:fb339cc2-1994-4703-b6f1-0432209c223a
+UID:b13fc1e2-ab74-4f1d-a8d4-0f11a676720b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Champions Tour</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
  
 DESCRIPTION:- Open: TV3\n- PPV: M+ Champions Tour\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240726T003315Z
+DTSTAMP:20240729T003523Z
 DTSTART:20240803T230000Z
 DTEND:20240804T010000Z
 SUMMARY:Amistoso - Barcelona - Real Madrid
-UID:30a23751-7920-431e-9a18-8e98dd86f197
+UID:63e4552c-6406-42c0-9fcd-a0eb6dda4fc9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Champions Tour</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
  
 DESCRIPTION:- Open: TV3\n- PPV: M+ Champions Tour\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240729T003523Z
+DTSTART:20240806T233000Z
+DTEND:20240807T013000Z
+SUMMARY:Amistoso - Barcelona - A.C. Milan
+UID:7a1596b5-2a7e-415e-a271-dca566084ad4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  M+ Champions Tour</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: M+ Champions Tour\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

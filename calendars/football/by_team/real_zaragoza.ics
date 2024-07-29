@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
+DTSTAMP:20240729T003523Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Amistoso - Getafe - Real Zaragoza
-UID:04b120be-e1fe-44fd-98c5-a2359230495c
+UID:75a7581c-4ccd-4486-bb83-a30e4d140804
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
+DTSTAMP:20240729T003523Z
 DTSTART:20240803T170000Z
 DTEND:20240803T190000Z
 SUMMARY:Amistoso - Elche - Real Zaragoza
-UID:6f9c5141-f5c5-4229-8a64-55d663721964
+UID:04a116f0-ed2b-4eec-b459-46f635700aee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: VegaFibra</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: VegaFibra
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240729T003523Z
+DTSTART:20240807T183000Z
+DTEND:20240807T203000Z
+SUMMARY:Amistoso - Nàstic Tarragona - Real Zaragoza
+UID:6444e1c6-cc9c-45ad-b79e-f221770b86f0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Esport 3</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Esport 3
 END:VEVENT
 END:VCALENDAR

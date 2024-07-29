@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
+DTSTAMP:20240729T003523Z
 DTSTART:20240801T020000Z
 DTEND:20240801T040000Z
 SUMMARY:Amistoso - Manchester United - Betis
-UID:d943dcac-c730-4f26-bdc6-b6da69142433
+UID:5bda529b-6160-42e5-a55d-c53c0c4f8181
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: mitele</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: mitele
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240727T003327Z
+DTSTAMP:20240729T003523Z
 DTSTART:20240803T190000Z
 DTEND:20240803T210000Z
 SUMMARY:Amistoso - Betis - Al-Ittihad Jeddah Club
-UID:ec2ac4b2-d1f8-4e15-a755-d89b3d3e7b04
+UID:7a5431a8-fe06-40e6-a466-967b64bcb947
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
+ >PPV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: Betis TV\n- PPV: mitele
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240729T003523Z
+DTSTART:20240807T183000Z
+DTEND:20240807T203000Z
+SUMMARY:Amistoso - Betis - Raja Casablanca
+UID:e85ec5c8-5c7e-4d63-b818-f547163a40ae
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: mitele</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: mitele
