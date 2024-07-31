@@ -16,43 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240729T081107Z
+DTSTAMP:20240731T002755Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Amistoso - Getafe - Real Zaragoza
-UID:5c91a433-83ce-429b-87ff-ec83ed7c9ab2
+UID:c026535c-e3d2-40b0-b2a1-b35df5766c94
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240729T081107Z
+DTSTAMP:20240731T002755Z
 DTSTART:20240803T170000Z
 DTEND:20240803T190000Z
 SUMMARY:Amistoso - Elche - Real Zaragoza
-UID:27352833-8d5c-4c76-ae80-a7e9498be806
+UID:3293d804-5623-42be-942e-bfad3b288f32
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: VegaFibra</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: VegaFibra
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240729T081107Z
+DTSTAMP:20240731T002755Z
 DTSTART:20240803T180000Z
 DTEND:20240803T200000Z
 SUMMARY:Amistoso - Real Zaragoza - Al Ettifaq
-UID:9cad0648-f440-4d3d-bc31-35c10111c433
+UID:d213c60a-3f5c-457b-92d3-52cafba8caf6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240729T081107Z
+DTSTAMP:20240731T002755Z
 DTSTART:20240807T183000Z
 DTEND:20240807T203000Z
 SUMMARY:Amistoso - Nàstic Tarragona - Real Zaragoza
-UID:e0990f3a-35d7-4d73-8db2-645373247aec
+UID:316e221f-0557-4f3f-9c92-beaebe0dfb7e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Esport 3</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240731T002755Z
+DTSTART:20240809T170000Z
+DTEND:20240809T190000Z
+SUMMARY:Amistoso - Levante - Real Zaragoza
+UID:9edb8a6a-e4c6-41fd-935d-305c2615b707
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR

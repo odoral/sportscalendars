@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240730T081052Z
+DTSTAMP:20240731T002755Z
 DTSTART:20240731T170000Z
 DTEND:20240731T190000Z
 SUMMARY:Amistoso - Valencia - Levante
-UID:61072f7d-44dd-4ad2-8d96-2ddcbc432ba5
+UID:120f9d43-11c4-46e1-9139-2aa0d3f5fa36
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: À Punt (València)</li>\n<li>PPV: GolStadium</li></ul></body></htm
  l>
 DESCRIPTION:- Open: Gol Play\n- Open: À Punt (València)\n- PPV: GolStadiu
  m
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240731T002755Z
+DTSTART:20240809T170000Z
+DTEND:20240809T190000Z
+SUMMARY:Amistoso - Levante - Real Zaragoza
+UID:ddbbac68-452b-428d-8758-3b73de4c67fc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR
