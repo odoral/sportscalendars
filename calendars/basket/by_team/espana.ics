@@ -16,23 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
-DTSTART:20240730T090000Z
-DTEND:20240730T110000Z
-SUMMARY:Juegos Olímpicos - España - Grecia
-UID:e592888c-2f44-4108-acfc-64f6968d1c82
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
- V: Eurosport 6</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
- t 2\n- PPV: Eurosport 6\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
-DTSTART:20240730T190000Z
-DTEND:20240730T210000Z
-SUMMARY:Juegos Olímpicos 3x3 Femenino - Azerbaiyan - España
-UID:d8d6adc2-b31a-45f9-bf15-4b1c62ad51d1
+DTSTAMP:20240801T201159Z
+DTSTART:20240801T160000Z
+DTEND:20240801T180000Z
+SUMMARY:Juegos Olímpicos 3x3 Femenino - China - España
+UID:2ea3b37b-930c-4817-aa09-12bb55ae89ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
  i>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PPV: MAX</li></ul></bod
  y></html>
@@ -40,63 +28,33 @@ DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MA
  X
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
-DTSTART:20240731T090000Z
-DTEND:20240731T110000Z
-SUMMARY:Juegos Olímpicos Femeninos - Puerto Rico - España
-UID:680c4ff8-ac87-4bbd-b586-b5cb655194b4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
- V: Eurosport 6</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
- t 2\n- PPV: Eurosport 6\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
-DTSTART:20240731T190000Z
-DTEND:20240731T210000Z
-SUMMARY:Juegos Olímpicos 3x3 Femenino - España - Francia
-UID:92ece649-0d7f-4f43-aa16-e0cf80f287f2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  Eurosport 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
-DTSTART:20240801T160000Z
-DTEND:20240801T180000Z
-SUMMARY:Juegos Olímpicos 3x3 Femenino - China - España
-UID:6aa20795-3dbd-4d2b-b20e-5f70c203a794
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  Eurosport 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240801T193000Z
 DTEND:20240801T213000Z
 SUMMARY:Juegos Olímpicos 3x3 Femenino - Estados Unidos - España
-UID:d4ff3be5-ee92-4c63-b86a-e6e0e1f7cd28
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  Eurosport 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MAX
+UID:0b0a2149-e7c4-4ded-a4ce-287dcbe8eef6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
+ i>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PPV: MAX</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MA
+ X
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240802T103000Z
 DTEND:20240802T123000Z
 SUMMARY:Juegos Olímpicos 3x3 Femenino - Australia - España
-UID:43d8863f-764f-4536-8d93-69a5f7c50ab6
+UID:3c468bae-9b92-42f8-a470-8131babc9027
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   Eurosport 2</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240802T151500Z
 DTEND:20240802T171500Z
 SUMMARY:Juegos Olímpicos - Canada - España
-UID:925e04d2-e713-494a-9477-096218574cf5
+UID:7924d5b7-dcbd-4073-8451-e248e8bd4bf4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
  dy></html>
@@ -104,21 +62,21 @@ DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
  AX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240802T190000Z
 DTEND:20240802T210000Z
 SUMMARY:Juegos Olímpicos 3x3 Femenino - España - Canada
-UID:03482b14-8e86-4843-ba48-e412444ff43d
+UID:af588013-1bdd-48cc-8252-44d3d1c5b5fb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   Eurosport 2</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240803T113000Z
 DTEND:20240803T133000Z
 SUMMARY:Juegos Olímpicos Femeninos - Serbia - España
-UID:b45677c9-6037-4bcc-98d9-76be5da8571a
+UID:35c0d7d5-f274-41d8-bdd8-3e8ec1cc0288
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
  dy></html>
@@ -126,77 +84,77 @@ DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
  AX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240803T160000Z
 DTEND:20240803T180000Z
 SUMMARY:Juegos Olímpicos 3x3 Femenino - España - Alemania
-UID:b0bcd6ba-4711-4489-8d8f-b7eabf62b557
+UID:69eb7ce1-f79a-43e1-9e1b-a16aa54d789c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   Eurosport 2</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240803T193000Z
 DTEND:20240803T213000Z
 SUMMARY:Europeo Sub-18 Femenino - España - Eslovenia
-UID:7b64daa1-34aa-4824-b6c1-52ea7c49a6c1
+UID:1b6f760e-defd-4a86-b013-1ed9da39a6ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240804T143000Z
 DTEND:20240804T163000Z
 SUMMARY:Europeo Sub-18 Femenino - Turquía - España
-UID:64d16474-c086-467e-a1e4-6a85043822d7
+UID:f8e3eb2d-2fcd-4552-b3df-5fdbaa9d53d5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240805T193000Z
 DTEND:20240805T213000Z
 SUMMARY:Europeo Sub-18 Femenino - Letonia - España
-UID:d3c79eda-d894-410a-b274-b76c83ce9e53
+UID:254a4094-46c4-4f1e-b9ca-20918a92f9eb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240809T153000Z
 DTEND:20240809T173000Z
 SUMMARY:Europeo Sub-16 - Finlandia - España
-UID:fe293a5c-d8d6-4f63-98f6-c3abf20f68da
+UID:d4ea998a-b2ac-4e9b-8412-aaaf2d2eef20
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
  /ul></body></html>
 DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240810T130000Z
 DTEND:20240810T150000Z
 SUMMARY:Europeo Sub-16 - España - Letonia
-UID:f18a2a60-d22f-49be-82a5-38f1c6e519f9
+UID:212955fb-cbb8-4a67-9f8a-5497a9ac41df
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
  /ul></body></html>
 DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240810T130000Z
 DTEND:20240810T150000Z
 SUMMARY:Europeo Sub-16 - España - Lituania
-UID:d4a6f6f3-78c7-45c5-bdc1-86cf91fc9649
+UID:e302153f-4d53-4ec0-b352-75dbfa40992b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240730T081059Z
+DTSTAMP:20240801T201159Z
 DTSTART:20240811T130000Z
 DTEND:20240811T150000Z
 SUMMARY:Europeo Sub-16 - Turquía - España
-UID:689eaff9-fc29-4ae4-879a-604b8e067c9a
+UID:6bf765e3-af98-42c1-b085-5e59af8737e2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
  /ul></body></html>
 DESCRIPTION:- Open: FIBA YouTube

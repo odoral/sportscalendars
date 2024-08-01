@@ -16,25 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240731T002755Z
-DTSTART:20240731T170000Z
-DTEND:20240731T190000Z
-SUMMARY:Amistoso - Valencia - Levante
-UID:120f9d43-11c4-46e1-9139-2aa0d3f5fa36
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: À Punt (València)</li>\n<li>PPV: GolStadium</li></ul></body></htm
- l>
-DESCRIPTION:- Open: Gol Play\n- Open: À Punt (València)\n- PPV: GolStadiu
- m
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240731T002755Z
+DTSTAMP:20240801T201154Z
 DTSTART:20240809T170000Z
 DTEND:20240809T190000Z
 SUMMARY:Amistoso - Levante - Real Zaragoza
-UID:ddbbac68-452b-428d-8758-3b73de4c67fc
+UID:95bce70f-4ac6-4330-916c-e4b76d58b2cf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240801T201154Z
+DTSTART:20240810T190000Z
+DTEND:20240810T210000Z
+SUMMARY:Amistoso - Elche - Levante
+UID:62cc345f-b806-438b-bbd2-f5b2b3c5c5cc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: VegaFibra</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: VegaFibra
 END:VEVENT
 END:VCALENDAR
