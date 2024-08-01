@@ -16,14 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240728T003725Z
-DTSTART:20240730T230000Z
-DTEND:20240731T010000Z
-SUMMARY:Amistoso - Manchester City - Barcelona
-UID:b7307626-eb7d-48d4-ab69-88067a658808
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
-  M+ Champions Tour</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
- 
-DESCRIPTION:- Open: TV3\n- PPV: M+ Champions Tour\n- PPV: Movistar Plus+
+DTSTAMP:20240801T201154Z
+DTSTART:20240810T140000Z
+DTEND:20240810T160000Z
+SUMMARY:Otras competiciones - Manchester United - Manchester City
+UID:37ba145f-89fb-42b3-abc0-f547030abe66
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240801T201154Z
+DTSTART:20240810T140000Z
+DTEND:20240810T160000Z
+SUMMARY:Otras competiciones - Manchester City - Manchester United
+UID:34ff6d45-f9e0-463d-9944-4bbb8dc2d495
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

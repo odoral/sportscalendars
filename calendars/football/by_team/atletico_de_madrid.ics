@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240729T081107Z
+DTSTAMP:20240801T201155Z
+DTSTART:20240803T190000Z
+DTEND:20240803T210000Z
+SUMMARY:Amistoso - Getafe - Atlético de Madrid
+UID:2f489229-39fd-4fab-b0da-380fa4dbe1d5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Getafe CF Youtube<
+ /li>\n<li>Open: TeleMadrid</li></ul></body></html>
+DESCRIPTION:- Open: Getafe CF Youtube\n- Open: TeleMadrid
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240801T201155Z
 DTSTART:20240807T120000Z
 DTEND:20240807T140000Z
 SUMMARY:Amistoso - Kitchee SC - Atlético de Madrid
-UID:514dd944-b0fd-4c4f-8153-8cab3d4f79ef
+UID:4238d99e-06f7-4217-a7bb-545fa86a1552
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+

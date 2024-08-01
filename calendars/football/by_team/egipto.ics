@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240730T081052Z
-DTSTART:20240730T130000Z
-DTEND:20240730T150000Z
-SUMMARY:Juegos Olímpicos - España - Egipto
-UID:4122aa7d-667b-41e4-9c60-28847d34ba90
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: Eurosport 5</li>\n<li>PPV: MAX</li></ul></bo
- dy></html>
-DESCRIPTION:- Open: La 2\n- Open: rtve Play\n- PPV: Eurosport 5\n- PPV: M
- AX
+DTSTAMP:20240801T201154Z
+DTSTART:20240802T170000Z
+DTEND:20240802T190000Z
+SUMMARY:Juegos Olímpicos - Egipto - Paraguay
+UID:056787f3-f09f-4072-89c6-445e0036db74
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR
