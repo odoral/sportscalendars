@@ -6,6 +6,8 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.net.URL;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.Locale;
 import java.util.Map;
 
@@ -54,7 +56,12 @@ class BaloncestoHoyWebScraperTest {
 
             HtmlElement dateElement = mock(HtmlElement.class);
             when(dateElement.getTextContent()).thenReturn("1 de agosto");
-            scraper.parseEventDate(dateElement);
+            Date date = scraper.parseEventDate(dateElement);
+            assertEquals("0801", new SimpleDateFormat("MMdd").format(date));
+
+            when(dateElement.getTextContent()).thenReturn("Hoy jueves, 1 de agosto (5)");
+            date = scraper.parseEventDate(dateElement);
+            assertEquals("0801", new SimpleDateFormat("MMdd").format(date));
         } finally {
             Locale.setDefault(defaultLocale);
         }

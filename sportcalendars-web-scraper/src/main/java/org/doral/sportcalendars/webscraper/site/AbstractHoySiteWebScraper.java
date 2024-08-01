@@ -2,6 +2,7 @@ package org.doral.sportcalendars.webscraper.site;
 
 import org.apache.commons.collections4.KeyValue;
 import org.apache.commons.collections4.keyvalue.DefaultKeyValue;
+import org.apache.commons.lang3.ArrayUtils;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.time.CalendarUtils;
 import org.apache.commons.lang3.time.DateUtils;
@@ -157,7 +158,7 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
         String datePattern = "d 'de' MMMM";
         String textContent = dateElement.getTextContent();
         String[] fields = textContent.split("\\s+");
-        int deIndex = Arrays.binarySearch(fields, "de");
+        int deIndex = ArrayUtils.indexOf(fields, "de");
         textContent = String.join(" ", fields[deIndex - 1], fields[deIndex], fields[deIndex + 1]);
 
         Date newEventDate;

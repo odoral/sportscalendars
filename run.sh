@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+echo "Print environment variables"
+env | sort
+
 set -eo
 
 export TZ=Europe/Madrid
