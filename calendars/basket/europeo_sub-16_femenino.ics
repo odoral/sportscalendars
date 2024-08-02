@@ -17,12 +17,11 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20240802T003331Z
-DTSTART:20240804T090000Z
-DTEND:20240804T110000Z
-SUMMARY:Juegos Olímpicos Femeninos - Japón - Bélgica
-UID:f359baaa-7c17-45bf-8d52-1d15f6df3258
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+DTSTART:20240816T133000Z
+DTEND:20240816T153000Z
+SUMMARY:Europeo Sub-16 Femenino - España - Letonia
+UID:ec2b36b3-a72a-4191-9188-5c17fdc05087
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
