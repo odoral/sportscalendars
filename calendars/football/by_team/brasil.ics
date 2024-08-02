@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240729T003523Z
-DTSTART:20240731T150000Z
-DTEND:20240731T170000Z
-SUMMARY:Juegos Olímpicos Femeninos - Brasil - España
-UID:e171c713-ffbb-4c75-8ebd-7d0c4e69fed1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
- V: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
- t 2\n- PPV: Eurosport 5\n- PPV: MAX
+DTSTAMP:20240802T081051Z
+DTSTART:20240803T190000Z
+DTEND:20240803T210000Z
+SUMMARY:Juegos Olímpicos Femeninos - Francia - Brasil
+UID:76ea158a-e76b-4e1d-be4b-66ba868aec34
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR
