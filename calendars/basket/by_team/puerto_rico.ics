@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240801T201159Z
+DTSTAMP:20240803T080924Z
 DTSTART:20240803T090000Z
 DTEND:20240803T110000Z
 SUMMARY:Juegos Olímpicos Femeninos - China - Puerto Rico
-UID:b6004964-a950-4c25-b93e-6a7666bd2ae8
+UID:c8a51c0e-1e39-4d99-ab6e-fb26463bd267
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
  li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240801T201159Z
+DTSTAMP:20240803T080924Z
 DTSTART:20240803T151500Z
 DTEND:20240803T171500Z
 SUMMARY:Juegos Olímpicos - Puerto Rico - Estados Unidos
-UID:77954ed4-73b5-400e-96ee-171ddefc5f6b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+UID:73958246-3550-4e78-abc3-b56083208726
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></
+ ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: Eurosport 6\n-
+  PPV: MAX
 END:VEVENT
 END:VCALENDAR

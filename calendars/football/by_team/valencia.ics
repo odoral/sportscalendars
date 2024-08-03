@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240801T201155Z
+DTSTAMP:20240803T080919Z
 DTSTART:20240803T140000Z
 DTEND:20240803T160000Z
 SUMMARY:Amistoso - Leeds Utd - Valencia
-UID:9485bbb2-b219-4537-866a-1997474143ed
+UID:e7a07417-dce2-4123-bd2b-6db4261e6781
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: À Punt (València)</li>\n<li>PPV: GolStadium</li></ul></body></htm
  l>
@@ -28,12 +28,13 @@ DESCRIPTION:- Open: Gol Play\n- Open: À Punt (València)\n- PPV: GolStadiu
  m
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240801T201155Z
+DTSTAMP:20240803T080919Z
 DTSTART:20240810T190000Z
 DTEND:20240810T210000Z
 SUMMARY:Otras competiciones - Valencia - Eintracht Frankfurt
-UID:9c2476bd-f990-438f-a5cd-c8f502a9035b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:b214fdbe-d7c0-4764-b9fb-0b767f148807
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium
 END:VEVENT
 END:VCALENDAR

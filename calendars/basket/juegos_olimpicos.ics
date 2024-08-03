@@ -16,21 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240803T040917Z
+DTSTAMP:20240803T080924Z
 DTSTART:20240803T151500Z
 DTEND:20240803T171500Z
 SUMMARY:Juegos Olímpicos - Puerto Rico - Estados Unidos
-UID:d662499a-839c-42f1-95c8-b2af3157ebbe
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+UID:32c594f5-b3d5-4a12-90fd-3312b947d319
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></
+ ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: Eurosport 6\n-
+  PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240803T040917Z
+DTSTAMP:20240803T080924Z
 DTSTART:20240803T190000Z
 DTEND:20240803T210000Z
 SUMMARY:Juegos Olímpicos - Serbia - Sudán del sur
-UID:6fa1c2fc-7d99-4f94-9c66-15f1a0a45e73
+UID:5e15f0ca-faf0-495f-af40-8b1c74c5b296
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
  li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX

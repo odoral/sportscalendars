@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240802T081051Z
+DTSTAMP:20240803T080919Z
 DTSTART:20240803T150000Z
 DTEND:20240803T170000Z
 SUMMARY:Juegos Olímpicos Femeninos - España - Colombia
-UID:cb74b86e-1e19-4bf6-b700-483dfd3a3b9f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 5</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 5\n- PPV: MAX
+UID:8f6035fc-f803-4c4f-92b7-3c98ff6e704d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
+ V: Eurosport 5</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
+ t 2\n- PPV: Eurosport 5\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR
