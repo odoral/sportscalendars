@@ -16,33 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240803T080924Z
-DTSTART:20240803T151500Z
-DTEND:20240803T171500Z
-SUMMARY:Juegos Olímpicos - Puerto Rico - Estados Unidos
-UID:e1cf1a37-b47d-4e97-9751-18d4e1137826
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></
- ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: Eurosport 6\n-
-  PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240803T080924Z
-DTSTART:20240803T170500Z
-DTEND:20240803T190500Z
-SUMMARY:Juegos Olímpicos 3x3 Femenino - China - Estados Unidos
-UID:6b12be68-b615-4646-8ad5-0ad8a3d5fd39
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240803T080924Z
+DTSTAMP:20240804T003727Z
 DTSTART:20240804T151500Z
 DTEND:20240804T171500Z
 SUMMARY:Juegos Olímpicos Femeninos - Alemania - Estados Unidos
-UID:dfb4c8c6-ff1f-4ba0-80a1-2ed52e522bc5
+UID:10c1e627-7200-476f-9270-49f86e7a4171
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
  dy></html>
@@ -50,11 +28,11 @@ DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
  AX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240803T080924Z
+DTSTAMP:20240804T003727Z
 DTSTART:20240804T170500Z
 DTEND:20240804T190500Z
 SUMMARY:Juegos Olímpicos 3x3 Masculino - Estados Unidos - Holanda
-UID:5b8a4f7a-da36-4420-a1cd-755badd9a9c3
+UID:4162b395-49d3-4202-a4a3-27ff0a01e00c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: MAX
