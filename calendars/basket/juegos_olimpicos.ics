@@ -16,25 +16,49 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240803T080924Z
-DTSTART:20240803T151500Z
-DTEND:20240803T171500Z
-SUMMARY:Juegos Olímpicos - Puerto Rico - Estados Unidos
-UID:32c594f5-b3d5-4a12-90fd-3312b947d319
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></
- ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: Eurosport 6\n-
-  PPV: MAX
+DTSTAMP:20240804T080915Z
+DTSTART:20240806T090000Z
+DTEND:20240806T110000Z
+SUMMARY:Juegos Olímpicos - Alemania - Grecia
+UID:fb6c69b7-d670-4492-82a0-91c4b91142b9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
+ AX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240803T080924Z
-DTSTART:20240803T190000Z
-DTEND:20240803T210000Z
-SUMMARY:Juegos Olímpicos - Serbia - Sudán del sur
-UID:5e15f0ca-faf0-495f-af40-8b1c74c5b296
+DTSTAMP:20240804T080915Z
+DTSTART:20240806T123000Z
+DTEND:20240806T143000Z
+SUMMARY:Juegos Olímpicos - Serbia - Australia
+UID:a3019364-0bdb-4099-93d0-8a3c94894adb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
+ AX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240804T080915Z
+DTSTART:20240806T160000Z
+DTEND:20240806T180000Z
+SUMMARY:Juegos Olímpicos - Francia - Canada
+UID:ea104545-cd3f-4a5f-89ef-98874070b7a0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
  li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240804T080915Z
+DTSTART:20240806T193000Z
+DTEND:20240806T213000Z
+SUMMARY:Juegos Olímpicos - Brasil - Estados Unidos
+UID:b8cd43a1-72f7-44f3-85ea-07af4fb2521e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
+ AX
 END:VEVENT
 END:VCALENDAR

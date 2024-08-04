@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240804T003727Z
+DTSTAMP:20240804T080915Z
 DTSTART:20240804T190000Z
 DTEND:20240804T210000Z
 SUMMARY:Juegos Olímpicos Femeninos - Australia - Francia
-UID:d4bebd4e-bd03-4c22-ada0-cb9833383e64
+UID:f54a64d6-901a-4a47-8dac-4b0199795d1b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
  li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240804T080915Z
+DTSTART:20240806T123000Z
+DTEND:20240806T143000Z
+SUMMARY:Juegos Olímpicos - Serbia - Australia
+UID:2b3d3c9f-0c82-46e8-9ec1-1d95773452e6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
+ AX
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240801T201159Z
-DTSTART:20240802T090000Z
-DTEND:20240802T110000Z
-SUMMARY:Juegos Olímpicos - Japón - Brasil
-UID:86eb4f69-4810-4320-a570-0285d8beb8a6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+DTSTAMP:20240804T080915Z
+DTSTART:20240806T193000Z
+DTEND:20240806T213000Z
+SUMMARY:Juegos Olímpicos - Brasil - Estados Unidos
+UID:275c6930-4663-4373-9d99-f3a742ea29d8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Eurosport 2</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 6\n- PPV: M
+ AX
 END:VEVENT
 END:VCALENDAR
