@@ -16,21 +16,32 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240804T003721Z
+DTSTAMP:20240804T200848Z
+DTSTART:20240803T230000Z
+DTEND:20240804T010000Z
+SUMMARY:Amistoso - Barcelona - Real Madrid
+UID:9100155d-b390-44bc-9eac-2753a1b43d1c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  M+ Champions Tour</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+ 
+DESCRIPTION:- Open: TV3\n- PPV: M+ Champions Tour\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240804T200848Z
 DTSTART:20240806T233000Z
 DTEND:20240807T013000Z
 SUMMARY:Amistoso - Barcelona - A.C. Milan
-UID:f646149a-02bc-47b7-b82a-059346285d06
+UID:cc3d71e6-e030-4af7-a9c7-badeccfe8bef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   M+ Champions Tour</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: M+ Champions Tour\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240804T003721Z
+DTSTAMP:20240804T200848Z
 DTSTART:20240812T180000Z
 DTEND:20240812T200000Z
 SUMMARY:Otras competiciones - Barcelona - Mónaco
-UID:0a6653a5-db1c-4f05-b6fa-714652455b1e
+UID:a9753d5d-c08d-4892-82b1-d4a56e4fdcda
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: TV3</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: TV3
