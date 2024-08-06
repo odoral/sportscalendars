@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240804T080909Z
+DTSTAMP:20240806T081025Z
 DTSTART:20240807T120000Z
 DTEND:20240807T140000Z
 SUMMARY:Amistoso - Kitchee SC - Atlético de Madrid
-UID:e0ae5ae7-8ea5-4977-93a8-c828b47fff45
+UID:4e240b39-710c-4266-a4d2-29c0ff7283da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
  html>
@@ -28,23 +28,25 @@ DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
  lus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240804T080909Z
+DTSTAMP:20240806T081025Z
 DTSTART:20240811T130000Z
 DTEND:20240811T150000Z
 SUMMARY:Amistoso - Juventus - Atlético de Madrid
-UID:1c151276-7bf7-4ceb-bdb9-abe9a17013d7
+UID:5bee917c-64d8-4fed-b8d1-e1502d14f703
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240804T080909Z
+DTSTAMP:20240806T081025Z
 DTSTART:20240811T130000Z
 DTEND:20240811T150000Z
 SUMMARY:Amistoso - Atlético de Madrid - Juventus
-UID:d06b9b4f-e1f2-430d-9d06-7c3605253618
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:86dfa8eb-4df1-48af-be5a-5c1c9b9930c2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></b
+ ody></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ Liga de Campeones\n- PPV: Movi
+ star Plus+
 END:VEVENT
 END:VCALENDAR

@@ -16,22 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240805T003535Z
+DTSTAMP:20240806T081025Z
 DTSTART:20240807T183000Z
 DTEND:20240807T203000Z
-SUMMARY:Amistoso - Betis - Cádiz
-UID:4a3214b1-991f-4d96-8957-a4ffddaa33ac
+SUMMARY:Amistoso - Cádiz - Betis
+UID:71361060-e8ce-49ce-9fa1-f9daa553ed36
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: Plaiz</li>\n<li>PPV: mitele</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: Plaiz\n- PPV: mitele
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240805T003535Z
+DTSTAMP:20240806T081025Z
+DTSTART:20240807T183000Z
+DTEND:20240807T203000Z
+SUMMARY:Amistoso - Betis - Cádiz
+UID:43390306-b57e-4402-8c98-70c4d1ec2371
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
+ >PPV: Plaiz</li>\n<li>PPV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: Betis TV\n- PPV: Plaiz\n- PPV: mitele
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240806T081025Z
 DTSTART:20240810T190000Z
 DTEND:20240810T210000Z
 SUMMARY:Otras competiciones - Cádiz - Lazio
-UID:c1f2eb71-e907-4e92-bf17-742f09a31fb3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:eb56815a-35c3-4154-9aaa-358d29a809bd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
 END:VEVENT
 END:VCALENDAR

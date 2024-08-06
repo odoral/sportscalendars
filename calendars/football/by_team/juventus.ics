@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240804T080909Z
+DTSTAMP:20240806T081025Z
 DTSTART:20240811T130000Z
 DTEND:20240811T150000Z
 SUMMARY:Amistoso - Juventus - Atlético de Madrid
-UID:51961dcf-d666-4b0c-80c5-52bc89741229
+UID:17dd8931-2955-479e-8e11-f245c20b8536
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240804T080909Z
+DTSTAMP:20240806T081025Z
 DTSTART:20240811T130000Z
 DTEND:20240811T150000Z
 SUMMARY:Amistoso - Atlético de Madrid - Juventus
-UID:0ac30320-77de-4382-92ae-2e45e5a7386a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:3d964069-8734-468a-9924-544bddc4218c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></b
+ ody></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ Liga de Campeones\n- PPV: Movi
+ star Plus+
 END:VEVENT
 END:VCALENDAR
