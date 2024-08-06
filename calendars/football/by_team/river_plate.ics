@@ -17,14 +17,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20240806T003401Z
-DTSTART:20240815T183000Z
-DTEND:20240815T203000Z
-SUMMARY:Liga Hypermotion - Granada C.F. - Albacete
-UID:54ef9d4d-4247-4472-91bb-500a9bf7def7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
- ></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
- rmotion
+DTSTART:20240815T003000Z
+DTEND:20240815T023000Z
+SUMMARY:Copa Libertadores - C.A. Talleres - River Plate
+UID:a928a7d4-20ba-4e56-8ffe-f1792c7a6302
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
