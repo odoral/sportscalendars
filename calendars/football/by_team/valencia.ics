@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240804T003721Z
+DTSTAMP:20240807T081040Z
+DTSTART:20240810T190000Z
+DTEND:20240810T210000Z
+SUMMARY:Amistoso - Valencia - Eintracht Frankfurt
+UID:a75f825d-efef-46ef-905e-e795e2c9fcef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240807T081040Z
 DTSTART:20240810T190000Z
 DTEND:20240810T210000Z
 SUMMARY:Otras competiciones - Valencia - Eintracht Frankfurt
-UID:dd50cf3b-159a-4a2c-9853-7bd8963f25f9
+UID:7690e036-e2b4-4b02-8829-1a7cf73e1a42
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium
