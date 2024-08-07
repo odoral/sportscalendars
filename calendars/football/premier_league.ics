@@ -17,14 +17,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20240807T003433Z
-DTSTART:20240816T193000Z
-DTEND:20240816T213000Z
-SUMMARY:Liga EA Sports - Las Palmas - Sevilla
-UID:6c784748-0b7d-4b8e-8e43-e82409f37571
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium</li></ul
- ></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
- Stadium
+DTSTART:20240816T190000Z
+DTEND:20240816T210000Z
+SUMMARY:Premier League - Manchester United - Fulham
+UID:bd8741cb-d8fe-48d2-a2b9-975d202d6fbc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

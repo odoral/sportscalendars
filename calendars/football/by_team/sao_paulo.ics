@@ -17,14 +17,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20240807T003433Z
-DTSTART:20240816T193000Z
-DTEND:20240816T213000Z
-SUMMARY:Liga EA Sports - Las Palmas - Sevilla
-UID:6c784748-0b7d-4b8e-8e43-e82409f37571
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium</li></ul
- ></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
- Stadium
+DTSTART:20240815T220000Z
+DTEND:20240816T000000Z
+SUMMARY:Copa Libertadores - Nacional - São Paulo
+UID:d51319c9-c77c-48fc-9346-1f7cf7ea5ce9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

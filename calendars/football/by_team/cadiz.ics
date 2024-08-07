@@ -16,33 +16,45 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240806T081025Z
+DTSTAMP:20240807T003433Z
 DTSTART:20240807T183000Z
 DTEND:20240807T203000Z
 SUMMARY:Amistoso - Cádiz - Betis
-UID:71361060-e8ce-49ce-9fa1-f9daa553ed36
+UID:98d6cb2a-2ac6-4be1-b2f4-2824282e4652
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: Plaiz</li>\n<li>PPV: mitele</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: Plaiz\n- PPV: mitele
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240806T081025Z
+DTSTAMP:20240807T003433Z
 DTSTART:20240807T183000Z
 DTEND:20240807T203000Z
 SUMMARY:Amistoso - Betis - Cádiz
-UID:43390306-b57e-4402-8c98-70c4d1ec2371
+UID:e2b116fc-1f5b-4cc1-ba4c-6839195a80b5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: Plaiz</li>\n<li>PPV: mitele</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: Plaiz\n- PPV: mitele
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240806T081025Z
+DTSTAMP:20240807T003433Z
 DTSTART:20240810T190000Z
 DTEND:20240810T210000Z
 SUMMARY:Otras competiciones - Cádiz - Lazio
-UID:eb56815a-35c3-4154-9aaa-358d29a809bd
+UID:92116bc4-8ec0-46b1-99d4-f1a5df151e1f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240807T003433Z
+DTSTART:20240816T193000Z
+DTEND:20240816T213000Z
+SUMMARY:Liga Hypermotion - Cádiz - Real Zaragoza
+UID:5cd2852f-0329-4b70-a981-de245bfc01b6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
+ M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
