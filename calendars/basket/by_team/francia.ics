@@ -16,31 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240808T003417Z
+DTSTAMP:20240808T081041Z
+DTSTART:20240808T153000Z
+DTEND:20240808T173000Z
+SUMMARY:Juegos Olímpicos - Francia - Alemania
+UID:ed0f76b4-8ded-4ad8-aa67-699fa0b0f565
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\
+ n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: E
+ urosport 2\n- PPV: Eurosport 6\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240808T081041Z
 DTSTART:20240809T130000Z
 DTEND:20240809T150000Z
 SUMMARY:Europeo Sub-16 - Georgia - Francia
-UID:93293808-beb5-4422-8f7c-c1bc80ad03ed
+UID:4c430cb7-f15c-418b-855c-a25caed63db8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
  /ul></body></html>
 DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240808T003417Z
+DTSTAMP:20240808T081041Z
 DTSTART:20240810T130000Z
 DTEND:20240810T150000Z
 SUMMARY:Europeo Sub-16 - Francia - Polonia
-UID:c2f603d6-d57f-46bb-ae0d-e0ec5a21ade2
+UID:1ce5f11a-6676-4f8a-a6f4-2913d00497cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
  /ul></body></html>
 DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240808T003417Z
+DTSTAMP:20240808T081041Z
 DTSTART:20240811T153000Z
 DTEND:20240811T173000Z
 SUMMARY:Europeo Sub-16 - Eslovenia - Francia
-UID:de9fce1f-79d6-47f0-8173-b22e126e2801
+UID:e82d0da1-44e5-437e-91f4-2241ff5d750d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
  /ul></body></html>
 DESCRIPTION:- Open: FIBA YouTube
