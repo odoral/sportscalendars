@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240805T003535Z
-DTSTART:20240806T233000Z
-DTEND:20240807T013000Z
-SUMMARY:Amistoso - Barcelona - A.C. Milan
-UID:e53ae929-5c73-4f7d-b19c-12da4b371475
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
-  M+ Champions Tour</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- Open: TV3\n- PPV: M+ Champions Tour\n- PPV: M+ Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240805T003535Z
+DTSTAMP:20240808T003412Z
 DTSTART:20240812T180000Z
 DTEND:20240812T200000Z
 SUMMARY:Otras competiciones - Barcelona - Mónaco
-UID:6d4e8ed6-f133-4636-a6be-457448b3b269
+UID:b820f731-955b-408c-9721-db6d925ee8f4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: TV3</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: TV3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240808T003412Z
+DTSTART:20240817T193000Z
+DTEND:20240817T213000Z
+SUMMARY:Liga EA Sports - Valencia - Barcelona
+UID:436b3e14-57ef-47a8-b034-73db76796513
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

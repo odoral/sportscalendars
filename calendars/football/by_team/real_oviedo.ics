@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240803T080919Z
-DTSTART:20240803T163000Z
-DTEND:20240803T183000Z
-SUMMARY:Amistoso - Real Oviedo - Racing de Santander
-UID:58de297e-6ed7-48f0-988b-f5893123c6cf
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealOviedo YouTube
- </li>\n<li>Open: TPA</li></ul></body></html>
-DESCRIPTION:- Open: RealOviedo YouTube\n- Open: TPA
+DTSTAMP:20240808T003412Z
+DTSTART:20240817T170000Z
+DTEND:20240817T190000Z
+SUMMARY:Liga Hypermotion - Deportivo - Real Oviedo
+UID:8c6ef450-85e5-4e6c-857a-8446e72ffb2d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
+ Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
