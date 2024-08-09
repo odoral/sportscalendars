@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240806T081025Z
+DTSTAMP:20240809T003429Z
 DTSTART:20240809T170000Z
 DTEND:20240809T190000Z
 SUMMARY:Amistoso - Levante - Real Zaragoza
-UID:1f547024-876d-4bff-b55f-f272db2acc68
+UID:ad92dc95-7de1-4a85-a734-67f799dca69e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: À Punt (València)</li></ul></body
  ></html>
@@ -28,13 +28,25 @@ DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: À Punt (Va
  lència)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240806T081025Z
+DTSTAMP:20240809T003429Z
 DTSTART:20240810T190000Z
 DTEND:20240810T210000Z
 SUMMARY:Amistoso - Elche - Levante
-UID:1ae95d1a-9054-47eb-8550-c8fa729632da
+UID:c225d576-b9f7-4363-aa05-ef1b7fd725f9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: VegaFibra</li></ul>
  </body></html>
 DESCRIPTION:- PPV: VegaFibra
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240809T003429Z
+DTSTART:20240818T150000Z
+DTEND:20240818T170000Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Levante
+UID:1fbba68e-8964-4123-bd78-d9fe2c7bda5b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR

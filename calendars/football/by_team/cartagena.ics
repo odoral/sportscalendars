@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240731T002755Z
+DTSTAMP:20240809T003429Z
 DTSTART:20240809T180000Z
 DTEND:20240809T200000Z
 SUMMARY:Amistoso - Albacete - Cartagena
-UID:b5ba38a9-dfeb-4981-bc56-5d04e445d679
+UID:63ad193c-1854-4721-b979-71cf786e8550
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li></ul></body></html>
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240809T003429Z
+DTSTART:20240818T173000Z
+DTEND:20240818T193000Z
+SUMMARY:Liga Hypermotion - Burgos C.F. - Cartagena
+UID:1b3c4a5d-a1ee-4bd5-a3dd-d11ade5a205f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR
