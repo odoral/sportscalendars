@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240808T003412Z
+DTSTAMP:20240809T081118Z
+DTSTART:20240809T163000Z
+DTEND:20240809T183000Z
+SUMMARY:Otras competiciones - Leganés - Real Oviedo
+UID:f767b1fa-a47b-4610-af62-5fd5371acdf5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: R.C. Deportivo You
+ tube</li></ul></body></html>
+DESCRIPTION:- Open: R.C. Deportivo Youtube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240809T081118Z
 DTSTART:20240817T170000Z
 DTEND:20240817T190000Z
 SUMMARY:Liga Hypermotion - Deportivo - Real Oviedo
-UID:8c6ef450-85e5-4e6c-857a-8446e72ffb2d
+UID:375d6354-c317-461b-9aac-51b6ab7582a1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  Movistar Plus+</li></ul></body></html>

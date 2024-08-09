@@ -16,25 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240807T081045Z
-DTSTART:20240807T123000Z
-DTEND:20240807T143000Z
-SUMMARY:Juegos Olímpicos Femeninos - España - Bélgica
-UID:03c2a19f-95a2-4bba-85f8-f1338d219db9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></
- ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: Eurosport 6\n-
-  PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240807T081045Z
-DTSTART:20240807T193000Z
-DTEND:20240807T213000Z
-SUMMARY:Europeo Sub-18 Femenino - Bélgica - Alemania
-UID:e040c625-e226-4c0a-8b2d-c967292ee232
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
+DTSTAMP:20240809T081123Z
+DTSTART:20240809T190000Z
+DTEND:20240809T210000Z
+SUMMARY:Juegos Olímpicos Femeninos - Francia - Bélgica
+UID:6c6ff700-c249-4781-9f9d-0819cfeb516a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
+ li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR
