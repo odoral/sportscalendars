@@ -16,11 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240811T003801Z
+DTSTAMP:20240811T080928Z
+DTSTART:20240811T133000Z
+DTEND:20240811T153000Z
+SUMMARY:Juegos Olímpicos Femeninos - Francia - Estados Unidos
+UID:25f86d58-8951-4018-8498-abe07970525f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
+ V: Eurosport 6</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
+ t 2\n- PPV: Eurosport 6\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240811T080928Z
 DTSTART:20240811T153000Z
 DTEND:20240811T173000Z
 SUMMARY:Europeo Sub-16 - Eslovenia - Francia
-UID:104130e1-8ebc-4a0d-8eff-f1d88680de3b
+UID:58cd6fce-3d66-462c-9d72-b4c2cc59e6e1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240811T080928Z
+DTSTART:20240811T190000Z
+DTEND:20240811T210000Z
+SUMMARY:Europeo Sub-18 Femenino - España - Francia
+UID:e1119dd7-4a42-401f-8887-35b4c39b580c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
  /ul></body></html>
 DESCRIPTION:- Open: FIBA YouTube
