@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240811T003758Z
+DTSTAMP:20240813T081038Z
 DTSTART:20240817T183000Z
 DTEND:20240817T203000Z
 SUMMARY:Otras competiciones - Stuttgart - Bayer Leverkusen
-UID:11045c5a-548a-41b4-bf2b-2d05a98d139b
+UID:3b122fd3-4460-401e-8848-2d5b813bfcd8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SAT.1 (Astra)</li>
  \n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: SAT.1 (Astra)\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240811T003758Z
+DTSTAMP:20240813T081038Z
 DTSTART:20240817T183000Z
 DTEND:20240817T203000Z
 SUMMARY:Otras competiciones - Bayer Leverkusen - Stuttgart
-UID:7c44a8da-8345-4b3f-8369-9e802685133c
+UID:caedf3a0-4b6b-44cc-92d3-ad936f4b56fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SAT.1 (Astra)</li>
- \n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- Open: SAT.1 (Astra)\n- PPV: M+ Vamos
+ \n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body>
+ </html>
+DESCRIPTION:- Open: SAT.1 (Astra)\n- PPV: M+ Liga de Campeones\n- PPV: M+
+  Vamos
 END:VEVENT
 END:VCALENDAR
