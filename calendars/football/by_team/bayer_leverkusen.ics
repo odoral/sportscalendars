@@ -16,25 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240813T081038Z
+DTSTAMP:20240814T003429Z
 DTSTART:20240817T183000Z
 DTEND:20240817T203000Z
 SUMMARY:Otras competiciones - Stuttgart - Bayer Leverkusen
-UID:3b122fd3-4460-401e-8848-2d5b813bfcd8
+UID:cd2ee871-8b9f-47bc-8181-233313faeeef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SAT.1 (Astra)</li>
  \n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: SAT.1 (Astra)\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240813T081038Z
+DTSTAMP:20240814T003429Z
 DTSTART:20240817T183000Z
 DTEND:20240817T203000Z
 SUMMARY:Otras competiciones - Bayer Leverkusen - Stuttgart
-UID:caedf3a0-4b6b-44cc-92d3-ad936f4b56fc
+UID:d95eab1e-9d28-4f21-9d8f-6e1470d1e358
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SAT.1 (Astra)</li>
  \n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body>
  </html>
 DESCRIPTION:- Open: SAT.1 (Astra)\n- PPV: M+ Liga de Campeones\n- PPV: M+
   Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240814T003429Z
+DTSTART:20240823T183000Z
+DTEND:20240823T203000Z
+SUMMARY:Bundesliga - Borussia Mönchengladbach - Bayer Leverkusen
+UID:32766521-61ac-4995-987c-7a7a16b4224b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

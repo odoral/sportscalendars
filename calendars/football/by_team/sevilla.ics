@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240812T003555Z
+DTSTAMP:20240814T003429Z
 DTSTART:20240816T193000Z
 DTEND:20240816T213000Z
 SUMMARY:Liga EA Sports - Las Palmas - Sevilla
-UID:bcebd1ff-73c9-4d09-bc2c-c93481b29658
+UID:088ce414-2ac7-4231-b014-6c5b486a2cc4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium</li></ul
  ></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240814T003429Z
+DTSTART:20240823T193000Z
+DTEND:20240823T213000Z
+SUMMARY:Liga EA Sports - Sevilla - Villarreal
+UID:21546564-acf6-412b-9062-a2e09469890e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium\n- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

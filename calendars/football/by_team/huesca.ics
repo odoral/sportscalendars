@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240811T003758Z
+DTSTAMP:20240814T003429Z
 DTSTART:20240818T173000Z
 DTEND:20240818T193000Z
 SUMMARY:Liga Hypermotion - Elche - Huesca
-UID:0165a7c3-b0ae-49ed-9017-7f470aa252a5
+UID:155a8184-3621-4e86-adee-136d7471479e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240814T003429Z
+DTSTART:20240823T193000Z
+DTEND:20240823T213000Z
+SUMMARY:Liga Hypermotion - Huesca - Deportivo
+UID:fe862d0d-2bb5-45b3-a5b8-cffa0c814c5c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
+ M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
