@@ -136,19 +136,13 @@ You can import the URL into your favourite calendar app to receive daily updates
 ### By Tournament
 |Name|Action #1|Action #2|
 |----|---------|---------|
-|Europeo Sub-16| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/europeo_sub-16.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/europeo_sub-16.ics)|
 |Europeo Sub-16 Femenino| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/europeo_sub-16_femenino.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/europeo_sub-16_femenino.ics)|
 
 ### By Team
 |Name|Action #1|Action #2|
 |----|---------|---------|
 |España| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/espana.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/espana.ics)|
-|Francia| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/francia.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/francia.ics)|
-|Grecia| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/grecia.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/grecia.ics)|
-|Israel| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/israel.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/israel.ics)|
-|Italia| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/italia.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/italia.ics)|
 |Letonia| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/letonia.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/letonia.ics)|
 |Polonia| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/polonia.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/polonia.ics)|
 |Serbia| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/serbia.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/serbia.ics)|
-|Turquía| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/turquia.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/turquia.ics)|
 

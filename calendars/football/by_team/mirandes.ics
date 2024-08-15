@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240807T003433Z
+DTSTAMP:20240815T003311Z
 DTSTART:20240816T170000Z
 DTEND:20240816T190000Z
 SUMMARY:Liga Hypermotion - Mirandés - Córdoba
-UID:1284f49b-3af0-4042-98ad-34c0948af0e4
+UID:4025a70e-4bdf-478e-9cfc-1509f640a528
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240815T003311Z
+DTSTART:20240824T193000Z
+DTEND:20240824T213000Z
+SUMMARY:Liga Hypermotion - Málaga - Mirandés
+UID:2a3c3604-003a-4413-a429-a5471cbf00d0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
