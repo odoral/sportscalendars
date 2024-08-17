@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240815T081046Z
+DTSTAMP:20240817T003316Z
 DTSTART:20240819T193000Z
 DTEND:20240819T213000Z
 SUMMARY:Liga EA Sports - Villarreal - Atlético de Madrid
-UID:de65e37b-dccd-4c62-a536-51d03673ae23
+UID:55e6667e-afec-4a98-b9ec-a63820e7a9a2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240815T081046Z
+DTSTAMP:20240817T003316Z
 DTSTART:20240823T193000Z
 DTEND:20240823T213000Z
 SUMMARY:Liga EA Sports - Sevilla - Villarreal
-UID:02804559-cb1e-4b65-9807-26ee217a33e2
+UID:c526bdd1-c9ff-48f0-a82e-df47e2a13c37
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium\n- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240817T003316Z
+DTSTART:20240826T193000Z
+DTEND:20240826T213000Z
+SUMMARY:Liga EA Sports - Villarreal - Celta
+UID:5133baf2-4124-4820-bb14-e1e14c968c4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV:
+  GolStadium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TVG\n- PPV: DAZN\n- PPV: DAZN LaLig
+ a\n- PPV: GolStadium
 END:VEVENT
 END:VCALENDAR
