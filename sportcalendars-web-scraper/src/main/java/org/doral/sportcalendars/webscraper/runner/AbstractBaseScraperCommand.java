@@ -14,11 +14,9 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.nio.file.Paths;
-import java.text.Normalizer;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
-import java.util.Locale;
 
 /**
  * @author odoral
@@ -34,17 +32,10 @@ public abstract class AbstractBaseScraperCommand implements Runnable {
         File sportOutputDirectory = Paths.get(Paths.get(projectDirectory.getAbsolutePath(), "calendars").toString(), path).toFile();
         if (sportOutputDirectory.mkdirs() || sportOutputDirectory.exists()) {
             return new File(sportOutputDirectory,
-                    getCalendarFileName(calendarName));
+                    CalendarUtils.getCalendarFileName(calendarName));
         } else {
             throw new WebScraperAppException("Cannot create output folder: " + sportOutputDirectory.getAbsolutePath());
         }
-    }
-
-    protected String getCalendarFileName(String calendarName) {
-        return Normalizer.normalize(
-                        calendarName.toLowerCase(Locale.ROOT).replaceAll("\\s+", "_"),
-                        Normalizer.Form.NFD)
-                .replaceAll("\\p{InCombiningDiacriticalMarks}+", "") + ".ics";
     }
 
     protected List<ReadmeItem> writeCalendars(String sportType, List<Calendar> calendars) throws WebScraperAppException, IOException, CalendarWriterException {
