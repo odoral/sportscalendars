@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240816T003400Z
+DTSTAMP:20240818T231451Z
 DTSTART:20240825T190000Z
 DTEND:20240825T210000Z
 SUMMARY:Amistoso Femenino - Real Madrid Fem. - Madrid C.F.F.
-UID:00444a52-1f67-4a62-ab01-0d2db0f42265
+UID:176f96ec-e993-4e85-9aa8-3ef34da3a123
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  </ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240818T231451Z
+DTSTART:20240827T220000Z
+DTEND:20240828T000000Z
+SUMMARY:Amistoso Femenino - Madrid C.F.F. - UDG Tenerife
+UID:4ad05e5e-e1a2-4ec9-927c-214ad5fd1f4d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: TV Canaria</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: TV Canaria
 END:VEVENT
 END:VCALENDAR
