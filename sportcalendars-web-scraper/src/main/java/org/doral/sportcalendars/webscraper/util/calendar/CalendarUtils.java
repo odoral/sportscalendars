@@ -4,8 +4,10 @@ import org.apache.commons.collections4.keyvalue.AbstractKeyValue;
 import org.apache.commons.collections4.keyvalue.DefaultKeyValue;
 import org.doral.sportcalendars.webscraper.model.calendar.Calendar;
 
+import java.text.Normalizer;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -39,5 +41,14 @@ public class CalendarUtils {
                         .events(entry.getValue())
                         .build())
                 .collect(Collectors.toList());
+    }
+
+    public static String getCalendarFileName(String calendarName) {
+        return Normalizer.normalize(
+                        calendarName.toLowerCase(Locale.ROOT).replaceAll("\\s+", "_"),
+                        Normalizer.Form.NFD)
+                .replaceAll("\\p{InCombiningDiacriticalMarks}+", "")
+                .replaceAll("[^a-zA-Z0-9]", "_")
+                + ".ics";
     }
 }

@@ -16,13 +16,22 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240723T003404Z
-DTSTART:20240723T183000Z
-DTEND:20240723T203000Z
-SUMMARY:Amistoso - España - Puerto Rico
-UID:0bd392a5-a1fc-44a4-a4a4-5fda76f702a7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+DTSTAMP:20240818T232140Z
+DTSTART:20240830T220000Z
+DTEND:20240831T000000Z
+SUMMARY:Amistoso - Baskonia - Lenovo Tenerife
+UID:8784068a-7410-4945-969a-442a844d1e6f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240818T232140Z
+DTSTART:20240901T113000Z
+DTEND:20240901T133000Z
+SUMMARY:Amistoso - Beijing Ducks - Barça Basket
+UID:2df72b30-3064-44f7-a7c7-4b3bb72e7e06
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

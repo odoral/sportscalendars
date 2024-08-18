@@ -16,25 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240815T081046Z
-DTSTART:20240817T183000Z
-DTEND:20240817T203000Z
-SUMMARY:Otras competiciones - Stuttgart - Bayer Leverkusen
-UID:fdec43f6-2884-4768-a05e-09c542d5eb50
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SAT.1 (Astra)</li>
- \n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- Open: SAT.1 (Astra)\n- PPV: M+ Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240815T081046Z
-DTSTART:20240817T183000Z
-DTEND:20240817T203000Z
-SUMMARY:Otras competiciones - Bayer Leverkusen - Stuttgart
-UID:6c81ce24-f6a6-4082-9f1a-0dab887e1918
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SAT.1 (Astra)</li>
- \n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body>
- </html>
-DESCRIPTION:- Open: SAT.1 (Astra)\n- PPV: M+ Liga de Campeones\n- PPV: M+
-  Vamos
+DTSTAMP:20240818T232137Z
+DTSTART:20240824T133000Z
+DTEND:20240824T153000Z
+SUMMARY:Bundesliga - Friburgo - Stuttgart
+UID:252c6250-54e9-40d3-837e-6f471c81b659
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
