@@ -16,33 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240821T003435Z
-DTSTART:20240820T190000Z
-DTEND:20240820T210000Z
-SUMMARY:Champions League - Bodø/Glimt - Crvena Zvezda
-UID:ab00f9e8-dddf-478a-89e1-1c781266283a
+DTSTAMP:20240821T041048Z
+DTSTART:20240821T190000Z
+DTEND:20240821T210000Z
+SUMMARY:Champions League - Dinamo de Kiev - Red Bull Salzburg
+UID:d2bc0bec-fd6e-4904-a613-645df7462228
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240821T003435Z
-DTSTART:20240820T190000Z
-DTEND:20240820T210000Z
-SUMMARY:Champions League - Lille - Slavia Praha
-UID:77bc16cd-a970-4483-96d7-6c93cf3867a9
+DTSTAMP:20240821T041048Z
+DTSTART:20240821T190000Z
+DTEND:20240821T210000Z
+SUMMARY:Champions League - FC Midtjylland - Slovan Bratislava
+UID:772fb14d-5686-470b-83d8-0b84bf15457c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240821T041048Z
+DTSTART:20240821T190000Z
+DTEND:20240821T210000Z
+SUMMARY:Champions League - Young Boys - Galatasaray
+UID:11d3bb43-5400-4f71-9963-f6d88faa9a59
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240821T003435Z
-DTSTART:20240820T190000Z
-DTEND:20240820T210000Z
-SUMMARY:Champions League - Dinamo Zagreb - Qarabag FK
-UID:3244c7c5-86f7-4861-92d2-bd4be0184efc
+DTSTAMP:20240821T041048Z
+DTSTART:20240821T190000Z
+DTEND:20240821T210000Z
+SUMMARY:Champions League - Malmö FF - Sparta Praga
+UID:1bff77bd-243e-4c2d-aaab-59e3ad7327f9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2
+ s 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 END:VCALENDAR
