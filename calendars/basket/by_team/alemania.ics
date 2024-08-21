@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240817T081014Z
+DTSTAMP:20240821T081057Z
+DTSTART:20240821T133000Z
+DTEND:20240821T153000Z
+SUMMARY:Europeo Sub-16 Femenino - Alemania - España
+UID:a864cdd6-2771-407b-aec9-bae101579ea0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240821T081057Z
 DTSTART:20240823T111500Z
 DTEND:20240823T131500Z
 SUMMARY:Otras competiciones - Alemania - España
-UID:168987f4-c13c-4739-ad54-0c20adf3dd53
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
- ></body></html>
-DESCRIPTION:- Open: rtve Play
+UID:218f2711-993b-45cc-b5e2-44fe3e30552a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
