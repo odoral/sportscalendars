@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240817T003316Z
+DTSTAMP:20240822T003430Z
 DTSTART:20240824T170000Z
 DTEND:20240824T190000Z
 SUMMARY:Liga Hypermotion - Levante - Cádiz
-UID:4f397ef0-dc14-4022-b02a-7c3ffe8c0fd5
+UID:fdd0fe3c-2753-42a8-b140-737f8b9da4d7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
+ Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240822T003430Z
+DTSTART:20240831T170000Z
+DTEND:20240831T190000Z
+SUMMARY:Liga Hypermotion - Cádiz - Tenerife
+UID:61d0926e-6e75-492f-bd5c-b12bad0bf95a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  Movistar Plus+</li></ul></body></html>

@@ -16,25 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240820T003432Z
+DTSTAMP:20240822T003430Z
 DTSTART:20240823T193000Z
 DTEND:20240823T213000Z
 SUMMARY:Liga EA Sports - Sevilla - Villarreal
-UID:10741f9b-290a-4f1a-8ca2-1bd6f6403fdc
+UID:62e60f77-d4c3-49b5-9307-fd89c7f58140
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium\n- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240820T003432Z
+DTSTAMP:20240822T003430Z
 DTSTART:20240826T193000Z
 DTEND:20240826T213000Z
 SUMMARY:Liga EA Sports - Villarreal - Celta
-UID:4d09192b-fc34-4889-924a-de3a8f4f7265
+UID:083f1d62-99da-45a3-8a9a-82370bfa1b1f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV:
   GolStadium</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TVG\n- PPV: DAZN\n- PPV: DAZN LaLig
  a\n- PPV: GolStadium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240822T003430Z
+DTSTART:20240831T193000Z
+DTEND:20240831T213000Z
+SUMMARY:Liga EA Sports - Valencia - Villarreal
+UID:4ba7a5ac-bdb9-4648-98ba-76dffe4a5616
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
