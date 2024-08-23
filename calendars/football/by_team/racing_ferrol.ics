@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240818T003735Z
+DTSTAMP:20240823T003446Z
 DTSTART:20240824T150000Z
 DTEND:20240824T170000Z
 SUMMARY:Liga Hypermotion - Racing Ferrol - Granada C.F.
-UID:18bbc017-ec15-460e-b463-fa3b7da3c397
+UID:c93d7d67-870a-48f7-9214-3e2f2c503f88
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240823T003446Z
+DTSTART:20240901T150000Z
+DTEND:20240901T170000Z
+SUMMARY:Liga Hypermotion - Deportivo - Racing Ferrol
+UID:5ac17213-5fa0-48b3-ae5a-656c6d8db09b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR

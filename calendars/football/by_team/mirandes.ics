@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240817T003316Z
+DTSTAMP:20240823T003445Z
 DTSTART:20240824T193000Z
 DTEND:20240824T213000Z
 SUMMARY:Liga Hypermotion - Málaga - Mirandés
-UID:94c1c36c-ac90-4155-b7a0-a3185ae92afc
+UID:e72c4e3f-6c9e-4309-9d1e-2446b2681e36
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240823T003445Z
+DTSTART:20240901T170000Z
+DTEND:20240901T190000Z
+SUMMARY:Liga Hypermotion - Mirandés - Real Zaragoza
+UID:7489ab7d-6e12-4547-8707-dd7a0e545670
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR

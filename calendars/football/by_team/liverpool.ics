@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240820T081148Z
+DTSTAMP:20240823T003446Z
 DTSTART:20240825T153000Z
 DTEND:20240825T173000Z
 SUMMARY:Premier League - Liverpool - Brentford
-UID:2bf35596-45da-4c87-9a11-7049cacf9faa
+UID:6d9127c6-2a47-4e19-a593-ab55b0ac19a6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
  +</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
  V: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240823T003446Z
+DTSTART:20240901T150000Z
+DTEND:20240901T170000Z
+SUMMARY:Premier League - Manchester United - Liverpool
+UID:362ebb39-e5c8-463c-b364-7b77ac870a97
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR
