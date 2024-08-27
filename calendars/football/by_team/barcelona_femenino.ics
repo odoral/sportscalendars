@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240823T081132Z
-DTSTART:20240823T180000Z
-DTEND:20240823T200000Z
-SUMMARY:Otras competiciones - Barcelona Femenino - AC Milan Fem.
-UID:971dd57b-f0ba-490b-9d95-86d0c8349d6b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li></ul></bod
- y></html>
-DESCRIPTION:- Open: TV3
+DTSTAMP:20240827T081057Z
+DTSTART:20240828T020000Z
+DTEND:20240828T040000Z
+SUMMARY:Amistoso Femenino - Bay F.C. - Barcelona Femenino
+UID:8e9d08fc-f735-489a-9d3f-adfb4e32778a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>Open: TV3</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- Open: TV3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240827T081057Z
+DTSTART:20240831T003000Z
+DTEND:20240831T023000Z
+SUMMARY:Amistoso Femenino - Dallas Trinity - Barcelona Femenino
+UID:892b61dd-58c1-4a6e-bed8-d646ae2c31d0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>Open: TV3</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- Open: TV3
 END:VEVENT
 END:VCALENDAR
