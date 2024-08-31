@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240801T201154Z
-DTSTART:20240802T190000Z
-DTEND:20240802T210000Z
-SUMMARY:Juegos Olímpicos - Francia - Argentina
-UID:f461aa75-4f67-4046-bf80-c9da6cf8e976
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  Eurosport 2</li>\n<li>PPV: Eurosport 5</li>\n<li>PPV: MAX</li></ul></bo
- dy></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: Eurosport 2\n- PPV: Eurosport 5\n- PPV: M
- AX
+DTSTAMP:20240831T003608Z
+DTSTART:20240906T000000Z
+DTEND:20240906T020000Z
+SUMMARY:Mundial 2026 - Argentina - Chile
+UID:719d07ab-a620-4ea7-bd16-4493151470ef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 END:VCALENDAR

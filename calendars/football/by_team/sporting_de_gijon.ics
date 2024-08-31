@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240825T003803Z
+DTSTAMP:20240831T003608Z
 DTSTART:20240831T193000Z
 DTEND:20240831T213000Z
 SUMMARY:Liga Hypermotion - Almería - Sporting de Gijón
-UID:d18fa1b9-10e6-48c2-a05f-56fe7ef68011
+UID:a7ab1e96-0645-4d71-b15c-0a1c64401f49
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240831T003608Z
+DTSTART:20240907T163000Z
+DTEND:20240907T183000Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Real Oviedo
+UID:70142ef0-9317-4d8d-944b-7814717518e3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
+ Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

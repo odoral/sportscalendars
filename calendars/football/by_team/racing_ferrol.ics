@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240825T003803Z
+DTSTAMP:20240831T003608Z
 DTSTART:20240901T150000Z
 DTEND:20240901T170000Z
 SUMMARY:Liga Hypermotion - Deportivo - Racing Ferrol
-UID:c7eaf6fa-1608-4434-8558-e077955c2f52
+UID:b0bcdd0a-d310-4759-9a83-0bf1abdd3f52
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240831T003608Z
+DTSTART:20240908T120000Z
+DTEND:20240908T140000Z
+SUMMARY:Liga Hypermotion - Racing Ferrol - Mirandés
+UID:dfdb50f2-9105-4146-a9fd-bae6edee1ed1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
