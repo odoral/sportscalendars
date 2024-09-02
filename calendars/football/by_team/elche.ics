@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240831T003608Z
+DTSTAMP:20240902T003802Z
 DTSTART:20240902T193000Z
 DTEND:20240902T213000Z
 SUMMARY:Liga Hypermotion - Elche - Córdoba
-UID:e234ab76-450d-4098-98af-c2b5f0f3f6a5
+UID:da869138-4490-4c69-8d87-af8fff1c769b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240831T003608Z
+DTSTAMP:20240902T003802Z
+DTSTART:20240902T193000Z
+DTEND:20240902T213000Z
+SUMMARY:Liga Hypermotion - Elche - Córdoba
+UID:cb891d3e-0cd7-4b54-a559-a9f23823eb7b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240902T003802Z
 DTSTART:20240908T163000Z
 DTEND:20240908T183000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Elche
-UID:cacfa395-c808-49cc-924f-ef2257d198f2
+UID:6388e85b-1389-4b8e-9efc-62590bc673b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>

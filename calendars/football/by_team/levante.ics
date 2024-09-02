@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240831T003608Z
+DTSTAMP:20240902T003802Z
 DTSTART:20240902T170000Z
 DTEND:20240902T190000Z
 SUMMARY:Liga Hypermotion - Eibar - Levante
-UID:d4fa6c64-73d5-4b92-9d0b-dbcab2803a50
+UID:643b901d-377b-4f5d-98ff-c2f9d42bfd5f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240831T003608Z
+DTSTAMP:20240902T003802Z
+DTSTART:20240902T170000Z
+DTEND:20240902T190000Z
+SUMMARY:Liga Hypermotion - Eibar - Levante
+UID:1c5a4e0d-48e5-4c81-a44d-91a5758df218
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240902T003802Z
 DTSTART:20240908T141500Z
 DTEND:20240908T161500Z
 SUMMARY:Liga Hypermotion - Cartagena - Levante
-UID:5797c860-c7e1-41f3-9de9-89c1334ec92d
+UID:52f4dc40-742a-4b96-9d21-7b9c1db5ece8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>

@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240831T003608Z
+DTSTAMP:20240902T003801Z
 DTSTART:20240902T193000Z
 DTEND:20240902T213000Z
 SUMMARY:Liga Hypermotion - Elche - Córdoba
-UID:82b88fa3-f324-4706-b596-05dbbc3614b5
+UID:2c4d0c73-9366-4c8f-9e5f-f0d35daa68bd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240831T003608Z
+DTSTAMP:20240902T003801Z
+DTSTART:20240902T193000Z
+DTEND:20240902T213000Z
+SUMMARY:Liga Hypermotion - Elche - Córdoba
+UID:6e6581bb-8289-476a-93ff-d38069f9f59c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240902T003801Z
 DTSTART:20240907T190000Z
 DTEND:20240907T210000Z
 SUMMARY:Liga Hypermotion - Córdoba - Málaga
-UID:55c21e14-2370-4648-b85f-116f7ca0f6ca
+UID:60634774-30bf-4e40-abc1-75cd8abeea66
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
