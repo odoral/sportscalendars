@@ -16,35 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
-DTSTART:20240902T170000Z
-DTEND:20240902T190000Z
-SUMMARY:Liga Hypermotion - Eibar - Levante
-UID:7cb14b9c-6cc8-4dcf-9208-94081fd4c4f9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
- ></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
- rmotion
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
-DTSTART:20240902T193000Z
-DTEND:20240902T213000Z
-SUMMARY:Liga Hypermotion - Elche - Córdoba
-UID:9f215e24-4564-41c8-878a-54ec547b077e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
- ></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
- rmotion
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
+DTSTAMP:20240903T003533Z
 DTSTART:20240906T190000Z
 DTEND:20240906T210000Z
 SUMMARY:Liga Hypermotion - Tenerife - Racing de Santander
-UID:e684add4-54ca-4fec-bf1f-88240dca4301
+UID:1a1c0fbd-fba1-4680-8c3a-1187c37ec2fa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  M+ Vamos</li></ul></body></html>
@@ -52,11 +28,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
+DTSTAMP:20240903T003533Z
 DTSTART:20240907T141500Z
 DTEND:20240907T161500Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Deportivo
-UID:df3f3bf3-7705-48da-9b41-c84834b44f20
+UID:1c68a495-fcde-4443-ad91-d5253ecc33be
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
@@ -64,11 +40,23 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
+DTSTAMP:20240903T003533Z
+DTSTART:20240907T163000Z
+DTEND:20240907T183000Z
+SUMMARY:Liga Hypermotion - Huesca - Burgos C.F.
+UID:759d8e35-c7a6-4999-af27-4df530b392ac
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240903T003533Z
 DTSTART:20240907T163000Z
 DTEND:20240907T183000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Real Oviedo
-UID:491ffa83-b1b0-4600-8dd1-fe37fa300c7f
+UID:fe0e9162-e4e2-46ef-9360-cd82dcd54ca3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  Movistar Plus+</li></ul></body></html>
@@ -76,23 +64,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
-DTSTART:20240907T163000Z
-DTEND:20240907T183000Z
-SUMMARY:Liga Hypermotion - Huesca - Burgos C.F.
-UID:944ed002-1b73-416e-aa41-baf0e318bce9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
- dy></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
- rmotion 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
+DTSTAMP:20240903T003533Z
 DTSTART:20240907T190000Z
 DTEND:20240907T210000Z
 SUMMARY:Liga Hypermotion - Córdoba - Málaga
-UID:3e7e8556-26e0-44e8-8549-88d990fdd127
+UID:2c6debbc-c0dd-42d0-8a03-d65bf85b4f57
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
@@ -100,11 +76,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
+DTSTAMP:20240903T003533Z
 DTSTART:20240908T120000Z
 DTEND:20240908T140000Z
 SUMMARY:Liga Hypermotion - Racing Ferrol - Mirandés
-UID:edd2efb0-c4b3-484f-85c5-42b17b6b133e
+UID:d77def8d-dc8d-4c67-b0b6-42dc1e9e466f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
@@ -112,11 +88,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
+DTSTAMP:20240903T003533Z
 DTSTART:20240908T141500Z
 DTEND:20240908T161500Z
 SUMMARY:Liga Hypermotion - Cartagena - Levante
-UID:771e12b2-8ba3-432a-b99c-acc9dc8e1c28
+UID:d267847f-a42d-4c30-90b0-fd4a917ff32c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
@@ -124,11 +100,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
+DTSTAMP:20240903T003533Z
 DTSTART:20240908T163000Z
 DTEND:20240908T183000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Elche
-UID:df95f445-2802-4d9a-a4a5-50d597f3a40f
+UID:4230522a-46e4-4df8-ab58-0479b3f6a7e8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
@@ -136,11 +112,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
+DTSTAMP:20240903T003533Z
 DTSTART:20240908T163000Z
 DTEND:20240908T183000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Almería
-UID:377f7fac-5ff4-4e7e-8c0d-290afe3ead61
+UID:dacf66f1-c45b-472e-a511-00ac41c53b80
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>
@@ -148,11 +124,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
+DTSTAMP:20240903T003533Z
 DTSTART:20240909T190000Z
 DTEND:20240909T210000Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Cádiz
-UID:775feecc-891d-4d41-924d-636909f35afb
+UID:0897f43e-a0f1-43e8-b001-700f95945c45
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
@@ -160,11 +136,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240902T041027Z
+DTSTAMP:20240903T003533Z
 DTSTART:20240909T190000Z
 DTEND:20240909T210000Z
 SUMMARY:Liga Hypermotion - Albacete - Eibar
-UID:ca44eede-4709-4015-83f1-595ac16d257a
+UID:d5a2c471-5fba-4f23-8f87-a43924ac366a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>
