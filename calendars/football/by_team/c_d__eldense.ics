@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240902T003801Z
+DTSTAMP:20240905T041021Z
 DTSTART:20240908T163000Z
 DTEND:20240908T183000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Almería
-UID:43ffee0f-5160-46b9-8108-6a6ded1efabf
+UID:2a20901b-5142-4124-97a4-27705700a9ad
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240905T041021Z
+DTSTART:20240914T141500Z
+DTEND:20240914T161500Z
+SUMMARY:Liga Hypermotion - Levante - C.D. Eldense
+UID:05469421-ae83-44d7-9e23-a5dc93185cc8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>

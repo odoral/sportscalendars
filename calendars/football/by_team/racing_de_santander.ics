@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240831T003608Z
+DTSTAMP:20240905T041022Z
 DTSTART:20240906T190000Z
 DTEND:20240906T210000Z
 SUMMARY:Liga Hypermotion - Tenerife - Racing de Santander
-UID:b3efba24-21bd-4c9c-875d-18cba0ac080f
+UID:bd0aee71-e523-41f4-a71c-c69c748fb6ca
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240905T041022Z
+DTSTART:20240914T163000Z
+DTEND:20240914T183000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Sporting de Gijón
+UID:341ced13-eb03-4005-b972-58beb6c829b8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
+ Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

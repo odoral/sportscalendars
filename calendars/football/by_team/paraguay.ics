@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240905T003616Z
+DTSTAMP:20240905T041021Z
+DTSTART:20240904T220000Z
+DTEND:20240905T000000Z
+SUMMARY:Mundial Sub-20 Femenino - España - Paraguay
+UID:1345282e-c490-422b-a5b5-fe6ef40ccb99
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240905T041021Z
 DTSTART:20240906T233000Z
 DTEND:20240907T013000Z
 SUMMARY:Mundial 2026 - Uruguay - Paraguay
-UID:6dcadd67-b1b7-479d-8498-ef2f631d3a4d
+UID:a6039635-657f-478e-a172-88e78ad2fa5b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4
+ s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240905T003616Z
+DTSTAMP:20240905T041021Z
 DTSTART:20240907T230000Z
 DTEND:20240908T010000Z
 SUMMARY:Mundial Sub-20 Femenino - Estados Unidos - Paraguay
-UID:4ba460df-92bc-463a-b1d7-4203bef3189c
+UID:65a86997-9142-4989-94bd-6d31261e0ada
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li></ul></b
  ody></html>
 DESCRIPTION:- Open: FIFA+

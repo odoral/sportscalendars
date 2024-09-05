@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240902T003802Z
+DTSTAMP:20240905T041022Z
 DTSTART:20240907T141500Z
 DTEND:20240907T161500Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Deportivo
-UID:26c2424d-47bf-4548-9b55-0081c143abb4
+UID:0bf8d69a-c2e3-450e-850e-ef25999df7c2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240905T041022Z
+DTSTART:20240913T183000Z
+DTEND:20240913T203000Z
+SUMMARY:Liga Hypermotion - Córdoba - Deportivo
+UID:02c06db6-9c18-4620-9243-9a008fc522e5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
+ M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
