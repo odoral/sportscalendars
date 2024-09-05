@@ -16,63 +16,103 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240905T041021Z
+DTSTAMP:20240905T081118Z
 DTSTART:20240905T200000Z
 DTEND:20240905T220000Z
 SUMMARY:Mundial 2026 - Bolivia - Venezuela
-UID:17660eba-dd19-4878-a1de-0439255dd67a
+UID:b4929ea3-8313-4a00-84b5-7476aafac2ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>PP
  V: M+ Liga de Campeones 2</li></ul></body></html>
 DESCRIPTION:- Open: FIFA+\n- PPV: M+ Liga de Campeones 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240905T041021Z
+DTSTAMP:20240905T081118Z
 DTSTART:20240906T000000Z
 DTEND:20240906T020000Z
 SUMMARY:Mundial 2026 - Argentina - Chile
-UID:b0a81cde-9562-458a-914c-84ac8f79ce78
+UID:7e1ca521-887d-4feb-9950-e68602b8a9e4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240905T041021Z
+DTSTAMP:20240905T081118Z
 DTSTART:20240906T233000Z
 DTEND:20240907T013000Z
 SUMMARY:Mundial 2026 - Uruguay - Paraguay
-UID:40ba9577-62a6-4c71-bf20-fe758b7bc222
+UID:f403fc62-5e11-49b6-af79-5852a9d32800
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240905T041021Z
+DTSTAMP:20240905T081118Z
 DTSTART:20240907T010000Z
 DTEND:20240907T030000Z
 SUMMARY:Mundial 2026 - Brasil - Ecuador
-UID:91ea0aa1-bd35-44f3-9c66-8bc8c06b044a
+UID:3e731e67-2ed8-4ca8-b53c-1edbcce0e516
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240905T041021Z
+DTSTAMP:20240905T081118Z
 DTSTART:20240907T013000Z
 DTEND:20240907T033000Z
 SUMMARY:Mundial 2026 - Perú - Colombia
-UID:024f5efb-15b2-4816-86a7-218afc9f522f
+UID:af85bb90-4f0b-4695-ad25-d125526b3d56
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240905T041021Z
+DTSTAMP:20240905T081118Z
 DTSTART:20240910T203000Z
 DTEND:20240910T223000Z
 SUMMARY:Mundial 2026 - Colombia - Argentina
-UID:4f5e1267-164b-457b-aa44-d68adcd56451
+UID:72a70d31-3e3b-4d82-8a60-231f2056d266
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 5</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 5\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240905T081118Z
+DTSTART:20240910T210000Z
+DTEND:20240910T230000Z
+SUMMARY:Mundial 2026 - Ecuador - Perú
+UID:1d0a063b-5f8d-4718-af03-f7a8b29cb7c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240905T081118Z
+DTSTART:20240910T210000Z
+DTEND:20240910T230000Z
+SUMMARY:Mundial 2026 - Chile - Bolivia
+UID:841954cd-ba2c-4a49-83e5-2fb95d23d495
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240905T081118Z
+DTSTART:20240910T220000Z
+DTEND:20240911T000000Z
+SUMMARY:Mundial 2026 - Venezuela - Uruguay
+UID:c236280f-b43f-45be-81a2-5765ae3ac934
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240905T081118Z
+DTSTART:20240911T003000Z
+DTEND:20240911T023000Z
+SUMMARY:Mundial 2026 - Paraguay - Brasil
+UID:850a8be7-6dbf-46f9-bad0-04d50b06a0bc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 5</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 5
 END:VEVENT
 END:VCALENDAR
