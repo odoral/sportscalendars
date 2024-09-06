@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240831T003608Z
+DTSTAMP:20240906T003609Z
 DTSTART:20240907T163000Z
 DTEND:20240907T183000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Real Oviedo
-UID:639b5561-9b47-4548-bb3d-bd26c0959057
+UID:c94773c5-174a-40c1-a954-8ff624321d9d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240906T003609Z
+DTSTART:20240915T141500Z
+DTEND:20240915T161500Z
+SUMMARY:Liga Hypermotion - Real Oviedo - Cartagena
+UID:28850aed-548f-443d-bb29-a38e106abe40
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR

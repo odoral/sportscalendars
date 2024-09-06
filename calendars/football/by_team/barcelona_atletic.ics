@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240902T081150Z
+DTSTAMP:20240906T003609Z
 DTSTART:20240907T193000Z
 DTEND:20240907T213000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Ourense C.F.
-UID:6c49654d-6116-4f65-bb3c-da1d5796cb8c
+UID:f1b19af1-ebb5-495b-b2dd-4d68e8596b80
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240906T003609Z
+DTSTART:20240915T100000Z
+DTEND:20240915T120000Z
+SUMMARY:Primera Federación - Unionistas - Barcelona Atlètic
+UID:ee9f57f8-f5e1-4e4c-9147-ed42f9daf41d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
