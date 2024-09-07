@@ -16,13 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240906T003615Z
+DTSTAMP:20240907T081005Z
 DTSTART:20240907T180000Z
 DTEND:20240907T200000Z
 SUMMARY:Amistoso - Casademont Zaragoza - Joventut Badalona
-UID:95f9badc-d471-456c-aeef-11294edb6176
+UID:9829dad2-d7da-479f-9857-df4300934dd1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240907T081005Z
+DTSTART:20240911T183000Z
+DTEND:20240911T203000Z
+SUMMARY:Otras competiciones - BAXI Manresa - Joventut Badalona
+UID:d6135080-5bc7-4eea-8068-dcb5bbc3bbb2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240907T081005Z
+DTSTART:20240913T163000Z
+DTEND:20240913T183000Z
+SUMMARY:Otras competiciones - Joventut Badalona - ICG Força Lleida
+UID:f863ea86-7e13-41ee-af0e-d0d86b53b8f2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
 END:VEVENT
 END:VCALENDAR
