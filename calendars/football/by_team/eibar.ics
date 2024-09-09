@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240905T041021Z
+DTSTAMP:20240909T003809Z
 DTSTART:20240909T190000Z
 DTEND:20240909T210000Z
 SUMMARY:Liga Hypermotion - Albacete - Eibar
-UID:55dfd4be-68d4-4406-8580-a3806710d087
+UID:b44068f9-68d4-40c3-8a0d-db3e337d2667
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240905T041021Z
+DTSTAMP:20240909T003809Z
+DTSTART:20240909T190000Z
+DTEND:20240909T210000Z
+SUMMARY:Liga Hypermotion - Albacete - Eibar
+UID:69104b27-7b3e-4292-baa6-7941d73ccdef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240909T003809Z
 DTSTART:20240914T141500Z
 DTEND:20240914T161500Z
 SUMMARY:Liga Hypermotion - Eibar - Tenerife
-UID:4d3992be-3937-4157-a5d2-df7f39389470
+UID:bad3b060-148d-4163-809c-e8e24cd7fab5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
