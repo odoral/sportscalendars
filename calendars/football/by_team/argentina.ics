@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240909T003809Z
+DTSTAMP:20240910T081118Z
 DTSTART:20240910T203000Z
 DTEND:20240910T223000Z
 SUMMARY:Mundial 2026 - Colombia - Argentina
-UID:2039baf3-08a2-41ee-aaf8-0e02863b2cc0
+UID:8a80094f-8a47-44d1-9587-f815c1624446
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 5</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 5\n-
   PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240910T081118Z
+DTSTART:20240912T213000Z
+DTEND:20240912T233000Z
+SUMMARY:Mundial Sub-20 Femenino - Alemania - Argentina
+UID:b0a49ffc-b2d6-4c73-ad58-1dc0df98dbec
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: FIFA+
 END:VEVENT
 END:VCALENDAR

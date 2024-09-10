@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240909T003809Z
+DTSTAMP:20240910T081118Z
 DTSTART:20240910T154500Z
 DTEND:20240910T174500Z
 SUMMARY:Europeo Sub-21 - Hungría - España
-UID:2338e9e9-5b43-4ae3-9cd6-5bcd6b9871c3
+UID:deefbd5c-92e2-4962-aa54-c0498b706b57
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240910T081118Z
+DTSTART:20240911T213000Z
+DTEND:20240911T233000Z
+SUMMARY:Mundial Sub-20 Femenino - España - Canada
+UID:ab0ad198-30ec-462a-a7c6-707f761c5cfc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play

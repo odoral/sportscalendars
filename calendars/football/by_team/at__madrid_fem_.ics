@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240907T080958Z
+DTSTAMP:20240910T081118Z
 DTSTART:20240911T180000Z
 DTEND:20240911T200000Z
 SUMMARY:Liga F - At. Madrid Fem. - Granada Fem.
-UID:e1dbc1ff-a0a4-488f-a35d-f02e78917da7
+UID:64f32e25-eeb8-48ae-8e31-651338d294e9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240907T080958Z
+DTSTAMP:20240910T081118Z
 DTSTART:20240915T140000Z
 DTEND:20240915T160000Z
 SUMMARY:Liga F - At. Madrid Fem. - Deportivo Abanca
-UID:671477de-bf69-4f91-9b1e-b6d694101df9
+UID:16c03b83-7813-41e8-a318-be93519ffcf8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: GolStadium</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: GolStadium
+ >Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 2</li>\n<li>PPV: Go
+ lStadium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TVG 2\n- PPV: DAZN\n- PPV: DAZN 2\n
+ - PPV: GolStadium
 END:VEVENT
 END:VCALENDAR
