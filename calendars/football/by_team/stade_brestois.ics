@@ -17,22 +17,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20240910T003651Z
-DTSTART:20240915T141500Z
-DTEND:20240915T161500Z
-SUMMARY:Liga EA Sports - Girona - Barcelona
-UID:13e1555f-0242-42d4-a308-fadc861c1090
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
- ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240910T003651Z
 DTSTART:20240919T190000Z
 DTEND:20240919T210000Z
-SUMMARY:Champions League - Mónaco - Barcelona
-UID:31bf1cdc-31c2-49ac-a04e-45e11b71ad04
+SUMMARY:Champions League - Stade Brestois - Sturm Graz
+UID:d91874b7-3be6-497a-995c-55018e9bb5fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
