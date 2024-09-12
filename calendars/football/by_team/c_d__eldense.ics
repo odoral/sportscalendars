@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240909T003809Z
+DTSTAMP:20240912T041043Z
 DTSTART:20240914T141500Z
 DTEND:20240914T161500Z
 SUMMARY:Liga Hypermotion - Levante - C.D. Eldense
-UID:a66b899e-600c-4278-a5cf-423360878cf9
+UID:6eb39965-af7b-494e-b480-f5cf6bc3d733
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240912T041043Z
+DTSTART:20240921T163000Z
+DTEND:20240921T183000Z
+SUMMARY:Liga Hypermotion - C.D. Eldense - Real Oviedo
+UID:efd9b723-9a21-40f7-a646-ac1aaf590935
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>

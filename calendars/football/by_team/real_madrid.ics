@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240911T081126Z
+DTSTAMP:20240912T041044Z
 DTSTART:20240914T190000Z
 DTEND:20240914T210000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Real Madrid
-UID:ef91fd77-7e07-413d-8d23-e2ed62977457
+UID:53b9d356-27b6-483b-a092-99278254620e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
  html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
  lus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240911T081126Z
+DTSTAMP:20240912T041044Z
 DTSTART:20240917T190000Z
 DTEND:20240917T210000Z
 SUMMARY:Champions League - Real Madrid - Stuttgart
-UID:1f8c6651-1942-4454-8514-7ec22ff77866
+UID:f9fd7e9a-5207-4d48-925b-f2832931574f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240912T041044Z
+DTSTART:20240921T190000Z
+DTEND:20240921T210000Z
+SUMMARY:Liga EA Sports - Real Madrid - Espanyol
+UID:bbe928c3-8f4b-47b9-b62e-333cd32b9121
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

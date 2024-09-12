@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240908T004000Z
+DTSTAMP:20240912T041043Z
 DTSTART:20240915T100000Z
 DTEND:20240915T120000Z
 SUMMARY:Primera Federación - R.M. Castilla - Betis Deportivo
-UID:392b56c2-0ab8-4063-bb29-e01daf398e53
+UID:c66ab98b-d1af-4123-aed0-c3bb03b04e1a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  \n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240908T004000Z
+DTSTAMP:20240912T041043Z
 DTSTART:20240915T100000Z
 DTEND:20240915T120000Z
 SUMMARY:Primera Federación - Unionistas - Barcelona Atlètic
-UID:5f96a0f1-755b-483f-9d5d-616dc5bb4681
+UID:a70bfca7-0021-4d7e-a861-89cf7eeab84d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240912T041043Z
+DTSTART:20240921T173000Z
+DTEND:20240921T193000Z
+SUMMARY:Primera Federación - Barcelona Atlètic - Zamora C.F.
+UID:bf81273a-4ff7-411e-af63-4bf6ac8114ab
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- PPV: FEF TV

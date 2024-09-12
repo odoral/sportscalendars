@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240908T004000Z
+DTSTAMP:20240912T041044Z
 DTSTART:20240913T183000Z
 DTEND:20240913T203000Z
 SUMMARY:Liga Hypermotion - Córdoba - Deportivo
-UID:90c9d237-bca8-4712-bfe3-bbfb7b929992
+UID:bacd20f8-f693-452a-90b0-ed80b165f432
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240912T041044Z
+DTSTART:20240921T163000Z
+DTEND:20240921T183000Z
+SUMMARY:Liga Hypermotion - Deportivo - Burgos C.F.
+UID:9546df83-bc97-4827-bf65-62215b37a3bc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR
