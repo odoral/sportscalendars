@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240907T003544Z
+DTSTAMP:20240913T003636Z
 DTSTART:20240916T190000Z
 DTEND:20240916T210000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Osasuna
-UID:346e7d13-c726-49f9-be74-3b42e4839570
+UID:5a5f4f60-4fa5-4c3d-8dfa-ee81ca780d8d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: Gol Play</li>\n<li>PPV: GolStadium</li>\n<li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- PPV: GolStadium\n- PPV: M+ 
  LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240913T003636Z
+DTSTART:20240922T190000Z
+DTEND:20240922T210000Z
+SUMMARY:Liga EA Sports - Rayo Vallecano - Atlético de Madrid
+UID:0b4162cf-8ba0-44f0-972e-0de37d56d7ca
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

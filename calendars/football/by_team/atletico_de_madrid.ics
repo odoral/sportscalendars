@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240912T041044Z
+DTSTAMP:20240913T003636Z
 DTSTART:20240915T190000Z
 DTEND:20240915T210000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Valencia
-UID:baa5a550-17b0-4330-8e5e-8f5d1191d5ed
+UID:de9926c4-83a8-4cab-8ecf-4f037b52928b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240912T041044Z
+DTSTAMP:20240913T003636Z
 DTSTART:20240919T190000Z
 DTEND:20240919T210000Z
 SUMMARY:Champions League - Atlético de Madrid - RB Leipzig
-UID:d6f6c81a-2368-42d0-bbb7-0f84bb4bffa6
+UID:dac9ed32-34d4-4ca4-9366-cfd1526825f9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240913T003636Z
+DTSTART:20240922T190000Z
+DTEND:20240922T210000Z
+SUMMARY:Liga EA Sports - Rayo Vallecano - Atlético de Madrid
+UID:c7f36931-b78d-4f73-a398-0712a58a32c6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

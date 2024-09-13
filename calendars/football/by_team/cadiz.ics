@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240910T003651Z
+DTSTAMP:20240913T003636Z
 DTSTART:20240915T163000Z
 DTEND:20240915T183000Z
 SUMMARY:Liga Hypermotion - Cádiz - Racing Ferrol
-UID:99862b72-fc36-43a4-bf4b-fd404d162c1a
+UID:6705989c-e1b8-4e3c-bd93-04cc18e0eb52
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240913T003636Z
+DTSTART:20240922T141500Z
+DTEND:20240922T161500Z
+SUMMARY:Liga Hypermotion - Cartagena - Cádiz
+UID:ea1ca086-6aae-4f4e-ac05-302c65925f50
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR

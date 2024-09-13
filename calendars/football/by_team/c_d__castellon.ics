@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240910T003651Z
+DTSTAMP:20240913T003636Z
 DTSTART:20240916T183000Z
 DTEND:20240916T203000Z
 SUMMARY:Liga Hypermotion - Almería - C.D. Castellón
-UID:2de1aa29-62d7-47ab-ac40-6cf12d7cd7fc
+UID:d77a6806-beb4-42c2-adcb-ba4fb176666c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240913T003636Z
+DTSTART:20240922T141500Z
+DTEND:20240922T161500Z
+SUMMARY:Liga Hypermotion - C.D. Castellón - Racing de Santander
+UID:88d2ef10-c93a-4a9f-8d25-d77e7177e720
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
 END:VEVENT
 END:VCALENDAR
