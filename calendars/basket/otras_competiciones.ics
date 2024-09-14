@@ -16,52 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240913T003642Z
-DTSTART:20240913T163000Z
-DTEND:20240913T183000Z
-SUMMARY:Otras competiciones - Joventut Badalona - ICG Força Lleida
-UID:5a3ffd8c-3c59-464d-a0e3-beaeaacb4618
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
- </body></html>
-DESCRIPTION:- Open: Esport 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240913T003642Z
-DTSTART:20240913T180000Z
-DTEND:20240913T200000Z
-SUMMARY:Otras competiciones - Baskonia - Bilbao Basket
-UID:0470c1fd-3134-4e5a-88ce-58be44ef5f22
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240913T003642Z
-DTSTART:20240913T190000Z
-DTEND:20240913T210000Z
-SUMMARY:Otras competiciones - Barça Basket - Bàsquet Girona
-UID:37483a61-1bbc-4024-a6a8-93fb5d97a5fa
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
- </body></html>
-DESCRIPTION:- Open: Esport 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240913T003642Z
+DTSTAMP:20240914T003600Z
 DTSTART:20240915T170000Z
 DTEND:20240915T190000Z
 SUMMARY:Otras competiciones - Casademont Zaragoza - Baskonia
-UID:0da4dbcc-2dab-4530-9e94-436a02d87a8f
+UID:679f63d2-0b74-4298-a01a-be457b038cc4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240913T003642Z
+DTSTAMP:20240914T003600Z
 DTSTART:20240918T170000Z
 DTEND:20240918T190000Z
 SUMMARY:Otras competiciones - Casademont Zaragoza - Valencia Basket
-UID:6506bd8c-8e6f-4de4-8b03-410924653bfe
+UID:2f3644f8-75f6-4496-b56f-847e97a8b3de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240914T003600Z
+DTSTART:20240928T143000Z
+DTEND:20240928T163000Z
+SUMMARY:Otras competiciones - Valencia Basket - C.B. Jairis
+UID:6abbadaa-a33e-4659-b2ff-089f6764daa2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240914T003600Z
+DTSTART:20240928T173000Z
+DTEND:20240928T193000Z
+SUMMARY:Otras competiciones - Perfumerías Avenida - Casademont Zaragoza
+UID:db1a9320-cd69-4ced-8d1f-778721973acb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
