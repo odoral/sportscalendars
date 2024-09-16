@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240916T003929Z
+DTSTAMP:20240916T081206Z
 DTSTART:20240916T190000Z
 DTEND:20240916T210000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Osasuna
-UID:fb99c9e5-1b7c-47a5-8a3c-32906ae935a9
+UID:44a94e93-775e-4724-ac74-59bd9fd2af3c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: Gol Play</li>\n<li>PPV: GolStadium</li>\n<li>PPV: M+ LaLiga TV</li></
  ul></body></html>
@@ -28,25 +28,23 @@ DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- PPV: GolStadium\n- PPV: M+
  LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240916T003929Z
-DTSTART:20240916T190000Z
-DTEND:20240916T210000Z
-SUMMARY:Liga EA Sports - Rayo Vallecano - Osasuna
-UID:a8989af8-223b-499e-a62f-129df7b1ddcd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
- n: Gol Play</li>\n<li>PPV: GolStadium</li>\n<li>PPV: M+ LaLiga TV</li></
- ul></body></html>
-DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- PPV: GolStadium\n- PPV: M+ 
- LaLiga TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240916T003929Z
+DTSTAMP:20240916T081206Z
 DTSTART:20240922T190000Z
 DTEND:20240922T210000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Atlético de Madrid
-UID:6baaa664-2ac4-4ec2-863b-1bca881b84da
+UID:17d1ec78-22ed-45ed-8325-063ffda5b241
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240916T081206Z
+DTSTART:20240925T170000Z
+DTEND:20240925T190000Z
+SUMMARY:Liga EA Sports - Girona - Rayo Vallecano
+UID:8309e2c0-b5d3-45a9-aeaf-aed7ab2188ab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
