@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240914T081051Z
+DTSTAMP:20240916T003929Z
 DTSTART:20240915T230000Z
 DTEND:20240916T010000Z
 SUMMARY:Mundial Sub-20 Femenino - Japón - España
-UID:bc950f58-68bc-42fd-8dbf-4b922f361bfa
+UID:1c65b677-d5bf-48fb-8fa1-8d1892321bec
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240916T003929Z
+DTSTART:20240915T230000Z
+DTEND:20240916T010000Z
+SUMMARY:Mundial Sub-20 Femenino - Japón - España
+UID:6954c216-8e41-4407-9863-a9d117b95068
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
