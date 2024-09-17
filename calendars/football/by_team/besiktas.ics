@@ -17,22 +17,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20240917T003043Z
-DTSTART:20240922T160000Z
-DTEND:20240922T180000Z
-SUMMARY:Serie A - Roma - Udinese
-UID:40739abf-7a6e-49e6-a545-52542c91abb3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240917T003043Z
 DTSTART:20240926T190000Z
 DTEND:20240926T210000Z
-SUMMARY:Europa League - Roma - Athletic Club
-UID:a382dc19-833f-4876-a095-633a28b27708
+SUMMARY:Europa League - Ajax - Besiktas
+UID:5d356de3-8c01-4041-937b-ba0e4cf600c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

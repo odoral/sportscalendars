@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240916T081206Z
+DTSTAMP:20240917T003043Z
 DTSTART:20240919T190000Z
 DTEND:20240919T210000Z
 SUMMARY:Champions League - Atlético de Madrid - RB Leipzig
-UID:a85b385e-eea2-4ca0-a285-92249fea91d9
+UID:677a84bd-0fed-46d7-bd0f-3702ae3b5e9c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: M+ Liga de Campeo
  nes 6</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
   PPV: M+ Liga de Campeones 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240916T081206Z
+DTSTAMP:20240917T003043Z
 DTSTART:20240922T190000Z
 DTEND:20240922T210000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Atlético de Madrid
-UID:01247752-3d58-45f7-8868-2f6899fa96c8
+UID:1ec7cf41-23d5-41b1-b5ae-136694da6359
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240917T003043Z
+DTSTART:20240926T190000Z
+DTEND:20240926T210000Z
+SUMMARY:Liga EA Sports - Celta - Atlético de Madrid
+UID:0f3b3e86-ed3d-4028-b88c-6a7d4e5a2e22
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 END:VCALENDAR
