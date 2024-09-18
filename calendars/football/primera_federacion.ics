@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240916T003929Z
+DTSTAMP:20240918T003644Z
 DTSTART:20240921T173000Z
 DTEND:20240921T193000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Zamora C.F.
-UID:fab6f34f-39e7-45e4-8d46-2aa79041402c
+UID:4560cbaa-c5d5-477e-98e7-4c6cf65d469d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240918T003644Z
+DTSTART:20240927T183000Z
+DTEND:20240927T203000Z
+SUMMARY:Primera Federación - Tarazona - Barcelona Atlètic
+UID:d3c1ed03-343a-4493-a7fd-79b02bb220eb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR
