@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240916T200912Z
+DTSTAMP:20240919T003723Z
 DTSTART:20240921T163000Z
 DTEND:20240921T183000Z
 SUMMARY:Supercopa Endesa - Real Madrid Baloncesto - Barça Basket
-UID:f64863ad-8661-40fa-8a01-c150d620493d
+UID:8266fdc5-9270-4246-8a40-df609fcd69af
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes</li>\n<
  li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Deportes\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240916T200912Z
+DTSTAMP:20240919T003723Z
 DTSTART:20240929T163000Z
 DTEND:20240929T183000Z
 SUMMARY:Liga Endesa - Basquet Coruña - Real Madrid Baloncesto
-UID:943aaf06-b116-49c0-a00a-d7f9f77c5311
+UID:3cde4d06-a4ae-4037-aa90-f8fe13f5cc68
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240919T003723Z
+DTSTART:20241003T184500Z
+DTEND:20241003T204500Z
+SUMMARY:Euroliga - FC Bayern Basketball - Real Madrid Baloncesto
+UID:0b0bff88-3c0a-4954-b423-c56483c0745a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+

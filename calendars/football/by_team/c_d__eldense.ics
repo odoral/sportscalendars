@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240915T004126Z
+DTSTAMP:20240919T003718Z
 DTSTART:20240921T163000Z
 DTEND:20240921T183000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Real Oviedo
-UID:47cdc07e-016d-43ad-80d3-bd6797690b58
+UID:c6f30104-8fd2-41c2-9b00-ea1a378e08b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240919T003718Z
+DTSTART:20240928T141500Z
+DTEND:20240928T161500Z
+SUMMARY:Liga Hypermotion - Cádiz - C.D. Eldense
+UID:8e608591-704c-4f14-a01b-1e468878a03e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR
