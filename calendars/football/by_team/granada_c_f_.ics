@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240916T003929Z
+DTSTAMP:20240920T003721Z
 DTSTART:20240920T183000Z
 DTEND:20240920T203000Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Málaga
-UID:86605f5c-cd13-422a-b72a-a268842d2303
+UID:ccd8f017-bb42-4538-8451-e9db14209a15
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240920T003721Z
+DTSTART:20240929T141500Z
+DTEND:20240929T161500Z
+SUMMARY:Liga Hypermotion - Burgos C.F. - Granada C.F.
+UID:1a85c0f9-000c-4647-9570-f2744dcbacc0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
 END:VEVENT
 END:VCALENDAR
