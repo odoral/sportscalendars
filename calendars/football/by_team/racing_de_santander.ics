@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240915T004127Z
+DTSTAMP:20240921T003636Z
 DTSTART:20240922T141500Z
 DTEND:20240922T161500Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Racing de Santander
-UID:bbc9237c-38d4-415e-8eae-ea439135976a
+UID:480a8889-865b-4f51-ac44-b24de5e598b4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240921T003636Z
+DTSTART:20240930T183000Z
+DTEND:20240930T203000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Cartagena
+UID:212ee6fd-b45c-426b-a04b-02c177c448e7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR
