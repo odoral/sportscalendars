@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240912T041044Z
-DTSTART:20240919T164500Z
-DTEND:20240919T184500Z
-SUMMARY:Champions League - Crvena Zvezda - Benfica
-UID:ebc323e2-fbf5-4d82-9eec-c9afd6e29a72
+DTSTAMP:20240923T041100Z
+DTSTART:20241002T190000Z
+DTEND:20241002T210000Z
+SUMMARY:Champions League - Benfica - Atlético de Madrid
+UID:120c172c-9fa5-43c4-8b0d-cc26ce0e2214
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
