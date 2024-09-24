@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240918T081119Z
+DTSTAMP:20240924T003859Z
 DTSTART:20240926T190000Z
 DTEND:20240926T210000Z
 SUMMARY:Europa League - Olympique Lyon - Olympiacos
-UID:4d0258d6-f1a7-4859-82e8-111f0fabbbb1
+UID:11d9b86b-e1bb-426b-808f-4e6be67ecb59
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240924T003859Z
+DTSTART:20241003T164500Z
+DTEND:20241003T184500Z
+SUMMARY:Europa League - Olympiacos - Braga
+UID:a2842f1b-ac29-4942-926d-6eb0d05ad699
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

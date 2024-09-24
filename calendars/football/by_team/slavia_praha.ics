@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240918T081119Z
+DTSTAMP:20240924T003859Z
 DTSTART:20240925T190000Z
 DTEND:20240925T210000Z
 SUMMARY:Europa League - PFC Ludogorets - Slavia Praha
-UID:1a5b1919-abc2-41d3-922b-b7e0b8701ea9
+UID:82a464b3-cb10-431d-a80e-46d7b598ef5a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240924T003859Z
+DTSTART:20241003T164500Z
+DTEND:20241003T184500Z
+SUMMARY:Europa League - Slavia Praha - Ajax
+UID:22218a2c-ec61-4516-b199-f8b943b7e8c7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240918T081119Z
+DTSTAMP:20240924T003859Z
 DTSTART:20240926T190000Z
 DTEND:20240926T210000Z
 SUMMARY:Europa League - Tottenham - Qarabag FK
-UID:9411e896-b311-4c5b-9018-fdf5077dcd81
+UID:9f1f2a46-dbfe-4a86-8a9c-13f2d9a749b0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240924T003859Z
+DTSTART:20241003T164500Z
+DTEND:20241003T184500Z
+SUMMARY:Europa League - Qarabag FK - Malmö FF
+UID:cc13e3aa-283e-4baa-8f84-2249b01152bf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

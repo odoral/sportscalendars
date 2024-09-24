@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240918T081119Z
+DTSTAMP:20240924T003859Z
 DTSTART:20240925T190000Z
 DTEND:20240925T210000Z
 SUMMARY:Europa League - FC Midtjylland - Hoffenheim
-UID:6aa53cc2-e5fc-4871-ac3f-b9811076881e
+UID:b6d4ff27-4639-4885-9ff5-a3687c8258bf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240924T003859Z
+DTSTART:20241003T164500Z
+DTEND:20241003T184500Z
+SUMMARY:Europa League - Maccabi Tel Aviv FC - FC Midtjylland
+UID:be9f0f75-7425-43d2-b2c7-b0545bada04e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

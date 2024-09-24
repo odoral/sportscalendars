@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240918T081119Z
+DTSTAMP:20240924T003859Z
 DTSTART:20240926T190000Z
 DTEND:20240926T210000Z
 SUMMARY:Europa League - Braga - Maccabi Tel Aviv FC
-UID:d0794c5d-f165-4aab-a1a6-1540da0a1513
+UID:7bcdbb9e-35de-4167-b053-30b174313338
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240924T003859Z
+DTSTART:20241003T164500Z
+DTEND:20241003T184500Z
+SUMMARY:Europa League - Maccabi Tel Aviv FC - FC Midtjylland
+UID:31d40967-5e24-4e7f-af49-7706a298e82f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

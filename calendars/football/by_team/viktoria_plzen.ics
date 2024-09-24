@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240918T081119Z
+DTSTAMP:20240924T003859Z
 DTSTART:20240926T190000Z
 DTEND:20240926T210000Z
 SUMMARY:Europa League - Eintracht Frankfurt - Viktoria Plzen
-UID:d1f3d124-1f3f-467d-9952-916bfdffc22e
+UID:a923867a-6223-4214-91ff-a4cc55f9163f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240924T003859Z
+DTSTART:20241003T190000Z
+DTEND:20241003T210000Z
+SUMMARY:Europa League - Viktoria Plzen - PFC Ludogorets
+UID:96f6e5c5-3f15-436b-aa7b-5d949ef5459f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
