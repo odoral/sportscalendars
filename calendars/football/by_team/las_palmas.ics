@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240922T004131Z
+DTSTAMP:20240926T003811Z
 DTSTART:20240926T170000Z
 DTEND:20240926T190000Z
 SUMMARY:Liga EA Sports - Las Palmas - Betis
-UID:6e67b90a-1bed-4f50-850f-d9164ab4e3ff
+UID:07e4d5e0-0cb0-4e77-bd34-df20e9cf4bbb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240922T004131Z
+DTSTAMP:20240926T003811Z
 DTSTART:20240930T190000Z
 DTEND:20240930T210000Z
 SUMMARY:Liga EA Sports - Villarreal - Las Palmas
-UID:ceadf413-6cfe-4513-80c5-30316c547d99
+UID:68bc68de-548d-40b0-8b9d-b88b10a75ee6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240926T003811Z
+DTSTART:20241005T163000Z
+DTEND:20241005T183000Z
+SUMMARY:Liga EA Sports - Las Palmas - Celta
+UID:87bcd63b-c677-49d4-b3a6-33121e145f41
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TV Canaria</li>\n<li>Open: TVG</li>\n<li>PPV: GolStadium</li>\n<l
+ i>PPV: M+ LaLiga TV</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- Open: TVG\n- PPV: Gol
+ Stadium\n- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

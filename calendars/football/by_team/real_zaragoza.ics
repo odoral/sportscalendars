@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240922T004131Z
+DTSTAMP:20240926T003811Z
 DTSTART:20240928T163000Z
 DTEND:20240928T183000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Real Zaragoza
-UID:5a1f033d-d8d1-44a0-97d8-018a3a1a1c31
+UID:84b3e403-69f7-45d4-8704-4e0a0f20120c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
+ Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240926T003811Z
+DTSTART:20241005T163000Z
+DTEND:20241005T183000Z
+SUMMARY:Liga Hypermotion - Real Zaragoza - Racing de Santander
+UID:aa3ace4a-0953-4eb4-8727-e92c2506b90f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  Movistar Plus+</li></ul></body></html>

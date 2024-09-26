@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240923T041059Z
+DTSTAMP:20240926T003811Z
 DTSTART:20240929T141500Z
 DTEND:20240929T161500Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Tenerife
-UID:af37879e-dd55-479a-ab94-afb639bc5fcb
+UID:2dcfa345-dc3f-4074-a63c-574e78713bbc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240926T003811Z
+DTSTART:20241005T190000Z
+DTEND:20241005T210000Z
+SUMMARY:Liga Hypermotion - Tenerife - Cartagena
+UID:874f5366-9d97-48a8-89af-9c705a675c5f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>

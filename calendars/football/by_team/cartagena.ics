@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240923T041100Z
+DTSTAMP:20240926T003811Z
 DTSTART:20240930T183000Z
 DTEND:20240930T203000Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Cartagena
-UID:914e0023-0d91-4d26-b42a-7562a706658e
+UID:73d648f6-1032-4014-bfeb-1cc6ec15496e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240926T003811Z
+DTSTART:20241005T190000Z
+DTEND:20241005T210000Z
+SUMMARY:Liga Hypermotion - Tenerife - Cartagena
+UID:68cbd3a5-b8ee-45d1-b65f-38c43b202ee9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
