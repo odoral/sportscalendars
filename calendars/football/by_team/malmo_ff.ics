@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240924T003859Z
+DTSTAMP:20240926T081140Z
 DTSTART:20240926T164500Z
 DTEND:20240926T184500Z
 SUMMARY:Europa League - Malmö FF - Rangers FC
-UID:adf3fc6b-c0f2-40b2-a609-b85e79350dc5
+UID:c0b01dfd-cd40-4c8e-a6c2-d8ea7d3d04de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240924T003859Z
+DTSTAMP:20240926T081140Z
 DTSTART:20241003T164500Z
 DTEND:20241003T184500Z
 SUMMARY:Europa League - Qarabag FK - Malmö FF
-UID:f43ef081-f188-427e-a374-cb718a264950
+UID:303500a0-c455-44d4-8a7b-6d5b9f4a7727
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 9</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 9
 END:VEVENT
 END:VCALENDAR
