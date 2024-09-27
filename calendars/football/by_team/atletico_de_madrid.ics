@@ -16,35 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240926T081141Z
-DTSTART:20240926T190000Z
-DTEND:20240926T210000Z
-SUMMARY:Liga EA Sports - Celta - Atlético de Madrid
-UID:0a662026-d9c1-4c5d-83df-21cdf5b4d526
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240926T081141Z
+DTSTAMP:20240927T041112Z
 DTSTART:20240929T190000Z
 DTEND:20240929T210000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Real Madrid
-UID:7ba79e97-4f20-4dff-a4ee-23da90c386c5
+UID:b9fcdbef-f7db-4b81-8586-18becb228b21
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240926T081141Z
+DTSTAMP:20240927T041112Z
 DTSTART:20241002T190000Z
 DTEND:20241002T210000Z
 SUMMARY:Champions League - Benfica - Atlético de Madrid
-UID:3c35f839-596b-4985-a311-6d6cb9bfa32f
+UID:66176942-1c98-4382-8d1d-a3c58505316c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+<
  /li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
  n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240927T041112Z
+DTSTART:20241006T190000Z
+DTEND:20241006T210000Z
+SUMMARY:Liga EA Sports - Real Sociedad - Atlético de Madrid
+UID:2769e7e0-67e4-4636-8315-4a01df501bdc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 END:VCALENDAR

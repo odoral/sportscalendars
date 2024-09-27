@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240924T003859Z
+DTSTAMP:20240927T041112Z
 DTSTART:20240929T163000Z
 DTEND:20240929T183000Z
 SUMMARY:Liga Hypermotion - Córdoba - Racing Ferrol
-UID:408d5674-a180-4094-9e25-bc7f1c2f6db0
+UID:28e4d6cb-630c-4c51-aa04-41ed1936ccdb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240927T041112Z
+DTSTART:20241006T200000Z
+DTEND:20241006T220000Z
+SUMMARY:Liga Hypermotion - Albacete - Córdoba
+UID:71f9cbe9-b4a2-4b50-9364-dd4472ccc1d6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR

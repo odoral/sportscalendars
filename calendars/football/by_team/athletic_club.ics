@@ -16,35 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240926T081140Z
-DTSTART:20240926T190000Z
-DTEND:20240926T210000Z
-SUMMARY:Europa League - Roma - Athletic Club
-UID:d06163ae-e369-4e7c-93e8-a9b436634ee2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Movistar Plus+ 2</li></
- ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+\n- PPV: 
- Movistar Plus+ 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240926T081140Z
+DTSTAMP:20240927T041112Z
 DTSTART:20240929T141500Z
 DTEND:20240929T161500Z
 SUMMARY:Liga EA Sports - Athletic Club - Sevilla
-UID:e10954f4-ae0f-4167-9387-92214f5aa4bb
+UID:f67f62d9-e810-4ff5-bbc5-8a4b7aabcd0a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240926T081140Z
+DTSTAMP:20240927T041112Z
 DTSTART:20241003T190000Z
 DTEND:20241003T210000Z
 SUMMARY:Europa League - Athletic Club - AZ Alkmaar
-UID:e3f91351-87be-4cf5-bc62-efd1760d8c91
+UID:f0e20198-278c-47ac-9f05-ca4f8255450a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240927T041112Z
+DTSTART:20241006T120000Z
+DTEND:20241006T140000Z
+SUMMARY:Liga EA Sports - Girona - Athletic Club
+UID:49723e8d-c5a2-46ee-a4b0-ae6beacdd312
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 2
 END:VEVENT
 END:VCALENDAR

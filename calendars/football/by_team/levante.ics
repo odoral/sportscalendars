@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240922T004131Z
+DTSTAMP:20240927T041112Z
 DTSTART:20240929T120000Z
 DTEND:20240929T140000Z
 SUMMARY:Liga Hypermotion - Levante - Almería
-UID:33572346-8109-4b18-935c-f120b6035ff3
+UID:e94a289b-7fee-4712-9784-791183fb802b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240927T041112Z
+DTSTART:20241006T163000Z
+DTEND:20241006T183000Z
+SUMMARY:Liga Hypermotion - Levante - Real Oviedo
+UID:d8b52580-ed39-4467-952a-c668673cdb53
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR
