@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240926T081141Z
+DTSTAMP:20240927T081149Z
 DTSTART:20241003T190000Z
 DTEND:20241003T210000Z
 SUMMARY:Europa League - Athletic Club - AZ Alkmaar
-UID:e590f5cc-1fac-4b0c-8d2f-738c27e77d46
+UID:5ea03b37-699e-4f35-98f9-6cfe3833b1d3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3
+ s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 END:VCALENDAR

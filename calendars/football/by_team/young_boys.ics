@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240926T081141Z
+DTSTAMP:20240927T081148Z
 DTSTART:20241001T190000Z
 DTEND:20241001T210000Z
 SUMMARY:Champions League - Barcelona - Young Boys
-UID:b4d7d3a6-a554-4215-93e0-bc99a662723a
+UID:d66bc5ae-7039-4fc4-882f-14f7f64d7c63
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4
+ s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 END:VCALENDAR
