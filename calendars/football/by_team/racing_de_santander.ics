@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240926T003811Z
+DTSTAMP:20240930T004018Z
 DTSTART:20240930T183000Z
 DTEND:20240930T203000Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Cartagena
-UID:76d4bc6f-decf-484e-bed7-99f24c92220d
+UID:e755dc64-8836-4421-af8e-7d9390a73103
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240926T003811Z
+DTSTAMP:20240930T004018Z
+DTSTART:20240930T183000Z
+DTEND:20240930T203000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Cartagena
+UID:18b5d084-09e3-4274-818d-1dae755a46ad
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240930T004018Z
 DTSTART:20241005T163000Z
 DTEND:20241005T183000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Racing de Santander
-UID:5e2d0589-ec40-4261-88a5-121f79acd7cd
+UID:8b4067d4-dffd-4c7e-9966-ab53d852fae1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  Movistar Plus+</li></ul></body></html>
