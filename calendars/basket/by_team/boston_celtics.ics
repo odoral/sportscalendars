@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240721T080922Z
-DTSTART:20240721T210000Z
-DTEND:20240721T230000Z
-SUMMARY:Otras competiciones - Philadelphia 76ers - Boston Celtics
-UID:2816f487-87b3-4d9f-8faf-8778fdd183b2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
+DTSTAMP:20241001T081239Z
+DTSTART:20241004T160000Z
+DTEND:20241004T180000Z
+SUMMARY:Otras competiciones - Denver Nuggets - Boston Celtics
+UID:73249ee4-3a90-49f1-9aff-bca26c5ad082
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes 3</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: M+ Deportes 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241001T081239Z
+DTSTART:20241006T140000Z
+DTEND:20241006T160000Z
+SUMMARY:Otras competiciones - Boston Celtics - Denver Nuggets
+UID:6fb33b56-777e-4a07-b59e-fb60d39b3c82
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes 3</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: M+ Deportes 3
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240717T003358Z
-DTSTART:20240718T203000Z
-DTEND:20240718T223000Z
-SUMMARY:Otras competiciones - Denver Nuggets - Indiana Pacers
-UID:133652c3-5974-426f-943a-3093d265de35
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
+DTSTAMP:20241001T081239Z
+DTSTART:20241004T160000Z
+DTEND:20241004T180000Z
+SUMMARY:Otras competiciones - Denver Nuggets - Boston Celtics
+UID:07eb0e27-7a1f-400e-bb2e-7465ebb879bb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes 3</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: M+ Deportes 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241001T081239Z
+DTSTART:20241006T140000Z
+DTEND:20241006T160000Z
+SUMMARY:Otras competiciones - Boston Celtics - Denver Nuggets
+UID:091afbe3-51ea-46ed-9b81-71c0a4c3471a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes 3</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: M+ Deportes 3
 END:VEVENT
 END:VCALENDAR
