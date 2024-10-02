@@ -16,23 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240911T003616Z
-DTSTART:20240910T220000Z
-DTEND:20240911T000000Z
-SUMMARY:Mundial 2026 - Venezuela - Uruguay
-UID:61f34059-1759-4b0e-ad7b-a88551f1952a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20240911T003616Z
-DTSTART:20240911T003000Z
-DTEND:20240911T023000Z
-SUMMARY:Mundial 2026 - Paraguay - Brasil
-UID:1fa1cad1-467e-49fc-9b68-1a1d6dc3b65e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 5
+DTSTAMP:20241002T003824Z
+DTSTART:20241011T000000Z
+DTEND:20241011T020000Z
+SUMMARY:Mundial 2026 - Chile - Brasil
+UID:173ec9c6-6720-41de-87f8-5bf4aa674c87
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240930T004018Z
+DTSTAMP:20241002T003825Z
 DTSTART:20241005T190000Z
 DTEND:20241005T210000Z
 SUMMARY:Liga Hypermotion - Tenerife - Cartagena
-UID:7b6485aa-062e-4951-9871-4f8775b7c2da
+UID:e080ed36-8cce-4685-b6e3-380dd0ca7ddd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241002T003825Z
+DTSTART:20241011T183000Z
+DTEND:20241011T203000Z
+SUMMARY:Liga Hypermotion - Tenerife - Real Zaragoza
+UID:34dedd61-4655-4521-9a75-5d0123a2f809
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
+ M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
