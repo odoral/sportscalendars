@@ -16,21 +16,41 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240930T004018Z
+DTSTAMP:20241003T081143Z
 DTSTART:20241005T153000Z
 DTEND:20241005T173000Z
 SUMMARY:Primera Federación - Betis Deportivo - Algeciras
-UID:7c75e3b4-ef42-41b8-8bee-c40864eb9230
+UID:ed991958-fe59-4931-819a-01be8a83832e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240930T004018Z
+DTSTAMP:20241003T081143Z
 DTSTART:20241006T173000Z
 DTEND:20241006T193000Z
 SUMMARY:Primera Federación - Sestao River - Barcelona Atlètic
-UID:88349c8f-789a-406f-a738-f61f6c07894c
+UID:8b56f918-6a9b-479d-adf5-219866ed70db
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241003T081143Z
+DTSTART:20241012T133000Z
+DTEND:20241012T153000Z
+SUMMARY:Primera Federación - R.M. Castilla - Yeclano
+UID:f610fff8-85b7-4183-b9fe-d17e8be7a0b3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
+ \n<li>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: RealMadrid TV\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241003T081143Z
+DTSTART:20241012T164500Z
+DTEND:20241012T184500Z
+SUMMARY:Primera Federación - Barcelona Atlètic - Real Sociedad B
+UID:1c77a679-b937-483e-bf27-6a3271782511
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- PPV: FEF TV

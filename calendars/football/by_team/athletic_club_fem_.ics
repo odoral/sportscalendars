@@ -16,25 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241003T003823Z
+DTSTAMP:20241003T081144Z
 DTSTART:20241005T100000Z
 DTEND:20241005T120000Z
 SUMMARY:Liga F - Athletic Club Fem. - At. Madrid Fem.
-UID:9277c5d2-61e5-4e44-ad6c-b11835b63cb2
+UID:744a9d82-bd7c-4ece-9102-d065e211cc00
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: Gol Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 2</li>\n<li>PPV: Gol
  Stadium</li></ul></body></html>
 DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN 2\n-
   PPV: GolStadium
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241003T003823Z
-DTSTART:20241012T100000Z
-DTEND:20241012T120000Z
-SUMMARY:Liga F - Eibar Fem. - Athletic Club Fem.
-UID:c294e24d-0519-420e-9667-7a1014f6f621
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: GolStadium</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: GolStadium
 END:VEVENT
 END:VCALENDAR
