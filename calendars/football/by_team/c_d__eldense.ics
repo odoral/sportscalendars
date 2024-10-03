@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240929T004224Z
+DTSTAMP:20241003T003823Z
 DTSTART:20241006T141500Z
 DTEND:20241006T161500Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - C.D. Castellón
-UID:08a0919c-b1a0-4360-9d88-1098ca5190a7
+UID:253464ad-c58d-43b4-8c03-1692f94b2d6b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241003T003823Z
+DTSTART:20241012T163000Z
+DTEND:20241012T183000Z
+SUMMARY:Liga Hypermotion - Eibar - C.D. Eldense
+UID:ca4c14fe-5e80-43ea-87e0-b38861d3998d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
 END:VEVENT
 END:VCALENDAR
