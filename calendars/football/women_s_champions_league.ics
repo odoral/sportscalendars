@@ -16,23 +16,65 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240921T081008Z
-DTSTART:20240926T164500Z
-DTEND:20240926T184500Z
-SUMMARY:Women's Champions League - PSG (Fem.) - Juventus Women
-UID:713bb199-b0db-4be6-b00a-06b489244248
+DTSTAMP:20241004T081154Z
+DTSTART:20241008T164500Z
+DTEND:20241008T184500Z
+SUMMARY:Women's Champions League - A.S. Roma Fem. - Wolfsburg Fem.
+UID:9bb24e4e-3148-4a4e-8082-0ed632e20665
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240921T081008Z
-DTSTART:20240926T180000Z
-DTEND:20240926T200000Z
-SUMMARY:Women's Champions League - Real Madrid Fem. - Sporting CP Fem.
-UID:3b4bb311-a1af-417f-ba8c-370336288c45
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
- </ul></body></html>
-DESCRIPTION:- Open: RealMadrid TV
+DTSTAMP:20241004T081154Z
+DTSTART:20241008T164500Z
+DTEND:20241008T184500Z
+SUMMARY:Women's Champions League - Olympique Lyon (Fem.) - Galatasaray Wo
+ men
+UID:e5182a9a-97c7-4d68-9a43-0382bb12992a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T081154Z
+DTSTART:20241008T190000Z
+DTEND:20241008T210000Z
+SUMMARY:Women's Champions League - Chelsea Women - Real Madrid Fem.
+UID:d4f8145f-71a8-4183-a109-36da42707adf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T081154Z
+DTSTART:20241009T164500Z
+DTEND:20241009T184500Z
+SUMMARY:Women's Champions League - FC Bayern Fem. - Arsenal Fem.
+UID:ae644c99-cfb1-4d22-97e6-00ce8b2b6ec2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T081154Z
+DTSTART:20241009T190000Z
+DTEND:20241009T210000Z
+SUMMARY:Women's Champions League - Manchester City F. - Barcelona Femenin
+ o
+UID:5c56046e-3fec-4e2f-a6ad-fde7f961814e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T081154Z
+DTSTART:20241009T190000Z
+DTEND:20241009T210000Z
+SUMMARY:Women's Champions League - Vålerenga Kvinner - Juventus Women
+UID:e7b57864-e5d3-4bd2-a5cb-786ed5f7357e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
