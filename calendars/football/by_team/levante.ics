@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240930T004018Z
+DTSTAMP:20241004T041058Z
 DTSTART:20241006T163000Z
 DTEND:20241006T183000Z
 SUMMARY:Liga Hypermotion - Levante - Real Oviedo
-UID:2adfef2e-96f8-46cf-a889-fb12ab331d42
+UID:fff928be-620a-407d-beb1-46f4d6d0705d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241004T041058Z
+DTSTART:20241013T143000Z
+DTEND:20241013T163000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Levante
+UID:fda8f02d-c33f-4552-8481-d912d429ab83
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
 END:VEVENT
 END:VCALENDAR
