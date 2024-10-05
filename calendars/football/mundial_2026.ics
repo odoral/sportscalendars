@@ -16,13 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241002T003824Z
+DTSTAMP:20241005T081048Z
+DTSTART:20241010T210000Z
+DTEND:20241010T230000Z
+SUMMARY:Mundial 2026 - Ecuador - Paraguay
+UID:105d5e19-d0db-4482-a9ab-2cc288941480
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241005T081048Z
+DTSTART:20241010T230000Z
+DTEND:20241011T010000Z
+SUMMARY:Mundial 2026 - Venezuela - Argentina
+UID:d7031079-5f20-4b3d-9a4c-2fde93a7d53a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241005T081048Z
 DTSTART:20241011T000000Z
 DTEND:20241011T020000Z
 SUMMARY:Mundial 2026 - Chile - Brasil
-UID:173ec9c6-6720-41de-87f8-5bf4aa674c87
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:f2ff2fe6-9b65-4d9a-950f-b7f5f26d5ee1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241005T081048Z
+DTSTART:20241011T013000Z
+DTEND:20241011T033000Z
+SUMMARY:Mundial 2026 - Perú - Uruguay
+UID:d6b38680-7696-46ed-89a4-1763d4035e5a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 END:VCALENDAR
