@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241003T081144Z
+DTSTAMP:20241006T004204Z
 DTSTART:20241006T173000Z
 DTEND:20241006T193000Z
 SUMMARY:Primera Federación - Sestao River - Barcelona Atlètic
-UID:00c5796b-254e-40a3-a184-c4115c873544
+UID:06cfec1d-4fa3-4b4b-a46c-5baf8a05b6fb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241006T004204Z
+DTSTART:20241006T173000Z
+DTEND:20241006T193000Z
+SUMMARY:Primera Federación - Sestao River - Barcelona Atlètic
+UID:db8fe6cd-e418-4270-a8e9-95eb12df8f1c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
