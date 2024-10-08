@@ -16,23 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241007T081145Z
+DTSTAMP:20241008T081237Z
 DTSTART:20241009T180000Z
 DTEND:20241009T200000Z
 SUMMARY:Eurocup Women - IDK Euskotren - Crvena Zvezda MTS Belgrade
-UID:1928052d-6b82-4905-a2d7-360603b7aa54
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB4</li></ul></bo
- dy></html>
-DESCRIPTION:- Open: ETB4
+UID:0044a502-5f3d-4aa7-b104-3203f948fdf3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB4</li>\n<li>Ope
+ n: FIBA YouTube</li></ul></body></html>
+DESCRIPTION:- Open: ETB4\n- Open: FIBA YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241007T081145Z
+DTSTAMP:20241008T081237Z
+DTSTART:20241009T180000Z
+DTEND:20241009T200000Z
+SUMMARY:Eurocup Women - BAXI Ferrol - Galatasaray Basketbol
+UID:e742d646-1f52-4a1f-9693-893a79120be3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li>\
+ n<li>Open: TVG 2</li></ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube\n- Open: TVG 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T081237Z
+DTSTART:20241009T183000Z
+DTEND:20241009T203000Z
+SUMMARY:Eurocup Women - Tarbes GB - Movistar Estudiantes
+UID:7849fa29-9986-488e-a53f-39cd643c4ef1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T081237Z
+DTSTART:20241009T183000Z
+DTEND:20241009T203000Z
+SUMMARY:Eurocup Women - C.B. Jairis - Panathinaikos B.C.
+UID:60c351f9-4230-4590-822e-8cc9c73daa4f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T081237Z
 DTSTART:20241010T160000Z
 DTEND:20241010T180000Z
 SUMMARY:Eurocup Women - BC Yerevan Foxes - Spar Girona
-UID:bb1b444b-1948-4eb9-ae85-699bb4df6bd0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
- </body></html>
-DESCRIPTION:- Open: Esport 3
+UID:05a72ac9-05e5-4d18-a433-974eac649887
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: FIBA YouTube</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR

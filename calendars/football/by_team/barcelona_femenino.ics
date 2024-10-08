@@ -16,32 +16,34 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241007T004023Z
+DTSTAMP:20241008T081229Z
 DTSTART:20241009T190000Z
 DTEND:20241009T210000Z
 SUMMARY:Women's Champions League - Manchester City F. - Barcelona Femenin
  o
-UID:74ad4542-7c99-4eba-8c46-647e189b232d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241007T004023Z
-DTSTART:20241013T163000Z
-DTEND:20241013T183000Z
-SUMMARY:Liga F - Barcelona Femenino - RCD Espanyol Fem.
-UID:f7c9af41-d5e4-4bf9-b66a-1271710876d6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+UID:c4be7ca5-6eef-4211-995a-bdb86ed6d8fd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li></ul></bod
  y></html>
-DESCRIPTION:- PPV: DAZN
+DESCRIPTION:- Open: TV3\n- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamo
+ s
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241007T004023Z
+DTSTAMP:20241008T081229Z
+DTSTART:20241013T153000Z
+DTEND:20241013T173000Z
+SUMMARY:Liga F - Barcelona Femenino - RCD Espanyol Fem.
+UID:31b57ad5-dc88-489c-9cf8-0d888aaedc9b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241008T081229Z
 DTSTART:20241016T190000Z
 DTEND:20241016T210000Z
 SUMMARY:Women's Champions League - Barcelona Femenino - Hammarby Women
-UID:96792236-49c2-4b57-914f-015375d0d995
+UID:82ac19bc-2ba5-4867-82ee-45651f1d8e6a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
