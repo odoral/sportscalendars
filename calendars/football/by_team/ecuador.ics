@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241005T081048Z
+DTSTAMP:20241009T041056Z
 DTSTART:20241010T210000Z
 DTEND:20241010T230000Z
 SUMMARY:Mundial 2026 - Ecuador - Paraguay
-UID:883abf87-f5ad-420c-9657-bb9cf13414d5
+UID:503d0f87-173d-41de-9e47-4912e1bcc6fd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
+ s 2</li>\n<li>PPV: M+ Vamos</li>\n<li>PPV: Movistar Plus+ 2</li></ul></b
+ ody></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos\n- PPV: Movist
+ ar Plus+ 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241009T041056Z
+DTSTART:20241015T233000Z
+DTEND:20241016T013000Z
+SUMMARY:Mundial 2026 - Uruguay - Ecuador
+UID:754b23a2-4dbb-4e1a-8333-53267d82662e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 END:VCALENDAR

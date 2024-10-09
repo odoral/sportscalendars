@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241008T081229Z
+DTSTAMP:20241009T041056Z
 DTSTART:20241010T210000Z
 DTEND:20241010T230000Z
 SUMMARY:Mundial 2026 - Venezuela - Argentina
-UID:d3b16b32-b0bc-48e2-9eee-80e9da094700
+UID:82b7d06e-e9e4-4529-bd01-55cf440930b7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241009T041056Z
+DTSTART:20241015T230000Z
+DTEND:20241016T010000Z
+SUMMARY:Mundial 2026 - Paraguay - Venezuela
+UID:85982f99-4e3f-42e3-93a2-db06ad8336c5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4
 END:VEVENT
 END:VCALENDAR
