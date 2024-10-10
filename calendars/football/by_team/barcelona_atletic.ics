@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241008T081229Z
+DTSTAMP:20241010T003810Z
 DTSTART:20241012T164500Z
 DTEND:20241012T184500Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Real Sociedad B
-UID:41bb33ed-dbbf-483a-9c78-ec4d5f0f719c
+UID:70a6da8a-5d85-4ee6-95cf-39f404725ac8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241010T003810Z
+DTSTART:20241019T153000Z
+DTEND:20241019T173000Z
+SUMMARY:Primera Federación - Ponferradina - Barcelona Atlètic
+UID:62e89f95-8ec4-440d-9000-dd8a34f40258
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241009T041056Z
+DTSTAMP:20241010T003810Z
 DTSTART:20241013T141500Z
 DTEND:20241013T161500Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Levante
-UID:7d8647f8-0890-4c52-b640-1b6a3697751c
+UID:79cb2f29-e90c-4850-b809-554ddcc78246
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241010T003810Z
+DTSTART:20241019T163000Z
+DTEND:20241019T183000Z
+SUMMARY:Liga Hypermotion - C.D. Castellón - Levante
+UID:b9cd775a-468c-4deb-aea9-28a33f6ad2f6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>

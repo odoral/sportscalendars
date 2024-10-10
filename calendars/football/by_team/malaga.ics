@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241007T004024Z
+DTSTAMP:20241010T003810Z
 DTSTART:20241012T163000Z
 DTEND:20241012T183000Z
 SUMMARY:Liga Hypermotion - Cádiz - Málaga
-UID:64218606-c141-4f08-9a0f-a63d9b54de7f
+UID:e557c1e0-92e9-4b20-96ba-11a84d5bbd01
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: 
  Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241010T003810Z
+DTSTART:20241019T141500Z
+DTEND:20241019T161500Z
+SUMMARY:Liga Hypermotion - Málaga - Real Oviedo
+UID:0f988bd9-c977-4479-9619-00af36ff4d2e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR

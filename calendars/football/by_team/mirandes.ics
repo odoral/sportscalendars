@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241006T004204Z
+DTSTAMP:20241010T003810Z
 DTSTART:20241013T163000Z
 DTEND:20241013T183000Z
 SUMMARY:Liga Hypermotion - Burgos C.F. - Mirandés
-UID:f64bcfc9-83ab-41e9-bfca-580958ce8225
+UID:e3149bf6-4116-4848-b4da-837d4aacc3c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
  dy></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241010T003810Z
+DTSTART:20241019T190000Z
+DTEND:20241019T210000Z
+SUMMARY:Liga Hypermotion - Mirandés - Eibar
+UID:57332084-9aa2-4801-81af-54d2e8f23f38
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
 END:VEVENT
 END:VCALENDAR

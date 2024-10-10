@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241007T004024Z
+DTSTAMP:20241010T003810Z
 DTSTART:20241014T183000Z
 DTEND:20241014T203000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - C.D. Castellón
-UID:d3e23a52-1fc1-4b47-8772-63d2517da2db
+UID:242f27d2-7d25-4a4d-ab55-c1e730754d82
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241010T003810Z
+DTSTART:20241019T163000Z
+DTEND:20241019T183000Z
+SUMMARY:Liga Hypermotion - C.D. Castellón - Levante
+UID:b78acf20-f52f-4683-8b8c-cbb1cc79e291
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
 END:VEVENT
 END:VCALENDAR
