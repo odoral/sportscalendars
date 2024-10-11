@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241006T004204Z
+DTSTAMP:20241011T003838Z
 DTSTART:20241013T190000Z
 DTEND:20241013T210000Z
 SUMMARY:Liga Hypermotion - Elche - Deportivo
-UID:cc04b2dd-d014-45ab-a143-a6c594b1cd03
+UID:78b1607e-6fa6-4acc-8dc7-9a36b10e2542
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
  rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241011T003838Z
+DTSTART:20241020T163000Z
+DTEND:20241020T183000Z
+SUMMARY:Liga Hypermotion - Elche - Sporting de Gijón
+UID:d2160f18-6b45-465f-b376-09dbc86df42d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion 2
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241006T004204Z
+DTSTAMP:20241011T003838Z
 DTSTART:20241012T141500Z
 DTEND:20241012T161500Z
 SUMMARY:Liga Hypermotion - Cartagena - Racing Ferrol
-UID:ef804b7b-f266-4c18-b4c8-ade4b98b25a6
+UID:777b8d11-0d51-4291-b84f-b5d527217d59
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: LaLiga TV Hype
+ rmotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241011T003838Z
+DTSTART:20241020T141500Z
+DTEND:20241020T161500Z
+SUMMARY:Liga Hypermotion - Racing Ferrol - Huesca
+UID:109f22d3-0202-47d0-ab9d-372119ea1f65
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body
  ></html>
