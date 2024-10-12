@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241011T081150Z
+DTSTAMP:20241012T003734Z
 DTSTART:20241013T120000Z
 DTEND:20241013T140000Z
 SUMMARY:Liga Hypermotion - Huesca - Albacete
-UID:0f590cec-1375-4793-b294-1083fb6e0a69
+UID:02d54c44-b05b-47b7-98ce-91935094aa61
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Movistar
@@ -28,5 +28,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+\n- PPV: Movist
  ar Plus+ 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241012T003734Z
+DTSTART:20241021T183000Z
+DTEND:20241021T203000Z
+SUMMARY:Liga Hypermotion - Albacete - Burgos C.F.
+UID:e14d0f4d-104f-4b55-9bd3-b47ccd19bb7f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
