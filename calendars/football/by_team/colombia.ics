@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241012T081020Z
+DTSTAMP:20241013T004152Z
 DTSTART:20241015T203000Z
 DTEND:20241015T223000Z
 SUMMARY:Mundial 2026 - Colombia - Chile
-UID:64aa8b3c-19c8-48cd-91d8-ae8872a3fb01
+UID:4f98ec36-7e88-44d3-b361-9834d7c5893c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li></ul
  ></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 2\n-
   PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241013T004152Z
+DTSTART:20241022T200000Z
+DTEND:20241022T220000Z
+SUMMARY:Mundial Sub-17 Femenino - Colombia - España
+UID:2fded34f-0b57-4cca-9306-d10bde87c362
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: FIFA+
 END:VEVENT
 END:VCALENDAR
