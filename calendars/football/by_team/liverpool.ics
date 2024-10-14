@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241011T003838Z
+DTSTAMP:20241014T004024Z
 DTSTART:20241020T153000Z
 DTEND:20241020T173000Z
 SUMMARY:Premier League - Liverpool - Chelsea
-UID:276b113d-f1c2-4a54-a49b-779f44fa171b
+UID:737f5845-e092-4cbb-959f-4e0835707cce
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
  s+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241014T004024Z
+DTSTART:20241023T190000Z
+DTEND:20241023T210000Z
+SUMMARY:Champions League - RB Leipzig - Liverpool
+UID:16f38068-5744-4fea-aea3-b3b39d0ef6a9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

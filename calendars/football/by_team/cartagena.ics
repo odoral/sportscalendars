@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241013T004152Z
+DTSTAMP:20241014T004024Z
 DTSTART:20241018T183000Z
 DTEND:20241018T203000Z
 SUMMARY:Liga Hypermotion - Córdoba - Cartagena
-UID:6fe18f42-188c-4596-8ede-962a1e46d2ed
+UID:ac69e77c-d1c4-4a08-bda5-d09470623b00
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241014T004024Z
+DTSTART:20241023T190000Z
+DTEND:20241023T210000Z
+SUMMARY:Liga Hypermotion - Cartagena - Elche
+UID:6db745ac-051e-44e5-bb98-26b58946d22e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
