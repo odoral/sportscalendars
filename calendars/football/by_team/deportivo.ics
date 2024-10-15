@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241014T004024Z
+DTSTAMP:20241015T003906Z
 DTSTART:20241019T141500Z
 DTEND:20241019T161500Z
 SUMMARY:Liga Hypermotion - Deportivo - C.D. Eldense
-UID:b3c4cb91-d411-48d3-af2b-494b93c4dbad
+UID:8382b258-61f8-47d9-97f1-87c73a1ab222
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T003906Z
+DTSTART:20241024T170000Z
+DTEND:20241024T190000Z
+SUMMARY:Liga Hypermotion - Levante - Deportivo
+UID:8f6691e1-eed8-4cda-b14e-a3b787d4271b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

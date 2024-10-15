@@ -17,22 +17,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20241015T003906Z
-DTSTART:20241019T184500Z
-DTEND:20241019T204500Z
-SUMMARY:Serie A - Juventus - Lazio
-UID:630a0a53-c6cc-4492-93fc-01b85edd61ba
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241015T003906Z
 DTSTART:20241024T190000Z
 DTEND:20241024T210000Z
-SUMMARY:Europa League - Twente - Lazio
-UID:4ad8bbcf-20e2-411e-adad-1f2c7e2eb74a
+SUMMARY:Conference League - Betis - København
+UID:d951abc0-7aa0-414d-968e-443b86747435
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

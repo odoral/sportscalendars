@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241013T004152Z
+DTSTAMP:20241015T003906Z
 DTSTART:20241019T141500Z
 DTEND:20241019T161500Z
 SUMMARY:Liga Hypermotion - Málaga - Real Oviedo
-UID:fb40fc60-13b9-4bbe-aeaf-46fa41e93753
+UID:9eafddf5-08f7-40c0-ac44-8f6632260181
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T003906Z
+DTSTART:20241024T190000Z
+DTEND:20241024T210000Z
+SUMMARY:Liga Hypermotion - Tenerife - Málaga
+UID:7040a360-76b2-4b0d-9262-282136956231
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
