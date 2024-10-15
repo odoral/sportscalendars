@@ -16,41 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241015T003906Z
+DTSTAMP:20241015T041120Z
+DTSTART:20241015T203000Z
+DTEND:20241015T223000Z
+SUMMARY:Mundial 2026 - Colombia - Chile
+UID:3033bc8c-c1ac-421e-9774-95d19ebfae7b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li></ul
+ ></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 2\n-
+  PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T041120Z
 DTSTART:20241015T230000Z
 DTEND:20241016T010000Z
 SUMMARY:Mundial 2026 - Paraguay - Venezuela
-UID:aac9b17e-8d1f-42e3-9926-08bb9771dca4
+UID:5ec1ac40-c6e1-4573-ab7f-5bd8432c5c4e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241015T003906Z
+DTSTAMP:20241015T041120Z
 DTSTART:20241015T233000Z
 DTEND:20241016T013000Z
 SUMMARY:Mundial 2026 - Uruguay - Ecuador
-UID:9b74f0f0-b83d-41d1-9389-a4d6dde12649
+UID:d1179e16-2511-401f-bade-35be9d1b9ad8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241015T003906Z
+DTSTAMP:20241015T041120Z
 DTSTART:20241016T000000Z
 DTEND:20241016T020000Z
 SUMMARY:Mundial 2026 - Argentina - Bolivia
-UID:6df3fac8-0c98-40a3-88dd-09e1e7288c6d
+UID:7f4e5664-0153-4a0a-8954-1e763a5c03a0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241015T003906Z
+DTSTAMP:20241015T041120Z
 DTSTART:20241016T004500Z
 DTEND:20241016T024500Z
 SUMMARY:Mundial 2026 - Brasil - Perú
-UID:db7d669c-f13c-42db-9975-e3a2ab51ee8d
+UID:cd13153f-9b56-4111-b439-208dff0a4cfa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 5

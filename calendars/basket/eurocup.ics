@@ -16,61 +16,71 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
-DTSTART:20241016T183000Z
-DTEND:20241016T203000Z
-SUMMARY:Eurocup - Joventut Badalona - BC Wolves
-UID:10a80dc0-6e84-417c-9c58-d26a860dfe94
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
- </body></html>
-DESCRIPTION:- Open: Esport 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
-DTSTART:20241017T170000Z
-DTEND:20241017T190000Z
-SUMMARY:Eurocup - Valencia Basket - Umana Reyer Venice
-UID:7d3f8ede-9fbe-4a42-b10b-b5d97fc4c705
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes 2</li><
- /ul></body></html>
-DESCRIPTION:- PPV: M+ Deportes 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
-DTSTART:20241022T170000Z
-DTEND:20241022T190000Z
-SUMMARY:Eurocup - Besiktas JK Istanbul - Joventut Badalona
-UID:1cc3e32c-a611-495a-bbb9-08ea13037188
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
- </body></html>
-DESCRIPTION:- Open: Esport 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
-DTSTART:20241022T190000Z
-DTEND:20241022T210000Z
-SUMMARY:Eurocup - Dreamland Gran Canaria - Ratiopharm Ulm
-UID:b3db25cd-77aa-433d-b1e4-670a2862d199
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
- </body></html>
-DESCRIPTION:- PPV: Movistar+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
-DTSTART:20241023T163000Z
-DTEND:20241023T183000Z
-SUMMARY:Eurocup - Türk Telekom Ankara - Valencia Basket
-UID:05c14703-47eb-42e9-b132-27061ccb34ce
+DTSTAMP:20241015T041127Z
+DTSTART:20241015T170000Z
+DTEND:20241015T190000Z
+SUMMARY:Eurocup - Hapoel Tel Aviv B.C. - Dreamland Gran Canaria
+UID:4d934ac4-d99c-46dc-bcdb-2fc646a4ba34
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
  /body></html>
 DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
+DTSTAMP:20241015T041127Z
+DTSTART:20241016T183000Z
+DTEND:20241016T203000Z
+SUMMARY:Eurocup - Joventut Badalona - BC Wolves
+UID:076a8a9f-6585-4e3d-8f87-268ba703eb26
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T041127Z
+DTSTART:20241017T170000Z
+DTEND:20241017T190000Z
+SUMMARY:Eurocup - Valencia Basket - Umana Reyer Venice
+UID:0bea8462-51e1-4685-97e7-e537b7501bf3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes 2</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: M+ Deportes 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T041127Z
+DTSTART:20241022T170000Z
+DTEND:20241022T190000Z
+SUMMARY:Eurocup - Besiktas JK Istanbul - Joventut Badalona
+UID:c422fe0e-a5c8-4f12-9d74-ecc19f7f1250
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T041127Z
+DTSTART:20241022T190000Z
+DTEND:20241022T210000Z
+SUMMARY:Eurocup - Dreamland Gran Canaria - Ratiopharm Ulm
+UID:dcc5b7e1-240e-438b-86bb-568757668000
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T041127Z
+DTSTART:20241023T163000Z
+DTEND:20241023T183000Z
+SUMMARY:Eurocup - Türk Telekom Ankara - Valencia Basket
+UID:b3ef22e0-2828-4c19-8f6b-a468d239977d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T041127Z
 DTSTART:20241029T193000Z
 DTEND:20241029T213000Z
 SUMMARY:Eurocup - Joventut Badalona - Dreamland Gran Canaria
-UID:756321b0-86b3-4f38-b62a-d04fe397b82b
+UID:962b1385-f6f8-4ff5-a7f7-f32045585198
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: M+ Vamos
