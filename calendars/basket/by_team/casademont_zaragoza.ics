@@ -16,76 +16,93 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
+DTSTAMP:20241015T081223Z
+DTSTART:20241015T170000Z
+DTEND:20241015T190000Z
+SUMMARY:FIBA Europe Cup - Patrioti Levice - Casademont Zaragoza
+UID:bd87b28c-d19e-46a6-b1c6-328dfb4ffff0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: FIBA YouTube</li></ul></body></ht
+ ml>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: FIBA YouTu
+ be
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T081223Z
 DTSTART:20241016T160000Z
 DTEND:20241016T180000Z
 SUMMARY:Euroliga Femenina - Fenerbahçe S.K. - Casademont Zaragoza
-UID:4815dc72-4a08-4917-854d-317e016c62f8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
-DTSTART:20241016T170000Z
-DTEND:20241016T190000Z
-SUMMARY:FIBA Europe Cup - Patrioti Levice - Casademont Zaragoza
-UID:e2f589f2-348a-45cb-b8b2-1e3c1c0b48e0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li></ul
+UID:5a78f796-66b1-4f9b-885f-32596825f126
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: EuroLeague Women YouTube</li></ul
  ></body></html>
-DESCRIPTION:- Open: Aragón TV
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: EuroLeague
+  Women YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
+DTSTAMP:20241015T081223Z
 DTSTART:20241019T184500Z
 DTEND:20241019T204500Z
 SUMMARY:Liga Endesa - UCAM Murcia C.B. - Casademont Zaragoza
-UID:faac686c-c743-44fe-9df8-baef0de28fc4
+UID:d07ffb74-f45d-4926-8485-c418e0460aef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
+DTSTAMP:20241015T081223Z
 DTSTART:20241020T100000Z
 DTEND:20241020T120000Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - C.B. Jairis
-UID:91bc5a92-7b6d-477a-99c7-c25252a8d12b
+UID:3b010aa6-c441-40e0-b883-0cfc41db3e84
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
+DTSTAMP:20241015T081223Z
 DTSTART:20241023T180000Z
 DTEND:20241023T200000Z
 SUMMARY:Euroliga Femenina - Villeneuve d'Ascq LM - Casademont Zaragoza
-UID:4f4d706e-f5e7-4150-b40e-d7d90f7012c3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:97ae3eea-1778-4bc2-9034-24c8c2e19ee8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: EuroLeague Women Y
+ ouTube</li></ul></body></html>
+DESCRIPTION:- Open: EuroLeague Women YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
+DTSTAMP:20241015T081223Z
+DTSTART:20241023T180000Z
+DTEND:20241023T200000Z
+SUMMARY:FIBA Europe Cup - Casademont Zaragoza - Anorthosis Famagusta BC
+UID:6ac99b95-9891-41e7-8de3-242501405d4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: FIBA YouTube</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T081223Z
 DTSTART:20241026T184500Z
 DTEND:20241026T204500Z
 SUMMARY:Liga Endesa - Basquet Coruña - Casademont Zaragoza
-UID:9a732212-16df-46e9-88b7-c7e422085372
+UID:3a05328b-d642-4153-b56b-e21d0cf5a436
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
+DTSTAMP:20241015T081223Z
 DTSTART:20241027T110000Z
 DTEND:20241027T130000Z
 SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - Casademont Zaragoza
-UID:4fb80b43-d2ea-4725-a255-5056cf2bd678
+UID:3f3e7a6f-7370-4393-9d78-c3daf3f4b80d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241015T003914Z
+DTSTAMP:20241015T081223Z
 DTSTART:20241029T180000Z
 DTEND:20241029T200000Z
 SUMMARY:Euroliga Femenina - Polkowice - Casademont Zaragoza
-UID:81b20ba9-2320-4530-afd3-2b69f54bc0ea
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:20e8ced4-b210-4553-8645-61cd72ed0539
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: EuroLeague Women Y
+ ouTube</li></ul></body></html>
+DESCRIPTION:- Open: EuroLeague Women YouTube
 END:VEVENT
 END:VCALENDAR

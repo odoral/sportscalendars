@@ -16,23 +16,45 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241014T081250Z
+DTSTAMP:20241015T081223Z
+DTSTART:20241015T170000Z
+DTEND:20241015T190000Z
+SUMMARY:FIBA Europe Cup - Patrioti Levice - Casademont Zaragoza
+UID:4552c300-13c0-46f6-a17d-81155d217765
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: FIBA YouTube</li></ul></body></ht
+ ml>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: FIBA YouTu
+ be
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T081223Z
 DTSTART:20241016T160000Z
 DTEND:20241016T180000Z
 SUMMARY:FIBA Europe Cup - BC Kutaisi 2010 - Bilbao Basket
-UID:ea6377fb-e773-46cb-b9e1-c814b297ab31
+UID:87ff0abb-2e43-4a60-ba9f-b5ca87619cc9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB4</li>\n<li>Ope
  n: FIBA YouTube</li></ul></body></html>
 DESCRIPTION:- Open: ETB4\n- Open: FIBA YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241014T081250Z
-DTSTART:20241016T170000Z
-DTEND:20241016T190000Z
-SUMMARY:FIBA Europe Cup - Patrioti Levice - Casademont Zaragoza
-UID:5bfd28cd-f8d1-401e-972b-33fba5a993de
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li></ul
- ></body></html>
-DESCRIPTION:- Open: Aragón TV
+DTSTAMP:20241015T081223Z
+DTSTART:20241022T170000Z
+DTEND:20241022T190000Z
+SUMMARY:FIBA Europe Cup - BC Prievidza - Bilbao Basket
+UID:06f83c31-7280-4605-9621-d5ed81d65bc1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241015T081223Z
+DTSTART:20241023T180000Z
+DTEND:20241023T200000Z
+SUMMARY:FIBA Europe Cup - Casademont Zaragoza - Anorthosis Famagusta BC
+UID:a1077774-bc56-47cd-a5b3-ea71e4c288d7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: FIBA YouTube</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR
