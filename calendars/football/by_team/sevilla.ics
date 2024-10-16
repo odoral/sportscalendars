@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241011T003838Z
+DTSTAMP:20241016T003900Z
 DTSTART:20241020T190000Z
 DTEND:20241020T210000Z
 SUMMARY:Liga EA Sports - Barcelona - Sevilla
-UID:69febca7-e09d-4575-aa43-a1f921528de9
+UID:e82ddea1-7f34-45b1-91ac-72b0bea92031
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241016T003900Z
+DTSTART:20241025T190000Z
+DTEND:20241025T210000Z
+SUMMARY:Liga EA Sports - Espanyol - Sevilla
+UID:1845e6b0-5f20-43d9-b1e7-b9abc9a79d2a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: Gol Stadium</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ La
+ Liga TV</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: Gol Stadium\n- PPV: GolStadium Premi
+ um\n- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

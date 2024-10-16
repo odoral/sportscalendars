@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241010T003810Z
+DTSTAMP:20241016T003900Z
 DTSTART:20241019T120000Z
 DTEND:20241019T140000Z
 SUMMARY:Liga EA Sports - Athletic Club - Espanyol
-UID:9e2b6e64-1fb6-41a2-a4ef-1449dccc8b36
+UID:9e2567ca-170f-412f-afad-c084e8f961bf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241016T003900Z
+DTSTART:20241025T190000Z
+DTEND:20241025T210000Z
+SUMMARY:Liga EA Sports - Espanyol - Sevilla
+UID:eac51b67-0e0f-4159-b49e-9c1c78c870ff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: Gol Stadium</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ La
+ Liga TV</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: Gol Stadium\n- PPV: GolStadium Premi
+ um\n- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
