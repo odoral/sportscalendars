@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241014T004024Z
+DTSTAMP:20241017T003839Z
 DTSTART:20241020T163000Z
 DTEND:20241020T183000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Almería
-UID:63ab0c53-9f15-4e7b-a44e-9a18f7ef0adc
+UID:6c791354-b648-4f66-980b-0c710f80dca0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
@@ -28,15 +28,28 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241014T004024Z
+DTSTAMP:20241017T003839Z
 DTSTART:20241023T170000Z
 DTEND:20241023T190000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Real Zaragoza
-UID:778e398d-a089-49a3-b1ab-60f551da07db
+UID:0c9e2fa1-f102-4b2d-bbcf-8f096a6b4764
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241017T003839Z
+DTSTART:20241026T163000Z
+DTEND:20241026T183000Z
+SUMMARY:Liga Hypermotion - Real Zaragoza - C.D. Castellón
+UID:32217751-7227-4310-8877-643d073b8834
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+ 
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
