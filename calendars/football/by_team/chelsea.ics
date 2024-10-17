@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241016T081221Z
+DTSTAMP:20241017T081213Z
 DTSTART:20241020T153000Z
 DTEND:20241020T173000Z
 SUMMARY:Premier League - Liverpool - Chelsea
-UID:cd4aaeeb-dd11-47d4-b8b6-bb94917668f3
+UID:546b2676-e983-43de-a4ca-bd295f80cea0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
+ V: M+ Vamos
 END:VEVENT
 END:VCALENDAR
