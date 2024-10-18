@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241017T081213Z
+DTSTAMP:20241018T003859Z
 DTSTART:20241019T163000Z
 DTEND:20241019T183000Z
 SUMMARY:Premier League - Bournemouth - Arsenal
-UID:9ba1dbbc-0a5c-4643-bc4f-6357276567ff
+UID:393426e2-da1a-4c94-901a-9013c95fc5c3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241017T081213Z
+DTSTAMP:20241018T003859Z
 DTSTART:20241022T190000Z
 DTEND:20241022T210000Z
 SUMMARY:Champions League - Arsenal - Shaktar Donetsk
-UID:bbb156bf-7626-4b66-91f5-d38f832516ea
+UID:afea5dc1-9337-43fe-ad42-3686a91bfbb8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241018T003859Z
+DTSTART:20241027T163000Z
+DTEND:20241027T183000Z
+SUMMARY:Premier League - Arsenal - Liverpool
+UID:bbe150ce-7174-4e40-9c84-f12d4d9d7704
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241017T081213Z
+DTSTAMP:20241018T003859Z
 DTSTART:20241020T153000Z
 DTEND:20241020T173000Z
 SUMMARY:Premier League - Liverpool - Chelsea
-UID:a7cea86f-3636-4f23-bd7c-864c69f6d548
+UID:e19f5a64-96ac-49c0-bd9d-94bb20cd14ec
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li>
  </ul></body></html>
@@ -28,13 +28,25 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
  V: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241017T081213Z
+DTSTAMP:20241018T003859Z
 DTSTART:20241023T190000Z
 DTEND:20241023T210000Z
 SUMMARY:Champions League - RB Leipzig - Liverpool
-UID:afe6997d-4a5b-4f17-a8ec-859a713e339d
+UID:772f835f-0364-474b-9e03-00706bdaf9aa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241018T003859Z
+DTSTART:20241027T163000Z
+DTEND:20241027T183000Z
+SUMMARY:Premier League - Arsenal - Liverpool
+UID:6ca2f664-37c1-4e02-94bd-53cdf138509c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR
