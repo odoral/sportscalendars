@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
+DTSTAMP:20241020T081124Z
 DTSTART:20241022T200000Z
 DTEND:20241022T220000Z
 SUMMARY:Mundial Sub-17 Femenino - Colombia - España
-UID:8e9373e8-2c23-4ca7-ac73-3c45c98274ef
+UID:c5bf1aa6-f203-4a5f-bda1-a1ef6ed577a3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
  en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241020T081124Z
+DTSTART:20241029T171500Z
+DTEND:20241029T191500Z
+SUMMARY:Amistoso Femenino - Italia - España
+UID:4c8b5832-c46a-4981-90dc-183f9c02e9f6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
