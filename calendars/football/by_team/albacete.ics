@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241018T003859Z
+DTSTAMP:20241021T004037Z
 DTSTART:20241021T183000Z
 DTEND:20241021T203000Z
 SUMMARY:Liga Hypermotion - Albacete - Burgos C.F.
-UID:0a59a70f-6fe8-458a-9fb4-a4462ef0ee43
+UID:a72fb76e-a71f-4a03-913a-5307d17b198b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
@@ -28,11 +28,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241018T003859Z
+DTSTAMP:20241021T004037Z
 DTSTART:20241024T170000Z
 DTEND:20241024T190000Z
 SUMMARY:Liga Hypermotion - Almería - Albacete
-UID:97e6dc9f-d99c-4eb1-97d3-eae05f6e70b5
+UID:f3facd6d-a451-4755-8982-ae8280eec10c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li></ul></body></html>
@@ -40,15 +40,25 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241018T003859Z
+DTSTAMP:20241021T004037Z
 DTSTART:20241027T173000Z
 DTEND:20241027T193000Z
 SUMMARY:Liga Hypermotion - Albacete - Sporting de Gijón
-UID:905a70d5-85da-4743-bcfe-2be869ed9998
+UID:b573aab7-15fe-4bfb-b9fc-409de3f38b8d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241021T004037Z
+DTSTART:20241030T173000Z
+DTEND:20241030T193000Z
+SUMMARY:Copa del Rey - C.E. Europa - Albacete
+UID:03504c84-927b-46f1-8b6f-ff3e0d4b6206
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMM (Castilla-LM)<
+ /li>\n<li>Open: CMMPlay (Castilla-LM)</li></ul></body></html>
+DESCRIPTION:- Open: CMM (Castilla-LM)\n- Open: CMMPlay (Castilla-LM)
 END:VEVENT
 END:VCALENDAR

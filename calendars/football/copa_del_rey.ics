@@ -16,51 +16,131 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
+DTSTAMP:20241021T004037Z
 DTSTART:20241029T180000Z
 DTEND:20241029T200000Z
 SUMMARY:Copa del Rey - Compostela - Alavés
-UID:ce6d57dc-8c58-4c29-be45-406faef186a2
+UID:2ff07ba4-6422-4013-adbc-f2f1c54a795e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
  </body></html>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
+DTSTAMP:20241021T004037Z
 DTSTART:20241029T180000Z
 DTEND:20241029T200000Z
 SUMMARY:Copa del Rey - CD Villamuriel - Rayo Vallecano
-UID:2117320a-801b-4479-a650-9c850d4d01db
+UID:e41c71f9-8ac2-4482-bc38-2f43048afa2d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
  </body></html>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
+DTSTAMP:20241021T004037Z
 DTSTART:20241029T200000Z
 DTEND:20241029T220000Z
 SUMMARY:Copa del Rey - Poblense - Villarreal
-UID:6f314f32-27bc-41bb-9713-cb5967bb7815
+UID:a9d36127-077f-474e-ab76-a302a72df4cf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
  </body></html>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
+DTSTAMP:20241021T004037Z
 DTSTART:20241029T200000Z
 DTEND:20241029T220000Z
 SUMMARY:Copa del Rey - Astur C.F. - Valladolid
-UID:cee3aff7-9f36-474c-982e-f44dbae11cde
+UID:7d1e790e-1b78-4a28-a5dd-ed9578ceeea1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
  </body></html>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
+DTSTAMP:20241021T004037Z
 DTSTART:20241029T200000Z
 DTEND:20241029T220000Z
 SUMMARY:Copa del Rey - L'Hospitalet - Real Zaragoza
-UID:aa1ff497-9456-444f-9f0e-1fab23035a7d
+UID:479d0f82-a2cc-48f0-8ebd-d30822dfbdf2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241021T004037Z
+DTSTART:20241030T173000Z
+DTEND:20241030T193000Z
+SUMMARY:Copa del Rey - C.E. Europa - Albacete
+UID:aee579f7-d2ea-41bd-a155-c9ffbb1cd10f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMM (Castilla-LM)<
+ /li>\n<li>Open: CMMPlay (Castilla-LM)</li></ul></body></html>
+DESCRIPTION:- Open: CMM (Castilla-LM)\n- Open: CMMPlay (Castilla-LM)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241021T004037Z
+DTSTART:20241030T180000Z
+DTEND:20241030T200000Z
+SUMMARY:Copa del Rey - Las Rozas - Sevilla
+UID:605429e3-49af-45d8-8c42-1238ac326c59
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241021T004037Z
+DTSTART:20241030T180000Z
+DTEND:20241030T200000Z
+SUMMARY:Copa del Rey - Ciudad de Lucena - Leganés
+UID:b1123601-797b-4bf9-ac32-7c98595948f8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241021T004037Z
+DTSTART:20241030T180000Z
+DTEND:20241030T200000Z
+SUMMARY:Copa del Rey - Chiclana C.F. - Osasuna
+UID:94932b38-ef55-4b9b-9b1a-31a2ecefadd0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241021T004037Z
+DTSTART:20241030T190000Z
+DTEND:20241030T210000Z
+SUMMARY:Copa del Rey - Numancia - Sporting de Gijón
+UID:f3f2b24d-03e7-429f-b847-c8cddd3bee5c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: TPA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241021T004037Z
+DTSTART:20241030T190000Z
+DTEND:20241030T210000Z
+SUMMARY:Copa del Rey - C.F. Badalona - Huesca
+UID:77ca1fc1-b15b-40be-93c2-167ac2be6de4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241021T004037Z
+DTSTART:20241030T190000Z
+DTEND:20241030T210000Z
+SUMMARY:Copa del Rey - Pontevedra - Levante
+UID:b9daae24-9ef2-4e0a-80b1-cccb9de77052
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: TVG 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241021T004037Z
+DTSTART:20241030T190000Z
+DTEND:20241030T210000Z
+SUMMARY:Copa del Rey - Utebo C.F. - Unionistas
+UID:0e29e4df-9c4b-446a-96b0-416414953de3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
