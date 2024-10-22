@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
+DTSTAMP:20241022T003928Z
 DTSTART:20241023T190000Z
 DTEND:20241023T210000Z
 SUMMARY:Champions League - Atlético de Madrid - Lille
-UID:f982c3df-5495-4c36-8af8-9d22c3e7e485
+UID:0c6048df-a1ab-4ad9-8775-a342236214be
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
+DTSTAMP:20241022T003928Z
 DTSTART:20241027T173000Z
 DTEND:20241027T193000Z
 SUMMARY:Liga EA Sports - Betis - Atlético de Madrid
-UID:b243dbb3-b8c1-4c4b-871a-4136f526791e
+UID:94e6b72c-bcec-4ea6-be0d-e8b37a994d95
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241022T003928Z
+DTSTART:20241031T180000Z
+DTEND:20241031T200000Z
+SUMMARY:Copa del Rey - UE Vic - Atlético de Madrid
+UID:a602965b-f4a2-40cf-9312-12ba1248c15f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
