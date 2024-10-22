@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241021T081253Z
+DTSTAMP:20241022T081216Z
 DTSTART:20241024T190000Z
 DTEND:20241024T210000Z
 SUMMARY:Conference League - Betis - København
-UID:7b123054-307b-40fc-a27e-4e2db32f8c48
+UID:7dbb5838-065d-46ce-b3d1-67d378385e73
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+<
  /li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3\
  n- PPV: Movistar Plus+\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241021T081253Z
+DTSTAMP:20241022T081216Z
 DTSTART:20241027T173000Z
 DTEND:20241027T193000Z
 SUMMARY:Liga EA Sports - Betis - Atlético de Madrid
-UID:30549676-0c84-4dee-87d7-acb253b6d265
+UID:3d36d80f-c8ff-4b66-8ded-828ede90af12
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241022T081216Z
+DTSTART:20241031T200000Z
+DTEND:20241031T220000Z
+SUMMARY:Copa del Rey - C.D. Gévora - Betis
+UID:9c0c936f-1057-4759-9f9f-4512dbf238ac
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
+DTSTAMP:20241022T081216Z
 DTSTART:20241024T190000Z
 DTEND:20241024T210000Z
 SUMMARY:Liga Hypermotion - Burgos C.F. - Racing Ferrol
-UID:bba6acef-4386-49dc-bebc-327ed2e27ec3
+UID:6bf7d402-7b0e-4c01-acf4-261f07191260
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
@@ -28,15 +28,25 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
+DTSTAMP:20241022T081216Z
 DTSTART:20241028T193000Z
 DTEND:20241028T213000Z
 SUMMARY:Liga Hypermotion - Racing Ferrol - Tenerife
-UID:99c68f62-b45d-4009-aab6-5c63c36accf9
+UID:d79e5a6e-1fea-4c96-b13e-74e6c9283abc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241022T081216Z
+DTSTART:20241031T200000Z
+DTEND:20241031T220000Z
+SUMMARY:Copa del Rey - C.D. Cuarte - Racing Ferrol
+UID:be9606ed-d91d-48ae-8d71-9a5541e6e317
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: TVG 2</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: TVG 2
 END:VEVENT
 END:VCALENDAR

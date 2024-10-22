@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
+DTSTAMP:20241022T081216Z
 DTSTART:20241022T170000Z
 DTEND:20241022T190000Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Mirandés
-UID:db5c90b7-cad8-4d1d-b556-9c1e26b6d9f0
+UID:1dd34b16-5c6b-47c4-88a7-0d41eb9f9aae
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
@@ -28,15 +28,25 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
+DTSTAMP:20241022T081216Z
 DTSTART:20241026T141500Z
 DTEND:20241026T161500Z
 SUMMARY:Liga Hypermotion - Cádiz - Real Oviedo
-UID:bd3d40c1-b2be-4dbc-a5cb-7225a5a5a782
+UID:25b5dc77-10d9-494d-995f-005e30cd9b17
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241022T081216Z
+DTSTART:20241031T190000Z
+DTEND:20241031T210000Z
+SUMMARY:Copa del Rey - Real Ávila - Real Oviedo
+UID:3ac22ecc-ed05-453e-9a2f-dcb848b6ab73
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: TPA
 END:VEVENT
 END:VCALENDAR
