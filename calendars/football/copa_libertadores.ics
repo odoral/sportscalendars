@@ -16,13 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240927T041112Z
-DTSTART:20240926T220000Z
-DTEND:20240927T000000Z
-SUMMARY:Copa Libertadores - Peñarol - C.R. Flamengo
-UID:f7b8afd0-af55-4958-bbaa-3adccc6cbe01
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
- body></html>
-DESCRIPTION:- PPV: LaLiga+
+DTSTAMP:20241023T041128Z
+DTSTART:20241023T003000Z
+DTEND:20241023T023000Z
+SUMMARY:Copa Libertadores - Atlético Mineiro - River Plate
+UID:8ed9c36f-1b83-4e0c-9df3-4344e3f2c319
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241023T041128Z
+DTSTART:20241024T003000Z
+DTEND:20241024T023000Z
+SUMMARY:Copa Libertadores - Botafogo - Peñarol
+UID:d8278bd1-fcae-412c-986d-20b69a685220
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241023T041128Z
+DTSTART:20241030T003000Z
+DTEND:20241030T023000Z
+SUMMARY:Copa Libertadores - River Plate - Atlético Mineiro
+UID:33a2717f-d3f6-4402-b2ca-183d4be95169
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241023T041128Z
+DTSTART:20241031T003000Z
+DTEND:20241031T023000Z
+SUMMARY:Copa Libertadores - Peñarol - Botafogo
+UID:425882a8-8efe-46d6-848e-ec02bc7a2628
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

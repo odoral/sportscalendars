@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240922T081006Z
-DTSTART:20240926T003000Z
-DTEND:20240926T023000Z
-SUMMARY:Copa Libertadores - São Paulo - Botafogo
-UID:37f39230-4316-4d68-bef4-0adcb85cdf6b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
- body></html>
-DESCRIPTION:- PPV: LaLiga+
+DTSTAMP:20241023T041128Z
+DTSTART:20241024T003000Z
+DTEND:20241024T023000Z
+SUMMARY:Copa Libertadores - Botafogo - Peñarol
+UID:640947f9-86ee-4d0d-bb63-7dd02a0b4413
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241023T041128Z
+DTSTART:20241031T003000Z
+DTEND:20241031T023000Z
+SUMMARY:Copa Libertadores - Peñarol - Botafogo
+UID:7ec3d5ae-3c89-4971-ba60-0cab98793155
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

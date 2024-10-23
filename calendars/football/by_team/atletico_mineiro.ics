@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240922T081006Z
-DTSTART:20240925T220000Z
-DTEND:20240926T000000Z
-SUMMARY:Copa Libertadores - Atlético Mineiro - Fluminense
-UID:0207dc2f-df7e-4f0a-ac3e-3772add489af
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
- body></html>
-DESCRIPTION:- PPV: LaLiga+
+DTSTAMP:20241023T041128Z
+DTSTART:20241023T003000Z
+DTEND:20241023T023000Z
+SUMMARY:Copa Libertadores - Atlético Mineiro - River Plate
+UID:6d85edc5-8794-4a3b-aebe-bb17d9498823
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241023T041128Z
+DTSTART:20241030T003000Z
+DTEND:20241030T023000Z
+SUMMARY:Copa Libertadores - River Plate - Atlético Mineiro
+UID:a553e80c-9a45-4c4c-ba84-8083fbc5663f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
