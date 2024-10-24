@@ -16,41 +16,51 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241024T003849Z
+DTSTAMP:20241024T081209Z
 DTSTART:20241026T153000Z
 DTEND:20241026T173000Z
 SUMMARY:Primera Federación - Betis Deportivo - Yeclano
-UID:5eb3ecec-a007-4a97-b1d7-7cc1961c9758
+UID:8c0251f5-ef5e-4251-891c-cf5824bf56cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241024T003849Z
+DTSTAMP:20241024T081209Z
+DTSTART:20241026T173000Z
+DTEND:20241026T193000Z
+SUMMARY:Primera Federación - Celta B - G. Segoviana
+UID:a5867569-b0be-4521-9f4b-bdf067a3e8b1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241024T081209Z
 DTSTART:20241027T110000Z
 DTEND:20241027T130000Z
 SUMMARY:Primera Federación - R.M. Castilla - Algeciras
-UID:c9e9f744-b127-4e54-a7af-fdef3d7b0eb8
+UID:eb215d71-a688-4207-bfa9-4ba63bb8823b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  \n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241024T003849Z
+DTSTAMP:20241024T081209Z
 DTSTART:20241027T163000Z
 DTEND:20241027T183000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Barakaldo
-UID:6d54f5c6-7acc-47d9-bde3-1d01c0f11e20
+UID:da5af4e0-cbcd-4610-b98c-c46fb5720a86
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241024T003849Z
+DTSTAMP:20241024T081209Z
 DTSTART:20241102T143000Z
 DTEND:20241102T163000Z
 SUMMARY:Primera Federación - G. Segoviana - Barcelona Atlètic
-UID:30a0fd86-dab6-46cb-a325-61bdc04b82c3
+UID:d155f3f2-e6a0-4278-b9e1-e63be62fbda9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
