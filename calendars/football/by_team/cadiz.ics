@@ -16,27 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
-DTSTART:20241023T170000Z
-DTEND:20241023T190000Z
-SUMMARY:Liga Hypermotion - Eibar - Cádiz
-UID:d08626d7-2165-40e4-82bd-5b142b85edda
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: M+ Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
+DTSTAMP:20241024T003849Z
 DTSTART:20241026T141500Z
 DTEND:20241026T161500Z
 SUMMARY:Liga Hypermotion - Cádiz - Real Oviedo
-UID:91d3bc8c-dca5-46e2-997c-5aa722f682f7
+UID:bafaf133-6faa-4732-90bf-1a4d7fd118c2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241024T003849Z
+DTSTART:20241102T151500Z
+DTEND:20241102T171500Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Cádiz
+UID:69821787-e76a-48f5-b432-9dcfdde5debb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241023T041128Z
+DTSTAMP:20241024T003849Z
 DTSTART:20241027T163000Z
 DTEND:20241027T183000Z
 SUMMARY:Premier League - Arsenal - Liverpool
-UID:a960a57f-fc35-40d0-a187-440160a00f3a
+UID:759d57ea-75f5-4fed-977d-34add850c072
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
  s+ 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241024T003849Z
+DTSTART:20241102T123000Z
+DTEND:20241102T143000Z
+SUMMARY:Premier League - Newcastle - Arsenal
+UID:8059ecdd-7506-453c-bed9-8e2e80767bb1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR

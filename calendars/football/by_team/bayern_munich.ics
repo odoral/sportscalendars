@@ -16,23 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
-DTSTART:20241023T190000Z
-DTEND:20241023T210000Z
-SUMMARY:Champions League - Barcelona - Bayern Múnich
-UID:bc763584-65a9-49d6-9a2f-6bf2bc9f8660
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+<
- /li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
- n- PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
+DTSTAMP:20241024T003849Z
 DTSTART:20241027T143000Z
 DTEND:20241027T163000Z
 SUMMARY:Bundesliga - Bochum - Bayern Múnich
-UID:923a2af6-a818-4a64-a6c0-e4162f1429fd
+UID:ea6ff4c0-59bf-4272-82b3-cdd7c590abcc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241024T003849Z
+DTSTART:20241102T143000Z
+DTEND:20241102T163000Z
+SUMMARY:Bundesliga - Bayern Múnich - Union Berlin
+UID:f37328f0-4625-44e5-af1b-a984343f6192
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
