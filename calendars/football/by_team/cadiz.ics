@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241024T003849Z
+DTSTAMP:20241025T081207Z
 DTSTART:20241026T141500Z
 DTEND:20241026T161500Z
 SUMMARY:Liga Hypermotion - Cádiz - Real Oviedo
-UID:bafaf133-6faa-4732-90bf-1a4d7fd118c2
+UID:0007b291-18cc-4569-9697-7330b5e56d2f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li></ul></body></html>
+ iga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241024T003849Z
+DTSTAMP:20241025T081207Z
+DTSTART:20241029T200000Z
+DTEND:20241029T220000Z
+SUMMARY:Copa del Rey - Jaén - Cádiz
+UID:3b3dc6b8-c0f4-4ffd-9424-c3a5937f79e6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Canal Sur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241025T081207Z
 DTSTART:20241102T151500Z
 DTEND:20241102T171500Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Cádiz
-UID:69821787-e76a-48f5-b432-9dcfdde5debb
+UID:b41ae7dd-b21d-4362-b1c3-c45903a54309
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
