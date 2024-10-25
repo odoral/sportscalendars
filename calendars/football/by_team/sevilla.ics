@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
+DTSTAMP:20241025T003906Z
 DTSTART:20241025T190000Z
 DTEND:20241025T210000Z
 SUMMARY:Liga EA Sports - Espanyol - Sevilla
-UID:9bb049ab-cfc7-4621-9456-b3a10203de09
+UID:5632a780-c69a-4c6b-ad76-7bd9b3396121
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: Gol Stadium</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ La
  Liga TV</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- Open: Gol Play\n- PPV: Gol Stadium\n- PPV: GolStadium Premi
  um\n- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
+DTSTAMP:20241025T003906Z
 DTSTART:20241030T180000Z
 DTEND:20241030T200000Z
 SUMMARY:Copa del Rey - Las Rozas - Sevilla
-UID:fcc2c85c-596f-45b2-bf0a-2afdad5977b5
+UID:f9933b44-6f20-4c02-a342-348759baf94d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241025T003906Z
+DTSTART:20241103T173000Z
+DTEND:20241103T193000Z
+SUMMARY:Liga EA Sports - Sevilla - Real Sociedad
+UID:016b9ea4-09ea-41b8-b0ff-597c9677ca78
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

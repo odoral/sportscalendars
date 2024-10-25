@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241024T003849Z
+DTSTAMP:20241025T003906Z
 DTSTART:20241027T173000Z
 DTEND:20241027T193000Z
 SUMMARY:Liga EA Sports - Betis - Atlético de Madrid
-UID:63323afd-1ba8-445f-86e7-21ce9a0afa11
+UID:a085907a-69cf-43fd-894f-1a14af3e1c6a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
  html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
  lus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241024T003849Z
+DTSTAMP:20241025T003906Z
 DTSTART:20241031T180000Z
 DTEND:20241031T200000Z
 SUMMARY:Copa del Rey - UE Vic - Atlético de Madrid
-UID:e7b37117-4cfd-4ff5-8071-d5f30f3fe263
+UID:a80873c7-30bc-48f8-b172-f50631cf0c67
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241025T003906Z
+DTSTART:20241103T130000Z
+DTEND:20241103T150000Z
+SUMMARY:Liga EA Sports - Atlético de Madrid - Las Palmas
+UID:4d93a8c5-2d6d-4f02-8131-be1174d51735
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241024T003849Z
+DTSTAMP:20241025T003906Z
 DTSTART:20241026T163000Z
 DTEND:20241026T183000Z
 SUMMARY:Liga Hypermotion - Córdoba - C.D. Eldense
-UID:6f9a3786-f815-4fb0-8c72-5e42ca8c7645
+UID:424e15b0-f413-4238-8157-61cb0ddd91b9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241025T003906Z
+DTSTART:20241103T200000Z
+DTEND:20241103T220000Z
+SUMMARY:Liga Hypermotion - C.D. Eldense - Huesca
+UID:78f7744f-13a3-40d0-9e80-15b4b4fc8699
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

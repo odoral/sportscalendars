@@ -16,23 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
-DTSTART:20241024T190000Z
-DTEND:20241024T210000Z
-SUMMARY:Liga Hypermotion - Sporting de Gijón - Huesca
-UID:a0246125-8a60-4c17-952e-8071982050d7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
+DTSTAMP:20241025T003906Z
 DTSTART:20241027T173000Z
 DTEND:20241027T193000Z
 SUMMARY:Liga Hypermotion - Huesca - Almería
-UID:9a450ddf-12a9-426d-b4ce-631a746e178d
+UID:c187d1fd-b007-4e16-84ec-a8601302f8e0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li></ul></body></html>
@@ -40,13 +28,25 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241021T004037Z
+DTSTAMP:20241025T003906Z
 DTSTART:20241030T190000Z
 DTEND:20241030T210000Z
 SUMMARY:Copa del Rey - C.F. Badalona - Huesca
-UID:a490eca4-7d0a-4654-b886-0cb02f3a9ebb
+UID:33f3ea49-7759-4eba-bc12-c57ba2dbb595
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241025T003906Z
+DTSTART:20241103T200000Z
+DTEND:20241103T220000Z
+SUMMARY:Liga Hypermotion - C.D. Eldense - Huesca
+UID:a1d7a5ef-6f50-4263-b973-633a966cabc4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

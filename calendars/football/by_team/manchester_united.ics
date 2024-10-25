@@ -16,21 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
-DTSTART:20241024T190000Z
-DTEND:20241024T210000Z
-SUMMARY:Europa League - Fenerbahçe - Manchester United
-UID:1c0df5dc-c2ab-4279-a454-4fd2eada4655
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241020T004251Z
+DTSTAMP:20241025T003906Z
 DTSTART:20241027T140000Z
 DTEND:20241027T160000Z
 SUMMARY:Premier League - West Ham - Manchester United
-UID:0bcc62a1-7bfc-4e9d-9493-f40cdc839d68
+UID:1e7299a4-a83e-4ff7-b82b-5d2fad58001f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241025T003906Z
+DTSTART:20241103T163000Z
+DTEND:20241103T183000Z
+SUMMARY:Premier League - Manchester United - Chelsea
+UID:75f6db12-dfb5-4506-bc90-60d2dfe2ea78
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
