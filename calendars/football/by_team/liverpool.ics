@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241027T004219Z
+DTSTAMP:20241027T041052Z
 DTSTART:20241027T163000Z
 DTEND:20241027T183000Z
 SUMMARY:Premier League - Arsenal - Liverpool
-UID:9fd4c329-1f04-4641-b4f6-5078fc193ef9
+UID:8bbf8b73-3e46-47c7-b536-af58ec1df60b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: MAX</li>\n<li
  >PPV: Movistar Plus+ 2</li></ul></body></html>
@@ -28,25 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
  V: MAX\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241027T004219Z
-DTSTART:20241027T163000Z
-DTEND:20241027T183000Z
-SUMMARY:Premier League - Arsenal - Liverpool
-UID:a07474c6-e9e5-4ee4-8b1e-b26559209b99
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: MAX</li>\n<li
- >PPV: Movistar Plus+ 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
- V: MAX\n- PPV: Movistar Plus+ 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241027T004219Z
+DTSTAMP:20241027T041052Z
 DTSTART:20241102T150000Z
 DTEND:20241102T170000Z
 SUMMARY:Premier League - Liverpool - Brighton
-UID:4fc897d3-a318-4175-9dc4-afd33a496eae
+UID:6243d70f-6f60-4659-ad3e-dffaf72338ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241027T041052Z
+DTSTART:20241105T200000Z
+DTEND:20241105T220000Z
+SUMMARY:Champions League - Liverpool - Bayer Leverkusen
+UID:8023c321-c390-4858-b3cd-76f15f0cde2f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
