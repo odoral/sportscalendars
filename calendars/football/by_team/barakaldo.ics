@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241025T081207Z
+DTSTAMP:20241027T004219Z
 DTSTART:20241027T183000Z
 DTEND:20241027T203000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Barakaldo
-UID:1543873d-381c-48cc-9ab9-d0d01c434885
+UID:a3f85f05-f0ef-4930-9af7-88b84307e600
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241027T004219Z
+DTSTART:20241027T183000Z
+DTEND:20241027T203000Z
+SUMMARY:Primera Federación - Barcelona Atlètic - Barakaldo
+UID:b90aeef3-49bd-49ea-b52a-90061d4d2665
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV

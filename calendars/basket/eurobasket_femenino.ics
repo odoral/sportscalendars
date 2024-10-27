@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241024T003855Z
+DTSTAMP:20241027T004226Z
 DTSTART:20241106T230000Z
 DTEND:20241107T010000Z
 SUMMARY:Eurobasket Femenino - España - Holanda
-UID:6ee844d4-383e-4d25-9572-1c20701e59d0
+UID:c957acf2-5b78-4cce-ad51-49717fe283b0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241027T004226Z
+DTSTART:20241109T230000Z
+DTEND:20241110T010000Z
+SUMMARY:Eurobasket Femenino - España - Croacia
+UID:93099f11-669d-4132-870f-788292826462
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: rtve Play
