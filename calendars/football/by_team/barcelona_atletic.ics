@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241027T041052Z
-DTSTART:20241027T183000Z
-DTEND:20241027T203000Z
-SUMMARY:Primera Federación - Barcelona Atlètic - Barakaldo
-UID:68ea0e76-3bdf-4597-a698-3c1269d22b72
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
- i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241027T041052Z
+DTSTAMP:20241028T041146Z
 DTSTART:20241102T143000Z
 DTEND:20241102T163000Z
 SUMMARY:Primera Federación - G. Segoviana - Barcelona Atlètic
-UID:18d153af-dee1-439f-972a-293e0c249fcf
+UID:a60240ee-17c4-4744-a852-166859128922
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241028T041146Z
+DTSTART:20241106T170000Z
+DTEND:20241106T190000Z
+SUMMARY:Primera Federación - Barcelona Atlètic - Real Sociedad B
+UID:7ca6a3b6-fb5e-4474-a6d1-851963eadcb6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR
