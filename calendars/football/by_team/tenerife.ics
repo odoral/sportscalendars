@@ -16,15 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T003957Z
+DTSTAMP:20241029T081225Z
+DTSTART:20241031T200000Z
+DTEND:20241031T220000Z
+SUMMARY:Copa del Rey - CD Alfaro - Tenerife
+UID:bbac9e18-26f0-4667-8bb1-6c1f501e15bb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
+ l></body></html>
+DESCRIPTION:- Open: TV Canaria
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241029T081225Z
 DTSTART:20241103T173000Z
 DTEND:20241103T193000Z
 SUMMARY:Liga Hypermotion - Tenerife - Mirandés
-UID:add83ac1-e598-4113-9f3e-50609998bc2e
+UID:0a6e3b34-89e6-4e7f-ad93-7d36e2df3ee5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li></ul></body></html>
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></ht
+ ml>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3
 END:VEVENT
 END:VCALENDAR
