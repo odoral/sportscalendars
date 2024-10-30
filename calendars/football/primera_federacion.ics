@@ -16,33 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T081225Z
+DTSTAMP:20241030T003924Z
 DTSTART:20241102T143000Z
 DTEND:20241102T163000Z
 SUMMARY:Primera Federación - G. Segoviana - Barcelona Atlètic
-UID:65954b3a-6b31-4768-9ca5-a1880dcc4d92
+UID:01cca9d3-5a5e-46a1-888d-c272b7bfad42
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241029T081225Z
+DTSTAMP:20241030T003924Z
 DTSTART:20241102T153000Z
 DTEND:20241102T173000Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Celta B
-UID:e3a78547-5b2d-4b8f-b998-cd63e075d4a5
+UID:90446299-d557-437b-a17a-e9f799f0a940
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: TVG 2</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: TVG 2\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241029T081225Z
+DTSTAMP:20241030T003924Z
 DTSTART:20241106T170000Z
 DTEND:20241106T190000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Real Sociedad B
-UID:419b8fa8-5c57-4edf-a84a-073da9654fc0
+UID:3b35e5f5-9255-436e-9802-024acdd4d884
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241030T003924Z
+DTSTART:20241108T193000Z
+DTEND:20241108T213000Z
+SUMMARY:Primera Federación - R.M. Castilla - Intercity C.F.
+UID:7ce7bf8c-da32-4b51-9477-8168535ae01c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
+ \n<li>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: RealMadrid TV\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR

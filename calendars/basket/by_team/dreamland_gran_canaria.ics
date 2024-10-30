@@ -16,43 +16,41 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
-DTSTART:20241029T193000Z
-DTEND:20241029T213000Z
-SUMMARY:Eurocup - Joventut Badalona - Dreamland Gran Canaria
-UID:9e94febf-4b1e-422c-bd1b-2f10fc749dee
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >PPV: M+ Deportes 5</li>\n<li>PPV: M+ Vamos</li>\n<li>PPV: Movistar Plus
- + 2</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- PPV: M+ Deportes 5\n- PPV: M+ Vamos\n- PP
- V: Movistar Plus+ 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
+DTSTAMP:20241030T003931Z
 DTSTART:20241103T160000Z
 DTEND:20241103T180000Z
 SUMMARY:Liga Endesa - Dreamland Gran Canaria - Baskonia
-UID:9f9b08a4-95c8-4931-a57c-d4e44c0e5bda
+UID:489a4581-7801-4d8e-8af0-d51d04ded6f6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
+DTSTAMP:20241030T003931Z
 DTSTART:20241106T200000Z
 DTEND:20241106T220000Z
 SUMMARY:Eurocup - Dreamland Gran Canaria - BC Wolves
-UID:0318d710-dff7-4ee7-ae9b-7c62888e5f6f
+UID:2f4114ba-2d61-4d50-8bf6-601b86cba6ba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
  /body></html>
 DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
+DTSTAMP:20241030T003931Z
 DTSTART:20241110T113000Z
 DTEND:20241110T133000Z
 SUMMARY:Liga Endesa - Real Madrid Baloncesto - Dreamland Gran Canaria
-UID:7ff4e7cd-2afb-4d5f-b314-6e40e2e913cf
+UID:4c94fc91-f2f3-4686-8fdc-33bcaab3b40d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241030T003931Z
+DTSTART:20241113T170000Z
+DTEND:20241113T190000Z
+SUMMARY:Eurocup - Besiktas JK Istanbul - Dreamland Gran Canaria
+UID:cfca2117-7184-4259-8b18-a6a033f06b57
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 END:VCALENDAR

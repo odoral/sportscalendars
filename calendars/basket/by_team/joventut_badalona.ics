@@ -16,54 +16,52 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
-DTSTART:20241029T193000Z
-DTEND:20241029T213000Z
-SUMMARY:Eurocup - Joventut Badalona - Dreamland Gran Canaria
-UID:13bdb1f0-ae13-44a2-af6e-66fe3a17cf8e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >PPV: M+ Deportes 5</li>\n<li>PPV: M+ Vamos</li>\n<li>PPV: Movistar Plus
- + 2</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- PPV: M+ Deportes 5\n- PPV: M+ Vamos\n- PP
- V: Movistar Plus+ 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
+DTSTAMP:20241030T003931Z
 DTSTART:20241101T113000Z
 DTEND:20241101T133000Z
 SUMMARY:Liga Femenina Endesa - Joventut Badalona - Movistar Estudiantes
-UID:59c13cb2-ac87-4948-b0fb-b1057784542f
+UID:5db91134-6865-41ce-a785-c29396bcf4ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch BaloncestoE
  SP</li></ul></body></html>
 DESCRIPTION:- Open: Twitch BaloncestoESP
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
+DTSTAMP:20241030T003931Z
 DTSTART:20241102T170000Z
 DTEND:20241102T190000Z
 SUMMARY:Liga Endesa - Joventut Badalona - Bàsquet Girona
-UID:9042e9f7-83ca-4bc5-901e-83edeb5c741a
+UID:91986328-f40f-42a3-9e0a-80aa3046a044
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
+DTSTAMP:20241030T003931Z
 DTSTART:20241105T190000Z
 DTEND:20241105T210000Z
 SUMMARY:Eurocup - Dolomiti Energia Trento - Joventut Badalona
-UID:e1d18512-d9f5-4a33-a94e-5dcdcf9cebaf
+UID:9c55a82b-0f45-44d7-a577-09fee5fa98d1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
+DTSTAMP:20241030T003931Z
 DTSTART:20241109T194500Z
 DTEND:20241109T214500Z
 SUMMARY:Liga Endesa - Joventut Badalona - Unicaja Málaga
-UID:8e64fd14-f6b3-4f3a-941e-c12685a790b8
+UID:728e3c70-dea2-4ee9-9514-8b2c94c9c0a6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
  /body></html>
 DESCRIPTION:- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241030T003931Z
+DTSTART:20241113T193000Z
+DTEND:20241113T213000Z
+SUMMARY:Eurocup - Joventut Badalona - Buducnost Voli
+UID:9533eca6-4906-439b-a47b-5c0b7b6b8fc9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
 END:VEVENT
 END:VCALENDAR
