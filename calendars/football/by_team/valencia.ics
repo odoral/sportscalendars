@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241028T041146Z
+DTSTAMP:20241030T081221Z
 DTSTART:20241030T200000Z
 DTEND:20241030T220000Z
 SUMMARY:Copa del Rey - Parla Escuela - Valencia
-UID:c2015b0d-356a-4e58-a492-75c8a3e108d9
+UID:fc0808bf-4230-43e4-8eb9-b8dc75a4d886
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  ></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241028T041146Z
+DTSTAMP:20241030T081221Z
 DTSTART:20241102T200000Z
 DTEND:20241102T220000Z
 SUMMARY:Liga EA Sports - Valencia - Real Madrid
-UID:b9eaba22-7daf-4fbc-9354-33a66270ac1a
+UID:638f8f8f-a4fc-4397-9532-8ce5e3288db5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
- <li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+ <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
+ html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
+ lus+
 END:VEVENT
 END:VCALENDAR
