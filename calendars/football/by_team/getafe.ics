@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241031T003947Z
-DTSTART:20241031T180000Z
-DTEND:20241031T200000Z
-SUMMARY:Copa del Rey - Manises CF - Getafe
-UID:b70ccca9-d088-4807-9128-aa22cf803ff4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV 4</li>
- </ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241031T003947Z
+DTSTAMP:20241031T081152Z
 DTSTART:20241104T200000Z
 DTEND:20241104T220000Z
 SUMMARY:Liga EA Sports - Celta - Getafe
-UID:81b700f6-184d-49ea-900d-f354f768e9ec
+UID:b4d716bb-84fb-45c8-919b-f85cf84928b3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV:
   MAX</li></ul></body></html>
@@ -38,11 +28,21 @@ DESCRIPTION:- Open: Gol Play\n- Open: TVG\n- PPV: DAZN\n- PPV: DAZN LaLig
  a\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003947Z
+DTSTAMP:20241031T081152Z
+DTSTART:20241106T230000Z
+DTEND:20241107T010000Z
+SUMMARY:Copa del Rey - Manises CF - Getafe
+UID:2ffcda0e-f5a6-4cea-b9fd-101d8ba022df
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>PPV: Movistar+</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T081152Z
 DTSTART:20241109T200000Z
 DTEND:20241109T220000Z
 SUMMARY:Liga EA Sports - Getafe - Girona
-UID:4426d938-f2da-4837-ad65-89906029f27f
+UID:80807974-61d9-492d-9e8d-b7d1af3b7922
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV

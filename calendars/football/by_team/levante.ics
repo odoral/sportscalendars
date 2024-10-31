@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241031T003948Z
+DTSTAMP:20241031T081152Z
 DTSTART:20241104T193000Z
 DTEND:20241104T213000Z
 SUMMARY:Liga Hypermotion - Levante - Málaga
-UID:69a85d56-4497-4e4f-a034-a68f1142be45
+UID:8cb1013b-9ee8-47aa-b035-f43475b553c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T081152Z
+DTSTART:20241107T190000Z
+DTEND:20241107T210000Z
+SUMMARY:Copa del Rey - Pontevedra - Levante
+UID:cea37d87-3a17-4ecd-8a4f-b8bc09f7636b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: TVG 2
 END:VEVENT
 END:VCALENDAR

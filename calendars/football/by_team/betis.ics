@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T003957Z
+DTSTAMP:20241031T081152Z
 DTSTART:20241031T200000Z
 DTEND:20241031T220000Z
 SUMMARY:Copa del Rey - C.D. Gévora - Betis
-UID:64b9c172-a6fc-4f05-b1e5-da66cca80647
+UID:0c610a27-624a-41ae-9ca6-7f20cbc8a03c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  >\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241029T003957Z
+DTSTAMP:20241031T081152Z
 DTSTART:20241103T200000Z
 DTEND:20241103T220000Z
 SUMMARY:Liga EA Sports - Athletic Club - Betis
-UID:5ab65088-ca06-4797-82d8-f89e9d9562ef
+UID:c80bd523-ef8a-4ad8-ae96-4036ccab458f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241029T003957Z
+DTSTAMP:20241031T081152Z
 DTSTART:20241107T200000Z
 DTEND:20241107T220000Z
 SUMMARY:Conference League - Betis - NK Celje
-UID:150dd9f3-7740-4a2f-896b-d4e6782cc708
+UID:97ea3d7c-ce06-4d4a-9ff2-2f44a300b630
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 END:VCALENDAR

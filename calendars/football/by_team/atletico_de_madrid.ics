@@ -16,33 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241030T081221Z
+DTSTAMP:20241031T081152Z
 DTSTART:20241031T180000Z
 DTEND:20241031T200000Z
 SUMMARY:Copa del Rey - UE Vic - Atlético de Madrid
-UID:606d62ef-9c1b-40c8-9d36-bcbd0f0f839a
+UID:e0044d52-5ef0-4032-8ac8-f49061cf906b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241030T081221Z
+DTSTAMP:20241031T081152Z
 DTSTART:20241103T130000Z
 DTEND:20241103T150000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Las Palmas
-UID:47670ba4-03e9-4c08-8e63-1bdb85168fb6
+UID:8805e86f-4d73-4ef3-a9d8-634083ec21d0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241030T081221Z
+DTSTAMP:20241031T081152Z
 DTSTART:20241106T200000Z
 DTEND:20241106T220000Z
 SUMMARY:Champions League - PSG - Atlético de Madrid
-UID:114c29b3-f46c-4986-96df-972e28800882
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+UID:969dcfdc-762d-4b5f-bc64-a1a7de90fd72
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
+ li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Liga de Campeones 4
+ </li></ul></body></html>
+DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ Liga de Campeones\n- PPV:
+  M+ Liga de Campeones 4
 END:VEVENT
 END:VCALENDAR
