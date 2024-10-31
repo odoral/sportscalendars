@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241030T081221Z
-DTSTART:20241030T190000Z
-DTEND:20241030T210000Z
-SUMMARY:Copa del Rey - CD Cortes - Granada C.F.
-UID:40536854-253e-4f8b-8111-66cc8d868392
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: PTV Granada</li></
- ul></body></html>
-DESCRIPTION:- Open: PTV Granada
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241030T081221Z
+DTSTAMP:20241031T003948Z
 DTSTART:20241102T173000Z
 DTEND:20241102T193000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Granada C.F.
-UID:0b4e5b33-961a-4af8-8fc8-64976ee75cc5
+UID:79898d63-c33c-4d65-b7a2-009de5715167
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: Movis
@@ -38,5 +28,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3\n- PPV: Mov
  istar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T003948Z
+DTSTART:20241109T173000Z
+DTEND:20241109T193000Z
+SUMMARY:Liga Hypermotion - Granada C.F. - C.D. Eldense
+UID:28c2a3e0-a530-4761-8a43-83f7bb091417
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

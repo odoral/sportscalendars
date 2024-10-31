@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241030T003924Z
+DTSTAMP:20241031T003947Z
 DTSTART:20241102T173000Z
 DTEND:20241102T193000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Granada C.F.
-UID:65574826-9224-4513-955b-12b680bf536b
+UID:da75b303-da65-4aa2-bcef-337bad23a3fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: Movis
@@ -28,5 +28,18 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3\n- PPV: Mov
  istar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T003947Z
+DTSTART:20241109T173000Z
+DTEND:20241109T193000Z
+SUMMARY:Liga Hypermotion - Huesca - Real Zaragoza
+UID:70e397df-ed38-426f-ab2a-29fd34c4df5e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+ 
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

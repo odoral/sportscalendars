@@ -16,23 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241030T081228Z
-DTSTART:20241030T173000Z
-DTEND:20241030T193000Z
-SUMMARY:FIBA Europe Cup - Frutti Extra Bursaspor - Casademont Zaragoza
-UID:60dadd35-485c-4287-96ee-4fcd71ed7a20
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: Aragón TV</li>\n<li>Open: FIBA YouTube</li></ul></body></ht
- ml>
-DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: FIBA YouTu
- be
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241030T081228Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241101T180000Z
 DTEND:20241101T200000Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Spar Girona
-UID:8d4f8bf9-86a3-47d0-9ca2-c7be7848a280
+UID:8841f226-549e-4d71-be8d-a667a3b6b77a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Teledeporte</li>\n<li>Open: rtve 
  Play</li></ul></body></html>
@@ -40,42 +28,53 @@ DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Teledeport
  e\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241030T081228Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241102T194500Z
 DTEND:20241102T214500Z
 SUMMARY:Liga Endesa - Casademont Zaragoza - Río Breogán
-UID:f6165758-496a-4133-b70d-940724e245f3
+UID:bceac4bc-c5ca-4f6e-9d6c-d8adf93c7d68
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes 2</li><
  /ul></body></html>
 DESCRIPTION:- PPV: M+ Deportes 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241030T081228Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241106T190000Z
 DTEND:20241106T210000Z
 SUMMARY:FIBA Europe Cup - Casademont Zaragoza - Patrioti Levice
-UID:68d7b1b5-57d6-45a4-8eb4-9d93e6a8afcc
+UID:c7b04a73-c99c-4caf-a808-301001b6cef7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: FIBA YouTube</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: FIBA YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241030T081228Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241109T194500Z
 DTEND:20241109T214500Z
 SUMMARY:Liga Endesa - Valencia Basket - Casademont Zaragoza
-UID:c9f6c320-1877-4bcc-bc19-e2409ba0697a
+UID:0eebb189-1a30-4fdc-861f-9fa7729a007c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241030T081228Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241113T180000Z
 DTEND:20241113T200000Z
 SUMMARY:FIBA Europe Cup - Anorthosis Famagusta BC - Casademont Zaragoza
-UID:29bb8b7f-c025-4be0-bf4f-e38c8b04585b
+UID:d770903d-22f0-447e-beab-36e645563bd2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: FIBA YouTube</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T003957Z
+DTSTART:20241114T190000Z
+DTEND:20241114T210000Z
+SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Casademont Zaragoza
+ 
+UID:1ceb298a-d28b-49db-9171-22e6e9b197d4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

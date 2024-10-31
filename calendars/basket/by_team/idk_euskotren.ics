@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
-DTSTART:20241030T160000Z
-DTEND:20241030T180000Z
-SUMMARY:Eurocup Women - Crvena Zvezda MTS Belgrade - IDK Euskotren
-UID:e7573f8f-fca6-45ba-9a48-11cc0bc1c517
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB4</li>\n<li>Ope
- n: FIBA YouTube</li></ul></body></html>
-DESCRIPTION:- Open: ETB4\n- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241101T190000Z
 DTEND:20241101T210000Z
 SUMMARY:Liga Femenina Endesa - Valencia Basket - IDK Euskotren
-UID:ed1aea6b-2199-4f86-a800-a6d059f7686d
+UID:524e80b3-4709-4adc-b49e-89e1affd5801
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li>\n<li>O
  pen: À Punt (València)</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: FEB TV\n- Open: À Punt (València)\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T003957Z
+DTSTART:20241114T183000Z
+DTEND:20241114T203000Z
+SUMMARY:Liga Femenina Endesa - IDK Euskotren - Perfumerías Avenida
+UID:ecd4429f-e8c8-4354-a041-9c0820d0dd3a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch BaloncestoE
+ SP</li></ul></body></html>
+DESCRIPTION:- Open: Twitch BaloncestoESP
 END:VEVENT
 END:VCALENDAR

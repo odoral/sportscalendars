@@ -16,43 +16,44 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241030T081228Z
-DTSTART:20241030T190000Z
-DTEND:20241030T210000Z
-SUMMARY:Eurocup Women - Movistar Estudiantes - Tarbes GB
-UID:ee0e9eae-d1ce-4b45-81b8-f570806365b3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241030T081228Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241101T113000Z
 DTEND:20241101T133000Z
 SUMMARY:Liga Femenina Endesa - Joventut Badalona - Movistar Estudiantes
-UID:ff995a77-ff54-41a4-b2ca-08f99d8ed756
+UID:ba298f86-713a-4abd-acc0-1f50c73023e0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch BaloncestoE
  SP</li></ul></body></html>
 DESCRIPTION:- Open: Twitch BaloncestoESP
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241030T081228Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241102T190000Z
 DTEND:20241102T210000Z
 SUMMARY:Primera FEB - Hestia Menorca - Movistar Estudiantes
-UID:85bc6e85-4aad-48f1-be94-705dfc3b0d43
+UID:cfe55682-ffff-4272-a43f-d6a2e91115c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
  PV: M+ Deportes 4</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Deportes 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241030T081228Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241110T173000Z
 DTEND:20241110T193000Z
 SUMMARY:Primera FEB - Movistar Estudiantes - Real Betis Baloncesto
-UID:71a760c8-ba4f-42fe-9cc1-d2fa98662f37
+UID:c46b83b6-bb48-44f8-b435-726f4b1939c9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
  body></html>
 DESCRIPTION:- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T003957Z
+DTSTART:20241114T190000Z
+DTEND:20241114T210000Z
+SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Casademont Zaragoza
+ 
+UID:f81bd1b2-7c17-4090-8c11-df6538777d10
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

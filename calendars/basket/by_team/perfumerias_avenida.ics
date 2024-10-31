@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
-DTSTART:20241030T193000Z
-DTEND:20241030T213000Z
-SUMMARY:Euroliga Femenina - Perfumerías Avenida - Famila Schio
-UID:189484fc-95a0-4d73-a213-aacd47dcbd4b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: EuroLeague Women Y
- ouTube</li></ul></body></html>
-DESCRIPTION:- Open: EuroLeague Women YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241029T081234Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241101T193000Z
 DTEND:20241101T213000Z
 SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - Spar Gran Canaria
-UID:ade55541-1e8a-4175-a595-ffc4afba3760
+UID:d3d4e3b8-e699-4aad-b961-5c816a9ba191
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
  body></html>
 DESCRIPTION:- Open: FEB TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T003957Z
+DTSTART:20241114T183000Z
+DTEND:20241114T203000Z
+SUMMARY:Liga Femenina Endesa - IDK Euskotren - Perfumerías Avenida
+UID:6c2df78d-7f1f-4847-a9bd-6f8198fc9694
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch BaloncestoE
+ SP</li></ul></body></html>
+DESCRIPTION:- Open: Twitch BaloncestoESP
 END:VEVENT
 END:VCALENDAR

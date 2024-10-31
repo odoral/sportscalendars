@@ -16,15 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241030T003932Z
+DTSTAMP:20241031T003957Z
 DTSTART:20241101T180000Z
 DTEND:20241101T200000Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Spar Girona
-UID:d55bb66f-b99e-4578-9e04-0d2cc27ad1b8
+UID:1b192b80-0ec9-472a-9316-80b78c49ffbf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Teledeporte</li>\n<li>Open: rtve 
  Play</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Teledeport
  e\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T003957Z
+DTSTART:20241114T190000Z
+DTEND:20241114T210000Z
+SUMMARY:Liga Femenina Endesa - Spar Girona - C.B. Jairis
+UID:f2350ec6-6694-4732-8b45-c7c28c056c35
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

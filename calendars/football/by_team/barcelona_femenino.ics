@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241030T081221Z
+DTSTAMP:20241031T003948Z
 DTSTART:20241102T173000Z
 DTEND:20241102T193000Z
 SUMMARY:Liga F - Barcelona Femenino - Eibar Fem.
-UID:c7339c11-6fe4-4dfe-b94f-9a7aeb1d4229
+UID:56f796ad-b9d7-4629-a0a3-2af9f1b405bb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: Gol Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV:
   GolStadium Premium</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN 
  1\n- PPV: GolStadium Premium\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T003948Z
+DTSTART:20241109T173000Z
+DTEND:20241109T193000Z
+SUMMARY:Liga F - At. Madrid Fem. - Barcelona Femenino
+UID:21e089c1-d0a8-444c-b813-4f95d834608b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

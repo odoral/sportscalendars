@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T081225Z
+DTSTAMP:20241031T003948Z
 DTSTART:20241103T173000Z
 DTEND:20241103T193000Z
 SUMMARY:Liga Hypermotion - Tenerife - Mirandés
-UID:ffcc41cf-7706-442d-9808-eb2318230e46
+UID:6a7b51a5-664e-4285-a594-617ea1aab39c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T003948Z
+DTSTART:20241109T151500Z
+DTEND:20241109T171500Z
+SUMMARY:Liga Hypermotion - Mirandés - Cádiz
+UID:89e7f69d-c0ae-4a70-abd8-8d730aa2a47b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

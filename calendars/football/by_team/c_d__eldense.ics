@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T081225Z
+DTSTAMP:20241031T003947Z
 DTSTART:20241103T200000Z
 DTEND:20241103T220000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Huesca
-UID:1b927d2b-0b16-4032-9bd0-d4205a7e73ab
+UID:e03daac8-5807-43ab-87a2-98384c022c77
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241031T003947Z
+DTSTART:20241109T173000Z
+DTEND:20241109T193000Z
+SUMMARY:Liga Hypermotion - Granada C.F. - C.D. Eldense
+UID:c8ca0e00-0d91-4ff0-a490-eb349155c23c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
