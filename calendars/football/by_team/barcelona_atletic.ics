@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241028T041146Z
+DTSTAMP:20241101T041105Z
 DTSTART:20241102T143000Z
 DTEND:20241102T163000Z
 SUMMARY:Primera Federación - G. Segoviana - Barcelona Atlètic
-UID:a60240ee-17c4-4744-a852-166859128922
+UID:e52e6878-88b9-4906-8edf-ccb443e23fc8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241028T041146Z
+DTSTAMP:20241101T041105Z
 DTSTART:20241106T170000Z
 DTEND:20241106T190000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Real Sociedad B
-UID:7ca6a3b6-fb5e-4474-a6d1-851963eadcb6
+UID:b780cf60-ce3c-47eb-badd-c6cb9d5eeffb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T041105Z
+DTSTART:20241110T160000Z
+DTEND:20241110T180000Z
+SUMMARY:Primera Federación - Barcelona Atlètic - Lugo
+UID:de32b275-720b-44c2-9e67-dc238851c2f5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR

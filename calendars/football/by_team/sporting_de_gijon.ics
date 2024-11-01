@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241031T003947Z
+DTSTAMP:20241101T041105Z
 DTSTART:20241102T151500Z
 DTEND:20241102T171500Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Cádiz
-UID:6f351dd2-a0fe-46e4-99d2-1a6426c4240c
+UID:b1455d40-b4e5-4959-a1a1-616e290e3970
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: M+ Va
@@ -28,5 +28,18 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3\n- PPV: M+ 
  Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T041105Z
+DTSTART:20241110T151500Z
+DTEND:20241110T171500Z
+SUMMARY:Liga Hypermotion - Burgos C.F. - Sporting de Gijón
+UID:44370bd4-2c00-4163-951b-205d091e211e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 4
 END:VEVENT
 END:VCALENDAR

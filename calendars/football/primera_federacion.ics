@@ -16,53 +16,63 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241031T003947Z
+DTSTAMP:20241101T041104Z
 DTSTART:20241102T143000Z
 DTEND:20241102T163000Z
 SUMMARY:Primera Federación - G. Segoviana - Barcelona Atlètic
-UID:ee404aef-6dfc-4c3c-822a-45558227ebb2
+UID:7a961250-0c0b-4f4c-99a3-de65a8f54c1b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003947Z
+DTSTAMP:20241101T041104Z
 DTSTART:20241102T153000Z
 DTEND:20241102T173000Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Celta B
-UID:9a90128b-791e-46ae-9906-d361ac4def31
+UID:76e39da9-ee05-44dd-86bf-2eb1d7999255
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: TVG 2</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: TVG 2\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003947Z
+DTSTAMP:20241101T041104Z
 DTSTART:20241106T170000Z
 DTEND:20241106T190000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Real Sociedad B
-UID:3a1663f3-d65c-4538-a127-08b73adb4576
+UID:d668b4aa-d9f5-476b-8560-1f37f9718791
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003947Z
+DTSTAMP:20241101T041104Z
 DTSTART:20241108T193000Z
 DTEND:20241108T213000Z
 SUMMARY:Primera Federación - R.M. Castilla - Intercity C.F.
-UID:5cf5af7e-ce58-4568-853f-d259c53ec1d6
+UID:f6ed2619-f0c0-4b41-a53f-428fdb29bda2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  \n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003947Z
+DTSTAMP:20241101T041104Z
 DTSTART:20241109T143000Z
 DTEND:20241109T163000Z
 SUMMARY:Primera Federación - Betis Deportivo - Alcoyano
-UID:03313925-f683-40c6-a2bb-dd4852428324
+UID:ccf53ab6-922e-43c8-b7c2-019ea4db1e04
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T041104Z
+DTSTART:20241110T160000Z
+DTEND:20241110T180000Z
+SUMMARY:Primera Federación - Barcelona Atlètic - Lugo
+UID:d836227c-16c3-414f-baf1-44a8a1af38fa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR

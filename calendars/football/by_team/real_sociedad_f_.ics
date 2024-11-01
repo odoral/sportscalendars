@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T081225Z
+DTSTAMP:20241101T041105Z
 DTSTART:20241103T110000Z
 DTEND:20241103T130000Z
 SUMMARY:Liga F - Real Sociedad F. - Madrid C.F.F.
-UID:6a41e17f-e5b6-46a8-8cf4-ced02cb1c245
+UID:b998c8da-03d5-49df-bfff-85e88cf65481
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: MAX</li></ul></body
  ></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos\n- PPV: MAX
  
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T041105Z
+DTSTART:20241110T110000Z
+DTEND:20241110T130000Z
+SUMMARY:Liga F - Deportivo Abanca - Real Sociedad F.
+UID:97df8f07-dbb5-4334-98d7-11d3ed795996
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR

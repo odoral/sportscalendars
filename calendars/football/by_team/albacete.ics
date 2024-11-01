@@ -16,16 +16,29 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241031T003947Z
+DTSTAMP:20241101T041105Z
 DTSTART:20241102T173000Z
 DTEND:20241102T193000Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Albacete
-UID:b0d79bd5-b20d-439a-a753-18cb7d8f5a74
+UID:957ed4a0-2da9-4ad2-8785-262390948b3b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T041105Z
+DTSTART:20241110T173000Z
+DTEND:20241110T193000Z
+SUMMARY:Liga Hypermotion - Albacete - Real Oviedo
+UID:a930165f-844f-4c62-9a16-2b6f485aa404
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 4
 END:VEVENT
 END:VCALENDAR

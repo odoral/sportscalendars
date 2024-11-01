@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241029T081225Z
-DTSTART:20241031T190000Z
-DTEND:20241031T210000Z
-SUMMARY:Copa del Rey - Real Ávila - Real Oviedo
-UID:b31f4a63-d924-410d-93bc-f86049c685c1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA</li></ul></bod
- y></html>
-DESCRIPTION:- Open: TPA
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241029T081225Z
+DTSTAMP:20241101T041105Z
 DTSTART:20241103T130000Z
 DTEND:20241103T150000Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Burgos C.F.
-UID:9984ae07-fef9-492e-aabc-9971543f0e30
+UID:914e7547-1087-459d-ab82-e6727674b273
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: Movis
@@ -38,5 +28,18 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2\n- PPV: Mov
  istar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T041105Z
+DTSTART:20241110T173000Z
+DTEND:20241110T193000Z
+SUMMARY:Liga Hypermotion - Albacete - Real Oviedo
+UID:db637752-d29b-4d97-9e16-31c84c41cb7d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 4
 END:VEVENT
 END:VCALENDAR

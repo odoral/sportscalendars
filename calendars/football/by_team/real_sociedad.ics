@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241031T081152Z
-DTSTART:20241031T200000Z
-DTEND:20241031T220000Z
-SUMMARY:Copa del Rey - Jove Español - Real Sociedad
-UID:af04250a-5bc9-4f8e-a389-1238ceff5f08
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
- li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
-DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241031T081152Z
+DTSTAMP:20241101T041105Z
 DTSTART:20241103T173000Z
 DTEND:20241103T193000Z
 SUMMARY:Liga EA Sports - Sevilla - Real Sociedad
-UID:2f04c9c4-fa9d-457b-99a8-08e1842314a4
+UID:df72810e-cca8-4de9-9cb3-ee7316f00d35
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T081152Z
+DTSTAMP:20241101T041105Z
 DTSTART:20241107T200000Z
 DTEND:20241107T220000Z
 SUMMARY:Europa League - Viktoria Plzen - Real Sociedad
-UID:c36d737d-2a7d-40b3-a720-87abf911c05f
+UID:cb40aab5-1738-4c8a-a440-449379eedafa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T041105Z
+DTSTART:20241110T200000Z
+DTEND:20241110T220000Z
+SUMMARY:Liga EA Sports - Real Sociedad - Barcelona
+UID:87811bc8-d581-4ba1-a85e-6b88d759268b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
