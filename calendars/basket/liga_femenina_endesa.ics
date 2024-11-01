@@ -16,31 +16,41 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
+DTSTART:20241031T230000Z
+DTEND:20241101T010000Z
+SUMMARY:Liga Femenina Endesa - Valencia Basket - IDK Euskotren
+UID:9b1cc4d1-85fb-48f9-8e3c-eb53582a626e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendiente de co
+ nfirmar\n<ul></ul></body></html>
+DESCRIPTION:Atención: Pendiente de confirmar\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T081213Z
 DTSTART:20241101T110000Z
 DTEND:20241101T130000Z
 SUMMARY:Liga Femenina Endesa - Osés Construcción Ardoi - Celta Zorka
-UID:3e39a779-ce35-4ce7-873e-8808f16a7219
+UID:de52c2d2-04df-494c-8aa4-eeb3b8128a36
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: FEB TV\n- PPV: LaLiga+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241101T113000Z
 DTEND:20241101T133000Z
 SUMMARY:Liga Femenina Endesa - Joventut Badalona - Movistar Estudiantes
-UID:f3780335-0693-4a1b-82dd-c8609139fa1f
+UID:44dbeb47-cd7d-4ef3-931e-6868204bb80f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch BaloncestoE
  SP</li></ul></body></html>
 DESCRIPTION:- Open: Twitch BaloncestoESP
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241101T180000Z
 DTEND:20241101T200000Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Spar Girona
-UID:eab5314f-6e9b-41e5-9a12-fd820b353b52
+UID:e52c5693-e41e-4d64-bc06-ef6365c002c5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Teledeporte</li>\n<li>Open: rtve 
  Play</li></ul></body></html>
@@ -48,130 +58,122 @@ DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Teledeport
  e\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241101T180000Z
 DTEND:20241101T200000Z
 SUMMARY:Liga Femenina Endesa - Kutxabank Araski - C.B. Jairis
-UID:1a68c6b3-f80c-42b3-a8ae-67b1354ea24b
+UID:451aa1c7-970f-432c-82ff-51ba4f200767
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
  body></html>
 DESCRIPTION:- Open: FEB TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
-DTSTART:20241101T190000Z
-DTEND:20241101T210000Z
-SUMMARY:Liga Femenina Endesa - Valencia Basket - IDK Euskotren
-UID:3f1135eb-0bb9-47a6-9183-25c64a40a32d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li>\n<li>O
- pen: À Punt (València)</li>\n<li>PPV: LaLiga+</li></ul></body></html>
-DESCRIPTION:- Open: FEB TV\n- Open: À Punt (València)\n- PPV: LaLiga+
+DTSTAMP:20241101T081213Z
+DTSTART:20241101T191500Z
+DTEND:20241101T211500Z
+SUMMARY:Liga Femenina Endesa - BAXI Ferrol - Ensino Lugo
+UID:7d8107ec-fef2-4d5f-b138-6e33afb573f1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: as.com</li></ul></
+ body></html>
+DESCRIPTION:- Open: as.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
-DTSTART:20241101T190000Z
-DTEND:20241101T210000Z
+DTSTAMP:20241101T081213Z
+DTSTART:20241101T193000Z
+DTEND:20241101T213000Z
+SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - Spar Gran Canaria
+UID:a97a90ec-bd28-4af4-bba2-97d589e49ca6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
+ body></html>
+DESCRIPTION:- Open: FEB TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241101T081213Z
+DTSTART:20241101T194500Z
+DTEND:20241101T214500Z
 SUMMARY:Liga Femenina Endesa - Cadi La Seu - Lointek Gernika
-UID:d58fb098-2503-4b00-9fba-28b2c50da417
+UID:83c74ae0-0893-41a0-847b-0762d621a857
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: FEB TV</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: FEB TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
-DTSTART:20241101T191500Z
-DTEND:20241101T211500Z
-SUMMARY:Liga Femenina Endesa - BAXI Ferrol - Ensino Lugo
-UID:e76e6937-af1d-4b8e-a403-d8465bdfce71
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
-DTSTART:20241101T193000Z
-DTEND:20241101T213000Z
-SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - Spar Gran Canaria
-UID:9baf7d20-ad07-4aaa-b4e3-f28115fc852a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
- body></html>
-DESCRIPTION:- Open: FEB TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241114T183000Z
 DTEND:20241114T203000Z
 SUMMARY:Liga Femenina Endesa - IDK Euskotren - Perfumerías Avenida
-UID:d75faccb-f6f4-4367-afd9-e161fb02e9ef
+UID:e756b904-cc03-4820-9ecd-ef7415981ede
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch BaloncestoE
  SP</li></ul></body></html>
 DESCRIPTION:- Open: Twitch BaloncestoESP
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241114T190000Z
 DTEND:20241114T210000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Casademont Zaragoza
  
-UID:e914ed37-3e59-4250-88a9-f94bdea7bd2c
+UID:920a4bdf-b7c1-4886-be03-48aee8dc0ad1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241114T190000Z
 DTEND:20241114T210000Z
 SUMMARY:Liga Femenina Endesa - Spar Gran Canaria - Cadi La Seu
-UID:a73032e3-bbe3-471b-8530-1951397da117
+UID:f68d98d6-76e2-42cc-87af-6c7c990e5eea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
  body></html>
 DESCRIPTION:- Open: FEB TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241114T190000Z
 DTEND:20241114T210000Z
 SUMMARY:Liga Femenina Endesa - Joventut Badalona - Kutxabank Araski
-UID:20d3a54c-7ab1-453e-a61f-7eee91a97cba
+UID:4fd9b541-cf0f-46de-b7dd-049affafb534
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: FEB TV\n- PPV: LaLiga+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241114T190000Z
 DTEND:20241114T210000Z
 SUMMARY:Liga Femenina Endesa - Spar Girona - C.B. Jairis
-UID:4eab5a32-d4fc-487a-9c9d-5d1c12fa19b6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:0d68fda8-c0c1-416e-bbbc-399fa4ae9318
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: as.com</li></ul></
+ body></html>
+DESCRIPTION:- Open: as.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241114T190000Z
 DTEND:20241114T210000Z
 SUMMARY:Liga Femenina Endesa - Lointek Gernika - BAXI Ferrol
-UID:283c9b80-49ef-49a8-aecd-67228513397d
+UID:a0843faf-8cf3-431e-baf3-550bd9871781
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: FEB TV\n- PPV: LaLiga+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241114T191500Z
 DTEND:20241114T211500Z
 SUMMARY:Liga Femenina Endesa - Ensino Lugo - Osés Construcción Ardoi
-UID:2bc9db17-18fb-47d8-811e-7caf581ac4c8
+UID:c3c78944-1071-4644-aacd-0b05ce932755
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
  body></html>
 DESCRIPTION:- Open: FEB TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241031T003957Z
+DTSTAMP:20241101T081213Z
 DTSTART:20241114T193000Z
 DTEND:20241114T213000Z
 SUMMARY:Liga Femenina Endesa - Celta Zorka - Valencia Basket
-UID:ba3a22b7-016a-46e5-90f8-55847386a5ba
+UID:9e767c6e-190b-4e8a-8326-50b69b284488
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
  body></html>
 DESCRIPTION:- Open: FEB TV
