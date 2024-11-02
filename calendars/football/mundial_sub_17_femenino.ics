@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241101T041104Z
-DTSTART:20241031T230000Z
-DTEND:20241101T010000Z
-SUMMARY:Mundial Sub-17 Femenino - España - Inglaterra
-UID:df7ef43a-4f81-4b7b-9c1e-200f7545861e
+DTSTAMP:20241102T081101Z
+DTSTART:20241103T183000Z
+DTEND:20241103T203000Z
+SUMMARY:Mundial Sub-17 Femenino - Estados Unidos - Inglaterra
+UID:4879e0ae-70f6-4ae3-94fb-a2df191fb9c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
  en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241102T081101Z
+DTSTART:20241103T220000Z
+DTEND:20241104T000000Z
+SUMMARY:Mundial Sub-17 Femenino - Corea del Norte - España
+UID:b576924d-08ab-4b43-aad9-00a884b13554
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
