@@ -16,34 +16,44 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241102T003831Z
-DTSTART:20241102T190000Z
-DTEND:20241102T210000Z
-SUMMARY:Primera FEB - Hestia Menorca - Movistar Estudiantes
-UID:639e399d-5dbe-439b-8c03-699cb05e46e3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
- PV: M+ Deportes 4</li></ul></body></html>
-DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Deportes 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241102T003831Z
+DTSTAMP:20241103T041101Z
 DTSTART:20241110T173000Z
 DTEND:20241110T193000Z
 SUMMARY:Primera FEB - Movistar Estudiantes - Real Betis Baloncesto
-UID:d20ae29a-97c8-47af-afeb-79bdc11e8c33
+UID:eb63e8e1-66a0-4513-b7ad-b1800eee51cb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
  body></html>
 DESCRIPTION:- PPV: LaLiga+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241102T003831Z
+DTSTAMP:20241103T041101Z
 DTSTART:20241114T190000Z
 DTEND:20241114T210000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Casademont Zaragoza
  
-UID:088dcf84-f9a0-49bc-a746-dfd3f0b631bd
+UID:12c20370-fe89-4014-9b37-32b0178b1b10
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241103T041101Z
+DTSTART:20241117T173000Z
+DTEND:20241117T193000Z
+SUMMARY:Primera FEB - Movistar Estudiantes - FC Cartagena C.B.
+UID:2adf4df9-1628-487b-b763-c9af04752bab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241103T041101Z
+DTSTART:20241117T180000Z
+DTEND:20241117T200000Z
+SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Movistar Estudiantes
+UID:1d7b6163-e1af-4807-8415-770402fca0ec
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
+ body></html>
+DESCRIPTION:- Open: FEB TV
 END:VEVENT
 END:VCALENDAR
