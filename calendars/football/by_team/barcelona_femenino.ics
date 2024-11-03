@@ -16,23 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241102T081101Z
-DTSTART:20241102T173000Z
-DTEND:20241102T193000Z
-SUMMARY:Liga F - Barcelona Femenino - Eibar Fem.
-UID:80219e62-8fdf-4d5a-894e-c0149edc3fcf
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: TV3</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: GolS
- tadium Premium</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: TV3\n- PPV: DAZN\n- PPV: DAZN 1\n- 
- PPV: GolStadium Premium\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241102T081101Z
+DTSTAMP:20241103T004245Z
 DTSTART:20241109T173000Z
 DTEND:20241109T193000Z
 SUMMARY:Liga F - At. Madrid Fem. - Barcelona Femenino
-UID:e0be8ce6-3cb4-4eef-a56c-1f2ef344d5a6
+UID:03bde3e6-ff88-42a7-aabe-adf51bea9366
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241103T004245Z
+DTSTART:20241112T174500Z
+DTEND:20241112T194500Z
+SUMMARY:Women's Champions League - Barcelona Femenino - St. Polten Fem.
+UID:a9c8a04f-1336-4b5d-b851-9a77fb3ea922
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
