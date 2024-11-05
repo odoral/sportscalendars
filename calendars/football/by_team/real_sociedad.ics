@@ -16,33 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241105T003834Z
+DTSTAMP:20241105T081201Z
 DTSTART:20241107T200000Z
 DTEND:20241107T220000Z
 SUMMARY:Europa League - Viktoria Plzen - Real Sociedad
-UID:e5308f89-a16a-4756-8988-9a7f29da2719
+UID:2a745679-1a71-4a1c-bb59-b6dc010d1e4d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241105T003834Z
+DTSTAMP:20241105T081201Z
 DTSTART:20241110T200000Z
 DTEND:20241110T220000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Barcelona
-UID:81e03933-75e7-4e4d-b268-c9514ffaecb8
+UID:c3091a2b-c8e4-4a7f-9872-df0ffef7ff6e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241105T003834Z
-DTSTART:20241114T170000Z
-DTEND:20241114T190000Z
-SUMMARY:Copa del Rey - Jove Español - Real Sociedad
-UID:cad39b96-88a1-4809-a2fb-303b70049d2b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
- </body></html>
-DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 END:VCALENDAR

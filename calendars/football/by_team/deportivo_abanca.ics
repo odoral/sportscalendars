@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241103T004245Z
+DTSTAMP:20241105T081201Z
 DTSTART:20241105T190000Z
 DTEND:20241105T210000Z
 SUMMARY:Copa de la Reina - Deportivo Abanca - Betis Féminas
-UID:f40f53b9-0ffd-4610-ad62-b4905df20a09
+UID:fb86cc36-1ccf-4fc0-b354-846ac2ffb1ba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241103T004245Z
+DTSTAMP:20241105T081201Z
 DTSTART:20241110T110000Z
 DTEND:20241110T130000Z
 SUMMARY:Liga F - Deportivo Abanca - Real Sociedad F.
-UID:319cd3c2-9673-4c70-8aec-bab12cc26a6e
+UID:fa96dbb2-0d03-44e2-8cf2-cef41cf0133f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: GolStadium Premium
+ >Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: Go
+ lStadium Premium</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TVG 2\n- PPV: DAZN\n- PPV: DAZN 1\n
+ - PPV: GolStadium Premium\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR
