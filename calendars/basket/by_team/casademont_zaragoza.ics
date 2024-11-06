@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241105T081211Z
+DTSTAMP:20241106T041206Z
 DTSTART:20241106T190000Z
 DTEND:20241106T210000Z
 SUMMARY:FIBA Europe Cup - Casademont Zaragoza - Patrioti Levice
-UID:9118cbd3-09b6-4153-8302-5331798634ea
+UID:8a4faa14-03a2-46b8-adc3-63445dbb7f7e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: FIBA YouTube</li></ul></body></ht
  ml>
@@ -28,53 +28,63 @@ DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: FIBA YouTu
  be
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241105T081211Z
+DTSTAMP:20241106T041206Z
 DTSTART:20241109T194500Z
 DTEND:20241109T214500Z
 SUMMARY:Liga Endesa - Valencia Basket - Casademont Zaragoza
-UID:12bf95dd-689e-484d-8e68-6ef6194a3ffa
+UID:06ffc807-6b9b-465b-b617-68c9f357b667
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes</li></u
  l></body></html>
 DESCRIPTION:- PPV: M+ Deportes
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241105T081211Z
+DTSTAMP:20241106T041206Z
 DTSTART:20241113T180000Z
 DTEND:20241113T200000Z
 SUMMARY:FIBA Europe Cup - Anorthosis Famagusta BC - Casademont Zaragoza
-UID:59d55c58-501f-4951-95f0-ef5d5024c7af
+UID:86882954-2224-49ad-ba4b-bc7864e41126
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: FIBA YouTube</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: FIBA YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241105T081211Z
+DTSTAMP:20241106T041206Z
 DTSTART:20241114T190000Z
 DTEND:20241114T210000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Casademont Zaragoza
  
-UID:3e5497e9-b732-40df-b298-b2145962b8da
+UID:193d5324-dc61-446a-99f3-d29705b975b2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241105T081211Z
+DTSTAMP:20241106T041206Z
 DTSTART:20241116T194500Z
 DTEND:20241116T214500Z
 SUMMARY:Liga Endesa - Casademont Zaragoza - Baskonia
-UID:94707a99-2d92-4414-8b87-acf618d4b216
+UID:428337c9-f3a8-4045-b6b8-bad5f07548ba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241105T081211Z
+DTSTAMP:20241106T041206Z
 DTSTART:20241117T111500Z
 DTEND:20241117T131500Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Ensino Lugo
-UID:bf86a901-9ce0-4e53-82c7-a7520f138513
+UID:cd753b75-d9fa-460c-b26f-781e4fb54ee1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
  body></html>
 DESCRIPTION:- Open: FEB TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241106T041206Z
+DTSTART:20241120T190000Z
+DTEND:20241120T210000Z
+SUMMARY:Euroliga Femenina - Casademont Zaragoza - Fenerbahçe S.K.
+UID:4a101acd-68ea-4194-af65-23c23ea1ff5f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: EuroLeague Women Y
+ ouTube</li></ul></body></html>
+DESCRIPTION:- Open: EuroLeague Women YouTube
 END:VEVENT
 END:VCALENDAR

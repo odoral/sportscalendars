@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241103T041101Z
+DTSTAMP:20241106T041206Z
 DTSTART:20241114T183000Z
 DTEND:20241114T203000Z
 SUMMARY:Liga Femenina Endesa - IDK Euskotren - Perfumerías Avenida
-UID:e2f0fea5-17ca-45b1-b19e-daaefde9e275
+UID:43ba8536-0bf3-4665-b4ce-923535c70ce0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch BaloncestoE
  SP</li></ul></body></html>
 DESCRIPTION:- Open: Twitch BaloncestoESP
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241103T041101Z
+DTSTAMP:20241106T041206Z
 DTSTART:20241117T110000Z
 DTEND:20241117T130000Z
 SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - Celta Zorka
-UID:cc8b3941-372b-46d6-9e48-57576effb8fe
+UID:571103c8-fbef-48ac-b8a4-010d646b1e07
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
  body></html>
 DESCRIPTION:- Open: FEB TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241106T041206Z
+DTSTART:20241120T183000Z
+DTEND:20241120T203000Z
+SUMMARY:Euroliga Femenina - Basket Landes - Perfumerías Avenida
+UID:67ac93a4-ed5c-4fe1-b1f0-ec6eb5fe5913
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: EuroLeague Women Y
+ ouTube</li></ul></body></html>
+DESCRIPTION:- Open: EuroLeague Women YouTube
 END:VEVENT
 END:VCALENDAR
