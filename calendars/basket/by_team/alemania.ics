@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240823T081138Z
-DTSTART:20240823T111500Z
-DTEND:20240823T131500Z
-SUMMARY:Otras competiciones - Alemania - España
-UID:3efa5de8-1b01-4f4e-b51c-91c2519e1587
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: MAX
+DTSTAMP:20241107T081137Z
+DTSTART:20241107T183000Z
+DTEND:20241107T203000Z
+SUMMARY:Eurobasket Femenino - Alemania - Grecia
+UID:822864cc-0a45-4103-8f7c-428405514884
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241107T081137Z
+DTSTART:20241110T160000Z
+DTEND:20241110T180000Z
+SUMMARY:Eurobasket Femenino - Alemania - República Checa
+UID:7154fd99-eed7-44a3-98b7-cffa278d2889
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR

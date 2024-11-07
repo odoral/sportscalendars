@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240823T081138Z
-DTSTART:20240823T145000Z
-DTEND:20240823T165000Z
-SUMMARY:Otras competiciones - Serbia - España
-UID:e31ac2d8-dc69-4dbe-ac69-a5e895a8db1b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
- i>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: rtve Play\n- PPV: MAX
+DTSTAMP:20241107T081137Z
+DTSTART:20241107T170000Z
+DTEND:20241107T190000Z
+SUMMARY:Eurobasket Femenino - Serbia - Portugal
+UID:899c0b0c-cd04-4fff-afb7-1dd075e3c9e6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241107T081137Z
+DTSTART:20241110T193000Z
+DTEND:20241110T213000Z
+SUMMARY:Eurobasket Femenino - Ucrania - Serbia
+UID:bcb06dd0-98f6-40eb-babe-cc598041da9d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240817T081014Z
-DTSTART:20240822T114000Z
-DTEND:20240822T134000Z
-SUMMARY:Otras competiciones - España - Azerbaiyan
-UID:f036c8e7-83a0-47ff-bbcf-adbce70df2ec
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
- ></body></html>
-DESCRIPTION:- Open: rtve Play
+DTSTAMP:20241107T081137Z
+DTSTART:20241107T193000Z
+DTEND:20241107T213000Z
+SUMMARY:Eurobasket Femenino - Polonia - Azerbaiyan
+UID:d932206b-623f-4d74-a4e2-d73444202af0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241107T081137Z
+DTSTART:20241110T160000Z
+DTEND:20241110T180000Z
+SUMMARY:Eurobasket Femenino - Azerbaiyan - Lituania
+UID:51406ce3-f06c-4d86-b7a3-f560ddb375e3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR
