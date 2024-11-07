@@ -16,16 +16,29 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241103T004245Z
+DTSTAMP:20241107T003833Z
 DTSTART:20241110T151500Z
 DTEND:20241110T171500Z
 SUMMARY:Liga Hypermotion - Racing Ferrol - Racing de Santander
-UID:fc4c2350-f4d1-477e-bd3d-ab8477d87342
+UID:6b71557d-f50f-47d4-9f10-9ba26a2656c0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></
  html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241107T003833Z
+DTSTART:20241116T173000Z
+DTEND:20241116T193000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Burgos C.F.
+UID:0db9303c-2a28-4db5-a10f-af77ad364f1d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+ 
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

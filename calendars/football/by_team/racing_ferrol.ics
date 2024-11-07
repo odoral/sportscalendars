@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241104T041121Z
+DTSTAMP:20241107T003833Z
 DTSTART:20241110T151500Z
 DTEND:20241110T171500Z
 SUMMARY:Liga Hypermotion - Racing Ferrol - Racing de Santander
-UID:0435b8dc-acf7-41d1-9062-66555f741e76
+UID:3af1271c-98a5-4d4f-96d5-67bd89f54d6b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></
  html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241107T003833Z
+DTSTART:20241116T130000Z
+DTEND:20241116T150000Z
+SUMMARY:Liga Hypermotion - Eibar - Racing Ferrol
+UID:72280c87-5e53-48a7-9f17-7cf61632b253
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

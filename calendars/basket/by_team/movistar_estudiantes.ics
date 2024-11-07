@@ -16,54 +16,64 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241106T081235Z
+DTSTAMP:20241107T003841Z
 DTSTART:20241110T173000Z
 DTEND:20241110T193000Z
 SUMMARY:Primera FEB - Movistar Estudiantes - Real Betis Baloncesto
-UID:b83dff69-ef3e-4849-8da7-eb4a2aa830d5
+UID:8b66588b-df1e-46b3-aff2-36986ecb8c7f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
  PV: M+ Deportes 5</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Deportes 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241106T081235Z
+DTSTAMP:20241107T003841Z
 DTSTART:20241114T190000Z
 DTEND:20241114T210000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Casademont Zaragoza
  
-UID:208f77c5-4437-43d7-ba37-0bd3dc6e1839
+UID:dd8a76e9-3b93-44eb-8c26-c89c9ef30ae2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241106T081235Z
+DTSTAMP:20241107T003841Z
 DTSTART:20241117T173000Z
 DTEND:20241117T193000Z
 SUMMARY:Primera FEB - Movistar Estudiantes - FC Cartagena C.B.
-UID:9c4bc893-19d7-4606-8c52-09a10e988e33
+UID:7d13636d-1224-460d-8b24-144dcb23cbbb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
  body></html>
 DESCRIPTION:- PPV: LaLiga+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241106T081235Z
+DTSTAMP:20241107T003841Z
 DTSTART:20241117T180000Z
 DTEND:20241117T200000Z
 SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Movistar Estudiantes
-UID:69962d92-191a-4db1-96fe-62fe12f04a64
+UID:42cddff9-368f-4c2f-a6f0-71125f99b897
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
  body></html>
 DESCRIPTION:- Open: FEB TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241106T081235Z
+DTSTAMP:20241107T003841Z
 DTSTART:20241120T190000Z
 DTEND:20241120T210000Z
 SUMMARY:Eurocup Women - Movistar Estudiantes - Iraklis BC
-UID:7e79643c-d05f-4c4c-a0ee-2fc99d344055
+UID:f74f27b5-b58a-4c62-90d0-b04a6b53f91d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
  /ul></body></html>
 DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241107T003841Z
+DTSTART:20241120T230000Z
+DTEND:20241121T010000Z
+SUMMARY:Eurocup Women - Iraklis BC - Movistar Estudiantes
+UID:c5eb19e3-aae7-4483-bc57-3f1f6f879700
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: FIBA YouTube</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR

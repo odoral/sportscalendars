@@ -16,33 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241106T081227Z
+DTSTAMP:20241107T003833Z
 DTSTART:20241114T210000Z
 DTEND:20241114T230000Z
 SUMMARY:Mundial 2026 - Venezuela - Brasil
-UID:acc6e722-5df6-48ad-b559-fb3802181271
+UID:51647ee9-1663-4387-8cbd-ac0f03a5634d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241106T081227Z
+DTSTAMP:20241107T003833Z
 DTSTART:20241114T233000Z
 DTEND:20241115T013000Z
 SUMMARY:Mundial 2026 - Paraguay - Argentina
-UID:374adc03-aff8-46ce-8929-40ba976de093
+UID:49f2cc2c-fe44-4af4-9ba3-c104f60699aa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241106T081227Z
+DTSTAMP:20241107T003833Z
 DTSTART:20241115T000000Z
 DTEND:20241115T020000Z
 SUMMARY:Mundial 2026 - Ecuador - Bolivia
-UID:59ed4a1f-ac1d-4248-ab9a-d7e34e4a7c4d
+UID:d5074b91-0d88-4232-8cc1-34e1e6e80506
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241107T003833Z
+DTSTART:20241116T000000Z
+DTEND:20241116T020000Z
+SUMMARY:Mundial 2026 - Uruguay - Colombia
+UID:298b0af4-ea89-4861-baf6-b605090cd633
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241107T003833Z
+DTSTART:20241116T013000Z
+DTEND:20241116T033000Z
+SUMMARY:Mundial 2026 - Perú - Chile
+UID:dce1550a-a5bb-4a7c-8902-3b96611b1f2a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: Movistar Plus+ 2
 END:VEVENT
 END:VCALENDAR
