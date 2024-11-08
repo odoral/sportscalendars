@@ -16,23 +16,22 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241108T003833Z
+DTSTAMP:20241108T081156Z
 DTSTART:20241110T180000Z
 DTEND:20241110T200000Z
 SUMMARY:Eurobasket Femenino - España - Croacia
-UID:03a0afb1-23b2-4770-aabc-2d90081aa8a2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li>\
- n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube\n- Open: rtve Play
+UID:239d4270-04cb-4833-82f8-4396ca3a59a5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241108T003833Z
-DTSTART:20241121T230000Z
-DTEND:20241122T010000Z
+DTSTAMP:20241108T081156Z
+DTSTART:20241122T170000Z
+DTEND:20241122T190000Z
 SUMMARY:Eurobasket - Eslovaquia - España
-UID:3ae23df2-ac63-41d3-8ac9-149dfab5361e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
- firmar\n<ul></ul></body></html>
-DESCRIPTION:Atención: Pendientede confirmar\n
+UID:0d0fb1ad-4839-4db3-a3af-c793cfd29f7a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
