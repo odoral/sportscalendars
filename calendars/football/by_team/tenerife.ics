@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241104T041121Z
+DTSTAMP:20241108T041049Z
 DTSTART:20241110T173000Z
 DTEND:20241110T193000Z
 SUMMARY:Liga Hypermotion - Tenerife - Levante
-UID:4724b504-b4d7-4422-bb03-52f195b5072c
+UID:1cb11861-6ffa-405a-810b-25b7a1aa44b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></
  html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241108T041049Z
+DTSTART:20241117T151500Z
+DTEND:20241117T171500Z
+SUMMARY:Liga Hypermotion - Real Oviedo - Tenerife
+UID:f3ba17fb-d6bc-4c4d-b4a7-3d99a6469d8d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

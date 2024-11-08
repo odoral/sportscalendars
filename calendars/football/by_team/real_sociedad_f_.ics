@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241105T081201Z
+DTSTAMP:20241108T041049Z
 DTSTART:20241110T110000Z
 DTEND:20241110T130000Z
 SUMMARY:Liga F - Deportivo Abanca - Real Sociedad F.
-UID:68c3f000-e3c9-42ec-a13b-406d4b2e5bbc
+UID:b6281177-b049-4823-8264-b182362c39c2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: Go
  lStadium Premium</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TVG 2\n- PPV: DAZN\n- PPV: DAZN 1\n
  - PPV: GolStadium Premium\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241108T041049Z
+DTSTART:20241117T170000Z
+DTEND:20241117T190000Z
+SUMMARY:Liga F - Real Sociedad F. - Athletic Club Fem.
+UID:7c377b83-ea8e-4957-8033-9ef3497869a7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR

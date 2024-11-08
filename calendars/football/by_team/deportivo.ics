@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241103T004245Z
+DTSTAMP:20241108T041049Z
 DTSTART:20241111T193000Z
 DTEND:20241111T213000Z
 SUMMARY:Liga Hypermotion - Deportivo - Eibar
-UID:72a68e22-168d-4965-a09a-7108af38861b
+UID:c3ea0dde-3620-4b8d-a865-260e12e7b06e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241108T041049Z
+DTSTART:20241117T173000Z
+DTEND:20241117T193000Z
+SUMMARY:Liga Hypermotion - Almería - Deportivo
+UID:999f1680-a070-4108-b74a-c04f1482bcab
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
