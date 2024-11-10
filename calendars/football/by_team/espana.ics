@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241109T041013Z
+DTSTAMP:20241110T080958Z
+DTSTART:20241115T173000Z
+DTEND:20241115T193000Z
+SUMMARY:Otras competiciones - España - Inglaterra
+UID:964e1c62-2de1-4c38-9c11-146c038b28dd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241110T080958Z
 DTSTART:20241115T194500Z
 DTEND:20241115T214500Z
 SUMMARY:UEFA Nations League - Dinamarca - España
-UID:89a7d7b4-8e0a-440d-8027-5743021d168b
+UID:52e9d2fa-941b-424a-84e8-fbf9387ac51e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241109T041013Z
+DTSTAMP:20241110T080958Z
 DTSTART:20241118T194500Z
 DTEND:20241118T214500Z
 SUMMARY:UEFA Nations League - España - Suiza
-UID:90111d96-2097-4cb6-93f4-ab9f2fd95a37
+UID:6eee7d20-5544-46ce-b790-639ca230b7a9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
