@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241107T003833Z
+DTSTAMP:20241110T004123Z
 DTSTART:20241110T173000Z
 DTEND:20241110T193000Z
 SUMMARY:Liga Hypermotion - Tenerife - Levante
-UID:eab8d792-606b-4b28-8a63-2bdc9b02308d
+UID:95d0a704-5a64-4504-b7a9-1ceb8a7db721
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></
@@ -29,16 +29,26 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241107T003833Z
+DTSTAMP:20241110T004123Z
 DTSTART:20241116T173000Z
 DTEND:20241116T193000Z
 SUMMARY:Liga Hypermotion - Levante - Elche
-UID:7737f8e5-d525-4e22-874b-998e1748d3e8
+UID:d2f777a9-21c0-41c1-809d-1f51e1c324b7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241110T004123Z
+DTSTART:20241119T190000Z
+DTEND:20241119T210000Z
+SUMMARY:Copa del Rey - Pontevedra - Levante
+UID:5a7e0f8b-160d-4812-8118-24d9d37e05d9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: TVG 2
 END:VEVENT
 END:VCALENDAR
