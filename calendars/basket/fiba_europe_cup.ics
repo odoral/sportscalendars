@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241107T003841Z
+DTSTAMP:20241112T081210Z
 DTSTART:20241113T180000Z
 DTEND:20241113T200000Z
 SUMMARY:FIBA Europe Cup - Anorthosis Famagusta BC - Casademont Zaragoza
-UID:95af884f-92cf-46a0-8ee3-c4a73875aee5
+UID:51b86771-58e4-4f56-9f34-6ce8cc1958a0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: FIBA YouTube</li></ul></body></html>
-DESCRIPTION:- Open: Aragón Deporte\n- Open: FIBA YouTube
+ >\n<li>Open: Aragón TV</li>\n<li>Open: FIBA YouTube</li></ul></body></ht
+ ml>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: FIBA YouTu
+ be
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241107T003841Z
+DTSTAMP:20241112T081210Z
 DTSTART:20241113T190000Z
 DTEND:20241113T210000Z
 SUMMARY:FIBA Europe Cup - Bilbao Basket - BC Prievidza
-UID:68ded0bf-b85a-4a92-8d3a-46b7913fe4ba
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
+UID:57790f51-a74a-4eb8-9161-0729c3d04b37
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB4</li>\n<li>Ope
+ n: FIBA YouTube</li></ul></body></html>
+DESCRIPTION:- Open: ETB4\n- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR
