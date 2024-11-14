@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241111T003956Z
+DTSTAMP:20241114T041141Z
 DTSTART:20241117T151500Z
 DTEND:20241117T171500Z
 SUMMARY:Liga Hypermotion - Cádiz - Córdoba
-UID:6f5286ee-098c-44a2-b666-263e175f4381
+UID:e7932847-8af5-471e-9f41-ab675e0e93b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241114T041141Z
+DTSTART:20241123T173000Z
+DTEND:20241123T193000Z
+SUMMARY:Liga Hypermotion - Córdoba - Real Zaragoza
+UID:0b7915e7-e5a4-4de3-9dc7-e7356f2b87ca
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

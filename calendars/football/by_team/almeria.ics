@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241109T041013Z
+DTSTAMP:20241114T041142Z
 DTSTART:20241117T173000Z
 DTEND:20241117T193000Z
 SUMMARY:Liga Hypermotion - Almería - Deportivo
-UID:766c615a-dfac-4d65-8c69-8bfa42e15916
+UID:d7d15c8e-2304-4dc6-8eec-a771b570926a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241114T041142Z
+DTSTART:20241123T130000Z
+DTEND:20241123T150000Z
+SUMMARY:Liga Hypermotion - Cartagena - Almería
+UID:29fe9524-d66c-4dcc-b603-c219778596d5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>

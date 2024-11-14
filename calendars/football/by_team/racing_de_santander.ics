@@ -16,11 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241111T003957Z
+DTSTAMP:20241114T041142Z
 DTSTART:20241116T173000Z
 DTEND:20241116T193000Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Burgos C.F.
-UID:bd2531a8-e072-401b-ab89-83ab6fcd9f50
+UID:da89be81-8b84-40ca-8819-762b4b8ef98f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+ 
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241114T041142Z
+DTSTART:20241123T200000Z
+DTEND:20241123T220000Z
+SUMMARY:Liga Hypermotion - Málaga - Racing de Santander
+UID:6aad97e0-c2b7-472f-a8b8-181b68d9758f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>

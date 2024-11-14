@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241111T003957Z
+DTSTAMP:20241114T041142Z
 DTSTART:20241116T173000Z
 DTEND:20241116T193000Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Burgos C.F.
-UID:61c31f3e-d565-472c-b2fd-3be5b22836af
+UID:90470625-0559-4712-b82b-180f40d63f8b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
  
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241114T041142Z
+DTSTART:20241123T173000Z
+DTEND:20241123T193000Z
+SUMMARY:Liga Hypermotion - Burgos C.F. - Eibar
+UID:bca62e52-ad28-4936-a23b-e02012e8e5cf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
