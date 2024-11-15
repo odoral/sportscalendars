@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241111T003956Z
+DTSTAMP:20241115T004121Z
 DTSTART:20241117T151500Z
 DTEND:20241117T171500Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Tenerife
-UID:993a047c-2e53-4bd4-9493-df8270683389
+UID:731a5e46-7753-4240-a718-5def56ec17ef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241115T004121Z
+DTSTART:20241124T130000Z
+DTEND:20241124T150000Z
+SUMMARY:Liga Hypermotion - Albacete - Tenerife
+UID:0e85eba4-2fc1-4ae8-a6b9-17b0dd70e23d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>

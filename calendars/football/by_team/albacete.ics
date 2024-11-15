@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241111T003956Z
+DTSTAMP:20241115T004121Z
 DTSTART:20241116T151500Z
 DTEND:20241116T171500Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Albacete
-UID:4af89e1f-3711-4d08-8231-30f7d598a314
+UID:86ddb677-89c8-48b0-941e-f81d07dd582a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241115T004121Z
+DTSTART:20241124T130000Z
+DTEND:20241124T150000Z
+SUMMARY:Liga Hypermotion - Albacete - Tenerife
+UID:6b3c81fe-f0ef-4327-9432-5840f8392994
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
