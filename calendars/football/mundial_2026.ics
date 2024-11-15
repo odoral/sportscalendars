@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241115T004121Z
+DTSTAMP:20241115T081214Z
 DTSTART:20241114T233000Z
 DTEND:20241115T013000Z
 SUMMARY:Mundial 2026 - Paraguay - Argentina
-UID:e14016d6-a966-4e3f-8cb1-289c29b1aed4
+UID:e5c64453-d279-45c4-bdd9-a276541a696e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -28,63 +28,73 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T004121Z
+DTSTAMP:20241115T081214Z
 DTSTART:20241115T000000Z
 DTEND:20241115T020000Z
 SUMMARY:Mundial 2026 - Ecuador - Bolivia
-UID:59df2ec9-e7ff-43a5-a00f-b17c7193eec9
+UID:7124fcca-579c-45e1-a64d-923944272943
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T004121Z
+DTSTAMP:20241115T081214Z
 DTSTART:20241116T000000Z
 DTEND:20241116T020000Z
 SUMMARY:Mundial 2026 - Uruguay - Colombia
-UID:3766cba6-f920-43db-981f-8e838dd6ab47
+UID:ed4ec4f1-c79c-4450-bb8b-0945f8dcf85a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T004121Z
+DTSTAMP:20241115T081214Z
 DTSTART:20241116T013000Z
 DTEND:20241116T033000Z
 SUMMARY:Mundial 2026 - Perú - Chile
-UID:704ccf17-432f-43f1-ade5-b3e540a3cb4f
+UID:14bf8a13-3bdc-432b-904c-15934b010694
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T004121Z
+DTSTAMP:20241115T081214Z
 DTSTART:20241119T230000Z
 DTEND:20241120T010000Z
 SUMMARY:Mundial 2026 - Colombia - Ecuador
-UID:dbf75e09-4af3-4eae-8fb2-21e8a6fe5d74
-X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
- firmar\n<ul><li>PPV: Movistar Plus+ 2</li></ul></body></html>
-DESCRIPTION:Atención: Pendientede confirmar\n- PPV: Movistar Plus+ 2
+UID:08b327c1-f9ef-4fe0-ad0f-fcdf7eb3bd9b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T004121Z
+DTSTAMP:20241115T081214Z
 DTSTART:20241120T000000Z
 DTEND:20241120T020000Z
 SUMMARY:Mundial 2026 - Argentina - Perú
-UID:a1fe4771-5aa1-4dd5-bcda-9ffa572ca07c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
- /body></html>
-DESCRIPTION:- PPV: M+ Vamos
+UID:1115d561-f272-40a6-a8c8-fc7860911c7b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 5</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 5\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241115T004121Z
+DTSTAMP:20241115T081214Z
+DTSTART:20241120T000000Z
+DTEND:20241120T020000Z
+SUMMARY:Mundial 2026 - Chile - Venezuela
+UID:baf46b90-3c95-4b31-a25b-4391ae6e5eb2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241115T081214Z
 DTSTART:20241120T004500Z
 DTEND:20241120T024500Z
 SUMMARY:Mundial 2026 - Brasil - Uruguay
-UID:5f300d17-de73-4489-b45f-db660fa4f3f7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:9e4c994e-d875-4186-b7ba-2418e3688469
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
