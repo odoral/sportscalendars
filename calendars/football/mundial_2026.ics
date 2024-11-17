@@ -16,43 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241117T041046Z
+DTSTAMP:20241117T081038Z
+DTSTART:20241119T200000Z
+DTEND:20241119T220000Z
+SUMMARY:Mundial 2026 - Bolivia - Paraguay
+UID:b94ef2e5-8f8a-4e02-8204-eec458c36dcf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: FIFA+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241117T081038Z
 DTSTART:20241119T230000Z
 DTEND:20241120T010000Z
 SUMMARY:Mundial 2026 - Colombia - Ecuador
-UID:817ff7fc-d1a7-4be2-a4fe-374c4436a384
-X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
- firmar\n<ul><li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus
- + 2</li></ul></body></html>
-DESCRIPTION:Atención: Pendientede confirmar\n- PPV: M+ Liga de Campeones 
- 3\n- PPV: Movistar Plus+ 2
+UID:b30c609d-7a5e-4386-8cff-eb15fc8307fb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241117T041046Z
+DTSTAMP:20241117T081038Z
 DTSTART:20241120T000000Z
 DTEND:20241120T020000Z
 SUMMARY:Mundial 2026 - Argentina - Perú
-UID:38fe6eb2-ee3b-4f13-8138-67619c036925
+UID:5bb44c46-921f-4c16-af31-c5b9d1262913
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 5</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 5\n- PPV: M+ Vamos
+ s</li>\n<li>PPV: M+ Liga de Campeones 5</li>\n<li>PPV: M+ Vamos</li></ul
+ ></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 5\n-
+  PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241117T041046Z
+DTSTAMP:20241117T081038Z
 DTSTART:20241120T000000Z
 DTEND:20241120T020000Z
 SUMMARY:Mundial 2026 - Chile - Venezuela
-UID:56f39b41-20b3-4549-bf64-e0765bc1c337
+UID:9a551d6d-8a4d-4c0c-9980-20f836f9bccc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241117T041046Z
+DTSTAMP:20241117T081038Z
 DTSTART:20241120T004500Z
 DTEND:20241120T024500Z
 SUMMARY:Mundial 2026 - Brasil - Uruguay
-UID:d1c1e065-b59d-4108-a7fc-8af28cc98abc
+UID:98f26cbf-a49a-4d89-b404-663402c35ede
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: Movistar Plus+
