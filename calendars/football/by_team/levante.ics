@@ -16,26 +16,38 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241117T041046Z
+DTSTAMP:20241118T004242Z
 DTSTART:20241119T190000Z
 DTEND:20241119T210000Z
 SUMMARY:Copa del Rey - Pontevedra - Levante
-UID:9e7ea6bb-4c40-46d7-9365-b3272c8bff25
+UID:b4ca5ea5-fae6-421a-b26b-de5844b9a02a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
  ody></html>
 DESCRIPTION:- Open: TVG 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241117T041046Z
+DTSTAMP:20241118T004242Z
 DTSTART:20241122T193000Z
 DTEND:20241122T213000Z
 SUMMARY:Liga Hypermotion - Racing Ferrol - Levante
-UID:b1a5549e-e825-47a9-a76c-ec4b53bdce28
+UID:69d5ccc4-d9c5-46fa-8f4c-9a5f2c03ff77
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241118T004242Z
+DTSTART:20241127T180000Z
+DTEND:20241127T200000Z
+SUMMARY:Liga Hypermotion - Levante - Málaga
+UID:063e51f5-bf74-46fc-9893-41cfc971d159
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
