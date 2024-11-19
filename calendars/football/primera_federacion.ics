@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241118T004242Z
+DTSTAMP:20241119T081230Z
 DTSTART:20241123T143000Z
 DTEND:20241123T163000Z
 SUMMARY:Primera Federación - Betis Deportivo - Antequera
-UID:1d5926a2-29cb-4799-9150-72000500824f
+UID:32d1cf5a-aedc-4c27-944e-947396ad1867
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241118T004242Z
+DTSTAMP:20241119T081230Z
+DTSTART:20241123T183000Z
+DTEND:20241123T203000Z
+SUMMARY:Primera Federación - C.D. Arenteiro - Osasuna Promesas
+UID:77a43d3c-0416-40be-8e66-c3ad64ed54f3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241119T081230Z
 DTSTART:20241124T183000Z
 DTEND:20241124T203000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Nàstic Tarragona
-UID:29a22ad3-56e0-4756-9026-c91cd89a435f
+UID:944b8cbb-ca98-49d7-948b-46401f792add
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
- i>PPV: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
+ i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR
