@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241118T004242Z
+DTSTAMP:20241121T041149Z
 DTSTART:20241124T151500Z
 DTEND:20241124T171500Z
 SUMMARY:Liga Hypermotion - Deportivo - Sporting de Gijón
-UID:4147a421-db8f-4825-84dd-afcd0a46bb0f
+UID:389c9fc8-2f0c-4d0a-81b2-f5bf9d4a635d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: M+ Va
@@ -28,5 +28,19 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3\n- PPV: M+ 
  Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T041149Z
+DTSTART:20241130T173000Z
+DTEND:20241130T193000Z
+SUMMARY:Liga Hypermotion - Cádiz - Deportivo
+UID:505ffcfb-b240-42d0-a391-109f56b03f96
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: Movis
+ tar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3\n- PPV: Mov
+ istar Plus+
 END:VEVENT
 END:VCALENDAR

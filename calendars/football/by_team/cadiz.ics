@@ -16,11 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241118T004242Z
+DTSTAMP:20241121T041149Z
 DTSTART:20241123T151500Z
 DTEND:20241123T171500Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Cádiz
-UID:d58a9779-45f2-41dc-8bc1-de198ee77c2e
+UID:3cdf38ce-da68-4bfa-a184-4dc62922b8c9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: Movis
+ tar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3\n- PPV: Mov
+ istar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241121T041149Z
+DTSTART:20241130T173000Z
+DTEND:20241130T193000Z
+SUMMARY:Liga Hypermotion - Cádiz - Deportivo
+UID:4403a666-61e0-4857-a8e3-7c58da6c795d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: Movis
