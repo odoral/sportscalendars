@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241121T081223Z
+DTSTAMP:20241122T041138Z
 DTSTART:20241123T173000Z
 DTEND:20241123T193000Z
 SUMMARY:Premier League - Manchester City - Tottenham
-UID:bef16344-7400-4b70-8da7-9a420c0cfffa
+UID:25e4fe6d-ddee-4de2-b244-1d0e85bcd0f2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
  +</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
  V: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241121T081223Z
+DTSTAMP:20241122T041138Z
 DTSTART:20241126T200000Z
 DTEND:20241126T220000Z
 SUMMARY:Champions League - Manchester City - Feyenoord
-UID:9fe987f0-54d1-45e7-9ce4-d51c05f579dc
+UID:56f6bdf4-4358-4992-9cd9-49f49b860f30
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241122T041138Z
+DTSTART:20241201T160000Z
+DTEND:20241201T180000Z
+SUMMARY:Premier League - Liverpool - Manchester City
+UID:90bbe17c-b4d6-4d32-9a1a-56311d856d22
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

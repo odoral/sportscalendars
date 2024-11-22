@@ -16,11 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241121T004038Z
+DTSTAMP:20241122T041138Z
 DTSTART:20241124T151500Z
 DTEND:20241124T171500Z
 SUMMARY:Liga Hypermotion - Mirandés - C.D. Eldense
-UID:2e03ea06-5412-41d7-9ef0-e433bb3d2381
+UID:24a93e46-b5f0-44f4-87aa-7b791f3d4757
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241122T041138Z
+DTSTART:20241201T173000Z
+DTEND:20241201T193000Z
+SUMMARY:Liga Hypermotion - C.D. Eldense - Racing Ferrol
+UID:19eb5f05-8e3e-4cff-afc5-ea6e7ca8c225
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></

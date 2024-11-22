@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241119T081231Z
+DTSTAMP:20241122T041138Z
 DTSTART:20241124T183000Z
 DTEND:20241124T203000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Nàstic Tarragona
-UID:ed90a7d3-e4ba-4342-981a-ed1a9f5d9514
+UID:c9fb7e8a-879e-4eb7-b864-93ac76c33bc7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241122T041138Z
+DTSTART:20241201T163000Z
+DTEND:20241201T183000Z
+SUMMARY:Primera Federación - C.D. Arenteiro - Barcelona Atlètic
+UID:50b75afb-45b3-4e2d-9acd-f475df1d5c13
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>Open: TVG 2</li>\n<li>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- Open: TVG 2\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR

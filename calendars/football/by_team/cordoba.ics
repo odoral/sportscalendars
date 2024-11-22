@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241120T081224Z
+DTSTAMP:20241122T041138Z
 DTSTART:20241123T173000Z
 DTEND:20241123T193000Z
 SUMMARY:Liga Hypermotion - Córdoba - Real Zaragoza
-UID:a2daa8ee-a26e-4139-a238-f62a879cf25f
+UID:ce5a061e-298a-4a65-847a-3bedb7dd3980
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body></ht
@@ -29,16 +29,29 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241120T081224Z
+DTSTAMP:20241122T041138Z
 DTSTART:20241126T193000Z
 DTEND:20241126T213000Z
 SUMMARY:Liga Hypermotion - Almería - Córdoba
-UID:84b83b31-fed2-40a2-92cc-4e0a0839e770
+UID:18f7ed93-d9d2-4ae9-a5cd-7f6e8b140acf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body></
  html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241122T041138Z
+DTSTART:20241201T200000Z
+DTEND:20241201T220000Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Córdoba
+UID:e81d1a4c-e4db-41d2-818a-6902434780aa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 END:VCALENDAR

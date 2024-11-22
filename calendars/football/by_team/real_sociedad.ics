@@ -16,35 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241121T041149Z
-DTSTART:20241121T200000Z
-DTEND:20241121T220000Z
-SUMMARY:Copa del Rey - Jove Español - Real Sociedad
-UID:7eb41ce2-9a86-4b09-bedb-7af5cb94bfab
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
- ></ul></body></html>
-DESCRIPTION:- PPV: M+ Copa del Rey
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241121T041149Z
+DTSTAMP:20241122T041138Z
 DTSTART:20241124T200000Z
 DTEND:20241124T220000Z
 SUMMARY:Liga EA Sports - Athletic Club - Real Sociedad
-UID:9e8c2191-8984-4faa-9d89-c754bebef362
+UID:6d0bcd89-5db6-4498-91d5-8f9ec1f9ec93
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241121T041149Z
+DTSTAMP:20241122T041138Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - Real Sociedad - Ajax
-UID:8ddf4aec-a2db-4948-b0ae-c6b4b3ea9093
+UID:e2cffd12-33b6-4f49-8006-d1626bace96c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241122T041138Z
+DTSTART:20241201T200000Z
+DTEND:20241201T220000Z
+SUMMARY:Liga EA Sports - Real Sociedad - Betis
+UID:8c3a4408-22e0-4862-9b34-5e2a92014fc7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
