@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241115T004121Z
+DTSTAMP:20241123T004026Z
 DTSTART:20241124T130000Z
 DTEND:20241124T150000Z
 SUMMARY:Liga EA Sports - Osasuna - Villarreal
-UID:1dd6437d-f3dc-43cb-b41a-8234c0d1f039
+UID:f25bc0f4-48dc-4a3a-8b75-02fe8f56147f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241123T004026Z
+DTSTART:20241202T200000Z
+DTEND:20241202T220000Z
+SUMMARY:Liga EA Sports - Sevilla - Osasuna
+UID:0af150c2-0b22-437a-b684-d9cfea6f9d43
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
+ i>Open: ETB1</li>\n<li>Open: Gol Play</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
+DESCRIPTION:- Open: Canal Sur\n- Open: ETB1\n- Open: Gol Play\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
