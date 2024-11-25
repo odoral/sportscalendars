@@ -16,21 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241124T004435Z
+DTSTAMP:20241125T081334Z
 DTSTART:20241126T200000Z
 DTEND:20241126T220000Z
 SUMMARY:Champions League - Young Boys - Atalanta
-UID:18e64b7e-3521-4217-90f2-e3843859e817
+UID:0bfffd3f-a3fd-4992-b674-0fe4831b78b1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 8
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: M+ Liga de Camp
+ eones 8</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4\
+ n- PPV: M+ Liga de Campeones 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241124T004435Z
+DTSTAMP:20241125T081334Z
+DTSTART:20241126T200000Z
+DTEND:20241126T220000Z
+SUMMARY:Champions League - Young Boys - Atalanta
+UID:d25a600b-ed6f-47cb-a296-172efb7a598c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: M+ Liga de Camp
+ eones 8</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4\
+ n- PPV: M+ Liga de Campeones 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T081334Z
 DTSTART:20241202T194500Z
 DTEND:20241202T214500Z
 SUMMARY:Serie A - Roma - Atalanta
-UID:90c2af2d-25f0-49cb-81b8-37d855006b42
+UID:efc19926-b515-43ce-b012-83205c6f105a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
