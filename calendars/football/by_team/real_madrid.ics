@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241122T041138Z
-DTSTART:20241124T173000Z
-DTEND:20241124T193000Z
-SUMMARY:Liga EA Sports - Leganés - Real Madrid
-UID:ec0b1eaa-6899-4a86-87f4-c0f779b246e1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
- <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241122T041138Z
+DTSTAMP:20241125T041153Z
 DTSTART:20241127T200000Z
 DTEND:20241127T220000Z
 SUMMARY:Champions League - Liverpool - Real Madrid
-UID:1340ac7f-55b1-4957-aca7-6e0aabc96de5
+UID:b2ce17e4-0edf-41fe-af1b-71647c53c47d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -38,11 +28,21 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241122T041138Z
+DTSTAMP:20241125T041153Z
 DTSTART:20241201T151500Z
 DTEND:20241201T171500Z
 SUMMARY:Liga EA Sports - Real Madrid - Getafe
-UID:ebc96a3e-5162-4703-ac47-5908bee0b01e
+UID:0ca1f742-5772-4d80-b840-cfa059d4f415
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T041153Z
+DTSTART:20241204T200000Z
+DTEND:20241204T220000Z
+SUMMARY:Liga EA Sports - Athletic Club - Real Madrid
+UID:9ef41911-ac88-434b-aab3-13d618634036
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX

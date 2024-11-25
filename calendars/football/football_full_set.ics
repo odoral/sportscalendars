@@ -16,337 +16,81 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T110000Z
-DTEND:20241124T130000Z
-SUMMARY:Liga F - Levante UD  Fem. - Granada Fem.
-UID:1d825344-1ca9-4cc9-bec2-c2f902e32027
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T110000Z
-DTEND:20241124T130000Z
-SUMMARY:Liga F - Barcelona Femenino - UDG Tenerife
-UID:ed37c548-a45c-41b8-849a-44d8f67f6de8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T113000Z
-DTEND:20241124T133000Z
-SUMMARY:Serie A - Genoa - Cagliari
-UID:55eeb750-bbc5-49e7-bb5d-790b13869a90
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T130000Z
-DTEND:20241124T150000Z
-SUMMARY:Liga EA Sports - Osasuna - Villarreal
-UID:c7b31467-3381-4be0-b1f0-165a5b476f51
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T130000Z
-DTEND:20241124T150000Z
-SUMMARY:Liga F - Real Sociedad F. - Real Madrid Fem.
-UID:20455440-8133-4bda-bf04-57f3bc12ea31
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 2</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Ellas Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T130000Z
-DTEND:20241124T150000Z
-SUMMARY:Liga Hypermotion - Albacete - Tenerife
-UID:3ec5b01f-4ff6-4e32-8e3a-46e0bb9cafd3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
- ml>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T140000Z
-DTEND:20241124T160000Z
-SUMMARY:Premier League - Southampton - Liverpool
-UID:c3c50690-ce8e-4cb8-a883-9b82b4f6e167
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T140000Z
-DTEND:20241124T160000Z
-SUMMARY:Serie A - Torino - A.C. Monza
-UID:ee7f4107-a11a-4304-a1a4-59d96ed836d0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T140000Z
-DTEND:20241124T160000Z
-SUMMARY:Serie A - Como 1907 - Fiorentina
-UID:95a6989f-acd4-48d6-bffa-cc187d5ff508
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T143000Z
-DTEND:20241124T163000Z
-SUMMARY:Bundesliga - Holstein Kiel - Mainz 05
-UID:9a0d6ec3-77a8-4dc2-8a38-32dbcfeb6e49
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T150000Z
-DTEND:20241124T170000Z
-SUMMARY:Liga F - At. Madrid Fem. - Eibar Fem.
-UID:d5b4abf2-4ab9-48c1-99e2-3bf8480f3618
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 4</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 4\n- PPV: M+ Ellas Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T151500Z
-DTEND:20241124T171500Z
-SUMMARY:Liga EA Sports - Sevilla - Rayo Vallecano
-UID:0ea23a4b-ee9a-4172-a55f-1a553c1083ff
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 2\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T151500Z
-DTEND:20241124T171500Z
-SUMMARY:Liga Hypermotion - Mirandés - C.D. Eldense
-UID:af9c552c-ed44-4902-a005-e0624a6e70c0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
- html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T151500Z
-DTEND:20241124T171500Z
-SUMMARY:Liga Hypermotion - Deportivo - Sporting de Gijón
-UID:e8651faa-3cbb-422f-9194-41428d11ce03
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: Movis
- tar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3\n- PPV: Mov
- istar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T163000Z
-DTEND:20241124T183000Z
-SUMMARY:Bundesliga - Borussia Mönchengladbach - St. Pauli
-UID:9e5da972-dd90-4990-ae6b-7821c02f9e67
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T163000Z
-DTEND:20241124T183000Z
-SUMMARY:Premier League - Ipswich Town - Manchester United
-UID:140fb0c7-2f17-4e71-af5b-0121d6124919
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T170000Z
-DTEND:20241124T190000Z
-SUMMARY:Liga F - Valencia Féminas - Betis Féminas
-UID:6e785e32-f897-47a1-badc-f39f0091bda6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T170000Z
-DTEND:20241124T190000Z
-SUMMARY:Serie A - Nápoles - Roma
-UID:148a93e4-6e0f-4902-9e10-ef3b1c827ac8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T173000Z
-DTEND:20241124T193000Z
-SUMMARY:Liga EA Sports - Leganés - Real Madrid
-UID:f64a8515-b638-4781-ba9b-60d90ad99be8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
- <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T173000Z
-DTEND:20241124T193000Z
-SUMMARY:Liga Hypermotion - Huesca - C.D. Castellón
-UID:718f0769-0855-4cfc-bfbd-754ee94f26ca
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
- ml>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T183000Z
-DTEND:20241124T203000Z
-SUMMARY:Primera Federación - Barcelona Atlètic - Nàstic Tarragona
-UID:792107bb-806e-41b9-8e28-96e9977d753d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
- i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T194500Z
-DTEND:20241124T214500Z
-SUMMARY:Serie A - Lazio - Bologna
-UID:f49f9863-eae5-485c-9f67-7b6a94f71a2f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T200000Z
-DTEND:20241124T220000Z
-SUMMARY:Liga EA Sports - Athletic Club - Real Sociedad
-UID:68277557-6374-44db-b607-c0fec2e87a7c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
- <li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
-DTSTART:20241124T200000Z
-DTEND:20241124T220000Z
-SUMMARY:Liga Hypermotion - Elche - Real Oviedo
-UID:776d60e0-b953-412c-86ea-2a7c6dbc4e27
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
- ml>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241125T173000Z
 DTEND:20241125T193000Z
 SUMMARY:Serie A - Empoli - Udinese
-UID:7391bf61-6881-4097-ab19-98b677c4c27c
+UID:4574b938-f0c6-48f3-b5d8-503f76be0ba7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241125T194500Z
 DTEND:20241125T214500Z
 SUMMARY:Serie A - Venezia F.C. - U.S. Lecce
-UID:afd06d44-f5d6-4d23-912d-c0de7d9effda
+UID:0e905493-f4a9-4e92-8b92-617d19035a29
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241125T200000Z
 DTEND:20241125T220000Z
 SUMMARY:Premier League - Newcastle - West Ham
-UID:20d5e325-e2a7-4c9b-9319-fc54dcc5678c
+UID:897aff79-a00d-4725-839c-bc2263d5e2f5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T174500Z
 DTEND:20241126T194500Z
 SUMMARY:Champions League - Sparta Praga - Atlético de Madrid
-UID:b8f56552-2bad-4444-81ad-2de5a2245eb5
+UID:76ef2ea3-ce1e-48bb-93e7-808a29697d55
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T174500Z
 DTEND:20241126T194500Z
 SUMMARY:Champions League - Slovan Bratislava - A.C. Milan
-UID:9ab74183-88d6-42e7-aebc-ff6faa32b4b7
+UID:8e92ddce-0db1-4f15-b42f-b2e35d3e8b8c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T180000Z
 DTEND:20241126T200000Z
 SUMMARY:Copa del Rey - Manises CF - Getafe
-UID:42446756-acb0-4683-b1b3-2443824284da
+UID:ec5a3656-6afc-4ea8-bf53-437f4b7d917d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T180000Z
 DTEND:20241126T200000Z
 SUMMARY:Copa del Rey - Parla Escuela - Valencia
-UID:c6613d34-898e-4447-975e-7035a0591325
+UID:3a7b232c-5965-4a7d-ad33-0d94f35466bd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ Copa del Rey</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ Copa del Rey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T193000Z
 DTEND:20241126T213000Z
 SUMMARY:Liga Hypermotion - Almería - Córdoba
-UID:20c4b134-3747-4e04-924b-ac059901dfcd
+UID:85599946-0e31-4cab-bee6-f82d31ccfb0a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body></ht
@@ -355,101 +99,101 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T200000Z
 DTEND:20241126T220000Z
 SUMMARY:Champions League - Manchester City - Feyenoord
-UID:02a9f9ae-a190-41b8-9026-9c6150c474c3
+UID:9714ee9f-bf2c-4989-9853-5cbf80f11d17
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T200000Z
 DTEND:20241126T220000Z
 SUMMARY:Champions League - Bayer Leverkusen - Red Bull Salzburg
-UID:c00e3114-813a-49ed-bcf8-8f437075e310
+UID:1c71730e-1f48-4002-8c2d-e165be863a4e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T200000Z
 DTEND:20241126T220000Z
 SUMMARY:Champions League - Sporting Portugal - Arsenal
-UID:b68d9ab3-90b7-4fec-9466-8db005d0748c
+UID:9caa56ee-1e6e-4e3b-b573-30b55865d6be
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T200000Z
 DTEND:20241126T220000Z
 SUMMARY:Champions League - Bayern Múnich - PSG
-UID:9a778658-1674-4c82-8e5c-ac106099462e
+UID:d80884a6-3de9-4e43-9e77-a592b6cfc51b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T200000Z
 DTEND:20241126T220000Z
 SUMMARY:Champions League - Barcelona - Stade Brestois
-UID:0bdba75d-c6e2-4ea1-8222-220fdbb07e6d
+UID:b3356f25-d7bc-4693-93fa-fb61038dfeb9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T200000Z
 DTEND:20241126T220000Z
 SUMMARY:Champions League - Inter de Milan - RB Leipzig
-UID:00861643-f718-42fc-98a7-e56545935721
+UID:2bd79ddf-7c64-4c50-b611-3e8c56871210
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241126T200000Z
 DTEND:20241126T220000Z
 SUMMARY:Champions League - Young Boys - Atalanta
-UID:368a48f7-5434-4fdf-9927-d01aaad6b595
+UID:349e13a0-1eb2-49ba-baff-2d0b6883d756
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T174500Z
 DTEND:20241127T194500Z
 SUMMARY:Champions League - Sturm Graz - Girona
-UID:1e5b447b-3fd7-4823-9f88-df6ca2ef9a01
+UID:a18fd4d6-b04c-4984-8e52-56562851574b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T174500Z
 DTEND:20241127T194500Z
 SUMMARY:Champions League - Crvena Zvezda - Stuttgart
-UID:397ba540-9347-4abf-b45d-e5b8d20e8555
+UID:25cef82a-cc02-498e-90e0-a19ba405e2ec
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T180000Z
 DTEND:20241127T200000Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Racing Ferrol
-UID:5f9173ca-cdf2-40a6-b1f9-fd97532d399f
+UID:2f9455a6-8e58-4142-8420-989c536da082
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
@@ -458,11 +202,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T180000Z
 DTEND:20241127T200000Z
 SUMMARY:Liga Hypermotion - Levante - Málaga
-UID:5f3f4534-9f2a-42d4-857f-f7be18208b3f
+UID:d48e5e4e-7e8b-4050-8d14-d3db9e477264
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></ht
@@ -471,11 +215,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T200000Z
 DTEND:20241127T220000Z
 SUMMARY:Champions League - Liverpool - Real Madrid
-UID:bdc4f147-6459-4343-a905-2739799e2961
+UID:14a0b6bd-1276-453e-bbcb-b1c775102d01
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -483,162 +227,162 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T200000Z
 DTEND:20241127T220000Z
 SUMMARY:Champions League - Aston Villa - Juventus
-UID:a6d9e289-12db-4859-9cfd-e97eb5774e18
+UID:a47d1f38-7c8e-4445-b025-9759b66ad489
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T200000Z
 DTEND:20241127T220000Z
 SUMMARY:Champions League - Dinamo Zagreb - Borussia Dortmund
-UID:bb3c70e5-7d3e-4bda-b7d1-cc253d99b095
+UID:1d7c24a3-bbba-4db6-a2ca-715a501de995
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T200000Z
 DTEND:20241127T220000Z
 SUMMARY:Champions League - Bologna - Lille
-UID:3fc0a1ba-c52e-42e1-be20-934577e3cb90
+UID:5351ebb9-d9e1-4fdc-9525-9ddb8080ca35
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T200000Z
 DTEND:20241127T220000Z
 SUMMARY:Champions League - Mónaco - Benfica
-UID:22886a4d-935d-4fc4-9c06-3c97e6691e43
+UID:5cd6651b-2ef8-42b7-8e48-8767e4363895
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T200000Z
 DTEND:20241127T220000Z
 SUMMARY:Champions League - PSV Eindhoven - Shaktar Donetsk
-UID:0b1aabd1-2c5a-4c06-8b1d-8c72569ab5ad
+UID:fac97007-2fe6-47a0-821a-4c92daa6b4f7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T200000Z
 DTEND:20241127T220000Z
 SUMMARY:Champions League - Celtic FC - Brujas
-UID:db08f28c-fade-4197-b761-f727a196266e
+UID:979c22e9-7efb-49b6-b66e-89f209b17bf3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T174500Z
 DTEND:20241128T194500Z
 SUMMARY:Europa League - Lazio - PFC Ludogorets
-UID:a0fb143c-dd92-4dfb-86c5-99a528ce35cf
+UID:edfcf33f-b4f1-4850-8bad-2c862f7769ce
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T174500Z
 DTEND:20241128T194500Z
 SUMMARY:Europa League - AZ Alkmaar - Galatasaray
-UID:ea4e9b4e-918e-4ce3-89ba-839c2627b361
+UID:b5f50690-9f38-4a53-8af0-2cb482b74193
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T174500Z
 DTEND:20241128T194500Z
 SUMMARY:Europa League - Dinamo de Kiev - Viktoria Plzen
-UID:e69e6463-9f23-4fcf-81f2-0a96d07ede3e
+UID:3c0990b6-9c9a-4f53-add6-dd01a400d63f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 9</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 9
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T174500Z
 DTEND:20241128T194500Z
 SUMMARY:Europa League - Anderlecht - Porto
-UID:ccbb699d-63c0-43da-9f7a-c6490730c138
+UID:64859c2d-1e6d-4911-9fe1-deaeed99782f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T174500Z
 DTEND:20241128T194500Z
 SUMMARY:Europa League - Qarabag FK - Olympique Lyon
-UID:3bb6d701-7be5-4a6d-88f9-49e2d3fff21d
+UID:551df098-0f17-444b-afa5-65c4c09bd76c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T174500Z
 DTEND:20241128T194500Z
 SUMMARY:Europa League - FC RFS - PAOK FC
-UID:bfd106bd-dbdc-4e12-975d-c2f8790bb1e4
+UID:f688a762-1f95-45a2-9a97-0ca359ab9acc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 10</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 10\n- PPV: M+ Liga de Campeones 3
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T174500Z
 DTEND:20241128T194500Z
 SUMMARY:Europa League - Besiktas - Maccabi Tel Aviv FC
-UID:f25f67cb-31d2-49d4-aee3-4ba266178102
+UID:3779ef69-e9cf-4dd6-a8e6-ec3c856855ea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T174500Z
 DTEND:20241128T194500Z
 SUMMARY:Europa League - Athletic Club - Elfsborg
-UID:62747508-350d-49b5-9a2b-2a1aa6064048
+UID:9f050e9b-0527-4054-87d5-21a08080bfd4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Conference League - Mlada Boleslav - Betis
-UID:c24d1741-41cb-4816-bb84-e4ab32cae17b
+UID:341bf720-33e9-401b-8ee8-8582b070407b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - Real Sociedad - Ajax
-UID:51ae8c0f-8713-485f-a97f-d9921533a831
+UID:7962f5fd-d35c-48c3-b623-1ff9721dd6b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: M+ Vamos</li>\n<l
  i>PPV: Movistar Plus+ 2</li></ul></body></html>
@@ -646,125 +390,125 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: M+ Vamos\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - Twente - Union Saint-Gilloise
-UID:fc41cc78-dc5a-4bf3-b15b-6ef227c7a33f
+UID:954a8282-654a-4429-9d7b-26ad533c3340
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 12</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 12\n- PPV: M+ Liga de Campeones 3
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - FC Midtjylland - Eintracht Frankfurt
-UID:595b0c00-555f-42a8-bc43-3c2a5aa1f9ab
+UID:cd950cb4-8356-4156-848b-0c22b9982b39
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 11</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 11\n- PPV: M+ Liga de Campeones 3
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - Manchester United - Bodø/Glimt
-UID:adee8006-a015-41ef-af8a-4e1f6ec6ddc9
+UID:1df7d0f8-7c52-431c-8d14-a45811df2032
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - FCSB - Olympiacos
-UID:94ac5f44-c21a-482b-9bb8-d3ace1c58223
+UID:f7c9cef3-2818-4316-b713-c2f7819685d3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - Slavia Praha - Fenerbahçe
-UID:f67c4728-985a-43c6-89bc-431d4b785f65
+UID:2e4f86ae-680e-47b6-9331-6f04648b7482
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - Tottenham - Roma
-UID:9dac7fa7-fa4b-4f15-a023-f1810d2fef90
+UID:c5eb468a-86d4-4150-8e2a-ee9293edf8fe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - Braga - Hoffenheim
-UID:c93f0944-e71e-46d5-99e8-d703bb4edaa5
+UID:ab1762e2-63dc-4639-8eb9-14bfaabe7e39
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 10</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 10\n- PPV: M+ Liga de Campeones 3
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - Niza - Rangers FC
-UID:ce57bb58-a579-4e2d-874d-9772ae41efd6
+UID:11980512-4e86-4ebb-b2b7-cf9106891cb0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - Ferencvaros - Malmö FF
-UID:d79e8ee7-87c3-40ae-ad36-09650acce8c4
+UID:51444edd-0551-4c11-81b3-4e64c4c30441
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 13</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 13\n- PPV: M+ Liga de Campeones 3
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241129T180000Z
 DTEND:20241129T200000Z
 SUMMARY:Amistoso Femenino - España - Corea del Sur
-UID:0a8fdf72-c704-40ba-98d6-7d808f0b1005
+UID:5a0726ac-1355-4c0d-8447-0aefeac69a85
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241129T193000Z
 DTEND:20241129T213000Z
 SUMMARY:Bundesliga - St. Pauli - Holstein Kiel
-UID:659606eb-ae71-447e-a38f-5b9197653676
+UID:0d11264c-5f54-4e82-9eca-a9542d2fbb46
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241129T193000Z
 DTEND:20241129T213000Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Huesca
-UID:130c76ea-d806-4766-8ca2-4d2fe9957a22
+UID:9081852f-bae9-4b2c-8cd3-9513df7ff5b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: M+ Va
@@ -774,161 +518,161 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241129T194500Z
 DTEND:20241129T214500Z
 SUMMARY:Serie A - Cagliari - Hellas Verona
-UID:a2201a1f-3f80-477f-b111-5db7438ae01a
+UID:23a9caac-6a8c-48fc-a202-cd8e87f33639
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241129T200000Z
 DTEND:20241129T220000Z
 SUMMARY:Liga EA Sports - Mallorca - Valencia
-UID:a5f6106c-78c1-4446-9726-842b3c6976b7
+UID:244468d1-06da-4639-9d65-0d1f4e3cc655
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241129T200000Z
 DTEND:20241129T220000Z
 SUMMARY:Premier League - Brighton - Southampton
-UID:3d017a48-4239-4e10-93c6-d242199551e7
+UID:401c19b9-3261-45f7-9da7-798476b9f432
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T130000Z
 DTEND:20241130T150000Z
 SUMMARY:Liga EA Sports - Barcelona - Las Palmas
-UID:c7cf7573-4041-4821-9a25-b91f21077634
+UID:5c00650d-72b3-4984-a403-6b8d77765bd3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T140000Z
 DTEND:20241130T160000Z
 SUMMARY:Serie A - Como 1907 - A.C. Monza
-UID:e5de5258-42a7-4164-a702-9f903ba8988d
+UID:47d4efb0-63ef-4205-aeb4-1dfbd04d47e6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T143000Z
 DTEND:20241130T163000Z
 SUMMARY:Bundesliga - RB Leipzig - VfL Wolfsburg
-UID:db8b9987-cc6b-4548-9b20-d9f685883ccf
+UID:d376491a-2e1e-4522-94dd-5748e7a251fa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T143000Z
 DTEND:20241130T163000Z
 SUMMARY:Bundesliga - Union Berlin - Bayer Leverkusen
-UID:a44fcdcd-2fe4-419f-b79c-cf2e593accaf
+UID:cc71e3ba-686a-482a-9353-f3ff78ef648a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T143000Z
 DTEND:20241130T163000Z
 SUMMARY:Bundesliga - Werder Bremen - Stuttgart
-UID:19ee9f80-70ef-4d92-8b0d-d49d2e70d75c
+UID:89672c03-1a4c-4ee3-8467-3ff92670eb8c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T143000Z
 DTEND:20241130T163000Z
 SUMMARY:Bundesliga - Augsburgo - Bochum
-UID:24ee4acd-0639-4bc3-ae8f-0706ab70074b
+UID:de2a9949-e1f2-4a79-acce-740b4f578f9d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T143000Z
 DTEND:20241130T163000Z
 SUMMARY:Bundesliga - Friburgo - Borussia Mönchengladbach
-UID:600549de-ff0b-45f7-a952-56fbb5307063
+UID:7932b965-df1c-4f71-be36-8ddfae2a6d61
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T150000Z
 DTEND:20241130T170000Z
 SUMMARY:Premier League - Wolves - Bournemouth
-UID:da314741-2025-415e-bde4-06883446754e
+UID:5af03327-75b6-4d21-9193-4d24cbf30989
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T150000Z
 DTEND:20241130T170000Z
 SUMMARY:Premier League - Crystal Palace - Newcastle
-UID:470f74ba-f173-44c5-8758-4e802f99f394
+UID:8ba82ec7-5f45-4a37-a46d-64407bfdb90b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T150000Z
 DTEND:20241130T170000Z
 SUMMARY:Premier League - Brentford - Leicester City
-UID:d4ba807d-f3ff-4b36-8906-104d89a40322
+UID:5ce68060-dbd0-43af-b37e-95c0a3ee9d50
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T150000Z
 DTEND:20241130T170000Z
 SUMMARY:Premier League - Nottingham Forest - Ipswich Town
-UID:ffb7faad-a480-40ea-a835-9a6adf604d36
+UID:4b76b111-6e8d-4998-a945-68fa22a5fc6f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T151500Z
 DTEND:20241130T171500Z
 SUMMARY:Liga EA Sports - Alavés - Leganés
-UID:b5674319-4e8d-476e-934c-9e5635555adc
+UID:d624254b-2ba9-4103-b3dd-9e7e59ff3dfe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T151500Z
 DTEND:20241130T171500Z
 SUMMARY:Liga Hypermotion - Almería - Granada C.F.
-UID:7af5f9d0-813b-4e12-baf4-40a5e7a3f9ff
+UID:d4dc65a6-6129-425e-a45d-05cd443afca6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
@@ -937,11 +681,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T151500Z
 DTEND:20241130T171500Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Albacete
-UID:bdb7ed6c-6cf9-4ee9-a42d-4625013bb845
+UID:d7a7fa83-42fb-4364-b998-83366ba71e63
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></ht
@@ -950,41 +694,41 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T170000Z
 DTEND:20241130T190000Z
 SUMMARY:Serie A - A.C. Milan - Empoli
-UID:48a15411-74a1-4b41-a76d-9966cfc17e6a
+UID:85c7eb7d-c599-4cc1-99fe-08dc5a33be94
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T173000Z
 DTEND:20241130T193000Z
 SUMMARY:Bundesliga - Borussia Dortmund - Bayern Múnich
-UID:043bda9f-9158-4acc-8523-5b66d6027b44
+UID:1db7bbc4-8b50-4d18-820b-6ec08ea610f6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T173000Z
 DTEND:20241130T193000Z
 SUMMARY:Liga EA Sports - Espanyol - Celta
-UID:c312510e-37e0-4226-9fc3-ecd7925ef2fe
+UID:741e35d8-b740-470f-9b60-450281d985f7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T173000Z
 DTEND:20241130T193000Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Mirandés
-UID:c6812d60-8bb0-4a13-905d-c5eda412b527
+UID:86c33a8e-ce40-4e16-af44-8b484df24cbd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
@@ -993,11 +737,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T173000Z
 DTEND:20241130T193000Z
 SUMMARY:Liga Hypermotion - Cádiz - Deportivo
-UID:6aece540-40a2-4d93-961b-b8a6669f7344
+UID:7b89ae33-4362-4d86-bf23-3b39d19b7825
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: Movis
@@ -1007,51 +751,51 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  istar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T173000Z
 DTEND:20241130T193000Z
 SUMMARY:Premier League - West Ham - Arsenal
-UID:55765252-d5a2-472e-8445-e9f185394ea7
+UID:c4624b91-23e8-482d-8d69-e29da71fab80
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T183000Z
 DTEND:20241130T203000Z
 SUMMARY:Primera Federación - Ourense C.F. - Ponferradina
-UID:830d2796-7829-49a0-a185-b51080fa6015
+UID:60a36f4f-fa0e-4c7b-aa4e-0a6e316459ae
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T194500Z
 DTEND:20241130T214500Z
 SUMMARY:Serie A - Bologna - Venezia F.C.
-UID:dbae14ca-148e-4b3d-ac7f-d11b0c07e864
+UID:01d411f5-7978-4c41-b940-8b080107cd4b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T200000Z
 DTEND:20241130T220000Z
 SUMMARY:Copa Libertadores - Atlético Mineiro - Botafogo
-UID:1f6d8c5a-12c3-4e5f-a3ef-43448de5bb81
+UID:e3c438c0-185b-40da-a5c1-edb440b5cc7a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
  PV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T200000Z
 DTEND:20241130T220000Z
 SUMMARY:Liga EA Sports - Valladolid - Atlético de Madrid
-UID:73a7f574-40ba-487c-887a-9d2a4ef690e4
+UID:672b2e91-64b5-4f7e-aeb3-031c87592ede
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></
  body></html>
@@ -1059,11 +803,11 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2\n- PPV:
   MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T200000Z
 DTEND:20241130T220000Z
 SUMMARY:Liga Hypermotion - Tenerife - Elche
-UID:2ac4769b-95c5-430e-af68-a0da157fcdfe
+UID:61efbe8b-e504-4831-9a83-79127aad17c5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
@@ -1072,41 +816,41 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241130T203000Z
 DTEND:20241130T223000Z
 SUMMARY:Primera Federación - R.M. Castilla - Mérida
-UID:e6d47b40-15bb-402e-b718-e84e6cdbd8a4
+UID:01ebcd61-e388-4197-8837-a06fa6ccd919
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  \n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T113000Z
 DTEND:20241201T133000Z
 SUMMARY:Serie A - Udinese - Genoa
-UID:80918d9b-b1fb-422d-94ea-fc9a752dc375
+UID:a62b699b-a37c-46b9-a06b-d20256223374
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T130000Z
 DTEND:20241201T150000Z
 SUMMARY:Liga EA Sports - Villarreal - Girona
-UID:26e0ab5f-cad2-46f7-8090-32d0c2e5831c
+UID:966e660c-2d73-42bf-ac4a-64449f03af46
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T130000Z
 DTEND:20241201T150000Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Málaga
-UID:eb7350ca-6855-43a3-980f-dcb7bcf9d32f
+UID:c015fd8e-64ea-451c-ba5e-7c5e28363181
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: Movis
@@ -1116,131 +860,131 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  istar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T133000Z
 DTEND:20241201T153000Z
 SUMMARY:Premier League - Manchester United - Everton
-UID:30f78c8e-5a0a-4d49-9ba6-bf3a0676d2b0
+UID:c0f84772-01a3-484f-a43a-9a8eacb3e92e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T133000Z
 DTEND:20241201T153000Z
 SUMMARY:Premier League - Chelsea - Aston Villa
-UID:2383cf7a-33eb-4909-a3c2-4f12a9739aa4
+UID:2746bad8-735c-4c73-8303-3fa4ee54838a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T133000Z
 DTEND:20241201T153000Z
 SUMMARY:Premier League - Tottenham - Fulham
-UID:863f34ed-a491-4449-8bfe-97c2f2e781ad
+UID:3e3869f0-e46d-4076-81fa-fd9717515f3e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T140000Z
 DTEND:20241201T160000Z
 SUMMARY:Serie A - Parma - Lazio
-UID:5299195a-a29f-4c39-b7ac-f572c841cc7a
+UID:750d3f75-fbc0-4de6-ad6d-293208d31e21
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T140000Z
 DTEND:20241201T160000Z
 SUMMARY:Serie A - Torino - Nápoles
-UID:df7accc0-88fb-4c8f-80dc-1635c7d6d04d
+UID:377188ec-b3df-4866-9ed1-ab46be50d4a2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T143000Z
 DTEND:20241201T163000Z
 SUMMARY:Bundesliga - Mainz 05 - Hoffenheim
-UID:ac66fbfd-4183-4d27-a7f2-bd94fc5ee8b0
+UID:9bb71e25-29bf-4c11-a37c-aa014abbbedc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T151500Z
 DTEND:20241201T171500Z
 SUMMARY:Liga EA Sports - Real Madrid - Getafe
-UID:8051b695-e983-4a58-b1e4-3ccc67ff79da
+UID:0f57f62a-a510-4a55-9862-2a1c30675399
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T160000Z
 DTEND:20241201T180000Z
 SUMMARY:Premier League - Liverpool - Manchester City
-UID:d77806f2-d501-412a-81af-fe9348cbdd1c
+UID:9dae06a5-77c4-4bf7-a247-21bd4c8f2dcc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T163000Z
 DTEND:20241201T183000Z
 SUMMARY:Bundesliga - Heidenheim - Eintracht Frankfurt
-UID:856179e2-adc2-4a3e-bde8-e5c1d6824056
+UID:3263a14b-bd36-4d1b-ac53-56ca139ead0b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T163000Z
 DTEND:20241201T183000Z
 SUMMARY:Primera Federación - C.D. Arenteiro - Barcelona Atlètic
-UID:a04cc99e-a192-4804-bd77-edba212e9fc2
+UID:7f7af318-1b84-4635-bce6-3e5a5e0f5ce5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: TVG 2</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: TVG 2\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T170000Z
 DTEND:20241201T190000Z
 SUMMARY:Serie A - Fiorentina - Inter de Milan
-UID:ef83a6b1-772e-4805-b03c-5d4578780726
+UID:ed51ae8b-dc2e-40ef-8914-d17ba705ef91
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T173000Z
 DTEND:20241201T193000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Athletic Club
-UID:03f101be-0d31-4145-a3e0-b68b2cc5fb0d
+UID:1cfcda24-9e9d-4a23-af95-c8e29132d13b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 2\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T173000Z
 DTEND:20241201T193000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Racing Ferrol
-UID:90dd7209-5398-4bac-9e6e-54f751f07181
+UID:ab531694-fa0b-4961-b15b-9cc294e2f682
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
@@ -1249,11 +993,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T173000Z
 DTEND:20241201T193000Z
 SUMMARY:Liga Hypermotion - Levante - Burgos C.F.
-UID:221189e5-44de-473d-99b6-18335c888503
+UID:93fe6228-dd1f-4846-8906-ccb742a0be32
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></ht
@@ -1262,31 +1006,31 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T194500Z
 DTEND:20241201T214500Z
 SUMMARY:Serie A - U.S. Lecce - Juventus
-UID:a5272859-c165-4cb3-a209-e5d62b590b01
+UID:9777ea61-96e3-4296-a105-b1a12e705d99
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T200000Z
 DTEND:20241201T220000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Betis
-UID:86fe09d9-0310-42b8-bcaf-d04f6e5a8619
+UID:1aa791fe-d181-417c-9121-9f8ebf4ca801
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T200000Z
 DTEND:20241201T220000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Córdoba
-UID:df0b4892-2d40-401a-ad55-5ca33cddf704
+UID:5af16d1e-1226-4566-8e77-35479a94ccf9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
@@ -1295,11 +1039,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241202T193000Z
 DTEND:20241202T213000Z
 SUMMARY:Liga Hypermotion - Eibar - Cartagena
-UID:3c0b855d-aa9c-4303-91c7-cc2566c930e6
+UID:1b81774a-2457-484f-ba4f-0c7f2e5d8d18
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
@@ -1308,21 +1052,21 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241202T194500Z
 DTEND:20241202T214500Z
 SUMMARY:Serie A - Roma - Atalanta
-UID:aaa3822a-a5bc-48df-9b62-6ac3cae162cd
+UID:3ea8e479-cc67-49d4-bf3c-f6aeba6bdd0b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241202T200000Z
 DTEND:20241202T220000Z
 SUMMARY:Liga EA Sports - Sevilla - Osasuna
-UID:2be3a1fb-68df-4f77-956e-3f38770c1631
+UID:efdce115-bc58-47ef-b306-1a9ea3cc2796
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
  i>Open: ETB1</li>\n<li>Open: Gol Play</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
@@ -1330,41 +1074,111 @@ DESCRIPTION:- Open: Canal Sur\n- Open: ETB1\n- Open: Gol Play\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241203T180000Z
 DTEND:20241203T200000Z
 SUMMARY:Liga EA Sports - Mallorca - Barcelona
-UID:afc3d826-3694-4a03-beeb-571c1f5810cd
+UID:a7b4401e-1286-4a0b-bd27-d6fc54de3588
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241203T193000Z
 DTEND:20241203T213000Z
 SUMMARY:Premier League - Ipswich Town - Crystal Palace
-UID:35dbf0e8-7c1b-42f0-9e09-6c261b1e321f
+UID:4cbfba36-1a18-4758-9a62-49ea854d509a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241203T200000Z
 DTEND:20241203T220000Z
 SUMMARY:Amistoso Femenino - Francia - España
-UID:4a4a881e-2601-4db5-a44d-319cc9e36268
+UID:d739cce0-5c28-4399-92d3-a741980424c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T004224Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241203T201500Z
 DTEND:20241203T221500Z
 SUMMARY:Premier League - Leicester City - West Ham
-UID:98afa94d-d743-4205-9fd2-461dae2b6eda
+UID:59f4a993-a7ac-4082-9075-a0864d5ccd0a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T041152Z
+DTSTART:20241204T193000Z
+DTEND:20241204T213000Z
+SUMMARY:Premier League - Southampton - Chelsea
+UID:b2fd52b8-dbab-4844-8d13-766787b5b0f2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T041152Z
+DTSTART:20241204T193000Z
+DTEND:20241204T213000Z
+SUMMARY:Premier League - Newcastle - Liverpool
+UID:239a7ac9-d4c3-4ce0-8a1d-be8b6ee7bb2e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T041152Z
+DTSTART:20241204T193000Z
+DTEND:20241204T213000Z
+SUMMARY:Premier League - Everton - Wolves
+UID:ab347292-8f36-42b2-a7d0-e3e83618f27b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T041152Z
+DTSTART:20241204T193000Z
+DTEND:20241204T213000Z
+SUMMARY:Premier League - Manchester City - Nottingham Forest
+UID:131e397f-9070-406f-8a9e-3f5166fa3bda
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T041152Z
+DTSTART:20241204T200000Z
+DTEND:20241204T220000Z
+SUMMARY:Liga EA Sports - Athletic Club - Real Madrid
+UID:04aebc27-c325-4794-b797-9a9cd8ba5003
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T041152Z
+DTSTART:20241204T201500Z
+DTEND:20241204T221500Z
+SUMMARY:Premier League - Arsenal - Manchester United
+UID:ece6b5fd-7433-4445-b411-528b36c9fac7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T041152Z
+DTSTART:20241204T201500Z
+DTEND:20241204T221500Z
+SUMMARY:Premier League - Aston Villa - Brentford
+UID:aa30c79e-4cea-4c02-9c96-9f317e7b07cf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN

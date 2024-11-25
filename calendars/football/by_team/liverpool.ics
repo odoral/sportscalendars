@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241122T041138Z
-DTSTART:20241124T140000Z
-DTEND:20241124T160000Z
-SUMMARY:Premier League - Southampton - Liverpool
-UID:5d1aa6c1-8a24-4a7e-82ca-8aaf479f40ee
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241122T041138Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241127T200000Z
 DTEND:20241127T220000Z
 SUMMARY:Champions League - Liverpool - Real Madrid
-UID:3909603b-48cd-41bc-8ae2-f046329939e4
+UID:1fcfdc93-1d95-4c86-b1a8-af0951dab6c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -38,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241122T041138Z
+DTSTAMP:20241125T041152Z
 DTSTART:20241201T160000Z
 DTEND:20241201T180000Z
 SUMMARY:Premier League - Liverpool - Manchester City
-UID:c96173db-803d-4faa-9050-0ba85124e807
+UID:6b9de6ed-c5db-4f1e-9e6e-01d55319d98d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241125T041152Z
+DTSTART:20241204T193000Z
+DTEND:20241204T213000Z
+SUMMARY:Premier League - Newcastle - Liverpool
+UID:34a27db0-225c-48f3-bbfe-e65b510a7bc6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
