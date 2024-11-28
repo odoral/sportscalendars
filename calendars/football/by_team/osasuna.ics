@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241125T041152Z
+DTSTAMP:20241128T081244Z
 DTSTART:20241202T200000Z
 DTEND:20241202T220000Z
 SUMMARY:Liga EA Sports - Sevilla - Osasuna
-UID:789de7d5-4163-4fb6-b266-c4bf8cd87f33
+UID:e5cf8739-5f5a-44df-9fea-6731c40fc488
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
  i>Open: ETB1</li>\n<li>Open: Gol Play</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- Open: Canal Sur\n- Open: ETB1\n- Open: Gol Play\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241128T081244Z
+DTSTART:20241204T170000Z
+DTEND:20241204T190000Z
+SUMMARY:Copa del Rey - AD Ceuta - Osasuna
+UID:4250bc57-90e6-4be4-a4d4-5c2039125382
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 END:VCALENDAR

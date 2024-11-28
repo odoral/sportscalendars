@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241127T041142Z
+DTSTAMP:20241128T081244Z
 DTSTART:20241129T193000Z
 DTEND:20241129T213000Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Huesca
-UID:ec3a431b-996f-4c49-88f8-abb445464412
+UID:d495dc9e-a9d4-47cf-bd6e-6cc8a3c2f6a3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: M+ Va
@@ -30,11 +30,21 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241127T041142Z
+DTSTAMP:20241128T081244Z
+DTSTART:20241204T170000Z
+DTEND:20241204T190000Z
+SUMMARY:Copa del Rey - Nàstic Tarragona - Huesca
+UID:bf5e3bd8-efb9-4e6d-8cda-3ce3bee0903e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241128T081244Z
 DTSTART:20241206T173000Z
 DTEND:20241206T193000Z
 SUMMARY:Liga Hypermotion - Huesca - Eibar
-UID:2158543a-53d3-4bad-bfad-2a7cb7063446
+UID:e963c663-26ff-4796-a492-de4f8ef9ba1e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>

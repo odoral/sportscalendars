@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241125T041153Z
+DTSTAMP:20241128T081244Z
 DTSTART:20241128T200000Z
 DTEND:20241128T220000Z
 SUMMARY:Europa League - Real Sociedad - Ajax
-UID:14fa2c3f-0e38-4d49-91e0-a208e8cf373a
+UID:5b45392e-790c-4846-b557-ce76af1af419
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: M+ Vamos</li>\n<l
  i>PPV: Movistar Plus+ 2</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: M+ Vamos\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241125T041153Z
+DTSTAMP:20241128T081244Z
 DTSTART:20241201T200000Z
 DTEND:20241201T220000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Betis
-UID:76de30fe-11fc-4f95-8276-e2acc14417fd
+UID:dada3765-0efe-4c3f-aa14-0eba24583d70
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241128T081244Z
+DTSTART:20241204T170000Z
+DTEND:20241204T190000Z
+SUMMARY:Copa del Rey - Conquense - Real Sociedad
+UID:359b22f5-dda2-4076-8611-ec89c13ffe54
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 END:VCALENDAR

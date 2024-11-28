@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241128T041145Z
+DTSTAMP:20241128T081244Z
 DTSTART:20241130T151500Z
 DTEND:20241130T171500Z
 SUMMARY:Liga Hypermotion - Almería - Granada C.F.
-UID:d09a762a-d935-4bf1-b96c-cb1d141c3091
+UID:fdd9b8f6-e136-4ec6-ae5a-dc29c97d2171
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
@@ -29,11 +29,21 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241128T041145Z
+DTSTAMP:20241128T081244Z
+DTSTART:20241204T170000Z
+DTEND:20241204T190000Z
+SUMMARY:Copa del Rey - Real Zaragoza - Granada C.F.
+UID:1f632ba4-8e2e-468f-9307-45b01a6e2012
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241128T081244Z
 DTSTART:20241207T151500Z
 DTEND:20241207T171500Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Racing de Santander
-UID:b9fba7c0-96be-4868-9c3a-d80d40791d8d
+UID:973d0414-d78f-4a59-b2b7-500fd9f6b65f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li></ul></body></html>

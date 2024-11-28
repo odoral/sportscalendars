@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241128T041145Z
+DTSTAMP:20241128T081244Z
 DTSTART:20241130T173000Z
 DTEND:20241130T193000Z
 SUMMARY:Liga Hypermotion - Cádiz - Deportivo
-UID:22d4ba9f-b5f3-43bb-b8cc-bd422f981603
+UID:fdd46f41-139b-469e-9851-f5d64d03578f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: Movis
@@ -30,11 +30,21 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  istar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241128T041145Z
+DTSTAMP:20241128T081244Z
+DTSTART:20241204T170000Z
+DTEND:20241204T190000Z
+SUMMARY:Copa del Rey - Ourense C.F. - Deportivo
+UID:645933f8-198e-4cd2-9bdb-405c0c4d5ccc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: TVG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241128T081244Z
 DTSTART:20241207T173000Z
 DTEND:20241207T193000Z
 SUMMARY:Liga Hypermotion - Deportivo - Real Zaragoza
-UID:a08c26e1-1a12-48c8-937e-fe542804e998
+UID:95c1ea9e-28c6-40e1-aff7-aaa74749ba3e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
