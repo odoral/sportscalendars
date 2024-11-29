@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241124T004435Z
+DTSTAMP:20241129T041148Z
 DTSTART:20241201T173000Z
 DTEND:20241201T193000Z
 SUMMARY:Liga Hypermotion - Levante - Burgos C.F.
-UID:3725d4cf-948f-47ad-a117-6f585f5457bb
+UID:b7307a14-e8f3-4835-8f45-97e3fdaa629b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241129T041148Z
+DTSTART:20241208T173000Z
+DTEND:20241208T193000Z
+SUMMARY:Liga Hypermotion - Burgos C.F. - C.D. Eldense
+UID:8a7af5f7-a593-4349-8448-cc47a07ea581
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

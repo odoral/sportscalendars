@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241128T081244Z
+DTSTAMP:20241129T041149Z
 DTSTART:20241201T173000Z
 DTEND:20241201T193000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Racing Ferrol
-UID:c5ae0b10-d81c-49e5-a81c-f33b6e96013a
+UID:1204aff0-977d-4281-8113-c5fb3614e13f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
@@ -29,13 +29,26 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241128T081244Z
+DTSTAMP:20241129T041149Z
 DTSTART:20241204T170000Z
 DTEND:20241204T190000Z
 SUMMARY:Copa del Rey - Barakaldo - Racing Ferrol
-UID:eb8ccf9a-0e97-4dcc-85eb-ae63c23c0098
+UID:e049253e-5c32-464d-806a-e65a9755ea66
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
  ody></html>
 DESCRIPTION:- Open: TVG 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241129T041149Z
+DTSTART:20241208T130000Z
+DTEND:20241208T150000Z
+SUMMARY:Liga Hypermotion - Racing Ferrol - Real Oviedo
+UID:2abf6326-5df3-4732-a358-2ff142325f76
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+ 
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

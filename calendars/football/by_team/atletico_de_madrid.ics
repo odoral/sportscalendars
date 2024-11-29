@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241128T081244Z
+DTSTAMP:20241129T041149Z
 DTSTART:20241130T200000Z
 DTEND:20241130T220000Z
 SUMMARY:Liga EA Sports - Valladolid - Atlético de Madrid
-UID:c641569c-c5c5-40a3-a147-1a4ab6f8bc5c
+UID:dd0a6968-fe46-4384-93eb-5dea37161c9f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></
  body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2\n- PPV:
   MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241128T081244Z
+DTSTAMP:20241129T041149Z
 DTSTART:20241204T170000Z
 DTEND:20241204T190000Z
 SUMMARY:Copa del Rey - Cacereño - Atlético de Madrid
-UID:40279c8b-fffc-49e3-bf24-b71c7ed8bc43
+UID:27f2b193-dc12-488d-abe2-b61c6b72c9eb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241129T041149Z
+DTSTART:20241208T200000Z
+DTEND:20241208T220000Z
+SUMMARY:Liga EA Sports - Atlético de Madrid - Sevilla
+UID:d77eb4a0-f4ef-4eaa-9142-b59d93acd7b3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241125T041152Z
+DTSTAMP:20241129T041148Z
 DTSTART:20241201T173000Z
 DTEND:20241201T193000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Racing Ferrol
-UID:0f9af900-7995-4f23-8749-f8f44e8c5eb9
+UID:f49a0ec1-feda-414f-bc80-105752b103cf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241129T041148Z
+DTSTART:20241208T173000Z
+DTEND:20241208T193000Z
+SUMMARY:Liga Hypermotion - Burgos C.F. - C.D. Eldense
+UID:a5e72d9a-f88c-426b-80fb-7a8cf12702db
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

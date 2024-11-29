@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241128T081244Z
+DTSTAMP:20241129T041148Z
 DTSTART:20241130T200000Z
 DTEND:20241130T220000Z
 SUMMARY:Liga Hypermotion - Tenerife - Elche
-UID:2eb095f3-77b4-4ece-aeed-f7089c830dcc
+UID:65b3b564-aed0-403e-8ee5-a725a618c57f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
@@ -29,13 +29,25 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241128T081244Z
+DTSTAMP:20241129T041148Z
 DTSTART:20241204T170000Z
 DTEND:20241204T190000Z
 SUMMARY:Copa del Rey - Zamora C.F. - Tenerife
-UID:b6395591-12be-4be8-b96f-253106cea0e0
+UID:f379051a-55d0-482a-9676-913373eb8aeb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
  l></body></html>
 DESCRIPTION:- Open: TV Canaria
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241129T041148Z
+DTSTART:20241208T200000Z
+DTEND:20241208T220000Z
+SUMMARY:Liga Hypermotion - Córdoba - Tenerife
+UID:75a1702f-6d55-4582-8e45-44e648c8281b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
