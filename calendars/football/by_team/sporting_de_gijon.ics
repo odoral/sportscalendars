@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241129T081240Z
+DTSTAMP:20241130T004030Z
 DTSTART:20241201T200000Z
 DTEND:20241201T220000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Córdoba
-UID:aa8228b9-ae18-435d-9e12-0ba75873394a
+UID:c5407cb5-c500-4191-a9b3-f5cca9afb44b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
@@ -29,13 +29,25 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241129T081240Z
+DTSTAMP:20241130T004030Z
 DTSTART:20241204T193000Z
 DTEND:20241204T213000Z
 SUMMARY:Copa del Rey - Racing de Santander - Sporting de Gijón
-UID:a96d0826-06be-4caf-b8ba-5cb9a20aefcd
+UID:dfe976d4-51d4-464d-a044-03633a10a2e6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA</li></ul></bod
  y></html>
 DESCRIPTION:- Open: TPA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241130T004030Z
+DTSTART:20241209T193000Z
+DTEND:20241209T213000Z
+SUMMARY:Liga Hypermotion - Cartagena - Sporting de Gijón
+UID:fd9b8295-d07e-48f8-bb01-e586f3ed8b09
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
