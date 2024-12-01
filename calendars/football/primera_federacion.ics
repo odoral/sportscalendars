@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241201T005114Z
+DTSTAMP:20241201T121459Z
 DTSTART:20241201T163000Z
 DTEND:20241201T183000Z
 SUMMARY:Primera Federación - C.D. Arenteiro - Barcelona Atlètic
-UID:f4a45e3d-af3b-4f17-9618-5378a31e0110
+UID:c3617e40-b394-489b-a595-b38871d9a4c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>Open: TVG 2</li>\n<li>PPV: FEF TV</li></ul></
  body></html>
@@ -28,11 +28,21 @@ DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- Open: TVG 2\n- PPV: FE
  F TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241201T005114Z
+DTSTAMP:20241201T121459Z
+DTSTART:20241208T110000Z
+DTEND:20241208T130000Z
+SUMMARY:Primera Federación - Barcelona Atlètic - Celta B
+UID:9c90bb43-306b-4109-a55c-60fca8bd6e63
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241201T121459Z
 DTSTART:20241208T143000Z
 DTEND:20241208T163000Z
 SUMMARY:Primera Federación - Betis Deportivo - At. Madrid B
-UID:6ea8b1f0-3506-4a42-ab3d-84bf1fdc03d2
+UID:d03224f0-7397-464f-8cc3-2ab2894094c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: FEF TV

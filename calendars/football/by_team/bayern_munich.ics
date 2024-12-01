@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241201T005114Z
+DTSTAMP:20241201T121459Z
+DTSTART:20241203T194500Z
+DTEND:20241203T214500Z
+SUMMARY:Otras competiciones - Bayern Múnich - Bayer Leverkusen
+UID:4b2d89a9-2781-420b-9a7d-80d9517be6fc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241201T121459Z
 DTSTART:20241207T143000Z
 DTEND:20241207T163000Z
 SUMMARY:Bundesliga - Bayern Múnich - Heidenheim
-UID:0844ba55-3ec8-4aad-8509-2a6ba1cbd8f1
+UID:9d77b6ac-5dc0-43cb-8c0a-7729c08cda8f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241201T005114Z
+DTSTAMP:20241201T121459Z
 DTSTART:20241210T200000Z
 DTEND:20241210T220000Z
 SUMMARY:Champions League - Shaktar Donetsk - Bayern Múnich
-UID:9000ab57-c42a-4e97-a4ac-621163cd3e0a
+UID:ba6ecec2-ce2c-432a-b5ad-cd481bcf160f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
