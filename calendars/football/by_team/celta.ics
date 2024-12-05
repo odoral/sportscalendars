@@ -16,13 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241204T004305Z
+DTSTAMP:20241205T041207Z
 DTSTART:20241206T200000Z
 DTEND:20241206T220000Z
 SUMMARY:Liga EA Sports - Celta - Mallorca
-UID:0a4948f9-468b-42e4-9d4d-bdf12456bc46
+UID:5959b361-af65-4965-82d0-511b990f0a87
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241205T041207Z
+DTSTART:20241214T173000Z
+DTEND:20241214T193000Z
+SUMMARY:Liga EA Sports - Sevilla - Celta
+UID:fad37ae1-6aea-4229-96e1-c9036c880dff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
+ i>Open: Gol Play</li>\n<li>Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: 
+ DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: MAX</li></u
+ l></body></html>
+DESCRIPTION:- Open: Canal Sur\n- Open: Gol Play\n- Open: TVG\n- PPV: DAZN
+ \n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR

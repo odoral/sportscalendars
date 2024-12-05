@@ -16,23 +16,36 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241203T041131Z
+DTSTAMP:20241205T041207Z
 DTSTART:20241205T200000Z
 DTEND:20241205T220000Z
 SUMMARY:Copa del Rey - U.E. Olot - Sevilla
-UID:da0f382e-117f-4538-8728-1889f3239d06
+UID:3708b90d-0793-4cd5-9050-78747d620cde
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  ></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241203T041131Z
+DTSTAMP:20241205T041207Z
 DTSTART:20241208T200000Z
 DTEND:20241208T220000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Sevilla
-UID:d5ea441d-531c-4a69-9e35-a51d523ea8b9
+UID:7d03964b-33f6-49d5-8ec6-bf2050d9870f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241205T041207Z
+DTSTART:20241214T173000Z
+DTEND:20241214T193000Z
+SUMMARY:Liga EA Sports - Sevilla - Celta
+UID:2c5d231b-5baf-4617-9c20-3bf285cfc3a1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
+ i>Open: Gol Play</li>\n<li>Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: 
+ DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: MAX</li></u
+ l></body></html>
+DESCRIPTION:- Open: Canal Sur\n- Open: Gol Play\n- Open: TVG\n- PPV: DAZN
+ \n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR

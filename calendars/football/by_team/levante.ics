@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241204T081258Z
+DTSTAMP:20241205T041207Z
 DTSTART:20241206T193000Z
 DTEND:20241206T213000Z
 SUMMARY:Liga Hypermotion - Mirandés - Levante
-UID:0c4d3337-b700-4d37-a6f9-0ccf395d78c0
+UID:3b8f34b4-f9e2-4a15-bac3-838d2b5fc130
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241205T041207Z
+DTSTART:20241214T130000Z
+DTEND:20241214T150000Z
+SUMMARY:Liga Hypermotion - Levante - Córdoba
+UID:d9401e2e-4dbb-4506-b3e0-df09e189b27d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
