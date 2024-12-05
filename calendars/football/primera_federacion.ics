@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241204T081258Z
+DTSTAMP:20241205T081310Z
 DTSTART:20241208T110000Z
 DTEND:20241208T130000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Celta B
-UID:4b08b9bf-edd9-4e39-8e20-2f514333c391
+UID:cacc4b99-99ec-4b26-953a-21487386563c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>Open: TVG 2</li>\n<li>PPV: FEF TV</li></ul></
  body></html>
@@ -28,23 +28,33 @@ DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- Open: TVG 2\n- PPV: FE
  F TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241204T081258Z
+DTSTAMP:20241205T081310Z
 DTSTART:20241208T143000Z
 DTEND:20241208T163000Z
 SUMMARY:Primera Federación - Betis Deportivo - At. Madrid B
-UID:b853b1ab-c78b-44a1-a2af-67e93037c621
+UID:a7122b30-4737-4587-a5fd-3cee43d8453e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241204T081258Z
+DTSTAMP:20241205T081310Z
 DTSTART:20241213T193000Z
 DTEND:20241213T213000Z
 SUMMARY:Primera Federación - Osasuna Promesas - Barcelona Atlètic
-UID:e1903ccb-6bef-4326-b54f-d84d9b0fac9a
+UID:8e26dd83-bb0e-44d1-a9ec-de5ad00d4e00
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241205T081310Z
+DTSTART:20241214T163000Z
+DTEND:20241214T183000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Zamora C.F.
+UID:f14ce315-ef5c-4741-8870-96673c9cd32d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR

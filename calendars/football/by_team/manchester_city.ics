@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241205T041207Z
+DTSTAMP:20241205T081310Z
 DTSTART:20241207T150000Z
 DTEND:20241207T170000Z
 SUMMARY:Premier League - Crystal Palace - Manchester City
-UID:9b7ea9f8-b4ec-4c23-bfea-e1dfc3e5ce54
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:419f5d06-dc5c-44b3-91c1-0fd17fe98b90
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241205T041207Z
+DTSTAMP:20241205T081310Z
 DTSTART:20241211T200000Z
 DTEND:20241211T220000Z
 SUMMARY:Champions League - Juventus - Manchester City
-UID:890622cd-8be3-4cb1-ab99-da484215d553
+UID:2e3ae434-3a9a-41f3-8e31-81b87ddf3dd5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 END:VCALENDAR
