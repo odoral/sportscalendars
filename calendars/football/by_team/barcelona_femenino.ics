@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241205T081310Z
+DTSTAMP:20241206T041155Z
 DTSTART:20241207T180000Z
 DTEND:20241207T200000Z
 SUMMARY:Liga F - Barcelona Femenino - Betis Féminas
-UID:b14f1b12-6673-41e2-bb40-2c13b3647583
+UID:58c91c4f-6455-423f-b1fa-a0bf8ffd2c9f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 2</li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241205T081310Z
+DTSTAMP:20241206T041155Z
 DTSTART:20241212T200000Z
 DTEND:20241212T220000Z
 SUMMARY:Women's Champions League - Hammarby Women - Barcelona Femenino
-UID:70d575d3-b6dc-411a-9586-e315172b5572
+UID:eff296d9-7a64-49a1-a400-9527af88bbe4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241206T041155Z
+DTSTART:20241215T110000Z
+DTEND:20241215T130000Z
+SUMMARY:Liga F - Valencia Féminas - Barcelona Femenino
+UID:ae8be0d2-bf91-4609-b1bb-8cb054a99904
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TV3</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li></u
+ l></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TV3\n- PPV: DAZN\n- PPV: GolStadium
+  Premium
 END:VEVENT
 END:VCALENDAR

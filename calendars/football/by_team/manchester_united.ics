@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241205T081310Z
+DTSTAMP:20241206T041155Z
 DTSTART:20241207T173000Z
 DTEND:20241207T193000Z
 SUMMARY:Premier League - Manchester United - Nottingham Forest
-UID:6bc51dc9-612e-4f6c-8af2-9714d25cbae2
+UID:6306db19-3566-498f-95aa-0cb489fb1a80
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241205T081310Z
+DTSTAMP:20241206T041155Z
 DTSTART:20241212T174500Z
 DTEND:20241212T194500Z
 SUMMARY:Europa League - Viktoria Plzen - Manchester United
-UID:4a4eb33a-1e0f-41ff-8a67-34d9b5ea7583
+UID:8ee86716-b097-4d07-8469-fd7a9b881c9c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241206T041155Z
+DTSTART:20241215T163000Z
+DTEND:20241215T183000Z
+SUMMARY:Premier League - Manchester City - Manchester United
+UID:1b61c68c-f764-4f88-a1f2-de1941ca4500
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR

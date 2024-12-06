@@ -16,25 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241203T081251Z
-DTSTART:20241205T200000Z
-DTEND:20241205T220000Z
-SUMMARY:Copa del Rey - C.D. Minera - Alavés
-UID:217b1ca8-265c-4699-b102-c8d7b15cd6a5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 5</
- li>\n<li>PPV: M+ LaLiga TV 4</li></ul></body></html>
-DESCRIPTION:- PPV: LaLiga TV Multi 5\n- PPV: M+ LaLiga TV 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241203T081251Z
+DTSTAMP:20241206T041155Z
 DTSTART:20241208T173000Z
 DTEND:20241208T193000Z
 SUMMARY:Liga EA Sports - Osasuna - Alavés
-UID:6d320f67-8213-4f7d-a02c-247467ace4da
+UID:57eac1b6-4a65-413f-b64d-2c0d048587af
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB2</li>\n<li>Ope
  n: Gol Play</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga T
  V</li></ul></body></html>
 DESCRIPTION:- Open: ETB2\n- Open: Gol Play\n- PPV: GolStadium Premium\n- 
  PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241206T041155Z
+DTSTART:20241215T151500Z
+DTEND:20241215T171500Z
+SUMMARY:Liga EA Sports - Alavés - Athletic Club
+UID:18f3afc5-1466-4d0c-9bac-2254a2c151cd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
