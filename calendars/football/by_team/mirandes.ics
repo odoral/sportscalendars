@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241207T041131Z
+DTSTAMP:20241209T041215Z
 DTSTART:20241213T193000Z
 DTEND:20241213T213000Z
 SUMMARY:Liga Hypermotion - Almería - Mirandés
-UID:c1afdc81-471f-4a37-b14e-dca71543b331
+UID:e243844c-6b13-4f02-b1d3-57c09959aa8a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: M+ Va
@@ -28,5 +28,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2\n- PPV: M+ 
  Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241209T041215Z
+DTSTART:20241218T201500Z
+DTEND:20241218T221500Z
+SUMMARY:Liga Hypermotion - Mirandés - Sporting de Gijón
+UID:6b2af3e7-2296-4bcc-b950-4db4c1aa8c87
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

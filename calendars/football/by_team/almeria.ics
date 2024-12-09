@@ -16,24 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241205T081310Z
-DTSTART:20241208T151500Z
-DTEND:20241208T171500Z
-SUMMARY:Liga Hypermotion - Málaga - Almería
-UID:839cf603-098d-4791-afe7-3fdfa78cfe51
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
- ml>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241205T081310Z
+DTSTAMP:20241209T041215Z
 DTSTART:20241213T193000Z
 DTEND:20241213T213000Z
 SUMMARY:Liga Hypermotion - Almería - Mirandés
-UID:47597bba-b13d-4ee0-9473-25fe7e27abc8
+UID:4d81e146-9430-4b59-8806-b37cb628001a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: M+ Va
@@ -41,5 +28,18 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2\n- PPV: M+ 
  Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241209T041215Z
+DTSTART:20241218T180000Z
+DTEND:20241218T200000Z
+SUMMARY:Liga Hypermotion - Racing Ferrol - Almería
+UID:5fb25e75-78cf-4a29-8148-c4678c32f233
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+ 
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

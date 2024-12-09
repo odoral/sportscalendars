@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241207T081129Z
+DTSTAMP:20241209T041214Z
 DTSTART:20241211T170000Z
 DTEND:20241211T190000Z
 SUMMARY:FIFA Intercontinental Cup - Botafogo - Pachuca
-UID:ad9b8a15-0dd4-41b8-8920-46526035a250
+UID:9d6e3db9-100b-40b8-ada3-8b841602e0b3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>PP
  V: mitele</li></ul></body></html>
 DESCRIPTION:- Open: FIFA+\n- PPV: mitele
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241209T041214Z
+DTSTART:20241218T190000Z
+DTEND:20241218T210000Z
+SUMMARY:FIFA Intercontinental Cup - Por determinar - Real Madrid
+UID:a58eef90-8cb7-4ad3-b5e4-de49edfd1e41
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Telecinco</li>\n<l
+ i>PPV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: Telecinco\n- PPV: mitele
 END:VEVENT
 END:VCALENDAR

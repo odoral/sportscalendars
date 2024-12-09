@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241208T041118Z
+DTSTAMP:20241209T041215Z
 DTSTART:20241210T200000Z
 DTEND:20241210T220000Z
 SUMMARY:Champions League - Atalanta - Real Madrid
-UID:663baccc-7dce-4e20-9d94-00eecff0c780
+UID:6670bf0c-9c09-47e3-acb6-c54d575a0db1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241208T041118Z
+DTSTAMP:20241209T041215Z
 DTSTART:20241214T200000Z
 DTEND:20241214T220000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Real Madrid
-UID:4a4c97ae-59ed-49af-a46e-53e599e48ca7
+UID:4bcf3d18-7268-49e9-a5e3-0b2c6081b3bd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241209T041215Z
+DTSTART:20241218T190000Z
+DTEND:20241218T210000Z
+SUMMARY:FIFA Intercontinental Cup - Por determinar - Real Madrid
+UID:e377353a-1746-451f-b269-2f327d9ec2a0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Telecinco</li>\n<l
+ i>PPV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: Telecinco\n- PPV: mitele
 END:VEVENT
 END:VCALENDAR
