@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241209T041215Z
+DTSTAMP:20241212T041147Z
 DTSTART:20241214T200000Z
 DTEND:20241214T220000Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Granada C.F.
-UID:7a876178-4a42-465a-a9a8-6fa5e97774c6
+UID:d42a91bb-e859-4c12-a58e-1d4102586db8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
@@ -29,15 +29,27 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241209T041215Z
+DTSTAMP:20241212T041147Z
 DTSTART:20241217T201500Z
 DTEND:20241217T221500Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Real Oviedo
-UID:e6970b1d-85ca-4bfd-9618-e3e75061105f
+UID:b19db32b-b780-4799-b130-f7524622b936
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241212T041147Z
+DTSTART:20241221T151500Z
+DTEND:20241221T171500Z
+SUMMARY:Liga Hypermotion - Real Oviedo - Córdoba
+UID:f12a1233-6d62-4b3e-a0c0-aa19799359bd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

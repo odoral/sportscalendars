@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241209T041215Z
+DTSTAMP:20241212T041147Z
 DTSTART:20241215T130000Z
 DTEND:20241215T150000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Racing Ferrol
-UID:cb1a2c75-0119-4a43-b1d1-db3b14fd7a3d
+UID:72e87670-fbbd-4a26-9ba4-cc553728041e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: Movis
@@ -30,16 +30,28 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  istar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241209T041215Z
+DTSTAMP:20241212T041147Z
 DTSTART:20241218T180000Z
 DTEND:20241218T200000Z
 SUMMARY:Liga Hypermotion - Racing Ferrol - Almería
-UID:78307808-5c5d-4a74-b260-9f572d0727be
+UID:a2cc6c61-1b9b-47b6-abcc-7c90f973d15f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
  
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241212T041147Z
+DTSTART:20241221T173000Z
+DTEND:20241221T193000Z
+SUMMARY:Liga Hypermotion - Real Zaragoza - Racing Ferrol
+UID:00cc1395-e527-44ca-91f4-0a0181852ee9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

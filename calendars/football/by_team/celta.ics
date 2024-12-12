@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241207T041131Z
+DTSTAMP:20241212T041147Z
 DTSTART:20241214T173000Z
 DTEND:20241214T193000Z
 SUMMARY:Liga EA Sports - Sevilla - Celta
-UID:c35de07d-96fb-4454-9de6-386b0dc4e54e
+UID:032cf4f4-72e3-4188-ac6d-35330483d37d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
  i>Open: Gol Play</li>\n<li>Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: 
  DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: MAX</li></u
  l></body></html>
 DESCRIPTION:- Open: Canal Sur\n- Open: Gol Play\n- Open: TVG\n- PPV: DAZN
  \n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241212T041147Z
+DTSTART:20241221T151500Z
+DTEND:20241221T171500Z
+SUMMARY:Liga EA Sports - Celta - Real Sociedad
+UID:35a96c38-8121-41bf-b6ba-6cf26287fd3b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

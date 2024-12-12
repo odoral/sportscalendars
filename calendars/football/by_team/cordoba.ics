@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241209T041214Z
+DTSTAMP:20241212T041147Z
 DTSTART:20241214T130000Z
 DTEND:20241214T150000Z
 SUMMARY:Liga Hypermotion - Levante - Córdoba
-UID:bd91fd80-7660-4fb6-9998-6c2e38407cdf
+UID:8a369423-51b0-4113-b075-dc77ff79c6dc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
@@ -29,15 +29,27 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241209T041214Z
+DTSTAMP:20241212T041147Z
 DTSTART:20241217T201500Z
 DTEND:20241217T221500Z
 SUMMARY:Liga Hypermotion - Córdoba - Eibar
-UID:e7ce51ad-4da6-4db5-900c-4d3727fdb23c
+UID:1ce80324-2435-4da3-97bf-95e65516746c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241212T041147Z
+DTSTART:20241221T151500Z
+DTEND:20241221T171500Z
+SUMMARY:Liga Hypermotion - Real Oviedo - Córdoba
+UID:bc4a6957-76d8-4860-9afe-0ef230c798d3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

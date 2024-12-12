@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241209T041215Z
-DTSTART:20241211T174500Z
-DTEND:20241211T194500Z
-SUMMARY:Champions League - Atlético de Madrid - Slovan Bratislava
-UID:acc6167b-649a-44a5-b589-32ad47bffbe5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241209T041215Z
+DTSTAMP:20241212T041147Z
 DTSTART:20241215T130000Z
 DTEND:20241215T150000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Getafe
-UID:1bf7ac72-cd87-42a3-af7a-26b6aa56ace7
+UID:769df0fd-c683-4e8b-91b2-4381ffd3a4d3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241212T041147Z
+DTSTART:20241221T200000Z
+DTEND:20241221T220000Z
+SUMMARY:Liga EA Sports - Barcelona - Atlético de Madrid
+UID:a0fc43ab-ddec-4cca-a412-ec62682e7bed
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
