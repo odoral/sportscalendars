@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241210T041149Z
-DTSTART:20241212T174500Z
-DTEND:20241212T194500Z
-SUMMARY:Conference League - Petrocub Hîncesti - Betis
-UID:1836f491-2a33-4db9-857f-1785f0276c3a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241210T041149Z
+DTSTAMP:20241213T041200Z
 DTSTART:20241215T173000Z
 DTEND:20241215T193000Z
 SUMMARY:Liga EA Sports - Villarreal - Betis
-UID:28c817e8-9ae4-4fcc-9fdb-6b8f78a614fb
+UID:dde8acc4-61c4-445c-acfe-5785fe123a62
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 2\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241210T041149Z
+DTSTAMP:20241213T041200Z
 DTSTART:20241219T200000Z
 DTEND:20241219T220000Z
 SUMMARY:Conference League - Betis - HJK Helsinki
-UID:d0a4a860-945c-4b94-abac-255fdd4c964e
+UID:9a177892-06c0-4daf-8bce-675ba50c967d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241213T041200Z
+DTSTART:20241222T200000Z
+DTEND:20241222T220000Z
+SUMMARY:Liga EA Sports - Betis - Rayo Vallecano
+UID:93712dee-8bb7-45ee-a9e9-807e199cdc55
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR

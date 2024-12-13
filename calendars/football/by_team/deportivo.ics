@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241212T081249Z
+DTSTAMP:20241213T041200Z
 DTSTART:20241215T200000Z
 DTEND:20241215T220000Z
 SUMMARY:Liga Hypermotion - Tenerife - Deportivo
-UID:82888174-609e-4477-baa0-07bd03f051a6
+UID:d9d8c063-6920-4576-a466-0d42163ebe59
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></ht
@@ -29,16 +29,29 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241212T081249Z
+DTSTAMP:20241213T041200Z
 DTSTART:20241219T201500Z
 DTEND:20241219T221500Z
 SUMMARY:Liga Hypermotion - Deportivo - C.D. Castellón
-UID:d2d2282b-486f-496d-b889-f83b4fbcb7f7
+UID:8f678f0b-232e-4a63-81d8-a4e32ecd888b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241213T041200Z
+DTSTART:20241222T200000Z
+DTEND:20241222T220000Z
+SUMMARY:Liga Hypermotion - Deportivo - Mirandés
+UID:26ec4120-8689-4550-b954-7cf19e1abf10
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 4
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241212T081249Z
+DTSTAMP:20241213T041200Z
 DTSTART:20241214T173000Z
 DTEND:20241214T193000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Elche
-UID:9d7a5b20-02ad-4c77-98d2-7f9a2e352d28
+UID:77b2db47-6891-4d87-b870-551c22c43fde
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
@@ -29,11 +29,11 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241212T081249Z
+DTSTAMP:20241213T041200Z
 DTSTART:20241218T201500Z
 DTEND:20241218T221500Z
 SUMMARY:Liga Hypermotion - Málaga - C.D. Eldense
-UID:eec60aac-931b-4a05-bc77-aa761a4fa159
+UID:eba81fd1-70a4-468a-9cdb-7e82a6f50d40
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: M+ 
@@ -41,5 +41,18 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 3\n- PPV: M
  + Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241213T041200Z
+DTSTART:20241222T173000Z
+DTEND:20241222T193000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - C.D. Eldense
+UID:ce9aa357-106d-429f-b7d3-b823aac2c117
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body></
+ html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 3
 END:VEVENT
 END:VCALENDAR

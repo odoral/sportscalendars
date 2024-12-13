@@ -16,25 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241211T081257Z
-DTSTART:20241212T174500Z
-DTEND:20241212T194500Z
-SUMMARY:Europa League - Viktoria Plzen - Manchester United
-UID:2e6029d3-f27a-4487-9acd-31fd5bb08063
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241211T081257Z
+DTSTAMP:20241213T041200Z
 DTSTART:20241215T163000Z
 DTEND:20241215T183000Z
 SUMMARY:Premier League - Manchester City - Manchester United
-UID:6b4f8995-6815-4102-b2c7-8e6407873e9f
+UID:9c6fa07d-5d28-4c64-a5c9-deb5a2c13aa3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li>
  \n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
  V: M+ Vamos\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241213T041200Z
+DTSTART:20241222T140000Z
+DTEND:20241222T160000Z
+SUMMARY:Premier League - Manchester United - Bournemouth
+UID:86cbd96f-f6e4-4f78-99f5-727b912d86e7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
