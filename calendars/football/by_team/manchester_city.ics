@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241216T041221Z
+DTSTAMP:20241217T041206Z
 DTSTART:20241221T123000Z
 DTEND:20241221T143000Z
 SUMMARY:Premier League - Aston Villa - Manchester City
-UID:833ef3da-c0ac-4e9b-8bc6-42766d9d752a
+UID:c271b741-8376-4080-9c81-5bef50b9fa53
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241217T041206Z
+DTSTART:20241226T123000Z
+DTEND:20241226T143000Z
+SUMMARY:Premier League - Manchester City - Everton
+UID:0964c36a-ee92-40dc-975f-e1ba73c7758e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
