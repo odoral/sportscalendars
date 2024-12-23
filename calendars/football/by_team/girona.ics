@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241215T004632Z
-DTSTART:20241220T200000Z
-DTEND:20241220T220000Z
-SUMMARY:Liga EA Sports - Girona - Valladolid
-UID:812f05ee-c813-48f7-9d4f-fb3d2be39631
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
- ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV
+DTSTAMP:20241223T041129Z
+DTSTART:20241227T163000Z
+DTEND:20241227T183000Z
+SUMMARY:LaLiga FC Futures - Atlético de Madrid - Girona
+UID:f634cfea-2073-48ee-9d3f-68cbe25d16e9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241223T041129Z
+DTSTART:20241228T110000Z
+DTEND:20241228T130000Z
+SUMMARY:LaLiga FC Futures - Peñarol - Girona
+UID:df783fc6-400e-4169-a73a-235bdd601f79
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR

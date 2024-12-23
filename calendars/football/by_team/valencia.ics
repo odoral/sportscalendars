@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241219T041122Z
-DTSTART:20241222T130000Z
-DTEND:20241222T150000Z
-SUMMARY:Liga EA Sports - Valencia - Alavés
-UID:e9a476a6-88a9-429e-902d-c6ce66e9a809
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
- ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV
+DTSTAMP:20241223T041129Z
+DTSTART:20241227T100000Z
+DTEND:20241227T120000Z
+SUMMARY:LaLiga FC Futures - Valencia - Las Palmas
+UID:d1bebe95-85f5-46fb-8382-76bb747c0385
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241223T041129Z
+DTSTART:20241228T093000Z
+DTEND:20241228T113000Z
+SUMMARY:LaLiga FC Futures - Inter de Milan - Valencia
+UID:3adb2fff-48b4-4c28-aebd-c732c9cd8f79
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR

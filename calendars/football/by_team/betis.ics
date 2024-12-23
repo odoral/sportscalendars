@@ -16,13 +16,39 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241220T041055Z
-DTSTART:20241222T200000Z
-DTEND:20241222T220000Z
-SUMMARY:Liga EA Sports - Betis - Rayo Vallecano
-UID:14a93d3d-2bee-4e5f-b703-a364d830d44e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
+DTSTAMP:20241223T041129Z
+DTSTART:20241227T103000Z
+DTEND:20241227T123000Z
+SUMMARY:LaLiga FC Futures - Betis - Borussia Dortmund
+UID:fff68336-69d2-4d40-a31a-67b481a0f6c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241223T041129Z
+DTSTART:20241227T173000Z
+DTEND:20241227T193000Z
+SUMMARY:LaLiga FC Futures - Betis - Orlando City
+UID:d2854413-b4d9-4c50-8d12-339799ba4064
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241223T041129Z
+DTSTART:20241228T123000Z
+DTEND:20241228T143000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Betis
+UID:6b0cf4d9-b0a8-4f71-9344-e9cbb26ed0fd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR

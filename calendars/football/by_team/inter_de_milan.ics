@@ -16,21 +16,45 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241220T041055Z
+DTSTAMP:20241223T041129Z
 DTSTART:20241223T194500Z
 DTEND:20241223T214500Z
 SUMMARY:Serie A Italia - Inter de Milan - Como 1907
-UID:4d29eacf-ac05-4449-ac36-ff5511cb1608
+UID:b41d46a5-3dbe-4720-bf45-868e89b1e06b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241220T041055Z
+DTSTAMP:20241223T041129Z
+DTSTART:20241227T113000Z
+DTEND:20241227T133000Z
+SUMMARY:LaLiga FC Futures - Juventus - Inter de Milan
+UID:6bc77091-35e9-4973-a974-eadae2290bd3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241223T041129Z
+DTSTART:20241228T093000Z
+DTEND:20241228T113000Z
+SUMMARY:LaLiga FC Futures - Inter de Milan - Valencia
+UID:1194b473-80fe-4a03-979c-b419d3a20d6e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241223T041129Z
 DTSTART:20241228T170000Z
 DTEND:20241228T190000Z
 SUMMARY:Serie A Italia - Cagliari - Inter de Milan
-UID:57cb50d6-cd07-4e4d-8df6-0541f11518f8
+UID:8d3035ad-1efd-42fe-a9af-76fb2c60fd65
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN

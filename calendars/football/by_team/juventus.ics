@@ -16,21 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241220T041055Z
-DTSTART:20241222T194500Z
-DTEND:20241222T214500Z
-SUMMARY:Serie A Italia - A.C. Monza - Juventus
-UID:8701a8c5-8cb9-45b5-8413-acbc23774a12
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+DTSTAMP:20241223T041129Z
+DTSTART:20241227T113000Z
+DTEND:20241227T133000Z
+SUMMARY:LaLiga FC Futures - Juventus - Inter de Milan
+UID:43c6c6d0-8b41-42d0-a51a-fd8b3798a8f5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241220T041055Z
+DTSTAMP:20241223T041129Z
+DTSTART:20241228T103000Z
+DTEND:20241228T123000Z
+SUMMARY:LaLiga FC Futures - Juventus - Las Palmas
+UID:82a43522-baaf-4ec6-84a7-7671094e83d7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241223T041129Z
 DTSTART:20241229T170000Z
 DTEND:20241229T190000Z
 SUMMARY:Serie A Italia - Juventus - Fiorentina
-UID:f4c9aa89-05bb-4230-899b-f31f447dff84
+UID:1012e6dd-3ad3-492e-9b28-62c981b67c93
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
