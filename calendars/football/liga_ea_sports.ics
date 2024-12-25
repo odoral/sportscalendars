@@ -16,56 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241222T004247Z
-DTSTART:20241222T130000Z
-DTEND:20241222T150000Z
-SUMMARY:Liga EA Sports - Valencia - Alavés
-UID:ad1a48c4-a855-4e4a-84f8-c6bc9b702930
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
- ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241222T004247Z
-DTSTART:20241222T151500Z
-DTEND:20241222T171500Z
-SUMMARY:Liga EA Sports - Real Madrid - Sevilla
-UID:ae5f1ccb-40b5-4dea-8b7e-fd22be26951e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241222T004247Z
-DTSTART:20241222T173000Z
-DTEND:20241222T193000Z
-SUMMARY:Liga EA Sports - Las Palmas - Espanyol
-UID:cb34cc98-5072-4ad8-9b11-331a1b585f0f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: TV Canaria</li>\n<li>Open: TV3</li>\n<li>PPV: GolStadium Premium<
- /li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: M+ LaLiga TV</li></ul></
- body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- Open: TV3\n- PPV: Gol
- Stadium Premium\n- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241222T004247Z
-DTSTART:20241222T173000Z
-DTEND:20241222T193000Z
-SUMMARY:Liga EA Sports - Leganés - Villarreal
-UID:8aef6f1b-e153-480d-9080-093736c2ab04
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 2\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241222T004247Z
-DTSTART:20241222T200000Z
-DTEND:20241222T220000Z
-SUMMARY:Liga EA Sports - Betis - Rayo Vallecano
-UID:12a1485c-806b-4fd6-ba48-94070a8d7d12
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
+DTSTAMP:20241225T041058Z
+DTSTART:20250103T200000Z
+DTEND:20250103T220000Z
+SUMMARY:Liga EA Sports - Valencia - Real Madrid
+UID:81988264-bca4-44cd-a94d-e9397dae3c38
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
