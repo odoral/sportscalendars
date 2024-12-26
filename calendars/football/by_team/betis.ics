@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241223T041129Z
+DTSTAMP:20241226T003846Z
 DTSTART:20241227T103000Z
 DTEND:20241227T123000Z
 SUMMARY:LaLiga FC Futures - Betis - Borussia Dortmund
-UID:fff68336-69d2-4d40-a31a-67b481a0f6c1
+UID:b265ff05-2ccd-4aa2-a53f-f9fb9a1e1ddf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -28,11 +28,11 @@ DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241223T041129Z
+DTSTAMP:20241226T003846Z
 DTSTART:20241227T173000Z
 DTEND:20241227T193000Z
 SUMMARY:LaLiga FC Futures - Betis - Orlando City
-UID:d2854413-b4d9-4c50-8d12-339799ba4064
+UID:6e528818-35fc-4ce6-ab55-3af97f3549c8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -40,15 +40,25 @@ DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241223T041129Z
+DTSTAMP:20241226T003846Z
 DTSTART:20241228T123000Z
 DTEND:20241228T143000Z
 SUMMARY:LaLiga FC Futures - Real Madrid - Betis
-UID:6b0cf4d9-b0a8-4f71-9344-e9cbb26ed0fd
+UID:00ef1acf-6598-4bd1-93df-487c54bd41b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241226T003846Z
+DTSTART:20250104T143000Z
+DTEND:20250104T163000Z
+SUMMARY:Copa del Rey - Huesca - Betis
+UID:09a400a9-de83-4299-ab3f-d76916635a89
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Copa del Rey
 END:VEVENT
 END:VCALENDAR

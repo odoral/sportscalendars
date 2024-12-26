@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241223T041129Z
+DTSTAMP:20241226T003846Z
 DTSTART:20241227T120000Z
 DTEND:20241227T140000Z
 SUMMARY:LaLiga FC Futures - Barcelona - Sevilla
-UID:d425b618-d6b0-4cdc-a1cf-454eb7a80391
+UID:bfe6cc59-08ad-48e2-85eb-264fa9b4461f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -28,11 +28,11 @@ DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241223T041129Z
+DTSTAMP:20241226T003846Z
 DTSTART:20241227T183000Z
 DTEND:20241227T203000Z
 SUMMARY:LaLiga FC Futures - Barcelona - PSG
-UID:0cc9feb2-9f6a-4ec5-9521-58b2ba4f3eae
+UID:3fd2aaaf-75ab-412e-a434-d24219d0d7d0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -40,15 +40,25 @@ DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241223T041129Z
+DTSTAMP:20241226T003846Z
 DTSTART:20241228T130000Z
 DTEND:20241228T150000Z
 SUMMARY:LaLiga FC Futures - Athletic Club - Barcelona
-UID:f915e434-3681-49aa-82ad-4ef151921599
+UID:526b246f-6487-4e22-b390-0bc7fca5b6aa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241226T003846Z
+DTSTART:20250104T180000Z
+DTEND:20250104T200000Z
+SUMMARY:Copa del Rey - U.D. Barbastro - Barcelona
+UID:6b69f1fd-41f7-4179-bd5f-0b7044ee6ff1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

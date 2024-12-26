@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241223T041129Z
+DTSTAMP:20241226T003846Z
 DTSTART:20241227T110000Z
 DTEND:20241227T130000Z
 SUMMARY:LaLiga FC Futures - Peñarol - Atlético de Madrid
-UID:01db2009-5896-4bec-8c75-28caf6baf486
+UID:5fa1cf82-f007-40bd-85c3-523c9ac2b38b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -28,11 +28,11 @@ DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241223T041129Z
+DTSTAMP:20241226T003846Z
 DTSTART:20241227T163000Z
 DTEND:20241227T183000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Girona
-UID:ad5a8c7c-f371-499e-9922-4273f73ef328
+UID:033e3260-2985-484c-ac15-728253880932
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -40,15 +40,25 @@ DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241223T041129Z
+DTSTAMP:20241226T003846Z
 DTSTART:20241228T120000Z
 DTEND:20241228T140000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Villarreal
-UID:cc6bdc40-7f91-44ef-b48f-3a1f808a51f8
+UID:7917d814-2ff5-45b2-88ae-82f9e691fd5d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241226T003846Z
+DTSTART:20250104T203000Z
+DTEND:20250104T223000Z
+SUMMARY:Copa del Rey - Marbella - Atlético de Madrid
+UID:a4ad0662-061a-4df8-bbf1-14260236050f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
