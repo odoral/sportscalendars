@@ -16,35 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241225T041058Z
-DTSTART:20241227T123000Z
-DTEND:20241227T143000Z
-SUMMARY:LaLiga FC Futures - Real Madrid - Orlando City
-UID:7db455e9-10b1-414c-9f68-d473b76edea0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
- /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
- Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241225T041058Z
-DTSTART:20241227T190000Z
-DTEND:20241227T210000Z
-SUMMARY:LaLiga FC Futures - Real Madrid - Borussia Dortmund
-UID:66491fa3-17ce-4482-b29d-f13de9ab5e8c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
- /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
- Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241225T041058Z
+DTSTAMP:20241228T041041Z
 DTSTART:20241228T123000Z
 DTEND:20241228T143000Z
 SUMMARY:LaLiga FC Futures - Real Madrid - Betis
-UID:983d5608-d8f3-42c3-9dab-6be21d5ec7b5
+UID:a11be361-8d02-43cd-a094-133a78e275ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
@@ -52,13 +28,23 @@ DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241225T041058Z
+DTSTAMP:20241228T041041Z
 DTSTART:20250103T200000Z
 DTEND:20250103T220000Z
 SUMMARY:Liga EA Sports - Valencia - Real Madrid
-UID:b0a0019a-1a56-4c38-9afa-a4a70e0b41f4
+UID:9a8032e3-1fa9-4b7e-acfa-c1f2353ca306
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241228T041041Z
+DTSTART:20250106T180000Z
+DTEND:20250106T200000Z
+SUMMARY:Copa del Rey - C.D. Minera - Real Madrid
+UID:c26ae164-cf5e-47fb-9c3f-d4282f0dbb78
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
