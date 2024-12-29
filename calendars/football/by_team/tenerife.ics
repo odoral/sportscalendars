@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241226T003846Z
+DTSTAMP:20241229T041048Z
 DTSTART:20250104T153000Z
 DTEND:20250104T173000Z
 SUMMARY:Copa del Rey - Tenerife - Osasuna
-UID:88e6264b-4ae4-4a3f-98ee-ca773df00b25
+UID:5e1d303f-9178-49c9-8d1d-cb3ff95c5079
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241229T041048Z
+DTSTART:20250107T203000Z
+DTEND:20250107T223000Z
+SUMMARY:Liga Hypermotion - Tenerife - Levante
+UID:bd34db69-b2e9-4e89-a5e9-ee7527549e91
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

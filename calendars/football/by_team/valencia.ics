@@ -16,25 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241228T041041Z
-DTSTART:20241228T093000Z
-DTEND:20241228T113000Z
-SUMMARY:LaLiga FC Futures - Inter de Milan - Valencia
-UID:cf364f14-5fc3-4165-9a43-f54ae7931fce
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
- /li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
- Stadium Premium\n- PPV: M+ LaLiga TV\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241228T041041Z
+DTSTAMP:20241229T041048Z
 DTSTART:20250103T200000Z
 DTEND:20250103T220000Z
 SUMMARY:Liga EA Sports - Valencia - Real Madrid
-UID:bc354e73-7051-424b-89ef-f4d269961a1c
+UID:58967041-3161-4a40-8fba-30a7a9f25ccd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241229T041048Z
+DTSTART:20250107T200000Z
+DTEND:20250107T220000Z
+SUMMARY:Copa del Rey - C.D. Eldense - Valencia
+UID:bdc5dc6b-dbc7-4b45-ba89-9b0e243d46d0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Copa del Rey
 END:VEVENT
 END:VCALENDAR
