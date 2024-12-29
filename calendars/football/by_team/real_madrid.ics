@@ -16,21 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241229T041048Z
+DTSTAMP:20241229T081056Z
+DTSTART:20241229T100000Z
+DTEND:20241229T120000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Betis
+UID:6969a137-6b45-434e-b6c8-4a059f50f8ab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: Amazon Prime Video</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga<
+ /li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</
+ li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: Amazon Prime Video\n- PPV: DAZN\n- P
+ PV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion
+ \n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241229T081056Z
 DTSTART:20250103T200000Z
 DTEND:20250103T220000Z
 SUMMARY:Liga EA Sports - Valencia - Real Madrid
-UID:25863fc7-f7f9-44de-9abe-2522f71b9fdc
+UID:c2d95a77-4f48-4ad7-8c49-ebc0c5f3fd5a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241229T041048Z
+DTSTAMP:20241229T081056Z
 DTSTART:20250106T180000Z
 DTEND:20250106T200000Z
 SUMMARY:Copa del Rey - C.D. Minera - Real Madrid
-UID:d14a1674-9f11-41db-9d44-ac3ad8cc8871
+UID:6e00e6fe-6a0c-4504-92d2-5c3b3dd29822
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play

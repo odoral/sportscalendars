@@ -16,11 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241229T041048Z
+DTSTAMP:20241229T081056Z
+DTSTART:20241229T100000Z
+DTEND:20241229T120000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Betis
+UID:867665dd-d77c-4a8c-91ee-a3fb1f48fb80
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: Amazon Prime Video</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga<
+ /li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</
+ li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: Amazon Prime Video\n- PPV: DAZN\n- P
+ PV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion
+ \n- PPV: M+ LaLiga TV\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241229T081056Z
 DTSTART:20250104T143000Z
 DTEND:20250104T163000Z
 SUMMARY:Copa del Rey - Huesca - Betis
-UID:ee954b10-57d4-4adf-831a-77b9643e4a76
+UID:97ebda38-e177-49b0-9d45-31d13fa27109
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  ></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey
