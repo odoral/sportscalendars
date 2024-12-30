@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241229T081056Z
+DTSTAMP:20241230T004107Z
 DTSTART:20241229T104500Z
 DTEND:20241229T124500Z
 SUMMARY:LaLiga FC Futures - Sevilla - Barcelona
-UID:0dd6b865-7cd4-4441-ac27-7022e6312f90
+UID:babcc2c0-cc3d-420e-b196-fb1291c3c62a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: Amazon Prime Video</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga<
  /li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</
@@ -30,11 +30,21 @@ DESCRIPTION:- Open: Gol Play\n- PPV: Amazon Prime Video\n- PPV: DAZN\n- P
  \n- PPV: M+ LaLiga TV\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241229T081056Z
+DTSTAMP:20241230T004107Z
 DTSTART:20250104T180000Z
 DTEND:20250104T200000Z
 SUMMARY:Copa del Rey - U.D. Barbastro - Barcelona
-UID:dcda6c6c-5de8-4e74-b80e-ec46712c38e6
+UID:e0332447-70bf-4858-a6b8-933f1ca44483
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241230T004107Z
+DTSTART:20250108T190000Z
+DTEND:20250108T210000Z
+SUMMARY:Supercopa de España - Athletic Club - Barcelona
+UID:5a0c3186-6208-4516-9c1f-d3645f8fb2d5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+
