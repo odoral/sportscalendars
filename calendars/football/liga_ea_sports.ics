@@ -16,15 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241230T081229Z
+DTSTAMP:20250101T041127Z
 DTSTART:20250103T200000Z
 DTEND:20250103T220000Z
 SUMMARY:Liga EA Sports - Valencia - Real Madrid
-UID:0fbf171f-43da-4ae8-ba48-f3b8c7d4e551
+UID:5fd451ed-f3fc-4cde-af75-65e83e92a6bd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
  html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
  lus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250101T041127Z
+DTSTART:20250110T200000Z
+DTEND:20250110T220000Z
+SUMMARY:Liga EA Sports - Rayo Vallecano - Celta
+UID:9adcdc98-076f-44c0-a17e-a964638df228
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TVG</li>\n<li>Open: TeleMadrid</li>\n<li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: MAX</li></
+ ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TVG\n- Open: TeleMadrid\n- PPV: DAZ
+ N\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR
