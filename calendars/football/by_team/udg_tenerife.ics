@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241221T081024Z
-DTSTART:20241221T120000Z
-DTEND:20241221T140000Z
-SUMMARY:Copa de la Reina - UDG Tenerife - Barcelona Femenino
-UID:be4dfffb-b630-463d-94c5-e0cbc3bf581c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >Open: RFEF TV YouTube</li>\n<li>Open: Teledeporte</li>\n<li>Open: rtve 
- Play</li>\n<li>PPV: RFEF TV</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- Open: RFEF TV YouTube\n- Open: Teledeport
- e\n- Open: rtve Play\n- PPV: RFEF TV
+DTSTAMP:20250102T003855Z
+DTSTART:20250111T110000Z
+DTEND:20250111T130000Z
+SUMMARY:Liga F - UDG Tenerife - Deportivo Abanca
+UID:f97b489e-b597-4e4a-9dab-fed5b5e1a7fe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

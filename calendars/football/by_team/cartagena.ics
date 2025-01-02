@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241227T041047Z
+DTSTAMP:20250102T003855Z
 DTSTART:20250105T143000Z
 DTEND:20250105T163000Z
 SUMMARY:Copa del Rey - Cartagena - Leganés
-UID:de2f57f6-0b84-4574-90ea-de103a752e4a
+UID:ed48db9f-4191-4640-8dc6-21cfa5b9ea59
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga TV 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250102T003855Z
+DTSTART:20250111T130000Z
+DTEND:20250111T150000Z
+SUMMARY:Liga Hypermotion - Racing Ferrol - Cartagena
+UID:f89c5caa-5b3a-4626-a419-7debd70daeb7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
