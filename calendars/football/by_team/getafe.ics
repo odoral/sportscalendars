@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241230T081229Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250103T180000Z
 DTEND:20250103T200000Z
 SUMMARY:Copa del Rey - Granada C.F. - Getafe
-UID:b63163d1-6c05-408a-a17f-fc1541359e39
+UID:faeea589-b4ca-4b4c-b7ca-c91ac52a07c3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
+ li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: M+ LaLiga TV 3</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV\n- PPV: M+ LaLi
+ ga TV 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T003919Z
+DTSTART:20250103T180000Z
+DTEND:20250103T200000Z
+SUMMARY:Copa del Rey - Granada C.F. - Getafe
+UID:39562a96-66e9-467e-968d-e19bd6515c4c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: M+ LaLiga TV 3</li></ul></body
  ></html>

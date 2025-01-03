@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241231T003852Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250103T200000Z
 DTEND:20250103T220000Z
 SUMMARY:Liga EA Sports - Valencia - Real Madrid
-UID:96be8d4b-c199-423d-9a7f-82e1b96d4cbb
+UID:7c9b8177-8484-4cea-8923-75a5282522f5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
  html>
@@ -28,21 +28,33 @@ DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
  lus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241231T003852Z
+DTSTAMP:20250103T003919Z
+DTSTART:20250103T200000Z
+DTEND:20250103T220000Z
+SUMMARY:Liga EA Sports - Valencia - Real Madrid
+UID:50078784-d00a-4fbf-b113-ca477a8ef229
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
+ html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
+ lus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T003919Z
 DTSTART:20250106T180000Z
 DTEND:20250106T200000Z
 SUMMARY:Copa del Rey - C.D. Minera - Real Madrid
-UID:ab161f9a-ca5b-44ce-9032-0a957da97081
+UID:afca6951-ef41-4e70-9d77-9d052f13464d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241231T003852Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250109T190000Z
 DTEND:20250109T210000Z
 SUMMARY:Supercopa de España - Real Madrid - Mallorca
-UID:4332ce7a-6004-4f71-814a-bb64992b25a7
+UID:e96d6871-850e-47f7-8548-0ae33018a5c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+

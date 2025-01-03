@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250101T041127Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250103T180000Z
 DTEND:20250103T200000Z
 SUMMARY:Copa del Rey - Granada C.F. - Getafe
-UID:5cbada47-0dcb-4417-b0e7-ebe262ae2f20
+UID:dd04c512-98b5-49e2-a929-50860ef4c2c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: M+ LaLiga TV 3</li></ul></body
  ></html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV\n- PPV: M+ LaLi
  ga TV 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T041127Z
+DTSTAMP:20250103T003919Z
+DTSTART:20250103T180000Z
+DTEND:20250103T200000Z
+SUMMARY:Copa del Rey - Granada C.F. - Getafe
+UID:48dd54a8-cac0-498a-9392-9a7ccd70808b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
+ li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: M+ LaLiga TV 3</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV\n- PPV: M+ LaLi
+ ga TV 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T003919Z
 DTSTART:20250110T193000Z
 DTEND:20250110T213000Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Burgos C.F.
-UID:4c2b10d3-ca96-4912-8c0e-0d13a6edcd0a
+UID:e2e2a4d8-1d8b-4bc2-af1c-dc1e4f480d84
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>

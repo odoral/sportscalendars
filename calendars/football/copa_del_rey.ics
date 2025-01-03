@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250103T180000Z
 DTEND:20250103T200000Z
 SUMMARY:Copa del Rey - Racing Ferrol - Rayo Vallecano
-UID:bff9927b-caf6-4679-8f75-8781f86c0cde
+UID:92a11537-e018-4cb9-9880-94abab2b3ab9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: M+ LaLiga TV 4</li></ul></bo
  dy></html>
@@ -28,11 +28,11 @@ DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga TV 2\n- PPV: M+ La
  Liga TV 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250103T180000Z
 DTEND:20250103T200000Z
 SUMMARY:Copa del Rey - Granada C.F. - Getafe
-UID:7aa03157-de86-452a-bb86-7b7dddcfd65f
+UID:1f018573-b44c-4219-9a32-967cc757a420
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: M+ LaLiga TV 3</li></ul></body
  ></html>
@@ -40,141 +40,175 @@ DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV\n- PPV: M+ LaLi
  ga TV 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250103T180000Z
 DTEND:20250103T200000Z
 SUMMARY:Copa del Rey - Pontevedra - Mallorca
-UID:b6592ff8-1b9f-44dd-8a83-f3ae32c7fec0
+UID:493e0bfe-49e4-4d86-8963-7857ddd4763f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 4</
  li>\n<li>PPV: M+ Copa del Rey</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 4\n- PPV: M+ Copa del Rey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
+DTSTART:20250103T180000Z
+DTEND:20250103T200000Z
+SUMMARY:Copa del Rey - Racing Ferrol - Rayo Vallecano
+UID:d7c39c1d-d501-4055-b1a1-f2b0e7709daa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
+ li>\n<li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: M+ LaLiga TV 4</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga TV 2\n- PPV: M+ La
+ Liga TV 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T003919Z
+DTSTART:20250103T180000Z
+DTEND:20250103T200000Z
+SUMMARY:Copa del Rey - Granada C.F. - Getafe
+UID:08c35b58-f652-4a89-963a-190a10b01701
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
+ li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: M+ LaLiga TV 3</li></ul></body
+ ></html>
+DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV\n- PPV: M+ LaLi
+ ga TV 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T003919Z
+DTSTART:20250103T180000Z
+DTEND:20250103T200000Z
+SUMMARY:Copa del Rey - Pontevedra - Mallorca
+UID:eda9708f-e2b2-48e2-8110-ead1a038da65
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 4</
+ li>\n<li>PPV: M+ Copa del Rey</li></ul></body></html>
+DESCRIPTION:- PPV: LaLiga TV Multi 4\n- PPV: M+ Copa del Rey
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T003919Z
 DTSTART:20250104T143000Z
 DTEND:20250104T163000Z
 SUMMARY:Copa del Rey - Huesca - Betis
-UID:aff73ce8-d540-4994-ba52-1e050669f818
+UID:f136bcb7-5b18-457b-b5a3-aa5ef51301fe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  ></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250104T153000Z
 DTEND:20250104T173000Z
 SUMMARY:Copa del Rey - Tenerife - Osasuna
-UID:05efc1e3-3e52-4226-9fd0-2691955ca5d3
+UID:6e5fcb05-2f0d-46f1-aead-5653f88453d4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250104T163000Z
 DTEND:20250104T183000Z
 SUMMARY:Copa del Rey - Almería - Sevilla
-UID:290dbfae-5368-45c3-9312-4d091c51f1ae
+UID:bc5cdc40-9a72-4b28-9557-541a3bfbc4da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga TV 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250104T180000Z
 DTEND:20250104T200000Z
 SUMMARY:Copa del Rey - U.D. Barbastro - Barcelona
-UID:ce7fd5c4-0454-4bd2-9c16-f7353d718b03
+UID:7ba43e96-46dd-43f6-ab09-8fe5e512b902
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  >\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250104T203000Z
 DTEND:20250104T223000Z
 SUMMARY:Copa del Rey - U.D. Logroñés - Athletic Club
-UID:23867d2a-135e-4e4b-bf7f-bee93d4d216d
+UID:bed6d5ce-27c8-4c95-b665-3794180598d7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ Copa del Rey</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ Copa del Rey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250104T203000Z
 DTEND:20250104T223000Z
 SUMMARY:Copa del Rey - Marbella - Atlético de Madrid
-UID:cf8ef7cf-7db5-4d22-af82-39580c94a943
+UID:9924f7be-412b-4759-8797-844d4f9d3f88
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250105T110000Z
 DTEND:20250105T130000Z
 SUMMARY:Copa del Rey - Elche - Las Palmas
-UID:ab446b01-0607-4ffb-9ad9-f807fc118b5a
+UID:e3a9b249-c8a0-4674-ba2c-54f97c8cbc40
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  ></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250105T110000Z
 DTEND:20250105T130000Z
 SUMMARY:Copa del Rey - Ourense C.F. - Valladolid
-UID:c96baffb-86bf-4dc9-8008-5853a9232cb3
+UID:95a62768-e32a-4151-9465-d4d4b0d7b4a5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250105T143000Z
 DTEND:20250105T163000Z
 SUMMARY:Copa del Rey - Racing de Santander - Celta
-UID:73a023da-7170-4895-b2ba-135e9ed3f3dc
+UID:c5364589-11fa-4e61-983e-256a82b69cb8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250105T143000Z
 DTEND:20250105T163000Z
 SUMMARY:Copa del Rey - Ponferradina - Real Sociedad
-UID:fe3e20e1-ec6d-4bbc-948d-27cb7d396c53
+UID:94c03b94-eeac-409c-8df7-e8489b5ca9ad
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  ></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250105T143000Z
 DTEND:20250105T163000Z
 SUMMARY:Copa del Rey - Cartagena - Leganés
-UID:15d32854-7f65-43ce-b932-595bb2e8a530
+UID:a67e4236-2401-43f2-a298-bacdd8cc3f71
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga TV 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250106T180000Z
 DTEND:20250106T200000Z
 SUMMARY:Copa del Rey - C.D. Minera - Real Madrid
-UID:67e1c821-f390-4504-a3ab-3a4c725cc5bc
+UID:ee6f2b8a-4c36-4f7a-af74-6279d062e6a3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250101T081142Z
+DTSTAMP:20250103T003919Z
 DTSTART:20250107T200000Z
 DTEND:20250107T220000Z
 SUMMARY:Copa del Rey - C.D. Eldense - Valencia
-UID:a61d50ef-8662-4ddf-be5d-4084d7a7caef
+UID:09f81914-cfbe-4558-878c-026148a04e57
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  ></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey
