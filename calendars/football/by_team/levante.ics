@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241229T041048Z
+DTSTAMP:20250103T041107Z
 DTSTART:20250107T203000Z
 DTEND:20250107T223000Z
 SUMMARY:Liga Hypermotion - Tenerife - Levante
-UID:7b6f3a5a-cdf0-4111-afdc-22be64bde2e4
+UID:be0711ea-f619-4831-b4a1-a70aeb4d6baa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T041107Z
+DTSTART:20250112T151500Z
+DTEND:20250112T171500Z
+SUMMARY:Liga Hypermotion - Cádiz - Levante
+UID:d9eac57a-bf96-4127-a9bf-a07e8206b70a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>

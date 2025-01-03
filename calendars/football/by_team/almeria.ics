@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241226T003846Z
+DTSTAMP:20250103T041107Z
 DTSTART:20250104T163000Z
 DTEND:20250104T183000Z
 SUMMARY:Copa del Rey - Almería - Sevilla
-UID:348b1862-f51c-4fc1-a16c-cc4fc78aaa26
+UID:b1d60f41-afa3-45c8-a739-7a5a4141c39a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga TV 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T041107Z
+DTSTART:20250112T130000Z
+DTEND:20250112T150000Z
+SUMMARY:Liga Hypermotion - Córdoba - Almería
+UID:c6162b2f-d5ee-48e4-bec1-d4d78b319b61
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

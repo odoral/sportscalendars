@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241229T041048Z
+DTSTAMP:20250103T041107Z
 DTSTART:20250104T203000Z
 DTEND:20250104T223000Z
 SUMMARY:Copa del Rey - Marbella - Atlético de Madrid
-UID:ec81b0d2-918e-4ac7-8feb-f1014fe0b062
+UID:a7256542-1655-43ab-9497-d950d840a1cb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T041107Z
+DTSTART:20250112T151500Z
+DTEND:20250112T171500Z
+SUMMARY:Liga EA Sports - Atlético de Madrid - Osasuna
+UID:ee57fd80-cfee-4620-a042-ffd3094772f0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241227T041047Z
+DTSTAMP:20250103T041107Z
 DTSTART:20250105T123000Z
 DTEND:20250105T143000Z
 SUMMARY:Liga F - Real Sociedad F. - Barcelona Femenino
-UID:8f85a312-8ef8-4ecb-8af9-fd98ed686626
+UID:af3cf0d2-365b-4868-8e0a-d6f9e18f93fd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250103T041107Z
+DTSTART:20250112T110000Z
+DTEND:20250112T130000Z
+SUMMARY:Liga F - Valencia Féminas - Real Sociedad F.
+UID:7ce8f95d-aad7-4c56-9ec7-7e40ed52f058
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li></
+ ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- PPV: DAZN\n- PPV: GolStadiu
+ m Premium
 END:VEVENT
 END:VCALENDAR
