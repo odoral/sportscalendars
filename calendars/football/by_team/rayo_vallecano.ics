@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250104T003833Z
+DTSTAMP:20250109T041101Z
 DTSTART:20250110T200000Z
 DTEND:20250110T220000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Celta
-UID:9551eb7a-ccab-41a5-aad1-a42e18d92882
+UID:23b0934f-bd6d-4c2c-a1a1-605f4a6b1b86
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TVG</li>\n<li>Open: TeleMadrid</li>\n<li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: MAX</li></
  ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TVG\n- Open: TeleMadrid\n- PPV: DAZ
  N\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250109T041101Z
+DTSTART:20250118T130000Z
+DTEND:20250118T150000Z
+SUMMARY:Liga EA Sports - Osasuna - Rayo Vallecano
+UID:ff780ecd-a436-4f0a-a91c-9653e9f89fa0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
