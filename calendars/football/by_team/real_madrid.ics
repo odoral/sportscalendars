@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250107T004004Z
+DTSTAMP:20250109T081148Z
 DTSTART:20250109T190000Z
 DTEND:20250109T210000Z
 SUMMARY:Supercopa de España - Real Madrid - Mallorca
-UID:579d9128-9b32-4019-84c1-2f62c47f0e4e
+UID:18f4872e-6486-409e-bb12-ea6616399793
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Supercopa de Esp
  aña</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Supercopa de España\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250109T081148Z
+DTSTART:20250116T203000Z
+DTEND:20250116T223000Z
+SUMMARY:Copa del Rey - Real Madrid - Celta
+UID:4a074981-e513-4d00-84d5-0a73a7db441f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
