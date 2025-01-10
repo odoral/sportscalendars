@@ -16,21 +16,34 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250110T004020Z
+DTSTAMP:20250110T041109Z
+DTSTART:20250110T200000Z
+DTEND:20250110T220000Z
+SUMMARY:Liga EA Sports - Rayo Vallecano - Celta
+UID:fc2f0eb4-88f2-4c5a-b412-b34e7596d673
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TVG</li>\n<li>Open: TeleMadrid</li>\n<li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: MAX</li></
+ ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TVG\n- Open: TeleMadrid\n- PPV: DAZ
+ N\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250110T041109Z
 DTSTART:20250116T203000Z
 DTEND:20250116T223000Z
 SUMMARY:Copa del Rey - Real Madrid - Celta
-UID:91ad93c6-e735-43ec-bd12-e766cc1ec191
+UID:9b76bc73-aee5-4fc2-83e1-259228ca83b1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250110T004020Z
+DTSTAMP:20250110T041109Z
 DTSTART:20250118T173000Z
 DTEND:20250118T193000Z
 SUMMARY:Liga EA Sports - Celta - Athletic Club
-UID:7df008fc-0518-4a6d-8b40-de3ec45b77b7
+UID:ba2f7960-2808-4a42-906b-efb889da900b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
