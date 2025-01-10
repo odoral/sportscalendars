@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250109T081148Z
+DTSTAMP:20250110T081157Z
+DTSTART:20250112T190000Z
+DTEND:20250112T210000Z
+SUMMARY:Supercopa de España - Real Madrid - Barcelona
+UID:a126ea02-f520-4d09-b174-6b3052236b21
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Supercopa de Esp
+ aña</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Supercopa de España\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250110T081157Z
 DTSTART:20250115T200000Z
 DTEND:20250115T220000Z
 SUMMARY:Copa del Rey - Barcelona - Betis
-UID:c56bcd3b-28dc-4c4b-a3a5-3509f435f91c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
- </body></html>
-DESCRIPTION:- PPV: Movistar+
+UID:678336e5-3de5-438b-af96-266a7872ba0e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250109T081148Z
+DTSTAMP:20250110T081157Z
 DTSTART:20250118T200000Z
 DTEND:20250118T220000Z
 SUMMARY:Liga EA Sports - Getafe - Barcelona
-UID:b21b7715-dcdc-4b57-84ed-878c3d484efc
+UID:00b7a189-dfcc-41bd-8034-6a594d37210d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
