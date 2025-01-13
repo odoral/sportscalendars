@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250110T081157Z
-DTSTART:20250112T190000Z
-DTEND:20250112T210000Z
-SUMMARY:Supercopa de España - Real Madrid - Barcelona
-UID:471c7caf-819a-4cfa-b89d-ef548fd2aee0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Supercopa de Esp
- aña</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Supercopa de España\n- PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250110T081157Z
+DTSTAMP:20250113T004232Z
 DTSTART:20250116T203000Z
 DTEND:20250116T223000Z
 SUMMARY:Copa del Rey - Real Madrid - Celta
-UID:b921d6f4-21b9-4976-9ad4-fcd830124e6b
+UID:39226a68-8114-4bd0-b816-3726cc60e7bc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250110T081157Z
+DTSTAMP:20250113T004232Z
 DTSTART:20250119T151500Z
 DTEND:20250119T171500Z
 SUMMARY:Liga EA Sports - Real Madrid - Las Palmas
-UID:93a5b088-56f0-4cf5-aac5-e1b0dc85d69e
+UID:a7a778e3-85f7-45b8-a59e-49b08aba9cad
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250113T004232Z
+DTSTART:20250122T200000Z
+DTEND:20250122T220000Z
+SUMMARY:Champions League - Real Madrid - Red Bull Salzburg
+UID:2a055c1a-b2f8-4b14-a082-06da3bdd685f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 END:VCALENDAR
