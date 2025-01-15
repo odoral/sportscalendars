@@ -16,23 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241201T121459Z
-DTSTART:20241203T110000Z
-DTEND:20241203T130000Z
-SUMMARY:Europeo Sub-19 Femenino - Bélgica - España
-UID:50856f54-6afb-4207-8bdd-a228de5762a8
+DTSTAMP:20250115T041052Z
+DTSTART:20250115T100000Z
+DTEND:20250115T120000Z
+SUMMARY:Otras competiciones - España - Italia
+UID:b7547edc-1730-466b-ad2c-4eaa4dae8bfc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
- li>\n<li>PPV: RFEF TV</li></ul></body></html>
-DESCRIPTION:- Open: SEFutbol Youtube\n- PPV: RFEF TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241201T121459Z
-DTSTART:20241203T200000Z
-DTEND:20241203T220000Z
-SUMMARY:Amistoso Femenino - Francia - España
-UID:a16f4290-b648-4997-a9f3-d14be175549a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play
+ li></ul></body></html>
+DESCRIPTION:- Open: SEFutbol Youtube
 END:VEVENT
 END:VCALENDAR

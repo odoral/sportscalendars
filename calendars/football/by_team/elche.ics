@@ -16,21 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250113T004232Z
+DTSTAMP:20250115T041053Z
 DTSTART:20250115T203000Z
 DTEND:20250115T223000Z
 SUMMARY:Copa del Rey - Elche - Atlético de Madrid
-UID:27d2b82a-51a5-458f-9264-06caa0c94ddc
+UID:69a56499-434f-4473-947f-85aa898a6fb9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250113T004232Z
+DTSTAMP:20250115T041053Z
 DTSTART:20250118T173000Z
 DTEND:20250118T193000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Elche
-UID:81766cc9-470f-4f5d-959d-03af8ebdaa4c
+UID:deb4cc99-38f5-486e-b4f8-7f93e951c8b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: Movis
@@ -38,5 +38,19 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 3\n- PPV: Mov
  istar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250115T041053Z
+DTSTART:20250124T193000Z
+DTEND:20250124T213000Z
+SUMMARY:Liga Hypermotion - Elche - Eibar
+UID:4b0b668f-b803-4fc3-a315-050ad9b8faad
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: M+ Va
+ mos</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2\n- PPV: M+ 
+ Vamos
 END:VEVENT
 END:VCALENDAR
