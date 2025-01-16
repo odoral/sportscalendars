@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250115T041053Z
+DTSTAMP:20250116T041037Z
 DTSTART:20250119T163000Z
 DTEND:20250119T183000Z
 SUMMARY:Premier League - Ipswich Town - Manchester City
-UID:4b148549-5c89-466f-82e1-fc7573d68fe2
+UID:fdaeb157-2e5b-4343-992f-dcabdf6b48c8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250115T041053Z
+DTSTAMP:20250116T041037Z
 DTSTART:20250122T200000Z
 DTEND:20250122T220000Z
 SUMMARY:Champions League - PSG - Manchester City
-UID:6d3efca2-1ec1-4560-adb1-57d257d587f4
+UID:b3a30f45-e094-487a-8b03-a3e7b41868ab
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250116T041037Z
+DTSTART:20250125T173000Z
+DTEND:20250125T193000Z
+SUMMARY:Premier League - Manchester City - Chelsea
+UID:1353709f-6936-42c4-81f1-317825766536
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR

@@ -16,25 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250115T041052Z
+DTSTAMP:20250116T041037Z
 DTSTART:20250118T173000Z
 DTEND:20250118T193000Z
 SUMMARY:Bundesliga - Bayer Leverkusen - Borussia Mönchengladbach
-UID:39537be1-a038-4a45-a69c-c7723d3fd80c
+UID:485da5da-e0bd-4e63-9ec5-a68b7da9d710
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250115T041052Z
+DTSTAMP:20250116T041037Z
 DTSTART:20250121T200000Z
 DTEND:20250121T220000Z
 SUMMARY:Champions League - Atlético de Madrid - Bayer Leverkusen
-UID:67aeedf1-63e3-45ce-aeef-8cb3b44c0f39
+UID:37112890-affd-4c89-acfc-ac20337c9979
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+<
  /li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
  n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250116T041037Z
+DTSTART:20250125T143000Z
+DTEND:20250125T163000Z
+SUMMARY:Bundesliga - RB Leipzig - Bayer Leverkusen
+UID:7e5f08b9-3901-48d1-8482-508df84621e1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
