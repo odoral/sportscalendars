@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250115T041053Z
+DTSTAMP:20250117T003815Z
 DTSTART:20250119T163000Z
 DTEND:20250119T183000Z
 SUMMARY:Liga F - Sevilla FC Fem. - Betis Féminas
-UID:2d91a627-f29d-412a-9d56-2385c8fd340f
+UID:ffeee6ae-7d5c-481f-9c30-856f1b03b811
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 2</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Ellas Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250117T003815Z
+DTSTART:20250126T150000Z
+DTEND:20250126T170000Z
+SUMMARY:Liga F - Betis Féminas - Deportivo Abanca
+UID:8bdec604-9fe5-4c6a-9555-793b1af0b760
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TVG 2\n- PPV: DAZN\n- PPV: GolStadi
+ um Premium
 END:VEVENT
 END:VCALENDAR
