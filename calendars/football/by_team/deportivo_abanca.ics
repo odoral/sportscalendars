@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250117T003815Z
+DTSTAMP:20250117T041042Z
+DTSTART:20250117T190000Z
+DTEND:20250117T210000Z
+SUMMARY:Liga F - Deportivo Abanca - Levante UD  Fem.
+UID:32b41dcb-4028-4ca5-b4f1-e385176d9e1f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250117T041042Z
 DTSTART:20250126T150000Z
 DTEND:20250126T170000Z
 SUMMARY:Liga F - Betis Féminas - Deportivo Abanca
-UID:ec848a72-d8c8-4446-88fe-679e5db352db
+UID:31f40684-4d41-4cb9-9c4e-8128280e1b9b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li><
  /ul></body></html>
