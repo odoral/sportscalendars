@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250113T004232Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250122T200000Z
 DTEND:20250122T220000Z
 SUMMARY:Champions League - Celtic FC - Young Boys
-UID:671811e7-79e9-44c9-a8e3-ff867317f98e
+UID:f9e8e927-b582-4478-bd93-c6aa98bf45c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250120T041111Z
+DTSTART:20250129T200000Z
+DTEND:20250129T220000Z
+SUMMARY:Champions League - Aston Villa - Celtic FC
+UID:0e3dbd6c-3df3-4f93-be27-77e42033b5f3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

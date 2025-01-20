@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250113T004231Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250122T174500Z
 DTEND:20250122T194500Z
 SUMMARY:Champions League - Shaktar Donetsk - Stade Brestois
-UID:7bd22db5-9024-451e-947a-75b25e8f451a
+UID:2d4c96c3-ac14-4600-ac04-b766841d2c42
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250120T041111Z
+DTSTART:20250129T200000Z
+DTEND:20250129T220000Z
+SUMMARY:Champions League - Stade Brestois - Real Madrid
+UID:028104ca-21af-4b61-b29c-3eafda4b56c5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

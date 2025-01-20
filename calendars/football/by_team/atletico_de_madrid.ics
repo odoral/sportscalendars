@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250119T004141Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250121T200000Z
 DTEND:20250121T220000Z
 SUMMARY:Champions League - Atlético de Madrid - Bayer Leverkusen
-UID:f421ec75-c14f-44fb-add9-b1db9f548f0a
+UID:f64c795c-9f1a-450b-b0a5-5d0863494395
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+<
  /li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
  n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250119T004141Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250125T151500Z
 DTEND:20250125T171500Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Villarreal
-UID:01f58a3d-9111-443c-a2dd-1426ae29b1b9
+UID:40b9999f-0d09-4946-b935-9504918ea78f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250120T041111Z
+DTSTART:20250129T200000Z
+DTEND:20250129T220000Z
+SUMMARY:Champions League - Red Bull Salzburg - Atlético de Madrid
+UID:514c8088-1b1d-4db7-a509-7973a608d7cd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

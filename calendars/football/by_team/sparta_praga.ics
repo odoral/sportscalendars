@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250113T004232Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250122T200000Z
 DTEND:20250122T220000Z
 SUMMARY:Champions League - Sparta Praga - Inter de Milan
-UID:c6e82bd9-2f90-48e7-994c-b7aac982660d
+UID:66c56d73-2007-44a8-a9c8-2a0e2e05c3c2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250120T041111Z
+DTSTART:20250129T200000Z
+DTEND:20250129T220000Z
+SUMMARY:Champions League - Bayer Leverkusen - Sparta Praga
+UID:92825171-abd6-4487-8eee-4deeb1261227
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

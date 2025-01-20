@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250119T004141Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250121T200000Z
 DTEND:20250121T220000Z
 SUMMARY:Champions League - Atlético de Madrid - Bayer Leverkusen
-UID:fa10e155-dcb5-47db-b2ee-33ddd0c94c9e
+UID:d86380f8-6d58-474c-b718-f2b266ccc49c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+<
  /li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
  n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250119T004141Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250125T143000Z
 DTEND:20250125T163000Z
 SUMMARY:Bundesliga - RB Leipzig - Bayer Leverkusen
-UID:c2a6ac66-b355-4ca2-809e-a1d739e8f8c6
+UID:443970f5-174d-43de-b844-19f5da4907ab
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250120T041111Z
+DTSTART:20250129T200000Z
+DTEND:20250129T220000Z
+SUMMARY:Champions League - Bayer Leverkusen - Sparta Praga
+UID:d3d9d357-e81f-403e-8370-d0fdade059b8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250118T003716Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250121T200000Z
 DTEND:20250121T220000Z
 SUMMARY:Champions League - Bologna - Borussia Dortmund
-UID:75bb9d6b-fcfe-4f76-8ee6-a3edf45a3642
+UID:ffb389a0-070c-473b-b592-6150b48c9db0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250118T003716Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250125T143000Z
 DTEND:20250125T163000Z
 SUMMARY:Bundesliga - Borussia Dortmund - Werder Bremen
-UID:4e1084be-938a-4d5f-bf37-c5dd0d688109
+UID:2eb65e16-497b-495f-a566-24df37d402a0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250120T041111Z
+DTSTART:20250129T200000Z
+DTEND:20250129T220000Z
+SUMMARY:Champions League - Borussia Dortmund - Shaktar Donetsk
+UID:a4b509cb-1ac7-4ae0-843d-da6f3d6ab975
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250112T041039Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250121T200000Z
 DTEND:20250121T220000Z
 SUMMARY:Champions League - Crvena Zvezda - PSV Eindhoven
-UID:e2e41ac0-dbb8-4191-affa-1fb768788b13
+UID:8bf6f71d-6b1b-43c1-a01f-2a0f505e7064
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250120T041111Z
+DTSTART:20250129T200000Z
+DTEND:20250129T220000Z
+SUMMARY:Champions League - Young Boys - Crvena Zvezda
+UID:d5b79044-c454-4bf6-968d-c0e8cb84b5e3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

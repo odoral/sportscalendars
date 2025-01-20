@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250113T004232Z
+DTSTAMP:20250120T041111Z
 DTSTART:20250122T200000Z
 DTEND:20250122T220000Z
 SUMMARY:Champions League - PSG - Manchester City
-UID:ccfc4ab8-3a1b-4632-9cb4-9d2d5d5c2a31
+UID:b35a7179-c093-4b75-bb37-751e4d6229a3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250120T041111Z
+DTSTART:20250129T200000Z
+DTEND:20250129T220000Z
+SUMMARY:Champions League - Stuttgart - PSG
+UID:d0b3ec3f-0315-46bd-bfe5-605ad623e4c7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
