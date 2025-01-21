@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250114T041042Z
+DTSTAMP:20250121T003819Z
 DTSTART:20250123T200000Z
 DTEND:20250123T220000Z
 SUMMARY:Europa League - Eintracht Frankfurt - Ferencvaros
-UID:6d130476-4ed8-4c06-b5cf-9fe7b6869f5d
+UID:489fed2a-c2cd-416d-a817-456c8506dbae
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250121T003819Z
+DTSTART:20250130T200000Z
+DTEND:20250130T220000Z
+SUMMARY:Europa League - Ferencvaros - AZ Alkmaar
+UID:709e4498-a806-4d91-9278-99aec79698eb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

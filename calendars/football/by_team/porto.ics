@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250114T041042Z
+DTSTAMP:20250121T003819Z
 DTSTART:20250123T174500Z
 DTEND:20250123T194500Z
 SUMMARY:Europa League - Porto - Olympiacos
-UID:55ddb2f6-1ff4-42c9-b9b9-99c7967f0a0a
+UID:763c4f8c-163e-4a81-ac88-eb93be6b4d35
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250121T003819Z
+DTSTART:20250130T200000Z
+DTEND:20250130T220000Z
+SUMMARY:Europa League - Maccabi Tel Aviv FC - Porto
+UID:1937e354-bb93-4870-aa64-e23ea94c962c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

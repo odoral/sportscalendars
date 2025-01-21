@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250114T041042Z
+DTSTAMP:20250121T003819Z
 DTSTART:20250123T200000Z
 DTEND:20250123T220000Z
 SUMMARY:Europa League - Elfsborg - Niza
-UID:bb7ad094-f471-4d3b-b6fc-fea46b2c96b9
+UID:c28b3c77-c30d-43f3-abca-0123f44c206d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250121T003819Z
+DTSTART:20250130T200000Z
+DTEND:20250130T220000Z
+SUMMARY:Europa League - Tottenham - Elfsborg
+UID:009d93f0-ee27-42e2-bcde-30cf20db05b4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

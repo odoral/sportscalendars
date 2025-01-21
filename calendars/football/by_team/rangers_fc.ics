@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250114T041042Z
+DTSTAMP:20250121T003819Z
 DTSTART:20250123T200000Z
 DTEND:20250123T220000Z
 SUMMARY:Europa League - Manchester United - Rangers FC
-UID:ac3c5bed-fafe-4f17-8e4f-849e2abf3aa5
+UID:94a5e73b-27ed-4e32-9a62-b1b6ba11a96e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250121T003819Z
+DTSTART:20250130T200000Z
+DTEND:20250130T220000Z
+SUMMARY:Europa League - Rangers FC - Union Saint-Gilloise
+UID:9eeb6abe-505e-485f-b8d1-252b95817fb4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

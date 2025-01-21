@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250114T041042Z
+DTSTAMP:20250121T003819Z
 DTSTART:20250123T174500Z
 DTEND:20250123T194500Z
 SUMMARY:Europa League - Viktoria Plzen - Anderlecht
-UID:91d0be80-6898-43ed-9ca7-9873ad9bb5ad
+UID:8a545be0-eb25-4f0f-8371-6907961b78b3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250121T003819Z
+DTSTART:20250130T200000Z
+DTEND:20250130T220000Z
+SUMMARY:Europa League - Anderlecht - Hoffenheim
+UID:3471fd31-21bf-4deb-a54d-d8aba28bb1cb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
