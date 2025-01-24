@@ -16,11 +16,22 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250124T003835Z
+DTSTAMP:20250124T081154Z
+DTSTART:20250126T110000Z
+DTEND:20250126T130000Z
+SUMMARY:Supercopa España Femenina - Barcelona Femenino - Real Madrid Fem.
+ 
+UID:9f82f904-edbf-4ce1-9754-fe71d4e7574f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 2\n- Open: TV3\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250124T081154Z
 DTSTART:20250131T190000Z
 DTEND:20250131T210000Z
 SUMMARY:Liga F - Real Madrid Fem. - RCD Espanyol Fem.
-UID:a5ffe04e-f353-4a50-b59e-7428d7307222
+UID:a30da08a-c1ef-42ca-a0e8-a353015ed6f0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN

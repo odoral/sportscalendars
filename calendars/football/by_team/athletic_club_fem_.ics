@@ -16,25 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250124T003835Z
+DTSTAMP:20250124T081154Z
 DTSTART:20250125T150000Z
 DTEND:20250125T170000Z
 SUMMARY:Liga F - Valencia Féminas - Athletic Club Fem.
-UID:ec41631b-7a83-44d0-9d8e-25f499cc8cef
+UID:dc29f321-993a-45b0-948c-23aef3ac1433
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250124T003835Z
-DTSTART:20250202T120000Z
-DTEND:20250202T140000Z
+DTSTAMP:20250124T081154Z
+DTSTART:20250202T110000Z
+DTEND:20250202T130000Z
 SUMMARY:Liga F - Athletic Club Fem. - Eibar Fem.
-UID:fbc7276a-c03e-4be4-a582-dace514b04f6
+UID:c6ced0f3-7018-440e-b895-d3c35b91273d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
- n: Gol Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li></
- ul></body></html>
-DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- PPV: DAZN\n- PPV: GolStadiu
- m Premium
+ n: Gol Play</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR

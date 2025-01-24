@@ -16,11 +16,22 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250123T041116Z
+DTSTAMP:20250124T081154Z
+DTSTART:20250126T110000Z
+DTEND:20250126T130000Z
+SUMMARY:Supercopa España Femenina - Barcelona Femenino - Real Madrid Fem.
+ 
+UID:0fca7d57-b20c-4b64-b17b-7ba1d10ae34a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 2\n- Open: TV3\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250124T081154Z
 DTSTART:20250201T173000Z
 DTEND:20250201T193000Z
 SUMMARY:Liga F - Barcelona Femenino - Levante UD  Fem.
-UID:81a81a83-b12c-4829-94a9-2f5d9e66f955
+UID:ea5111dd-5dbd-4887-a7fe-5bb3d9c7badb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN

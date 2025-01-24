@@ -18,6 +18,7 @@ You can import the URL into your favourite calendar app to receive daily updates
 |Premier League| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/premier_league.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/premier_league.ics)|
 |Primera Federación| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/primera_federacion.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/primera_federacion.ics)|
 |Serie A Italia| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/serie_a_italia.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/serie_a_italia.ics)|
+|Supercopa España Femenina| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/supercopa_espana_femenina.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/supercopa_espana_femenina.ics)|
 
 ### By Team
 |Name|Action #1|Action #2|
@@ -166,5 +167,4 @@ You can import the URL into your favourite calendar app to receive daily updates
 |Sporting Portugal| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/by_team/sporting_portugal.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/by_team/sporting_portugal.ics)|
 |Sporting de Gijón| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/by_team/sporting_de_gijon.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/by_team/sporting_de_gijon.ics)|
 |St. Pauli| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/by_team/st__pauli.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/by_team/st__pauli.ics)|
-|Stade Brestois| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/by_team/stade_brestois.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/by_team/stade_brestois.ics)|
-|Sturm Graz| [Download ICS](https://raw.githubusercontent.com/odoral/spo
+|Stade Brestois| [Download ICS](https://raw.githubuser
