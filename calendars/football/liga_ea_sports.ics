@@ -16,63 +16,66 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250126T130000Z
 DTEND:20250126T150000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Girona
-UID:41105f2d-3c37-4697-a706-2b1239456aab
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN LaLiga</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN LaLiga\n- PPV: MAX
+UID:edd4fb87-c972-4729-8716-66655a600a3b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250126T151500Z
 DTEND:20250126T171500Z
 SUMMARY:Liga EA Sports - Real Sociedad - Getafe
-UID:2ec293ad-95fd-4318-923c-846ce8bb9c87
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN LaLiga 2</li>\
- n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN LaLiga 2\n- PPV: MAX
+UID:6f0ffdf8-c55b-4ddf-9352-537f7d18f7e5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 2\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250126T173000Z
 DTEND:20250126T193000Z
 SUMMARY:Liga EA Sports - Athletic Club - Leganés
-UID:6d882212-13cf-468a-aba6-e6b6ddd5c231
+UID:e8741092-3212-462a-8741-ac368a2c15c9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250126T200000Z
 DTEND:20250126T220000Z
 SUMMARY:Liga EA Sports - Barcelona - Valencia
-UID:d23911cc-62e6-4669-8da1-fc8e2d24f043
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN LaLiga</li>\n<
- li>PPV: DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2\n- PPV: MAX
+UID:8b706480-c9cd-403f-ab56-83b01259cc9b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></
+ body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2\n- PPV:
+  MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250127T200000Z
 DTEND:20250127T220000Z
 SUMMARY:Liga EA Sports - Alavés - Celta
-UID:ba59e49d-7eff-4f8e-b93b-e6f70d5b556f
+UID:42cd4f33-8c05-4488-bcaa-25c9f9346aaf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
- n: Gol Play</li>\n<li>Open: TVG</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV
- : GolStadium Premium</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TVG\n- PPV: DAZN LaLi
- ga\n- PPV: GolStadium Premium\n- PPV: MAX
+ n: Gol Play</li>\n<li>Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 
+ LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: MAX</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TVG\n- PPV: DAZN\n- P
+ PV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250131T200000Z
 DTEND:20250131T220000Z
 SUMMARY:Liga EA Sports - Leganés - Rayo Vallecano
-UID:cd8b174c-bffd-4acf-a12d-73ca49561351
+UID:8601dd45-f0ac-4d5c-846b-1596ac42d592
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TeleMadrid</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ La
  Liga TV</li></ul></body></html>
@@ -80,91 +83,93 @@ DESCRIPTION:- Open: Gol Play\n- Open: TeleMadrid\n- PPV: GolStadium Premi
  um\n- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250201T130000Z
 DTEND:20250201T150000Z
 SUMMARY:Liga EA Sports - Getafe - Sevilla
-UID:4eb6c248-4c8e-49e9-b78c-8654d6c8d4f4
+UID:b48e3502-c69b-4467-b7fb-947901732b38
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250201T151500Z
 DTEND:20250201T171500Z
 SUMMARY:Liga EA Sports - Villarreal - Valladolid
-UID:dd4aaae8-ebb4-4461-aa7e-b11bae36a7d6
+UID:eface70f-5fdf-487f-9dca-37919539f215
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250201T173000Z
 DTEND:20250201T193000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Mallorca
-UID:7e07bfe3-5c48-455c-8cd4-9e1970cce08f
+UID:48d56aa9-4dae-42e8-8677-5142bc729084
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250201T200000Z
 DTEND:20250201T220000Z
 SUMMARY:Liga EA Sports - Espanyol - Real Madrid
-UID:d9d504c1-aec0-4408-8217-c8449bf578cb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN LaLiga</li>\n<
- li>PPV: DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2\n- PPV: MAX
+UID:07267fbc-9f38-49bc-9d9e-6d191dc15719
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></
+ body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2\n- PPV:
+  MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250202T130000Z
 DTEND:20250202T150000Z
 SUMMARY:Liga EA Sports - Barcelona - Alavés
-UID:c481667b-b625-4072-8ed5-bc93dc20ebbf
+UID:8f860d80-d116-4aeb-8921-cc269fa80954
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250202T151500Z
 DTEND:20250202T171500Z
 SUMMARY:Liga EA Sports - Valencia - Celta
-UID:11d6ff2f-88a0-484e-99ee-63aba832acf5
+UID:e469bfb7-8134-498f-a48b-336203648552
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250202T173000Z
 DTEND:20250202T193000Z
 SUMMARY:Liga EA Sports - Osasuna - Real Sociedad
-UID:5278c5e2-2ed8-4da9-a37b-71c0d77b86a2
+UID:d10ac299-22a5-4712-bb72-520765c82879
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250202T200000Z
 DTEND:20250202T220000Z
 SUMMARY:Liga EA Sports - Betis - Athletic Club
-UID:26ffcfcc-702c-47e3-bbab-d64e4d93c583
+UID:28fecd0a-f7c2-441d-ab38-d893fa76d0bd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250126T003947Z
+DTSTAMP:20250126T080956Z
 DTSTART:20250203T200000Z
 DTEND:20250203T220000Z
 SUMMARY:Liga EA Sports - Girona - Las Palmas
-UID:bcf985f9-5ae8-4cdc-b7aa-3f3c05760820
+UID:6294921f-23c4-4870-b1be-efc9918485c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
