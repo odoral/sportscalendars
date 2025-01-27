@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250127T041121Z
+DTSTAMP:20250127T081245Z
 DTSTART:20250201T150000Z
 DTEND:20250201T170000Z
 SUMMARY:Primera Federación - Betis Deportivo - Mérida
-UID:d1ceb4a6-6792-433d-8a66-1eb63366b7d1
+UID:a491af6e-5a73-4a8a-ac2e-30135674b637
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250127T041121Z
+DTSTAMP:20250127T081245Z
+DTSTART:20250201T150000Z
+DTEND:20250201T170000Z
+SUMMARY:Primera Federación - Celta B - Nàstic Tarragona
+UID:1547eefd-ebb7-4da0-8ab8-8c8cd8e41950
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250127T081245Z
 DTSTART:20250201T170000Z
 DTEND:20250201T190000Z
 SUMMARY:Primera Federación - Real Sociedad B - Barcelona Atlètic
-UID:e0985bd8-02a3-40d6-84b3-bf4f27ac7bb3
+UID:c60c8724-4f56-4039-b67d-d84806b5261d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
