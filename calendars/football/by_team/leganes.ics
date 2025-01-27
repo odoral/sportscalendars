@@ -16,25 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250122T003859Z
-DTSTART:20250126T173000Z
-DTEND:20250126T193000Z
-SUMMARY:Liga EA Sports - Athletic Club - Leganés
-UID:7e734cd1-ae0a-4b6e-8194-e6e65218fe5c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
- ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250122T003859Z
+DTSTAMP:20250127T041121Z
 DTSTART:20250131T200000Z
 DTEND:20250131T220000Z
 SUMMARY:Liga EA Sports - Leganés - Rayo Vallecano
-UID:43faf5b6-a60e-43be-9d21-96f0ed330b42
+UID:eba72440-101c-46ed-add2-ff0d2afc6620
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TeleMadrid</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ La
  Liga TV</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TeleMadrid\n- PPV: GolStadium Premi
  um\n- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250127T041121Z
+DTSTART:20250205T200000Z
+DTEND:20250205T220000Z
+SUMMARY:Copa del Rey - Leganés - Real Madrid
+UID:0e478e4f-565f-454d-af2a-737bad4afa98
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
+ >\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Copa del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
