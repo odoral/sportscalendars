@@ -16,23 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250127T041121Z
+DTSTAMP:20250128T003850Z
 DTSTART:20250204T203000Z
 DTEND:20250204T223000Z
 SUMMARY:Copa del Rey - Atlético de Madrid - Getafe
-UID:02d982c0-6016-4461-80a6-131dc80055e4
+UID:e918afc9-9f69-47ec-b4b7-676a43ae8108
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250127T041121Z
+DTSTAMP:20250128T003850Z
 DTSTART:20250205T200000Z
 DTEND:20250205T220000Z
 SUMMARY:Copa del Rey - Leganés - Real Madrid
-UID:10072c2a-80eb-4e3d-9cc4-3bbe1ae2a008
+UID:2639d9c9-253a-409c-8084-2b6850240a84
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  >\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250128T003850Z
+DTSTART:20250206T183000Z
+DTEND:20250206T203000Z
+SUMMARY:Copa del Rey - Real Sociedad - Osasuna
+UID:f141b891-0cab-4758-9204-f60dad6cfb38
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Copa del Rey
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250128T003850Z
+DTSTART:20250206T203000Z
+DTEND:20250206T223000Z
+SUMMARY:Copa del Rey - Valencia - Barcelona
+UID:2be1665e-95b0-4e12-ab21-a54884e5cd15
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
