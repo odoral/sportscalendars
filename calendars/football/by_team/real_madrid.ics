@@ -16,23 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250127T041121Z
-DTSTART:20250129T200000Z
-DTEND:20250129T220000Z
-SUMMARY:Champions League - Stade Brestois - Real Madrid
-UID:55165d68-39b7-4fb0-b78a-492099901473
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 5</li>\n<li>PPV: Movistar Plus+<
- /li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 5\
- n- PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250127T041121Z
+DTSTAMP:20250130T041100Z
 DTSTART:20250201T200000Z
 DTEND:20250201T220000Z
 SUMMARY:Liga EA Sports - Espanyol - Real Madrid
-UID:948fdffb-2e86-41c3-b95d-19f0cab77353
+UID:5bf0035e-1563-433d-9b55-8675ad3a08e6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></
  body></html>
@@ -40,13 +28,25 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2\n- PPV:
   MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250127T041121Z
+DTSTAMP:20250130T041100Z
 DTSTART:20250205T200000Z
 DTEND:20250205T220000Z
 SUMMARY:Copa del Rey - Leganés - Real Madrid
-UID:c38e0055-7211-489a-9f25-0706ebaef8ac
+UID:f7fd81fb-22fb-4581-8271-4aa960b433f7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  >\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250130T041100Z
+DTSTART:20250208T200000Z
+DTEND:20250208T220000Z
+SUMMARY:Liga EA Sports - Real Madrid - Atlético de Madrid
+UID:71fa1c8f-4110-493d-994d-cd4443d2b7db
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
+ html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
+ lus+
 END:VEVENT
 END:VCALENDAR
