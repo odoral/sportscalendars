@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250131T041052Z
+DTSTAMP:20250201T081013Z
 DTSTART:20250201T173000Z
 DTEND:20250201T193000Z
 SUMMARY:Liga F - Barcelona Femenino - Levante UD  Fem.
-UID:18387caf-19fa-44c0-a486-5b910b53e0c4
+UID:45f59b7f-5ad4-4c8d-9e01-85cddcf74e07
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250131T041052Z
+DTSTAMP:20250201T081013Z
 DTSTART:20250209T110000Z
 DTEND:20250209T130000Z
 SUMMARY:Liga F - RCD Espanyol Fem. - Barcelona Femenino
-UID:06c7340d-e8d4-49a5-995a-61a962ad535c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:c900829a-8ea6-48c6-9ca9-54679b9b013a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TV3</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li></u
+ l></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TV3\n- PPV: DAZN\n- PPV: GolStadium
+  Premium
 END:VEVENT
 END:VCALENDAR
