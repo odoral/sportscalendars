@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250131T041052Z
+DTSTAMP:20250202T004106Z
 DTSTART:20250202T163000Z
 DTEND:20250202T183000Z
 SUMMARY:Premier League - Arsenal - Manchester City
-UID:abe121cf-a690-438b-9545-0f524171c677
+UID:4640b210-6077-430a-bdb0-44088ffb3fbd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: MAX</li>\n<li
  >PPV: Movistar Plus+ 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
  V: MAX\n- PPV: Movistar Plus+ 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250202T004106Z
+DTSTART:20250211T200000Z
+DTEND:20250211T220000Z
+SUMMARY:Champions League - Manchester City - Real Madrid
+UID:1b540150-365c-4579-94a6-87d6ae966744
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
