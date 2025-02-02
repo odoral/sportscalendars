@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20250121T082933Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241204T081258Z
-DTSTART:20241213T193000Z
-DTEND:20241213T213000Z
-SUMMARY:Primera Federación - Osasuna Promesas - Barcelona Atlètic
-UID:8981b0a5-42e1-47ea-8135-b5abb425dd77
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
- i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+DTSTAMP:20250202T121323Z
+DTSTART:20250202T153000Z
+DTEND:20250202T173000Z
+SUMMARY:Primera Federación - Lugo - Osasuna Promesas
+UID:655acb31-6faa-4bbf-8acd-de9a00837a0d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR
