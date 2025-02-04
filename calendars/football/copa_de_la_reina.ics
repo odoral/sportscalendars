@@ -16,21 +16,41 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250203T041103Z
+DTSTAMP:20250204T003844Z
 DTSTART:20250211T180000Z
 DTEND:20250211T200000Z
 SUMMARY:Copa de la Reina - Cacereño Fem. - At. Madrid Fem.
-UID:00589507-bea6-4c2d-bc40-ebce011d5af6
+UID:daae410c-1080-404e-85b4-6d39fcfdc1b3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: RFEF TV</li></ul></
  body></html>
 DESCRIPTION:- PPV: RFEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250203T041103Z
+DTSTAMP:20250204T003844Z
 DTSTART:20250212T180000Z
 DTEND:20250212T200000Z
 SUMMARY:Copa de la Reina - Madrid C.F.F. - Barcelona Femenino
-UID:40ebbc1c-e0c6-4c0b-975f-f362d5819051
+UID:3fff4c6e-632a-4ee1-ad99-71610e76d03e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250204T003844Z
+DTSTART:20250213T180000Z
+DTEND:20250213T200000Z
+SUMMARY:Copa de la Reina - Levante UD  Fem. - Granada Fem.
+UID:0efcfab1-d3bc-4ed2-b295-83c63c755e84
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: RFEF TV</li></ul></
+ body></html>
+DESCRIPTION:- PPV: RFEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250204T003844Z
+DTSTART:20250213T200000Z
+DTEND:20250213T220000Z
+SUMMARY:Copa de la Reina - Real Madrid Fem. - Real Sociedad F.
+UID:c8a7ffa8-5fc3-4fee-bff9-1f11a1ff5911
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
