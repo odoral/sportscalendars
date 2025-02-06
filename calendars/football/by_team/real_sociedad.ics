@@ -16,33 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250205T081158Z
+DTSTAMP:20250206T081153Z
 DTSTART:20250206T183000Z
 DTEND:20250206T203000Z
 SUMMARY:Copa del Rey - Real Sociedad - Osasuna
-UID:430e9cb7-791a-4a22-b2c3-24120f4c7edf
+UID:4487e409-03a5-4cf4-9fa1-80a3c46ca3fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
  ></ul></body></html>
 DESCRIPTION:- PPV: M+ Copa del Rey
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250205T081158Z
+DTSTAMP:20250206T081153Z
 DTSTART:20250209T173000Z
 DTEND:20250209T193000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Espanyol
-UID:202a9201-1943-43de-b2fe-0a1d70e97a21
+UID:de81ba8a-fa17-433b-9b67-ca4dd590ec1e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250205T081158Z
+DTSTAMP:20250206T081153Z
 DTSTART:20250213T174500Z
 DTEND:20250213T194500Z
 SUMMARY:Europa League - FC Midtjylland - Real Sociedad
-UID:0b807ca6-ca8a-40d0-9af1-efdaa94cbe9a
+UID:7229d5b7-2c04-47e7-9390-c98d084597a2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+
+ s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
+ i></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
+  PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
