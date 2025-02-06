@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250203T041103Z
+DTSTAMP:20250206T041103Z
 DTSTART:20250209T130000Z
 DTEND:20250209T150000Z
 SUMMARY:Liga EA Sports - Alavés - Getafe
-UID:6a6c6310-fa49-44d0-b8ad-c5d75071f16d
+UID:8d1d3f37-5411-44c8-9ad8-91241f40ea12
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250206T041103Z
+DTSTART:20250215T130000Z
+DTEND:20250215T150000Z
+SUMMARY:Liga EA Sports - Leganés - Alavés
+UID:77ad94cc-5cdc-4aa1-b149-bac57c915599
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>Open: TeleMadrid</li>\n<li>PPV: GolStadium Premium
+ </li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TeleMadrid\n- PPV: Go
+ lStadium Premium\n- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
