@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250205T081157Z
+DTSTAMP:20250209T004159Z
 DTSTART:20250212T200000Z
 DTEND:20250212T220000Z
 SUMMARY:Champions League - Mónaco - Benfica
-UID:a493d0de-a7b4-4711-b271-dd2aa1e6853d
+UID:bb3d2442-b88d-41dd-8ed2-0e1a258af12a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250209T004159Z
+DTSTART:20250218T200000Z
+DTEND:20250218T220000Z
+SUMMARY:Champions League - Benfica - Mónaco
+UID:b381a2cc-2b19-4c00-bfae-06e026394938
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

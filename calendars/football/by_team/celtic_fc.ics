@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250205T081158Z
+DTSTAMP:20250209T004159Z
 DTSTART:20250212T200000Z
 DTEND:20250212T220000Z
 SUMMARY:Champions League - Celtic FC - FC Bayern
-UID:05a2691e-fc09-42e4-9eea-35ce0a0b788d
+UID:fd3320f7-666b-4eed-a3a1-aad156d62b4d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
   PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250209T004159Z
+DTSTART:20250218T200000Z
+DTEND:20250218T220000Z
+SUMMARY:Champions League - FC Bayern - Celtic FC
+UID:5eed30e9-d55b-4169-9015-52e30921c05c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
