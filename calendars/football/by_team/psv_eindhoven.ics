@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250205T081157Z
+DTSTAMP:20250210T041116Z
 DTSTART:20250211T200000Z
 DTEND:20250211T220000Z
 SUMMARY:Champions League - Juventus - PSV Eindhoven
-UID:46f2ecaa-8516-41d7-a569-2dc61d780c54
+UID:929a04de-4b04-4c9f-b60c-08b357b5b0e1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T041116Z
+DTSTART:20250219T200000Z
+DTEND:20250219T220000Z
+SUMMARY:Champions League - PSV Eindhoven - Juventus
+UID:6cb81448-979d-4e3e-bdd0-af4ad046686f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

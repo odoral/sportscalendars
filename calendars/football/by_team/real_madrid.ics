@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250209T004159Z
+DTSTAMP:20250210T041117Z
 DTSTART:20250211T200000Z
 DTEND:20250211T220000Z
 SUMMARY:Champions League - Manchester City - Real Madrid
-UID:40994817-8ae3-4035-8e69-5a669074e380
+UID:ec4fca01-ce75-4726-b5ea-c20289add01e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250209T004159Z
+DTSTAMP:20250210T041117Z
 DTSTART:20250215T151500Z
 DTEND:20250215T171500Z
 SUMMARY:Liga EA Sports - Osasuna - Real Madrid
-UID:732d5d82-6f14-4784-8c03-aa4b872d8fd3
+UID:38bf2972-fa2f-46c3-93ae-752d3b5c5470
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T041117Z
+DTSTART:20250219T200000Z
+DTEND:20250219T220000Z
+SUMMARY:Champions League - Real Madrid - Manchester City
+UID:689d0b4a-1d79-4488-921f-b375582b8a25
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

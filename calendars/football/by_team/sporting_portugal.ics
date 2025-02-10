@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250205T081157Z
+DTSTAMP:20250210T041116Z
 DTSTART:20250211T200000Z
 DTEND:20250211T220000Z
 SUMMARY:Champions League - Sporting Portugal - Borussia Dortmund
-UID:f482f15a-1d65-4377-8768-af949fe26a08
+UID:71832d05-c7f8-4fea-b0c6-a1b0900d9171
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250210T041116Z
+DTSTART:20250219T174500Z
+DTEND:20250219T194500Z
+SUMMARY:Champions League - Borussia Dortmund - Sporting Portugal
+UID:53f4bc23-adcc-42ff-a6f4-4f527ecf6f54
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
