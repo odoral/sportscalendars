@@ -16,15 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250206T081153Z
+DTSTAMP:20250211T041107Z
 DTSTART:20250213T174500Z
 DTEND:20250213T194500Z
 SUMMARY:Europa League - FC Midtjylland - Real Sociedad
-UID:8871c4ea-1207-4b45-9e50-97c354865bcf
+UID:4f3042bf-1c51-4355-b680-edc8fb5e2e47
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250211T041107Z
+DTSTART:20250220T200000Z
+DTEND:20250220T220000Z
+SUMMARY:Europa League - Real Sociedad - FC Midtjylland
+UID:278bcfbc-b778-4116-8692-f90a864424d8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
