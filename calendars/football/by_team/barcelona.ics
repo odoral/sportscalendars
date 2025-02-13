@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250210T041117Z
+DTSTAMP:20250213T003942Z
 DTSTART:20250217T200000Z
 DTEND:20250217T220000Z
 SUMMARY:Liga EA Sports - Barcelona - Rayo Vallecano
-UID:b5130453-af10-4fed-9bbb-49c74c88540c
+UID:251b4de3-7c82-46ea-ab23-6f9af93cd6fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250213T003942Z
+DTSTART:20250222T200000Z
+DTEND:20250222T220000Z
+SUMMARY:Liga EA Sports - Las Palmas - Barcelona
+UID:bfbd71e0-b9e1-4ddd-b6e9-9f53720ccd03
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
+ html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
+ lus+
 END:VEVENT
 END:VCALENDAR
