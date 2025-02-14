@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250210T041116Z
+DTSTAMP:20250214T041113Z
 DTSTART:20250217T193000Z
 DTEND:20250217T213000Z
 SUMMARY:Liga Hypermotion - Almería - Elche
-UID:12ceef5f-0b56-42cd-a450-a6514021e7ab
+UID:89858241-1d4f-4427-b70a-4176f7b49f43
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250214T041113Z
+DTSTART:20250223T151500Z
+DTEND:20250223T171500Z
+SUMMARY:Liga Hypermotion - Elche - Cartagena
+UID:35fda727-88d3-4051-b615-8931864c5642
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

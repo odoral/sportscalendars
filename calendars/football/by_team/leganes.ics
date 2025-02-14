@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250210T041116Z
+DTSTAMP:20250214T041113Z
 DTSTART:20250215T130000Z
 DTEND:20250215T150000Z
 SUMMARY:Liga EA Sports - Leganés - Alavés
-UID:6b4297cb-650d-4ed9-8926-4e4d88f170c0
+UID:c34324be-3d13-4ec2-9f8c-ad25e0cf507b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: Gol Play</li>\n<li>Open: TeleMadrid</li>\n<li>PPV: GolStadium Premium
  </li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TeleMadrid\n- PPV: Go
  lStadium Premium\n- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250214T041113Z
+DTSTART:20250223T200000Z
+DTEND:20250223T220000Z
+SUMMARY:Liga EA Sports - Real Sociedad - Leganés
+UID:079e0d3c-fe8f-4821-974a-59855733c468
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR
