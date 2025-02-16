@@ -16,25 +16,37 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250213T003942Z
+DTSTAMP:20250216T004315Z
 DTSTART:20250217T200000Z
 DTEND:20250217T220000Z
 SUMMARY:Liga EA Sports - Barcelona - Rayo Vallecano
-UID:251b4de3-7c82-46ea-ab23-6f9af93cd6fc
+UID:b36ed0b3-047f-43b9-a920-e45ca067bfc2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250213T003942Z
+DTSTAMP:20250216T004315Z
 DTSTART:20250222T200000Z
 DTEND:20250222T220000Z
 SUMMARY:Liga EA Sports - Las Palmas - Barcelona
-UID:bfbd71e0-b9e1-4ddd-b6e9-9f53720ccd03
+UID:41ab4f6d-de71-48a5-8a62-70ca0df15e24
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
  html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
  lus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250216T004315Z
+DTSTART:20250225T203000Z
+DTEND:20250225T223000Z
+SUMMARY:Copa del Rey - Barcelona - Atlético de Madrid
+UID:4dfecd5e-907b-4dd7-bab6-29534c08dcc8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<li>PPV: Movistar Plus
+ +</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa del Rey\n- PP
+ V: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

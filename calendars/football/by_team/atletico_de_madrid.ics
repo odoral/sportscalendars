@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250213T003942Z
-DTSTART:20250215T173000Z
-DTEND:20250215T193000Z
-SUMMARY:Liga EA Sports - Atlético de Madrid - Celta
-UID:261c1e76-538a-4dca-bbff-bb137600b647
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 2\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250213T003942Z
+DTSTAMP:20250216T004315Z
 DTSTART:20250222T173000Z
 DTEND:20250222T193000Z
 SUMMARY:Liga EA Sports - Valencia - Atlético de Madrid
-UID:1428d8b0-66b1-4d7a-bfd8-0e9f69bbf992
+UID:5d534a27-7c65-463e-aac4-55188cd207f0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250216T004315Z
+DTSTART:20250225T203000Z
+DTEND:20250225T223000Z
+SUMMARY:Copa del Rey - Barcelona - Atlético de Madrid
+UID:65ca9902-005a-452d-8e0a-845cad128ca9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<li>PPV: Movistar Plus
+ +</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa del Rey\n- PP
+ V: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

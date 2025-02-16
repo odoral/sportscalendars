@@ -16,23 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250206T041103Z
-DTSTART:20250206T183000Z
-DTEND:20250206T203000Z
-SUMMARY:Copa del Rey - Real Sociedad - Osasuna
-UID:6d2e4d87-c029-4a37-b7f5-7ae6edfd13ac
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Copa del Rey</li
- ></ul></body></html>
-DESCRIPTION:- PPV: M+ Copa del Rey
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250206T041103Z
-DTSTART:20250206T203000Z
-DTEND:20250206T223000Z
-SUMMARY:Copa del Rey - Valencia - Barcelona
-UID:1af4dd69-c297-4b89-9342-d106443803a7
+DTSTAMP:20250216T004315Z
+DTSTART:20250225T203000Z
+DTEND:20250225T223000Z
+SUMMARY:Copa del Rey - Barcelona - Atlético de Madrid
+UID:6d199094-cf91-49b9-a7df-b6f91ecf87a6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play
+ n: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<li>PPV: Movistar Plus
+ +</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa del Rey\n- PP
+ V: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
