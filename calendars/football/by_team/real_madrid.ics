@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250216T004315Z
+DTSTAMP:20250217T041135Z
 DTSTART:20250219T200000Z
 DTEND:20250219T220000Z
 SUMMARY:Champions League - Real Madrid - Manchester City
-UID:a8164710-8d5e-445b-b24f-c2b7aa4976bc
+UID:4c6aa845-911e-48d1-b42a-5e4a1508c1af
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -28,15 +28,27 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250216T004315Z
+DTSTAMP:20250217T041135Z
 DTSTART:20250223T151500Z
 DTEND:20250223T171500Z
 SUMMARY:Liga EA Sports - Real Madrid - Girona
-UID:e6c02186-f09e-4854-98c6-f837f1f76ba3
+UID:357568e5-60aa-4b6c-97d1-002ed2c2bb38
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></
  body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2\n- PPV:
   MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250217T041135Z
+DTSTART:20250226T203000Z
+DTEND:20250226T223000Z
+SUMMARY:Copa del Rey - Real Sociedad - Real Madrid
+UID:b26bf627-ce2a-4ba9-bc9c-166507b12283
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<li>PPV: Movistar Plus
+ +</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa del Rey\n- PP
+ V: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

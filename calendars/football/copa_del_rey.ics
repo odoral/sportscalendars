@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250216T004315Z
+DTSTAMP:20250217T041135Z
 DTSTART:20250225T203000Z
 DTEND:20250225T223000Z
 SUMMARY:Copa del Rey - Barcelona - Atlético de Madrid
-UID:6d199094-cf91-49b9-a7df-b6f91ecf87a6
+UID:5705d842-962a-4af2-81e0-997bd7d97cff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<li>PPV: Movistar Plus
+ +</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa del Rey\n- PP
+ V: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250217T041135Z
+DTSTART:20250226T203000Z
+DTEND:20250226T223000Z
+SUMMARY:Copa del Rey - Real Sociedad - Real Madrid
+UID:62d7daad-0f77-44cb-98b4-ed192f21771d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<li>PPV: Movistar Plus
  +</li></ul></body></html>

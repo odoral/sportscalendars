@@ -16,33 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250215T041021Z
-DTSTART:20250216T200000Z
-DTEND:20250216T220000Z
-SUMMARY:Liga EA Sports - Betis - Real Sociedad
-UID:a41737e5-e01f-4e90-8a30-18b6012f7f72
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250215T041021Z
+DTSTAMP:20250217T041135Z
 DTSTART:20250220T200000Z
 DTEND:20250220T220000Z
 SUMMARY:Europa League - Real Sociedad - FC Midtjylland
-UID:2bde88e4-601c-4cfa-b502-e6fc664ffb6d
+UID:ef968a57-4adb-4809-a20a-4053b61d4de4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250215T041021Z
+DTSTAMP:20250217T041135Z
 DTSTART:20250223T200000Z
 DTEND:20250223T220000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Leganés
-UID:ef0c674d-3fd4-4e7c-8dfb-6461ae8a071f
+UID:76b6a56a-41e1-482c-974c-103d1b836250
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250217T041135Z
+DTSTART:20250226T203000Z
+DTEND:20250226T223000Z
+SUMMARY:Copa del Rey - Real Sociedad - Real Madrid
+UID:2a475f25-e215-43f4-822e-a558de82860b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<li>PPV: Movistar Plus
+ +</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa del Rey\n- PP
+ V: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

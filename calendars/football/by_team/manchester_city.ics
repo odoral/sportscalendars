@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250216T004315Z
+DTSTAMP:20250217T041135Z
 DTSTART:20250219T200000Z
 DTEND:20250219T220000Z
 SUMMARY:Champions League - Real Madrid - Manchester City
-UID:ac377f71-12f6-4dff-ae9e-4006de656644
+UID:edcdf857-fd60-4382-837e-0d5c46171d36
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -28,15 +28,25 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250216T004315Z
+DTSTAMP:20250217T041135Z
 DTSTART:20250223T163000Z
 DTEND:20250223T183000Z
 SUMMARY:Premier League - Manchester City - Liverpool
-UID:422c42f2-a0ed-48a8-a796-964652989f2b
+UID:2cc816d5-815a-444f-8de5-9d4bb17f494f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
  s+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250217T041135Z
+DTSTART:20250226T193000Z
+DTEND:20250226T213000Z
+SUMMARY:Premier League - Tottenham - Manchester City
+UID:838ac32a-9f84-40fc-88b2-418f4ffe5e54
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
