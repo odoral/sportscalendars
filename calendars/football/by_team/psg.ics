@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250214T081136Z
+DTSTAMP:20250219T003929Z
 DTSTART:20250219T200000Z
 DTEND:20250219T220000Z
 SUMMARY:Champions League - PSG - Stade Brestois
-UID:a01e16ff-1637-48d9-bcfd-46c64930ca86
+UID:637f4b2e-e286-411d-8a89-0f0a4fd766b6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: M+ Liga de Camp
+ eones 5</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
+ n- PPV: M+ Liga de Campeones 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250219T003929Z
+DTSTART:20250219T200000Z
+DTEND:20250219T220000Z
+SUMMARY:Champions League - PSG - Stade Brestois
+UID:21b6b4bd-4dee-41bd-a3e1-da3adb4b9290
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: M+ Liga de Camp
  eones 5</li></ul></body></html>
