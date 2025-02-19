@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250218T081208Z
+DTSTAMP:20250219T041107Z
 DTSTART:20250221T003000Z
 DTEND:20250221T023000Z
 SUMMARY:CONMEBOL Recopa - Racing Avellaneda - Botafogo
-UID:afa42c7b-52d8-4452-a5c2-981a906f9efa
+UID:20ff8dff-ee95-4aa5-98e2-aca0c36d5050
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250219T041107Z
+DTSTART:20250228T003000Z
+DTEND:20250228T023000Z
+SUMMARY:CONMEBOL Recopa - Botafogo - Racing Avellaneda
+UID:98fa1110-fbf5-43ec-bebc-9a963949417f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
  PV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga+\n- PPV: Movistar Plus+
