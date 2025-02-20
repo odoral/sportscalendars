@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250218T003907Z
+DTSTAMP:20250220T041111Z
 DTSTART:20250222T200000Z
 DTEND:20250222T220000Z
 SUMMARY:Liga EA Sports - Las Palmas - Barcelona
-UID:3778bf19-e29b-46e9-b308-44af9efd23fc
+UID:30b7e586-e70d-4452-95a4-a287d42b8db3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
  html>
@@ -28,15 +28,25 @@ DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
  lus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250218T003907Z
+DTSTAMP:20250220T041111Z
 DTSTART:20250225T203000Z
 DTEND:20250225T223000Z
 SUMMARY:Copa del Rey - Barcelona - Atlético de Madrid
-UID:09ca6944-55b7-4338-9fa3-49ed33c2ed55
+UID:568073ab-684d-4a2d-82cb-91bd2f4d30c3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<li>PPV: Movistar Plus
  +</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa del Rey\n- PP
  V: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250220T041111Z
+DTSTART:20250301T173000Z
+DTEND:20250301T193000Z
+SUMMARY:Liga EA Sports - Barcelona - Real Sociedad
+UID:2754aea8-f540-4f61-8757-919ccaf92871
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

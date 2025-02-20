@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250217T041135Z
+DTSTAMP:20250220T041111Z
 DTSTART:20250224T200000Z
 DTEND:20250224T220000Z
 SUMMARY:Liga EA Sports - Sevilla - Mallorca
-UID:0af9813f-62a7-4984-a20f-5ea8622eddac
+UID:ae239bec-8440-4f2c-9630-2ed91ec0f792
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
  i>Open: Gol Play</li>\n<li>Open: IB3</li>\n<li>PPV: DAZN</li>\n<li>PPV: 
  DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: MAX</li></u
  l></body></html>
 DESCRIPTION:- Open: Canal Sur\n- Open: Gol Play\n- Open: IB3\n- PPV: DAZN
  \n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250220T041111Z
+DTSTART:20250301T151500Z
+DTEND:20250301T171500Z
+SUMMARY:Liga EA Sports - Rayo Vallecano - Sevilla
+UID:818de4d6-28dd-4ebd-bfdc-cb1f03ea01da
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
+ i>Open: Gol Play</li>\n<li>Open: TeleMadrid</li>\n<li>PPV: GolStadium Pr
+ emium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
+DESCRIPTION:- Open: Canal Sur\n- Open: Gol Play\n- Open: TeleMadrid\n- PP
+ V: GolStadium Premium\n- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
