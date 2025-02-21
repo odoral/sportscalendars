@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20250121T082933Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241102T081101Z
-DTSTART:20241103T183000Z
-DTEND:20241103T203000Z
-SUMMARY:Mundial Sub-17 Femenino - Estados Unidos - Inglaterra
-UID:eefe9315-4637-4446-b1c8-16a4a90f8464
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
- en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
+DTSTAMP:20250221T081459Z
+DTSTART:20250226T110000Z
+DTEND:20250226T130000Z
+SUMMARY:Otras competiciones - España - Estados Unidos
+UID:3c4bd7dc-46ca-450e-a1ee-bd043079f5ab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
+ li>\n<li>PPV: RFEF TV</li></ul></body></html>
+DESCRIPTION:- Open: SEFutbol Youtube\n- PPV: RFEF TV
 END:VEVENT
 END:VCALENDAR
