@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250217T041135Z
+DTSTAMP:20250221T041115Z
 DTSTART:20250224T200000Z
 DTEND:20250224T220000Z
 SUMMARY:Liga EA Sports - Sevilla - Mallorca
-UID:b8771908-4d71-46f7-8a06-049b35b972f8
+UID:dcdc15c0-0bc4-47b2-8d26-4e56e64e270e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
  i>Open: Gol Play</li>\n<li>Open: IB3</li>\n<li>PPV: DAZN</li>\n<li>PPV: 
  DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: MAX</li></u
  l></body></html>
 DESCRIPTION:- Open: Canal Sur\n- Open: Gol Play\n- Open: IB3\n- PPV: DAZN
  \n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250221T041115Z
+DTSTART:20250302T173000Z
+DTEND:20250302T193000Z
+SUMMARY:Liga EA Sports - Mallorca - Alavés
+UID:f2f2c2ed-0b1e-444c-ae61-f2aa982658af
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
