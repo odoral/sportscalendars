@@ -16,43 +16,83 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250222T041018Z
+DTSTAMP:20250222T081039Z
 DTSTART:20250223T110000Z
 DTEND:20250223T130000Z
 SUMMARY:Otras competiciones - España - Holanda
-UID:9fef6977-5a05-4727-aa23-7fcc727073d0
+UID:0807ea25-8ff5-427f-9fc3-60d69674c80d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
  li>\n<li>PPV: RFEF TV</li></ul></body></html>
 DESCRIPTION:- Open: SEFutbol Youtube\n- PPV: RFEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250222T041018Z
+DTSTAMP:20250222T081039Z
 DTSTART:20250225T140000Z
 DTEND:20250225T160000Z
 SUMMARY:Otras competiciones - España - Noruega
-UID:1e402983-0ecc-4ff2-b896-15d6fbdbf936
+UID:e5d41bd8-164e-4c04-a207-e445c60c8387
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
  li>\n<li>PPV: RFEF TV</li></ul></body></html>
 DESCRIPTION:- Open: SEFutbol Youtube\n- PPV: RFEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250222T041018Z
+DTSTAMP:20250222T081039Z
 DTSTART:20250225T160000Z
 DTEND:20250225T180000Z
 SUMMARY:Otras competiciones - España - Dinamarca
-UID:7cd71eec-f7ed-425e-beb1-b3eb96186089
+UID:981e8888-8aa3-472c-92ab-1d741e8a71c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
+ li></ul></body></html>
+DESCRIPTION:- Open: SEFutbol Youtube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250222T081039Z
+DTSTART:20250225T194500Z
+DTEND:20250225T214500Z
+SUMMARY:Otras competiciones - Arminia Bielefeld - Werder Bremen
+UID:b128995c-741a-4a4c-8006-bfe588549a0a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250222T081039Z
+DTSTART:20250225T200000Z
+DTEND:20250225T220000Z
+SUMMARY:Otras competiciones - Inter de Milan - Lazio
+UID:19c23d0c-687a-4de6-879f-15d0a4892e3c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250222T081039Z
+DTSTART:20250226T110000Z
+DTEND:20250226T130000Z
+SUMMARY:Otras competiciones - España - Estados Unidos
+UID:8028cfba-8224-4071-aa04-2c21ce746eae
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
  li>\n<li>PPV: RFEF TV</li></ul></body></html>
 DESCRIPTION:- Open: SEFutbol Youtube\n- PPV: RFEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250222T041018Z
-DTSTART:20250226T110000Z
-DTEND:20250226T130000Z
-SUMMARY:Otras competiciones - España - Estados Unidos
-UID:c4824ab1-1afe-453b-81fe-2a0e256fd2c1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
- li>\n<li>PPV: RFEF TV</li></ul></body></html>
-DESCRIPTION:- Open: SEFutbol Youtube\n- PPV: RFEF TV
+DTSTAMP:20250222T081039Z
+DTSTART:20250226T194500Z
+DTEND:20250226T214500Z
+SUMMARY:Otras competiciones - RB Leipzig - VfL Wolfsburg
+UID:b5b1da6c-d865-439d-b6c9-ea0996830862
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250222T081039Z
+DTSTART:20250226T200000Z
+DTEND:20250226T220000Z
+SUMMARY:Otras competiciones - Juventus - Empoli
+UID:834f096e-b242-413c-8f5e-ef9a4f77223c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
