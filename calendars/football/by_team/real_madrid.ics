@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250222T081039Z
+DTSTAMP:20250223T041016Z
 DTSTART:20250223T151500Z
 DTEND:20250223T171500Z
 SUMMARY:Liga EA Sports - Real Madrid - Girona
-UID:a1ac7aea-2257-4ee6-818e-b97fd7ec27a6
+UID:0fdf031b-064e-4711-b665-b9434f2cae1b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li>\n<li>PPV: MAX</li></ul></
  body></html>
@@ -28,11 +28,11 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2\n- PPV:
   MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250222T081039Z
+DTSTAMP:20250223T041016Z
 DTSTART:20250226T203000Z
 DTEND:20250226T223000Z
 SUMMARY:Copa del Rey - Real Sociedad - Real Madrid
-UID:c1e476b2-e9ac-4b90-b1fc-079c9ba968c7
+UID:b1e2ec96-34b7-42ec-ae7c-3a45eed88f97
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: La 1</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<
  li>PPV: Movistar Plus+</li></ul></body></html>
@@ -40,13 +40,23 @@ DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa
   del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250222T081039Z
+DTSTAMP:20250223T041016Z
 DTSTART:20250301T173000Z
 DTEND:20250301T193000Z
 SUMMARY:Liga EA Sports - Betis - Real Madrid
-UID:82295b4b-7b67-4137-be15-3b32bbdb6245
+UID:67de3904-0bca-4123-9833-0bbb7f4ad6ee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250223T041016Z
+DTSTART:20250304T200000Z
+DTEND:20250304T220000Z
+SUMMARY:Champions League - Real Madrid - Atlético de Madrid
+UID:d0bfa98f-3704-4658-b9d6-367ce90c83d1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
