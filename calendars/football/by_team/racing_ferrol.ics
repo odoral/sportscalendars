@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250223T041016Z
+DTSTAMP:20250224T041130Z
 DTSTART:20250301T151500Z
 DTEND:20250301T171500Z
 SUMMARY:Liga Hypermotion - Huesca - Racing Ferrol
-UID:0ffe224e-29bf-443f-b814-9113a5d7f801
+UID:896b866d-95e3-4b92-8e48-af33a82c8519
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T041130Z
+DTSTART:20250305T190000Z
+DTEND:20250305T210000Z
+SUMMARY:Liga Hypermotion - Racing Ferrol - Burgos C.F.
+UID:2fa1029e-30c4-46f1-adf1-89d5712425fe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>

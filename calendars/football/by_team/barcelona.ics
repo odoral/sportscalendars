@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250223T041016Z
+DTSTAMP:20250224T041130Z
 DTSTART:20250225T203000Z
 DTEND:20250225T223000Z
 SUMMARY:Copa del Rey - Barcelona - Atlético de Madrid
-UID:84ee29e1-9d47-4e73-bbb3-59c5550ac71e
+UID:1e647ebe-6929-4a1f-9915-bd2ddc5b2b8a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
  i>PPV: Movistar Plus+</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa
  del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250223T041016Z
+DTSTAMP:20250224T041130Z
 DTSTART:20250302T151500Z
 DTEND:20250302T171500Z
 SUMMARY:Liga EA Sports - Barcelona - Real Sociedad
-UID:4d1e50b4-aad8-43f2-803c-ac1f990aa47a
+UID:979018b7-dcf9-47f1-ac42-a9d9863c8362
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T041130Z
+DTSTART:20250305T200000Z
+DTEND:20250305T220000Z
+SUMMARY:Champions League - Benfica - Barcelona
+UID:8c794748-93df-469f-ae39-df6a261a6b42
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

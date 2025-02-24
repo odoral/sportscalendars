@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250223T041016Z
+DTSTAMP:20250224T041130Z
 DTSTART:20250301T151500Z
 DTEND:20250301T171500Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Burgos C.F.
-UID:271607bf-7b66-4643-b44e-26f6338f1651
+UID:c188f493-81b6-42b5-a557-bc3103c3710b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T041130Z
+DTSTART:20250305T190000Z
+DTEND:20250305T210000Z
+SUMMARY:Liga Hypermotion - Racing Ferrol - Burgos C.F.
+UID:f3c19e42-bf18-4037-9cdd-395778f21598
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
