@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250224T041130Z
+DTSTAMP:20250225T004028Z
 DTSTART:20250226T203000Z
 DTEND:20250226T223000Z
 SUMMARY:Copa del Rey - Real Sociedad - Real Madrid
-UID:1d2e03cf-eef6-4819-b91e-a26956b2ff2b
+UID:739d11e2-02c2-485b-aaa9-d9154314bf76
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: La 1</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<
  li>PPV: Movistar Plus+</li></ul></body></html>
@@ -28,13 +28,22 @@ DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa
   del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250224T041130Z
+DTSTAMP:20250225T004028Z
 DTSTART:20250302T151500Z
 DTEND:20250302T171500Z
 SUMMARY:Liga EA Sports - Barcelona - Real Sociedad
-UID:3e581cdb-a989-40af-b8b4-b51fc6bb8179
+UID:183665b8-3541-4189-907f-b87a261cf142
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250225T004028Z
+DTSTART:20250306T174500Z
+DTEND:20250306T194500Z
+SUMMARY:Europa League - Real Sociedad - Manchester United
+UID:0013a6e4-42bf-4033-a78e-aa8f8ed18d4a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
