@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250225T004028Z
+DTSTAMP:20250225T081229Z
 DTSTART:20250226T193000Z
 DTEND:20250226T213000Z
 SUMMARY:Premier League - Tottenham - Manchester City
-UID:fc52ce81-0af0-4c3e-a5be-25ec254b9ae5
+UID:852da76d-462d-4db6-88da-076c23fb193d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li>
  \n<li>PPV: MAX</li></ul></body></html>
@@ -28,12 +28,13 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
  V: M+ Vamos\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T004028Z
+DTSTAMP:20250225T081229Z
 DTSTART:20250306T174500Z
 DTEND:20250306T194500Z
 SUMMARY:Europa League - AZ Alkmaar - Tottenham
-UID:a7bac001-dfdb-4bab-884d-b1c8c3d5b224
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:3e1b0060-45df-4d5e-8508-1c032af6cf19
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
