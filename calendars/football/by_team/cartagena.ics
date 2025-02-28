@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250224T081254Z
+DTSTAMP:20250228T041130Z
 DTSTART:20250228T193000Z
 DTEND:20250228T213000Z
 SUMMARY:Liga Hypermotion - Cartagena - Eibar
-UID:f246e9a4-c3cc-449a-80d9-0f7c750d1f84
+UID:d890b55f-1cfa-457f-903f-50ce452565d6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: M+ Va
@@ -28,5 +28,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2\n- PPV: M+ 
  Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250228T041130Z
+DTSTART:20250309T173000Z
+DTEND:20250309T193000Z
+SUMMARY:Liga Hypermotion - Levante - Cartagena
+UID:3480ef76-0cc4-4c56-8590-a637de797b8f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
