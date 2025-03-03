@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250302T041040Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250304T200000Z
 DTEND:20250304T220000Z
 SUMMARY:Champions League - Real Madrid - Atlético de Madrid
-UID:e779e1f1-3aff-45af-8533-13b6757fef35
+UID:87e2dcaf-017f-431f-a1b3-cf59608764ac
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250302T041040Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250309T130000Z
 DTEND:20250309T150000Z
 SUMMARY:Liga EA Sports - Getafe - Atlético de Madrid
-UID:76d65de9-850e-46bb-8a59-2b17c76fee86
+UID:03bbe47b-4dcb-44f2-a836-bdf1e8668a98
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250303T041213Z
+DTSTART:20250312T200000Z
+DTEND:20250312T220000Z
+SUMMARY:Champions League - Atlético de Madrid - Real Madrid
+UID:aaca6abb-8816-480b-b50c-cbe2659c0646
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

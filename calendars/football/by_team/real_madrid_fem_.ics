@@ -16,35 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250228T041130Z
-DTSTART:20250302T110000Z
-DTEND:20250302T130000Z
-SUMMARY:Liga F - Athletic Club Fem. - Real Madrid Fem.
-UID:00986529-7ba5-42ca-a6b1-849710c3110c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 2</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Ellas Vamos\n- PPV: MAX
- 
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250228T041130Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250306T180000Z
 DTEND:20250306T200000Z
 SUMMARY:Copa de la Reina - Real Madrid Fem. - Barcelona Femenino
-UID:52f904d7-6491-4023-b8e2-9143f04e42b4
+UID:c6d20249-6075-44cb-9ecb-df14f5e566dc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250228T041130Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250309T130000Z
 DTEND:20250309T150000Z
 SUMMARY:Liga F - Sevilla FC Fem. - Real Madrid Fem.
-UID:e58aaf04-7192-4d4b-a1b6-d894329dab18
+UID:b0e0d16b-79f1-4a84-8d3d-2c87aea56b57
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250303T041213Z
+DTSTART:20250312T180000Z
+DTEND:20250312T200000Z
+SUMMARY:Copa de la Reina - Barcelona Femenino - Real Madrid Fem.
+UID:9fe75742-c257-4d68-ba64-d78da5202039
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

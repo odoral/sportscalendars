@@ -16,37 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250228T041130Z
-DTSTART:20250302T130000Z
-DTEND:20250302T150000Z
-SUMMARY:Liga F - Eibar Fem. - Barcelona Femenino
-UID:c650c61c-853d-4153-8f7f-a721ee552004
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: MAX</li></ul></body
- ></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos\n- PPV: MAX
- 
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250228T041130Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250306T180000Z
 DTEND:20250306T200000Z
 SUMMARY:Copa de la Reina - Real Madrid Fem. - Barcelona Femenino
-UID:57831154-4e4b-4571-aee9-9a0691ff1001
+UID:a1da24f4-169c-4cb4-9495-a7a263176e52
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250228T041130Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250309T110000Z
 DTEND:20250309T130000Z
 SUMMARY:Liga F - Barcelona Femenino - Valencia Féminas
-UID:bbfeb7d1-d13e-4d87-a5a0-60349fed9a48
+UID:a2ec7996-8116-42a2-85fc-375076df9cd7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TV3</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li></u
  l></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TV3\n- PPV: DAZN\n- PPV: GolStadium
   Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250303T041213Z
+DTSTART:20250312T180000Z
+DTEND:20250312T200000Z
+SUMMARY:Copa de la Reina - Barcelona Femenino - Real Madrid Fem.
+UID:f78b142b-9b6e-4bb5-96f8-af509b7a53c9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

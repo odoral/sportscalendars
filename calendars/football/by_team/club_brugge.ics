@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250301T081108Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250304T174500Z
 DTEND:20250304T194500Z
 SUMMARY:Champions League - Club Brugge - Aston Villa
-UID:6b69085e-2e95-47a1-b8ee-43dcb2fbd4b4
+UID:5e1489d5-2c84-4c79-8ca1-ae32947ec83d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250303T041213Z
+DTSTART:20250312T200000Z
+DTEND:20250312T220000Z
+SUMMARY:Champions League - Aston Villa - Club Brugge
+UID:ee473530-bcca-4f07-b298-bf8fbf0575d8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250225T004028Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250305T173000Z
 DTEND:20250305T193000Z
 SUMMARY:Copa de la Reina - Granada Fem. - At. Madrid Fem.
-UID:20f62123-f72b-4548-b1e4-c45cefefcd91
+UID:cc74ccaa-c6e5-4ef0-a8e0-6c8da3ae54c1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250225T004028Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250306T180000Z
 DTEND:20250306T200000Z
 SUMMARY:Copa de la Reina - Real Madrid Fem. - Barcelona Femenino
-UID:ce6b5d87-b41c-493c-a479-ce0fcb9659cb
+UID:794fbbda-d700-458b-b8db-680b56e29695
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250303T041213Z
+DTSTART:20250312T180000Z
+DTEND:20250312T200000Z
+SUMMARY:Copa de la Reina - Barcelona Femenino - Real Madrid Fem.
+UID:7770ccfe-7488-4193-b278-47bd956a3a0c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play

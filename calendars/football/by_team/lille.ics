@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250301T081108Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250304T200000Z
 DTEND:20250304T220000Z
 SUMMARY:Champions League - Borussia Dortmund - Lille
-UID:b4fafe52-d99b-4469-aa45-3386bfb56256
+UID:19f9a39a-220d-42e1-bf28-53760c69191d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250303T041213Z
+DTSTART:20250312T174500Z
+DTEND:20250312T194500Z
+SUMMARY:Champions League - Lille - Borussia Dortmund
+UID:68f42239-67d8-43fa-94ad-b7b75887bf57
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

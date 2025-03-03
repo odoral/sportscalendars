@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250302T041040Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250304T200000Z
 DTEND:20250304T220000Z
 SUMMARY:Champions League - Real Madrid - Atlético de Madrid
-UID:34363487-1691-4d92-b4d5-3e366dfbe0de
+UID:a21d41be-fa82-4a2b-984f-ef4035846ff8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250302T041040Z
+DTSTAMP:20250303T041213Z
 DTSTART:20250309T151500Z
 DTEND:20250309T171500Z
 SUMMARY:Liga EA Sports - Real Madrid - Rayo Vallecano
-UID:9dc0797e-66c3-42d5-903a-4e8b3e5e4578
+UID:27ce4ed7-e9dd-4c88-addd-75752dd6e8be
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250303T041213Z
+DTSTART:20250312T200000Z
+DTEND:20250312T220000Z
+SUMMARY:Champions League - Atlético de Madrid - Real Madrid
+UID:67ec038b-d595-4a77-8b90-3c1206d6b3e4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
