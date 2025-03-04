@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250303T041213Z
+DTSTAMP:20250304T004103Z
 DTSTART:20250306T174500Z
 DTEND:20250306T194500Z
 SUMMARY:Europa League - Real Sociedad - Manchester United
-UID:8e852c1a-a651-40fa-9f4d-8e7bcc7fbe8a
+UID:5aa77c1b-84ff-4751-9a0d-e4be84f57df1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250303T041213Z
+DTSTAMP:20250304T004103Z
 DTSTART:20250309T200000Z
 DTEND:20250309T220000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Sevilla
-UID:24f0bff3-cdff-4565-a8d3-12f7858e7801
+UID:28af36d5-66e1-4af5-89d2-1f30cad7604c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250304T004103Z
+DTSTART:20250313T200000Z
+DTEND:20250313T220000Z
+SUMMARY:Europa League - Manchester United - Real Sociedad
+UID:1adfdb75-3493-44fe-a265-cb93a703e9be
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
