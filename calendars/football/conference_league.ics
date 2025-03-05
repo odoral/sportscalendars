@@ -16,22 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250304T004103Z
+DTSTAMP:20250305T081242Z
 DTSTART:20250306T174500Z
 DTEND:20250306T194500Z
 SUMMARY:Conference League - Betis - Vitoria Guimaraes
-UID:4149cfbd-ddc4-4e90-9ebf-173bb6a1623e
+UID:3e06ecc1-c6eb-4013-8e36-24a03ddfdaa4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250304T004103Z
+DTSTAMP:20250305T081242Z
 DTSTART:20250313T200000Z
 DTEND:20250313T220000Z
 SUMMARY:Conference League - Vitoria Guimaraes - Betis
-UID:c5935a36-0e38-4305-b3e0-3a28ce5ed05f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:23250232-4799-4d9a-9c67-47f2ce1d2d9d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 11</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: M+ Liga de Cam
+ peones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 11\n- PPV: M+ Liga de Campeones 3
+ \n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 END:VCALENDAR
