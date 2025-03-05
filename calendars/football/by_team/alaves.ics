@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250303T041213Z
+DTSTAMP:20250305T041119Z
 DTSTART:20250308T151500Z
 DTEND:20250308T171500Z
 SUMMARY:Liga EA Sports - Alavés - Villarreal
-UID:3a03b3ba-c42b-4ba3-8778-9336c603b7c8
+UID:d1c0d1b6-f803-454e-ac68-d5d078c2066f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250305T041119Z
+DTSTART:20250314T200000Z
+DTEND:20250314T220000Z
+SUMMARY:Liga EA Sports - Las Palmas - Alavés
+UID:02d0bf58-946d-436a-8bc7-5bde28e7396a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV
+ : DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TV Canaria\n- PPV: DA
+ ZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR

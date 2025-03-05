@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250301T004356Z
+DTSTAMP:20250305T041119Z
 DTSTART:20250309T173000Z
 DTEND:20250309T193000Z
 SUMMARY:Liga EA Sports - Betis - Las Palmas
-UID:a13d9216-5a5a-497b-aa3b-c1e14212aa77
+UID:4ebce768-ec1e-48aa-82db-a694814bc624
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250305T041119Z
+DTSTART:20250314T200000Z
+DTEND:20250314T220000Z
+SUMMARY:Liga EA Sports - Las Palmas - Alavés
+UID:fc5682f1-f89f-41d1-9544-71f9f5335ebb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV
+ : DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TV Canaria\n- PPV: DA
+ ZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR
