@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250225T081229Z
-DTSTART:20250302T184500Z
-DTEND:20250302T204500Z
-SUMMARY:Primera Federación - Nàstic Tarragona - Barcelona Atlètic
-UID:5214cf19-91bc-4c9d-af1b-78f29ad0e877
+DTSTAMP:20250308T121127Z
+DTSTART:20250309T170000Z
+DTEND:20250309T190000Z
+SUMMARY:Primera Federación - Barcelona Atlètic - Osasuna Promesas
+UID:b53a7e4d-13c0-41fe-93ab-5444ec80ec2e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
- i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+ i>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250308T121127Z
+DTSTART:20250315T170000Z
+DTEND:20250315T190000Z
+SUMMARY:Primera Federación - Barcelona Atlètic - Tarazona
+UID:7877dfc4-4fbc-4c8e-8f18-cf66674c3d5a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250223T081038Z
-DTSTART:20250223T110000Z
-DTEND:20250223T130000Z
-SUMMARY:Primera Federación - Barcelona Atlètic - C.D. Arenteiro
-UID:5ce2ff1e-4f28-4e21-ae03-a7c643e949cb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
- i>Open: Esport 3</li>\n<li>Open: TVG 2</li>\n<li>PPV: FEF TV</li></ul></
- body></html>
-DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- Open: TVG 2\n- PPV: FE
- F TV
+DTSTAMP:20250308T121127Z
+DTSTART:20250315T160000Z
+DTEND:20250315T180000Z
+SUMMARY:Primera Federación - C.D. Arenteiro - Ponferradina
+UID:0543b2da-feb9-4073-854d-4c4c6b5d7c95
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR
