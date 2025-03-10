@@ -16,35 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250308T080853Z
-DTSTART:20250309T110000Z
-DTEND:20250309T130000Z
-SUMMARY:Liga F - Barcelona Femenino - Valencia Féminas
-UID:df2592bb-1b12-4783-b29d-bc640ae5d530
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: TV3</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<
- li>PPV: M+ Ellas Vamos</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: TV3\n- PPV: DAZN\n- PPV: GolStadium
-  Premium\n- PPV: M+ Ellas Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250308T080853Z
+DTSTAMP:20250310T040956Z
 DTSTART:20250312T180000Z
 DTEND:20250312T200000Z
 SUMMARY:Copa de la Reina - Barcelona Femenino - Real Madrid Fem.
-UID:1c4a6f1e-02f2-4f01-baaf-88ccd3436535
+UID:0c7a2fd3-a7b3-4831-abb3-62c9ed302ff0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250308T080853Z
+DTSTAMP:20250310T040956Z
 DTSTART:20250315T160000Z
 DTEND:20250315T180000Z
 SUMMARY:Liga F - UDG Tenerife - Barcelona Femenino
-UID:44691184-32a5-465f-a5ba-5f9ec70904ef
+UID:bde8b4b1-939c-4751-9c8e-7f845ef087f5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Ellas Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Ellas Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250310T040956Z
+DTSTART:20250319T174500Z
+DTEND:20250319T194500Z
+SUMMARY:Women's Champions League - Wolfsburg Fem. - Barcelona Femenino
+UID:775075fc-1766-4cb4-9144-ec39e99b8fcc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  DAZN</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

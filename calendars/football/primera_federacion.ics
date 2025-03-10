@@ -16,83 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250308T121127Z
-DTSTART:20250309T110000Z
-DTEND:20250309T130000Z
-SUMMARY:Primera Federación - R.M. Castilla - Sevilla At.
-UID:a010dc9b-6e3f-48f1-aa2b-b7e52ffa3a82
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
- \n<li>PPV: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: RealMadrid TV\n- PPV: FEF TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250308T121127Z
-DTSTART:20250309T170000Z
-DTEND:20250309T190000Z
-SUMMARY:Primera Federación - Barcelona Atlètic - Osasuna Promesas
-UID:4c71e7fe-0f07-482a-9edd-9d98f3fea7aa
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
- i>PPV: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250308T121127Z
-DTSTART:20250309T180000Z
-DTEND:20250309T200000Z
-SUMMARY:Primera Federación - Ponferradina - Ourense C.F.
-UID:8b2804f7-61aa-44e4-bcaf-c719c48e876f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
- V: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: TVG 2\n- PPV: FEF TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250308T121127Z
-DTSTART:20250309T180000Z
-DTEND:20250309T200000Z
-SUMMARY:Primera Federación - Tarazona - Nàstic Tarragona
-UID:156575f7-fd80-48af-a9c8-221b35395290
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >PPV: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- PPV: FEF TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250308T121127Z
+DTSTAMP:20250310T040956Z
 DTSTART:20250315T160000Z
 DTEND:20250315T180000Z
 SUMMARY:Primera Federación - C.D. Arenteiro - Ponferradina
-UID:45ac505b-468d-4bf2-b1e4-e836afbf1236
+UID:6426e13b-1c1d-4a04-a879-d688a6a0339c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250308T121127Z
+DTSTAMP:20250310T040956Z
 DTSTART:20250315T160000Z
 DTEND:20250315T180000Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Barakaldo
-UID:5af24660-d46a-4eac-98a4-c35759c65f4b
+UID:1657cae6-fc8e-4d5f-92d8-a94e9e8e52d3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250308T121127Z
+DTSTAMP:20250310T040956Z
 DTSTART:20250315T170000Z
 DTEND:20250315T190000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Tarazona
-UID:14ada1e5-414e-4629-a0ac-e2fb627a379a
+UID:99e3b5c4-7e53-4daa-9a0d-19cfb6199d91
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250308T121127Z
+DTSTAMP:20250310T040956Z
 DTSTART:20250315T190000Z
 DTEND:20250315T210000Z
 SUMMARY:Primera Federación - Betis Deportivo - Marbella
-UID:710690b5-433f-4204-949a-772b17328d35
+UID:98f419c3-0b6d-4a39-aafa-245de1736f5b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
  >PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Betis TV\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250310T040956Z
+DTSTART:20250319T180000Z
+DTEND:20250319T200000Z
+SUMMARY:Primera Federación - Celta B - Lugo
+UID:67e2f536-4fbd-4074-b59c-9b7888af8f04
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR
