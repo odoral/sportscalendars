@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20250121T082933Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241117T041046Z
-DTSTART:20241120T000000Z
-DTEND:20241120T020000Z
-SUMMARY:Mundial 2026 - Chile - Venezuela
-UID:b2624a79-d860-44c8-8b14-ce02234ccf96
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4
+DTSTAMP:20250312T041110Z
+DTSTART:20250320T230000Z
+DTEND:20250321T010000Z
+SUMMARY:Mundial 2026 - Paraguay - Chile
+UID:82d07a2f-0521-480e-ad1c-148576277638
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li>
+ </ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- PPV: M+ Liga de Campeones 
+ 2\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

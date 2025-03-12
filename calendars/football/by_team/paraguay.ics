@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20250121T082933Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241117T081038Z
-DTSTART:20241119T200000Z
-DTEND:20241119T220000Z
-SUMMARY:Mundial 2026 - Bolivia - Paraguay
-UID:4065a3d5-a8b2-466c-a85a-ddb8f41a6856
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li></ul></b
- ody></html>
-DESCRIPTION:- Open: FIFA+
+DTSTAMP:20250312T041110Z
+DTSTART:20250320T230000Z
+DTEND:20250321T010000Z
+SUMMARY:Mundial 2026 - Paraguay - Chile
+UID:46fe3066-7391-415a-b995-c0fd881e4b77
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li>
+ </ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- PPV: M+ Liga de Campeones 
+ 2\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
