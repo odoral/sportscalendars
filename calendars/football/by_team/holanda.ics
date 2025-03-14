@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250311T081226Z
+DTSTAMP:20250314T004032Z
 DTSTART:20250320T194500Z
 DTEND:20250320T214500Z
 SUMMARY:UEFA Nations League - Holanda - España
-UID:edd3b3fb-382b-46b9-a09e-95e0e81c177b
+UID:4af27e3d-7a93-46fb-a03e-7d29f33e722e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250314T004032Z
+DTSTART:20250323T194500Z
+DTEND:20250323T214500Z
+SUMMARY:UEFA Nations League - España - Holanda
+UID:e7f54e2c-0772-4ba2-b8d1-d155b0d01859
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
