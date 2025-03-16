@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250313T041130Z
+DTSTAMP:20250316T041106Z
 DTSTART:20250320T230000Z
 DTEND:20250321T010000Z
 SUMMARY:Mundial 2026 - Paraguay - Chile
-UID:8b38ca9e-7dcc-4aa5-bc08-34d19014c085
+UID:06b6b863-30f0-4bae-a49d-a8ee87b013e9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li>
  </ul></body></html>
@@ -28,43 +28,52 @@ DESCRIPTION:Atención: Pendientede confirmar\n- PPV: M+ Liga de Campeones
  2\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250313T041130Z
+DTSTAMP:20250316T041106Z
 DTSTART:20250321T004500Z
 DTEND:20250321T024500Z
 SUMMARY:Mundial 2026 - Brasil - Colombia
-UID:50263ccb-cd2b-45f8-b7d3-69728ad880bf
+UID:e5e034ad-3331-4871-b52b-a04b2c304672
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250313T041130Z
+DTSTAMP:20250316T041106Z
 DTSTART:20250321T013000Z
 DTEND:20250321T033000Z
 SUMMARY:Mundial 2026 - Perú - Bolivia
-UID:ff270f11-fb19-40ae-ad3f-0a5a3a22ddad
+UID:9e5819a1-6ede-4d57-83dc-79c8d76d05e8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250313T041130Z
+DTSTAMP:20250316T041106Z
 DTSTART:20250321T210000Z
 DTEND:20250321T230000Z
 SUMMARY:Mundial 2026 - Ecuador - Venezuela
-UID:3d04a32a-e94c-4515-85f3-c7bc32b90540
+UID:11da3100-1b0c-4b97-901f-cd3522f11694
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250313T041130Z
+DTSTAMP:20250316T041106Z
 DTSTART:20250321T233000Z
 DTEND:20250322T013000Z
 SUMMARY:Mundial 2026 - Uruguay - Argentina
-UID:8180ec88-7c13-4aa1-8446-39ed65077ace
+UID:fd4d4a47-c9c3-4ff8-909d-f2a54ffcac69
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250316T041106Z
+DTSTART:20250325T200000Z
+DTEND:20250325T220000Z
+SUMMARY:Mundial 2026 - Bolivia - Uruguay
+UID:44fdc5f6-47fd-4318-9ee4-da348ceaae89
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
