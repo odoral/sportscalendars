@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250312T041110Z
+DTSTAMP:20250317T004306Z
 DTSTART:20250320T230000Z
 DTEND:20250321T010000Z
 SUMMARY:Mundial 2026 - Paraguay - Chile
-UID:82d07a2f-0521-480e-ad1c-148576277638
+UID:987eec16-dc6a-4f39-a353-837744a6d866
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li>
  </ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- PPV: M+ Liga de Campeones 
  2\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250317T004306Z
+DTSTART:20250326T000000Z
+DTEND:20250326T020000Z
+SUMMARY:Mundial 2026 - Chile - Ecuador
+UID:d992da5f-2fa6-4863-8770-18973e7e09be
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+ 2</l
+ i></ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+ 2
 END:VEVENT
 END:VCALENDAR

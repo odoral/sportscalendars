@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250316T041106Z
+DTSTAMP:20250317T004306Z
 DTSTART:20250318T174500Z
 DTEND:20250318T194500Z
 SUMMARY:Women's Champions League - Real Madrid Fem. - Arsenal Fem.
-UID:601a524c-1b15-4fd6-9dcc-ba85913300d8
+UID:d6dd79d5-271e-478f-87ce-80fff87c03fe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: MAX</li></ul></body
  ></html>
@@ -28,15 +28,25 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos\n- PPV: MAX
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250316T041106Z
+DTSTAMP:20250317T004306Z
 DTSTART:20250323T110000Z
 DTEND:20250323T130000Z
 SUMMARY:Liga F - Barcelona Femenino - Real Madrid Fem.
-UID:1c08bda1-72f9-4ad0-94b4-3e8abf853150
+UID:61d3f20c-e457-4adc-8262-ea5f08bd63e3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TV3</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li></u
  l></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TV3\n- PPV: DAZN\n- PPV: GolStadium
   Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250317T004306Z
+DTSTART:20250326T200000Z
+DTEND:20250326T220000Z
+SUMMARY:Women's Champions League - Arsenal Fem. - Real Madrid Fem.
+UID:bbaf1e66-4c92-4399-8166-d3fc8df92013
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
