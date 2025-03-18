@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250317T004306Z
+DTSTAMP:20250318T004123Z
 DTSTART:20250318T174500Z
 DTEND:20250318T194500Z
 SUMMARY:Women's Champions League - Real Madrid Fem. - Arsenal Fem.
-UID:e89352fe-8950-4896-8294-988df3098f76
+UID:66b62e6b-1d53-4733-b068-404b84225ce4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: MAX</li></ul></body
  ></html>
@@ -28,12 +28,12 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos\n- PPV: MAX
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250317T004306Z
+DTSTAMP:20250318T004123Z
 DTSTART:20250318T200000Z
 DTEND:20250318T220000Z
 SUMMARY:Women's Champions League - FC Bayern Fem. - Olympique Lyon (Fem.)
  
-UID:e14150b5-bc16-4262-a9dc-423bb1f7c564
+UID:1bf96a62-bf88-4a2e-bfc9-0f9bd264e7c8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: MAX</li></ul></body
  ></html>
@@ -41,11 +41,11 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos\n- PPV: MAX
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250317T004306Z
+DTSTAMP:20250318T004123Z
 DTSTART:20250319T174500Z
 DTEND:20250319T194500Z
 SUMMARY:Women's Champions League - Wolfsburg Fem. - Barcelona Femenino
-UID:9753a6a8-4afa-41ce-b9a4-3211280a47ae
+UID:1607ff82-016f-4e2d-835f-7fcd60ccba01
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV:
   MAX</li></ul></body></html>
@@ -53,11 +53,11 @@ DESCRIPTION:- Open: TV3\n- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamo
  s\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250317T004306Z
+DTSTAMP:20250318T004123Z
 DTSTART:20250319T200000Z
 DTEND:20250319T220000Z
 SUMMARY:Women's Champions League - Manchester City F. - Chelsea Women
-UID:102c9329-c894-41ab-af6c-b665a7fec7bd
+UID:03cbccfc-f3ec-4c8c-be17-13d145ca916c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 2</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: MAX</li></ul></body
  ></html>
@@ -65,22 +65,42 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Ellas Vamos\n- PPV: MAX
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250317T004306Z
+DTSTAMP:20250318T004123Z
 DTSTART:20250326T174500Z
 DTEND:20250326T194500Z
 SUMMARY:Women's Champions League - Olympique Lyon (Fem.) - FC Bayern Fem.
  
-UID:cf9d496a-1dcd-44bf-a65e-e23327b149af
+UID:ffea295a-7c37-4c5a-81dd-6a1321470de3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250317T004306Z
+DTSTAMP:20250318T004123Z
 DTSTART:20250326T200000Z
 DTEND:20250326T220000Z
 SUMMARY:Women's Champions League - Arsenal Fem. - Real Madrid Fem.
-UID:730d9c51-daf9-4afe-938a-0da1fc291626
+UID:3974525b-c175-4215-9374-612a82360512
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250318T004123Z
+DTSTART:20250327T174500Z
+DTEND:20250327T194500Z
+SUMMARY:Women's Champions League - Barcelona Femenino - Wolfsburg Fem.
+UID:3422a3f4-9a20-41ea-b70b-ede19cf71d7c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  DAZN</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250318T004123Z
+DTSTART:20250327T200000Z
+DTEND:20250327T220000Z
+SUMMARY:Women's Champions League - Chelsea Women - Manchester City F.
+UID:b7e6b5b3-ac2e-42e0-bdf2-91bc570ee173
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
