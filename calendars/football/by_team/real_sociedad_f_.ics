@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250317T004306Z
+DTSTAMP:20250319T081227Z
 DTSTART:20250323T150000Z
 DTEND:20250323T170000Z
 SUMMARY:Liga F - Real Sociedad F. - At. Madrid Fem.
-UID:7f31c5e5-c1ed-497d-8ffa-09c34fed9265
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:f54e93da-7b12-4510-b769-a774a55b5bce
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: MAX</li>\n<li>PPV: Movistar Plus+ 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: MAX\n- PPV: Movistar Plus+
+  2
 END:VEVENT
 END:VCALENDAR
