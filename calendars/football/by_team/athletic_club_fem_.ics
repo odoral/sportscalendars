@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250319T081227Z
+DTSTAMP:20250321T041136Z
 DTSTART:20250322T150000Z
 DTEND:20250322T170000Z
 SUMMARY:Liga F - Levante Badalona - Athletic Club Fem.
-UID:3329023f-b71a-42f1-af72-e6ae6ee7b3ef
+UID:149f9a4c-7167-48a9-8c6a-896064df1ae8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: MAX</li>\n<li>PPV: Movistar Plus+ 2</li></ul></bo
  dy></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: MAX\n- PPV: Movistar Plus+
   2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250321T041136Z
+DTSTART:20250330T100000Z
+DTEND:20250330T120000Z
+SUMMARY:Liga F - Athletic Club Fem. - Deportivo Abanca
+UID:b132b3df-c5f4-45f1-8770-9162d704aa57
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: Gol
+ Stadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TVG 2\n- PPV: DAZN\n-
+  PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR

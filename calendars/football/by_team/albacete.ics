@@ -16,15 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250316T041106Z
+DTSTAMP:20250321T041136Z
 DTSTART:20250323T151500Z
 DTEND:20250323T171500Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Albacete
-UID:d2bcc99b-df9b-4447-81e5-9bdc3a2fa16d
+UID:738458f4-136a-465b-a878-281197678799
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250321T041136Z
+DTSTART:20250330T163000Z
+DTEND:20250330T183000Z
+SUMMARY:Liga Hypermotion - Albacete - Mirandés
+UID:f4221b11-0752-499c-9d64-38ff50ff0d9e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 END:VCALENDAR

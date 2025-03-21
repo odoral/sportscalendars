@@ -16,15 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250317T004306Z
+DTSTAMP:20250321T041136Z
 DTSTART:20250322T173000Z
 DTEND:20250322T193000Z
 SUMMARY:Liga Hypermotion - Mirandés - Racing de Santander
-UID:bc9a9cf3-8477-4a8b-b990-f5631fde0249
+UID:5339a390-36b8-4bc7-a7c8-142707ab86f3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250321T041136Z
+DTSTART:20250330T163000Z
+DTEND:20250330T183000Z
+SUMMARY:Liga Hypermotion - Albacete - Mirandés
+UID:5690f82f-2ab7-4c75-97d2-4dbf34f698a9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 END:VCALENDAR
