@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250320T081238Z
+DTSTAMP:20250321T004222Z
 DTSTART:20250321T183000Z
 DTEND:20250321T203000Z
 SUMMARY:Otras competiciones - España - República Checa
-UID:a6e110c1-44a9-4f54-99b9-ed7a66cecc8d
+UID:b7ce0971-2c83-4e07-9a2e-3b20ce8ff266
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 2\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250321T004222Z
+DTSTART:20250321T183000Z
+DTEND:20250321T203000Z
+SUMMARY:Otras competiciones - España - República Checa
+UID:4c4f1e3a-6245-43c3-9fc0-cef3de513d57
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 2\n- Open: rtve Play
