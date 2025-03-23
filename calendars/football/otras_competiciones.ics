@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250321T041136Z
-DTSTART:20250321T183000Z
-DTEND:20250321T203000Z
-SUMMARY:Otras competiciones - España - República Checa
-UID:dc477703-f125-4695-8663-af296faf983c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
- n: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 2\n- Open: rtve Play
+DTSTAMP:20250323T004523Z
+DTSTART:20250401T184500Z
+DTEND:20250401T204500Z
+SUMMARY:Otras competiciones - Arminia Bielefeld - Bayer Leverkusen
+UID:7e08220c-3f69-4ed2-9a93-8fab664c3fae
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250323T004523Z
+DTSTART:20250401T190000Z
+DTEND:20250401T210000Z
+SUMMARY:Otras competiciones - Empoli - Bologna
+UID:fb024905-c575-4337-8276-b5ec71f71c34
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

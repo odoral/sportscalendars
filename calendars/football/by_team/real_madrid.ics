@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250320T041124Z
+DTSTAMP:20250323T004524Z
 DTSTART:20250329T200000Z
 DTEND:20250329T220000Z
 SUMMARY:Liga EA Sports - Real Madrid - Leganés
-UID:9dc60a93-1502-403e-9909-f2558ed3eb9d
+UID:838f0326-586a-4390-9613-bfbac32882b0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
  html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
  lus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250323T004524Z
+DTSTART:20250401T193000Z
+DTEND:20250401T213000Z
+SUMMARY:Copa del Rey - Real Madrid - Real Sociedad
+UID:15d4ed09-aa86-46d7-9ef5-31fb6bd992a1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: La 1</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<
+ li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa
+  del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
