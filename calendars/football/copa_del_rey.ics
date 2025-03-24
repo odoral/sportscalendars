@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250323T004523Z
+DTSTAMP:20250324T041155Z
 DTSTART:20250401T193000Z
 DTEND:20250401T213000Z
 SUMMARY:Copa del Rey - Real Madrid - Real Sociedad
-UID:2ce15995-0e7d-4c3f-b3c6-39abafb2b540
+UID:ba6b6c87-8fa5-4740-8025-85c43fa5f6fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: La 1</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<
  li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa
   del Rey\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250324T041155Z
+DTSTART:20250402T193000Z
+DTEND:20250402T213000Z
+SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
+UID:8a546606-23c9-44d6-a587-1c4c7ef0afdf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
+ i>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa 
+ del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

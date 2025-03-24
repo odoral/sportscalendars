@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250315T081111Z
-DTSTART:20250315T150000Z
-DTEND:20250315T170000Z
-SUMMARY:Premier League - Manchester City - Brighton
-UID:16d711d3-2331-46de-abf2-0d7bb9d45e97
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 3</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: MAX</li>\n<li
- >PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 3\n- PPV: M+ Liga de Campeones\n- PP
- V: MAX\n- PPV: Movistar Plus+
+DTSTAMP:20250324T041155Z
+DTSTART:20250402T184500Z
+DTEND:20250402T204500Z
+SUMMARY:Premier League - Brighton - Aston Villa
+UID:0f4a77b3-716f-4c79-a348-c7aa7e76c78c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

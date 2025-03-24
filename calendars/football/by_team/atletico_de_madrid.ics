@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250320T041124Z
+DTSTAMP:20250324T041155Z
 DTSTART:20250329T151500Z
 DTEND:20250329T171500Z
 SUMMARY:Liga EA Sports - Espanyol - Atlético de Madrid
-UID:e94735d9-f81d-49af-91f9-71c0b781ed60
+UID:0e0191fb-c08b-4a53-89bb-5c3b7531f9de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250324T041155Z
+DTSTART:20250402T193000Z
+DTEND:20250402T213000Z
+SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
+UID:3d68d683-564a-4392-87d8-bf0aca016b1c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
+ i>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa 
+ del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
