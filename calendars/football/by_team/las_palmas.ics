@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250322T041050Z
+DTSTAMP:20250328T041127Z
 DTSTART:20250331T190000Z
 DTEND:20250331T210000Z
 SUMMARY:Liga EA Sports - Celta - Las Palmas
-UID:e8549422-e406-459b-b34f-40722bc568eb
+UID:4f6ec1e7-4380-4ef6-90b1-d453e0c92cc3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TV Canaria</li>\n<li>Open: TVG</li>\n<li>PPV: GolStadium Premium<
  /li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- Open: TVG\n- PPV: Gol
  Stadium Premium\n- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250328T041127Z
+DTSTART:20250406T120000Z
+DTEND:20250406T140000Z
+SUMMARY:Liga EA Sports - Las Palmas - Real Sociedad
+UID:0b11509d-3dbc-4cc1-9c10-79b0758f25ed
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

@@ -16,25 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250324T041155Z
+DTSTAMP:20250328T041127Z
 DTSTART:20250329T151500Z
 DTEND:20250329T171500Z
 SUMMARY:Liga EA Sports - Espanyol - Atlético de Madrid
-UID:0e0191fb-c08b-4a53-89bb-5c3b7531f9de
+UID:b4769d6e-05d1-4624-bd37-8d34c1e18b58
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250324T041155Z
+DTSTAMP:20250328T041127Z
 DTSTART:20250402T193000Z
 DTEND:20250402T213000Z
 SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
-UID:3d68d683-564a-4392-87d8-bf0aca016b1c
+UID:84b11028-f593-49c2-96fc-9baf33952be2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
  i>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa 
  del Rey\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250328T041127Z
+DTSTART:20250406T141500Z
+DTEND:20250406T161500Z
+SUMMARY:Liga EA Sports - Sevilla - Atlético de Madrid
+UID:a810f815-c119-4c09-8c16-cadbfdb8633c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
