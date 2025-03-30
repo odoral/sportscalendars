@@ -16,23 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250328T081323Z
-DTSTART:20250329T200000Z
-DTEND:20250329T220000Z
-SUMMARY:Liga EA Sports - Real Madrid - Leganés
-UID:41427c1d-1e39-48a9-a9f2-e9964e79c198
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
- <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Ora
- nge Fútbol 1</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
- lus+\n- PPV: Orange Fútbol 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250328T081323Z
+DTSTAMP:20250330T041117Z
 DTSTART:20250401T193000Z
 DTEND:20250401T213000Z
 SUMMARY:Copa del Rey - Real Madrid - Real Sociedad
-UID:3328b6ae-bfd1-4e62-98c0-aa76ee0b1e64
+UID:b755bcf7-fb61-4c5f-82f9-8542e33a91a7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: La 1</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<
  li>PPV: Movistar Plus+</li></ul></body></html>
@@ -40,13 +28,23 @@ DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: rtve Play\n- PPV: M+ Copa
   del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250328T081323Z
+DTSTAMP:20250330T041117Z
 DTSTART:20250405T141500Z
 DTEND:20250405T161500Z
 SUMMARY:Liga EA Sports - Real Madrid - Valencia
-UID:b6b9b366-6b10-42f3-8050-22cc95b75582
+UID:1cb03fbb-de87-461d-a381-49904b0bd6e5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250330T041117Z
+DTSTART:20250408T190000Z
+DTEND:20250408T210000Z
+SUMMARY:Champions League - Arsenal - Real Madrid
+UID:ed55f957-1728-4d68-81e0-f926b36a9a22
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

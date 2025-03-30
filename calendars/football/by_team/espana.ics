@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250326T041132Z
+DTSTAMP:20250330T041117Z
 DTSTART:20250404T184500Z
 DTEND:20250404T204500Z
 SUMMARY:UEFA Women's Nations League - Portugal - España
-UID:693fa886-4971-4a8c-8d32-0e349987e251
+UID:282005e5-132e-4c77-9eba-c4e692c09c7a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250330T041117Z
+DTSTART:20250407T220000Z
+DTEND:20250408T000000Z
+SUMMARY:UEFA Women's Nations League - España - Portugal
+UID:a9f073a2-f80f-437f-9a21-ebe406f2861d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
