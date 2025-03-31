@@ -16,23 +16,45 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250330T041117Z
+DTSTAMP:20250331T041212Z
 DTSTART:20250408T190000Z
 DTEND:20250408T210000Z
 SUMMARY:Champions League - FC Bayern - Inter de Milan
-UID:904eb90f-18df-40a2-b649-3063142e70c4
+UID:7a15e336-0e1c-4e12-adfc-8afa8517623b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250330T041117Z
+DTSTAMP:20250331T041212Z
 DTSTART:20250408T190000Z
 DTEND:20250408T210000Z
 SUMMARY:Champions League - Arsenal - Real Madrid
-UID:9ab077b8-6e55-45f7-9a1b-f2f7ef286272
+UID:ec22ea5d-9558-4cc6-bcae-7064846b1746
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250331T041212Z
+DTSTART:20250409T190000Z
+DTEND:20250409T210000Z
+SUMMARY:Champions League - PSG - Aston Villa
+UID:7cd04455-f22d-41a0-a089-372a3666064d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250331T041212Z
+DTSTART:20250409T190000Z
+DTEND:20250409T210000Z
+SUMMARY:Champions League - Barcelona - Borussia Dortmund
+UID:99963162-8eac-471f-98e8-ae246d00837d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR
