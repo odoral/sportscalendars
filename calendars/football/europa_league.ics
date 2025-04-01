@@ -16,91 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250313T081240Z
-DTSTART:20250313T174500Z
-DTEND:20250313T194500Z
-SUMMARY:Europa League - Athletic Club - Roma
-UID:e73c49b2-d133-4d4a-b617-97d9c82495d4
+DTSTAMP:20250401T004847Z
+DTSTART:20250410T164500Z
+DTEND:20250410T184500Z
+SUMMARY:Europa League - Bodø/Glimt - Lazio
+UID:24efe03d-9a33-4d57-90df-a0fa4d90ff28
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250313T081240Z
-DTSTART:20250313T174500Z
-DTEND:20250313T194500Z
-SUMMARY:Europa League - Eintracht Frankfurt - Ajax
-UID:67e7b99a-b7a4-44d2-8929-fbfbc971a0eb
+DTSTAMP:20250401T004847Z
+DTSTART:20250410T190000Z
+DTEND:20250410T210000Z
+SUMMARY:Europa League - Tottenham - Eintracht Frankfurt
+UID:4ba9f305-d160-465d-9ee1-a76cf99d1e9f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250313T081240Z
-DTSTART:20250313T174500Z
-DTEND:20250313T194500Z
-SUMMARY:Europa League - Olympiacos - Bodø/Glimt
-UID:a7b414d7-7c98-4470-9d43-5bde07bf203e
+DTSTAMP:20250401T004847Z
+DTSTART:20250410T190000Z
+DTEND:20250410T210000Z
+SUMMARY:Europa League - Rangers FC - Athletic Club
+UID:349d73fd-9234-48f3-ab61-34628cea3f35
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250313T081240Z
-DTSTART:20250313T174500Z
-DTEND:20250313T194500Z
-SUMMARY:Europa League - Lazio - Viktoria Plzen
-UID:0486b92a-4fc0-4acc-8090-d62f6e9d2f53
+DTSTAMP:20250401T004847Z
+DTSTART:20250410T190000Z
+DTEND:20250410T210000Z
+SUMMARY:Europa League - Olympique Lyon - Manchester United
+UID:45b81838-d9c1-4218-a9ee-aa47b8ee026c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250313T081240Z
-DTSTART:20250313T200000Z
-DTEND:20250313T220000Z
-SUMMARY:Europa League - Tottenham - AZ Alkmaar
-UID:126f9041-7152-4cf5-a0ca-e97ec677e9cb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 11</li>\n<li>PPV: M+ Liga de Campeones 13</li>\n<li>PPV: M+ Liga de Ca
- mpeones 4</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 11\n- PPV: M+ Liga de Campeones 1
- 3\n- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250313T081240Z
-DTSTART:20250313T200000Z
-DTEND:20250313T220000Z
-SUMMARY:Europa League - Rangers FC - Fenerbahçe
-UID:b7a960da-4f26-43dc-b34e-56f8881ca729
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 11</li>\n<li>PPV: M+ Liga de Campeones 12</li>\n<li>PPV: M+ Liga de Ca
- mpeones 4</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 11\n- PPV: M+ Liga de Campeones 1
- 2\n- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250313T081240Z
-DTSTART:20250313T200000Z
-DTEND:20250313T220000Z
-SUMMARY:Europa League - Olympique Lyon - FCSB
-UID:8d38f99e-2181-4959-bff9-fc02439937f3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 11</li>\n<li>PPV: M+ Liga de Campeones 14</li>\n<li>PPV: M+ Liga de Ca
- mpeones 4</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 11\n- PPV: M+ Liga de Campeones 1
- 4\n- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250313T081240Z
-DTSTART:20250313T200000Z
-DTEND:20250313T220000Z
-SUMMARY:Europa League - Manchester United - Real Sociedad
-UID:831b0624-d6c2-451e-9f29-c8b9b375da0c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 11</li>\n<li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Liga de Cam
- peones 4</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 11\n- PPV: M+ Liga de Campeones 2
- \n- PPV: M+ Liga de Campeones 4\n- PPV: Movistar Plus+
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

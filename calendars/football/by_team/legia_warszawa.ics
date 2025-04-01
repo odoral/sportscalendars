@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20250121T082933Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240926T081141Z
-DTSTART:20241003T164500Z
-DTEND:20241003T184500Z
-SUMMARY:Conference League - Legia Warszawa - Betis
-UID:b071ce1a-4f70-4d25-8a9b-eb80d565308e
+DTSTAMP:20250401T004847Z
+DTSTART:20250410T164500Z
+DTEND:20250410T184500Z
+SUMMARY:Conference League - Legia Warszawa - Chelsea
+UID:1a023507-f996-413f-ac92-58ae4d10a51b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+<
- /li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3\
- n- PPV: Movistar Plus+
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

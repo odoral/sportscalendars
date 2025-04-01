@@ -16,15 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250307T041134Z
-DTSTART:20250313T200000Z
-DTEND:20250313T220000Z
-SUMMARY:Conference League - Vitoria Guimaraes - Betis
-UID:9f519b6b-eb97-405b-9098-cbd80160656d
+DTSTAMP:20250401T004847Z
+DTSTART:20250410T164500Z
+DTEND:20250410T184500Z
+SUMMARY:Conference League - Legia Warszawa - Chelsea
+UID:8a2bebe4-a157-45f6-b4a5-1e572becf7cd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 11</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: M+ Liga de Cam
- peones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 11\n- PPV: M+ Liga de Campeones 3
- \n- PPV: M+ Liga de Campeones 4
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250401T004847Z
+DTSTART:20250410T190000Z
+DTEND:20250410T210000Z
+SUMMARY:Conference League - Betis - Jagiellonia Bialystok
+UID:40f91c47-b04d-41d1-9428-c1e9fe9aef13
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250401T004847Z
+DTSTART:20250410T190000Z
+DTEND:20250410T210000Z
+SUMMARY:Conference League - Djurgårdens IF - Rapid Viena
+UID:37038d04-3d21-4eee-937e-60eff858f2ff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250401T004847Z
+DTSTART:20250410T190000Z
+DTEND:20250410T210000Z
+SUMMARY:Conference League - NK Celje - Fiorentina
+UID:bfa7853c-22bc-4f20-881a-ef7950f3db47
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
