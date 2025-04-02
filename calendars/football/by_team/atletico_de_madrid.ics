@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250330T041117Z
+DTSTAMP:20250402T004253Z
 DTSTART:20250402T193000Z
 DTEND:20250402T213000Z
 SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
-UID:acd9c60c-eec3-4615-b0bb-cdadf8c9a81d
+UID:7ab47090-ae1c-4fba-a52f-bc679747b110
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
  i>PPV: Movistar Plus+</li></ul></body></html>
@@ -28,11 +28,23 @@ DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa
  del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250330T041117Z
+DTSTAMP:20250402T004253Z
+DTSTART:20250402T193000Z
+DTEND:20250402T213000Z
+SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
+UID:692dc6ac-fde5-40c5-96d0-c13b72a92ed9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
+ i>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa 
+ del Rey\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250402T004253Z
 DTSTART:20250406T141500Z
 DTEND:20250406T161500Z
 SUMMARY:Liga EA Sports - Sevilla - Atlético de Madrid
-UID:e979e182-d6fd-4831-931b-9f7c782bf5d9
+UID:6ec73b96-7f41-4026-acee-5463f1a7cceb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body><
  /html>

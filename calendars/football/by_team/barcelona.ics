@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250401T081326Z
+DTSTAMP:20250402T004253Z
 DTSTART:20250402T193000Z
 DTEND:20250402T213000Z
 SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
-UID:607a2ace-080e-461e-8399-b978c9806783
+UID:e4f3da7c-6a1c-4b45-a3f1-d02f65f94850
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
  i>PPV: Movistar Plus+</li></ul></body></html>
@@ -28,21 +28,33 @@ DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa
  del Rey\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250401T081326Z
+DTSTAMP:20250402T004253Z
+DTSTART:20250402T193000Z
+DTEND:20250402T213000Z
+SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
+UID:7008436c-eda6-445f-be4e-f15dbf0a09fd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
+ i>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa 
+ del Rey\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250402T004253Z
 DTSTART:20250405T190000Z
 DTEND:20250405T210000Z
 SUMMARY:Liga EA Sports - Barcelona - Betis
-UID:267751be-30e7-4444-993c-e39b16cbeac8
+UID:38b21899-e18e-4e4f-8aaf-fb7d8a25fe9a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250401T081326Z
+DTSTAMP:20250402T004253Z
 DTSTART:20250409T190000Z
 DTEND:20250409T210000Z
 SUMMARY:Champions League - Barcelona - Borussia Dortmund
-UID:21f3fbc3-011e-4555-8aba-4a033c94d992
+UID:1ca85e05-30ff-4986-b7e7-bf0843fcdee3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
