@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250402T041205Z
+DTSTAMP:20250402T081335Z
 DTSTART:20250402T184500Z
 DTEND:20250402T204500Z
 SUMMARY:Premier League - Manchester City - Leicester City
-UID:9a46d998-b0ec-4239-b49d-fdfdf24172b4
+UID:f1558e0b-a2f2-438f-8102-30ea2a6fb359
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 3</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 3\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250402T041205Z
+DTSTAMP:20250402T081335Z
 DTSTART:20250406T153000Z
 DTEND:20250406T173000Z
 SUMMARY:Premier League - Manchester United - Manchester City
-UID:41ac4ed4-bb5c-45ae-94ab-5a056f137fb6
+UID:9017bdc7-3c9a-404a-a418-2454560d8d7c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li>
+ \n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
+ V: M+ Vamos\n- PPV: MAX
 END:VEVENT
 END:VCALENDAR
