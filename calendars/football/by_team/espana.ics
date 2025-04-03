@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250401T081326Z
+DTSTAMP:20250403T081332Z
+DTSTART:20250403T170000Z
+DTEND:20250403T190000Z
+SUMMARY:Otras competiciones - España - Inglaterra
+UID:c7485d4f-6fd6-4cb4-bdcf-f673853c7c10
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
+ li>\n<li>PPV: RFEF TV</li></ul></body></html>
+DESCRIPTION:- Open: SEFutbol Youtube\n- PPV: RFEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250403T081332Z
 DTSTART:20250404T184500Z
 DTEND:20250404T204500Z
 SUMMARY:UEFA Women's Nations League - Portugal - España
-UID:f387cc4d-cec0-4005-a718-70653dc23cb5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: La 2</li>\n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: La 2\n- Open: rtve Play
+UID:6b7fdf8a-9990-422f-898d-efce8c1d08ba
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
+ n: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 2\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250401T081326Z
+DTSTAMP:20250403T081332Z
 DTSTART:20250408T170000Z
 DTEND:20250408T190000Z
 SUMMARY:UEFA Women's Nations League - España - Portugal
-UID:36c54a8c-1b27-4fcb-b4b9-425fc7ff5203
+UID:6e515013-5421-4e55-8427-5de3e62a4565
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
