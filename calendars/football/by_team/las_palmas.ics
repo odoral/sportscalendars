@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250401T004847Z
+DTSTAMP:20250403T004220Z
 DTSTART:20250406T120000Z
 DTEND:20250406T140000Z
 SUMMARY:Liga EA Sports - Las Palmas - Real Sociedad
-UID:a837eefc-8afd-4e09-b8c5-e16095a98bfe
+UID:96b502cd-c84e-465e-8c66-32d1d65c4009
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250403T004220Z
+DTSTART:20250412T141500Z
+DTEND:20250412T161500Z
+SUMMARY:Liga EA Sports - Getafe - Las Palmas
+UID:531e1ffe-da4e-47f7-af72-1d336cbdbd14
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TV Canaria</li>\n<li>Open: TeleMadrid</li>\n<li>PPV: GolStadium P
+ remium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- Open: TeleMadrid\n- P
+ PV: GolStadium Premium\n- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

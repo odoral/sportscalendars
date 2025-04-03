@@ -16,37 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250402T041205Z
-DTSTART:20250402T193000Z
-DTEND:20250402T213000Z
-SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
-UID:27d4a95e-d4b8-4231-a91d-9410221a7fe8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
- i>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa 
- del Rey\n- PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250402T041205Z
+DTSTAMP:20250403T004220Z
 DTSTART:20250405T190000Z
 DTEND:20250405T210000Z
 SUMMARY:Liga EA Sports - Barcelona - Betis
-UID:689fd773-4703-4592-a84b-55893b95f1cc
+UID:2eb17ef4-3107-474d-863c-ddfbbc88d7f6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250402T041205Z
+DTSTAMP:20250403T004220Z
 DTSTART:20250409T190000Z
 DTEND:20250409T210000Z
 SUMMARY:Champions League - Barcelona - Borussia Dortmund
-UID:e01fa5ac-e85c-4a3e-9921-fc9a9d3bfc6a
+UID:e2ca39c2-8c32-4219-9cbb-59957bd16a29
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250403T004220Z
+DTSTART:20250412T190000Z
+DTEND:20250412T210000Z
+SUMMARY:Liga EA Sports - Leganés - Barcelona
+UID:89d54265-939a-4bfe-b543-1f94710de181
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 END:VCALENDAR
