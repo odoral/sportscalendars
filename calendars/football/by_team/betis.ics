@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250403T081332Z
+DTSTAMP:20250404T004215Z
 DTSTART:20250405T190000Z
 DTEND:20250405T210000Z
 SUMMARY:Liga EA Sports - Barcelona - Betis
-UID:dfc107b7-f1ba-4f57-be10-ad0e9b7899cf
+UID:bedea12d-a850-49d0-b01f-2a179acb41ef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250403T081332Z
+DTSTAMP:20250404T004215Z
 DTSTART:20250410T190000Z
 DTEND:20250410T210000Z
 SUMMARY:Conference League - Betis - Jagiellonia Bialystok
-UID:32b49a1a-6799-4f9b-93ce-8d2d229beb5d
+UID:dc882880-0d50-4d11-b1e4-1aa7eca4e7e3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250404T004215Z
+DTSTART:20250413T163000Z
+DTEND:20250413T183000Z
+SUMMARY:Liga EA Sports - Betis - Villarreal
+UID:8151f95a-51e9-4f2a-a325-c9fea2a5c2df
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body><
+ /html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+\n- PPV: Orange Fút
+ bol 1
 END:VEVENT
 END:VCALENDAR
