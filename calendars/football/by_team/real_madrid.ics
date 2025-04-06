@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250406T004544Z
+DTSTAMP:20250406T081051Z
+DTSTART:20250406T133000Z
+DTEND:20250406T153000Z
+SUMMARY:Otras competiciones - Barcelona - Real Madrid
+UID:261a2979-cd3a-4a11-8ecb-d53aac4f5e92
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Barça One
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250406T081051Z
 DTSTART:20250408T190000Z
 DTEND:20250408T210000Z
 SUMMARY:Champions League - Arsenal - Real Madrid
-UID:9f1f9918-3ed0-462c-bd91-e1e320ebba2a
+UID:54cc4ea8-f1f6-49c6-9522-678640d427a4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250406T004544Z
+DTSTAMP:20250406T081051Z
 DTSTART:20250413T141500Z
 DTEND:20250413T161500Z
 SUMMARY:Liga EA Sports - Alavés - Real Madrid
-UID:2d53d640-e26a-4b55-8ae7-b030c72df65c
+UID:010d4ded-c75e-4bdb-9182-e873001cfbf3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
