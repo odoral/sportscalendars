@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250403T004220Z
-DTSTART:20250405T133000Z
-DTEND:20250405T153000Z
-SUMMARY:Bundesliga - Friburgo - Borussia Dortmund
-UID:5c606801-43a1-48ec-a5bd-53b88d483e06
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250403T004220Z
+DTSTAMP:20250406T004544Z
 DTSTART:20250409T190000Z
 DTEND:20250409T210000Z
 SUMMARY:Champions League - Barcelona - Borussia Dortmund
-UID:9679bf5b-641b-4231-b311-b2a1c2cfc9dd
+UID:1c108a3e-06aa-4777-83d8-8461f80058d3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
@@ -38,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250403T004220Z
+DTSTAMP:20250406T004544Z
 DTSTART:20250412T163000Z
 DTEND:20250412T183000Z
 SUMMARY:Bundesliga - FC Bayern - Borussia Dortmund
-UID:0caebd7a-c41f-41b2-9632-45c510d784b3
+UID:505bd6fd-4255-42c2-843d-0320038955aa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250406T004544Z
+DTSTART:20250415T190000Z
+DTEND:20250415T210000Z
+SUMMARY:Champions League - Borussia Dortmund - Barcelona
+UID:8d49eabf-2577-490c-bb5e-63d9035ba4a7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
