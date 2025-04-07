@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250407T004430Z
+DTSTAMP:20250407T081347Z
 DTSTART:20250409T190000Z
 DTEND:20250409T210000Z
 SUMMARY:Champions League - Barcelona - Borussia Dortmund
-UID:e3411742-8b94-4f86-8c0d-1d2d1dc4e3db
+UID:81ce7626-3f33-411e-920f-3d8fda1feb98
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
@@ -28,21 +28,31 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250407T004430Z
+DTSTAMP:20250407T081347Z
 DTSTART:20250412T190000Z
 DTEND:20250412T210000Z
 SUMMARY:Liga EA Sports - Leganés - Barcelona
-UID:26206b3f-5c02-4b56-9573-7707e6e19980
+UID:0062a593-004b-4d8d-870f-c4031166d597
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250407T004430Z
+DTSTAMP:20250407T081347Z
+DTSTART:20250413T190000Z
+DTEND:20250413T210000Z
+SUMMARY:Otras competiciones - Barcelona - Real Madrid
+UID:2565999c-529a-4987-aab8-6705b8f45c3c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250407T081347Z
 DTSTART:20250415T190000Z
 DTEND:20250415T210000Z
 SUMMARY:Champions League - Borussia Dortmund - Barcelona
-UID:c7c2b438-47fe-4bcb-a965-3746aa8ff962
+UID:49e55b29-d048-49fe-a330-d6dc850e18ba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
