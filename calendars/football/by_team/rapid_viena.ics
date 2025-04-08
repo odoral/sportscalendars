@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250401T081326Z
+DTSTAMP:20250408T004220Z
 DTSTART:20250410T190000Z
 DTEND:20250410T210000Z
 SUMMARY:Conference League - Djurgårdens IF - Rapid Viena
-UID:d4c4911a-3280-428e-9dc1-6c51d1b1ca71
+UID:d57086d8-8d5d-4273-93f8-adff21066ccc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250408T004220Z
+DTSTART:20250417T190000Z
+DTEND:20250417T210000Z
+SUMMARY:Conference League - Rapid Viena - Djurgårdens IF
+UID:9c4deea0-b5bb-4596-8455-8d0ecddc480c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,25 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250406T004544Z
+DTSTAMP:20250408T004220Z
 DTSTART:20250410T190000Z
 DTEND:20250410T210000Z
 SUMMARY:Conference League - Betis - Jagiellonia Bialystok
-UID:46fbb46d-6683-4874-9bbb-79580aa09893
+UID:d9e7efe4-b48e-4b14-8885-6490737c068a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250406T004544Z
+DTSTAMP:20250408T004220Z
 DTSTART:20250413T163000Z
 DTEND:20250413T183000Z
 SUMMARY:Liga EA Sports - Betis - Villarreal
-UID:5d70f50f-1411-48ad-b1f1-ea96c2dc11b9
+UID:5d3b4363-441d-4688-9de6-375a42ceaeb9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body><
  /html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+\n- PPV: Orange Fút
  bol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250408T004220Z
+DTSTART:20250417T164500Z
+DTEND:20250417T184500Z
+SUMMARY:Conference League - Jagiellonia Bialystok - Betis
+UID:dfee95d0-4182-4863-b3d4-e59d26091fc5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

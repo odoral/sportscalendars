@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250401T081326Z
+DTSTAMP:20250408T004220Z
 DTSTART:20250410T190000Z
 DTEND:20250410T210000Z
 SUMMARY:Conference League - NK Celje - Fiorentina
-UID:37b3b619-ddf7-4427-82c4-410ada427cbb
+UID:41a10cb4-69f4-4b2d-bafc-b463ed575983
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250408T004220Z
+DTSTART:20250417T164500Z
+DTEND:20250417T184500Z
+SUMMARY:Conference League - Fiorentina - NK Celje
+UID:ee50fc11-c299-4061-8221-00bc30b8929c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

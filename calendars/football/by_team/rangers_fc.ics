@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250401T081326Z
+DTSTAMP:20250408T004220Z
 DTSTART:20250410T190000Z
 DTEND:20250410T210000Z
 SUMMARY:Europa League - Rangers FC - Athletic Club
-UID:d56bf8b5-862b-40d0-addc-ec516daa9531
+UID:125cc875-abe7-40a0-a6b5-7185c1aa0e76
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250408T004220Z
+DTSTART:20250417T190000Z
+DTEND:20250417T210000Z
+SUMMARY:Europa League - Athletic Club - Rangers FC
+UID:ae958ed4-ead1-42dc-a8cb-20b90f5b691b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
