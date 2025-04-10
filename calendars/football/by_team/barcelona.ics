@@ -16,45 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250408T081346Z
-DTSTART:20250409T190000Z
-DTEND:20250409T210000Z
-SUMMARY:Champions League - Barcelona - Borussia Dortmund
-UID:cfbe4de7-10be-4860-8632-259b90edcb18
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
- i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
-  PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250408T081346Z
+DTSTAMP:20250410T004234Z
 DTSTART:20250412T190000Z
 DTEND:20250412T210000Z
 SUMMARY:Liga EA Sports - Leganés - Barcelona
-UID:687afad3-3144-4ae5-825e-419fa041142f
+UID:5c1a78fc-b9a0-42a8-bf26-4b927ca937f7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250408T081346Z
+DTSTAMP:20250410T004234Z
 DTSTART:20250413T190000Z
 DTEND:20250413T210000Z
 SUMMARY:Otras competiciones - Barcelona - Real Madrid
-UID:806d030f-a106-4912-88e9-10bb6d0d33b2
+UID:2054f5c6-cc94-4ff6-ac0b-f0c0630af245
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250408T081346Z
+DTSTAMP:20250410T004234Z
 DTSTART:20250415T190000Z
 DTEND:20250415T210000Z
 SUMMARY:Champions League - Borussia Dortmund - Barcelona
-UID:e3c5faa2-fc2c-443e-b091-022c180e710b
+UID:47a44b92-bee0-427b-a7bd-b810a6e38d97
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250410T004234Z
+DTSTART:20250419T141500Z
+DTEND:20250419T161500Z
+SUMMARY:Liga EA Sports - Barcelona - Celta
+UID:6899d47f-315c-4df9-988e-721b05f6a590
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 END:VCALENDAR

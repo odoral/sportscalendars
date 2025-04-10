@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250407T004430Z
+DTSTAMP:20250410T004234Z
 DTSTART:20250412T141500Z
 DTEND:20250412T161500Z
 SUMMARY:Liga EA Sports - Getafe - Las Palmas
-UID:a932fc0c-e5f4-406c-a6a0-faccb1b44038
+UID:f195a707-afe6-49c2-bbde-66c168ee8af8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TV Canaria</li>\n<li>Open: TeleMadrid</li>\n<li>PPV: GolStadium P
  remium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- Open: TeleMadrid\n- P
  PV: GolStadium Premium\n- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250410T004234Z
+DTSTART:20250419T190000Z
+DTEND:20250419T210000Z
+SUMMARY:Liga EA Sports - Las Palmas - Atlético de Madrid
+UID:e8622466-c034-4c00-83b2-a10d421c5ba8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

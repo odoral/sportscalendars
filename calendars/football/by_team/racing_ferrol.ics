@@ -16,11 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250408T004220Z
+DTSTAMP:20250410T004234Z
 DTSTART:20250412T190000Z
 DTEND:20250412T210000Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Racing Ferrol
-UID:d079fe5e-f029-4dc3-aa82-43f1ed5c85b2
+UID:f72d955b-f0fd-4f1b-86c3-8938e27fe328
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250410T004234Z
+DTSTART:20250419T120000Z
+DTEND:20250419T140000Z
+SUMMARY:Liga Hypermotion - Racing Ferrol - C.D. Eldense
+UID:630804b3-2cdf-4635-927c-0df9fe2e8a02
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></ht
