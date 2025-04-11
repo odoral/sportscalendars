@@ -16,35 +16,47 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250410T161145Z
+DTSTAMP:20250411T004315Z
 DTSTART:20250413T141500Z
 DTEND:20250413T161500Z
 SUMMARY:Liga EA Sports - Alavés - Real Madrid
-UID:42d187c7-5db0-43d9-8995-324ea6ed523c
+UID:361bed45-ffca-4a42-8156-2428513fea8b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250410T161145Z
+DTSTAMP:20250411T004315Z
 DTSTART:20250413T190000Z
 DTEND:20250413T210000Z
 SUMMARY:Otras competiciones - Barcelona - Real Madrid
-UID:c271f9d0-82de-4d37-8185-1a69292f931f
+UID:90dadc01-9cc4-413f-95af-420397b880a8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250410T161145Z
+DTSTAMP:20250411T004315Z
 DTSTART:20250416T190000Z
 DTEND:20250416T210000Z
 SUMMARY:Champions League - Real Madrid - Arsenal
-UID:5222883e-e895-472e-ad62-c8426259b3ed
+UID:58175c41-cd40-4d08-976a-6b4dbc71d833
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250411T004315Z
+DTSTART:20250420T190000Z
+DTEND:20250420T210000Z
+SUMMARY:Liga EA Sports - Real Madrid - Athletic Club
+UID:d38b67b5-38c7-47b4-b48b-3bcc436a6b38
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Ora
+ nge Fútbol 1</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
+ lus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 END:VCALENDAR

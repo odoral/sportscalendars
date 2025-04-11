@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250410T161145Z
+DTSTAMP:20250411T004315Z
 DTSTART:20250411T190000Z
 DTEND:20250411T210000Z
 SUMMARY:Liga EA Sports - Valencia - Sevilla
-UID:af60edfd-f998-4c73-a51e-8dd1cbbd84fa
+UID:6f26a8d0-a584-4f86-ad94-ea51f11dead0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
  ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250411T004315Z
+DTSTART:20250420T163000Z
+DTEND:20250420T183000Z
+SUMMARY:Liga EA Sports - Sevilla - Alavés
+UID:fcabb41b-e7f6-4142-89ef-7cd7df620226
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
+ i>Open: ETB1</li>\n<li>Open: Gol Play</li>\n<li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Canal Sur\n- Open: ETB1\n- Open: Gol Play\n- PPV: DAZ
+ N\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR
