@@ -16,43 +16,45 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250410T161145Z
-DTSTART:20250412T190000Z
-DTEND:20250412T210000Z
-SUMMARY:Liga EA Sports - Leganés - Barcelona
-UID:7ad5386f-8051-4cf6-a999-30c92ca0172a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250410T161145Z
+DTSTAMP:20250413T020935Z
 DTSTART:20250413T190000Z
 DTEND:20250413T210000Z
 SUMMARY:Otras competiciones - Barcelona - Real Madrid
-UID:33a5ff52-d33c-4b3e-8233-163cfcb0c19e
+UID:d3ac590a-58e5-40cd-bf15-bab850424794
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250410T161145Z
+DTSTAMP:20250413T020935Z
 DTSTART:20250415T190000Z
 DTEND:20250415T210000Z
 SUMMARY:Champions League - Borussia Dortmund - Barcelona
-UID:38ea2c9a-7cb2-4fe3-8bc9-bf86e073bb27
+UID:0edc151e-3069-4d9c-956c-1941b2de68d5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250410T161145Z
+DTSTAMP:20250413T020935Z
 DTSTART:20250419T141500Z
 DTEND:20250419T161500Z
 SUMMARY:Liga EA Sports - Barcelona - Celta
-UID:c93156ae-b32c-4343-84ca-406c0b12231f
+UID:e6cd041b-b9f9-4997-b4df-8cf3d98ef650
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250413T020935Z
+DTSTART:20250422T193000Z
+DTEND:20250422T213000Z
+SUMMARY:Liga EA Sports - Barcelona - Mallorca
+UID:c4aa70be-cfb1-45bd-9741-0ef733b131ab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Ora
+ nge Fútbol 1</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
+ lus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 END:VCALENDAR
