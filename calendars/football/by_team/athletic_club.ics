@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250411T004315Z
-DTSTART:20250413T190000Z
-DTEND:20250413T210000Z
-SUMMARY:Liga EA Sports - Athletic Club - Rayo Vallecano
-UID:6cca99c3-df07-4cfd-b258-0c0001d56326
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250411T004315Z
+DTSTAMP:20250414T004549Z
 DTSTART:20250417T190000Z
 DTEND:20250417T210000Z
 SUMMARY:Europa League - Athletic Club - Rangers FC
-UID:e4d2e7f1-1fba-44cc-9af4-6520374587e0
+UID:ae757bb2-5fa2-4351-b649-625f2ab1cbe2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+<
  /li></ul></body></html>
@@ -38,15 +28,25 @@ DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3\
  n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250411T004315Z
+DTSTAMP:20250414T004549Z
 DTSTART:20250420T190000Z
 DTEND:20250420T210000Z
 SUMMARY:Liga EA Sports - Real Madrid - Athletic Club
-UID:1291fece-e825-41ff-ad68-49675cb8cf2f
+UID:7229b96b-22a5-41e7-99fc-18247681a72a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Ora
  nge Fútbol 1</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2\n- PPV: Movistar P
  lus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250414T004549Z
+DTSTART:20250423T170000Z
+DTEND:20250423T190000Z
+SUMMARY:Liga EA Sports - Athletic Club - Las Palmas
+UID:589a027b-0dcd-4d5b-80c7-ea3aecaae5b3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR

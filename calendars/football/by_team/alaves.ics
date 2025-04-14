@@ -16,25 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250411T004315Z
-DTSTART:20250413T141500Z
-DTEND:20250413T161500Z
-SUMMARY:Liga EA Sports - Alavés - Real Madrid
-UID:dd48c520-0c7e-476f-8558-318bb041a399
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
- <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250411T004315Z
+DTSTAMP:20250414T004549Z
 DTSTART:20250420T163000Z
 DTEND:20250420T183000Z
 SUMMARY:Liga EA Sports - Sevilla - Alavés
-UID:ffc9437b-ae09-4f3a-92a3-0de6839fa3d8
+UID:02ea257a-fd0a-4150-b307-1bc66cf943ea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
  i>Open: ETB1</li>\n<li>Open: Gol Play</li>\n<li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
 DESCRIPTION:- Open: Canal Sur\n- Open: ETB1\n- Open: Gol Play\n- PPV: DAZ
  N\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250414T004549Z
+DTSTART:20250423T193000Z
+DTEND:20250423T213000Z
+SUMMARY:Liga EA Sports - Alavés - Real Sociedad
+UID:695339b0-6334-4620-acfe-70a3bbfc77e4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga T
+ V</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- PPV: GolStadium Premium\n- 
+ PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
