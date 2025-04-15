@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250412T004226Z
+DTSTAMP:20250415T004353Z
 DTSTART:20250420T163000Z
 DTEND:20250420T183000Z
 SUMMARY:Liga EA Sports - Sevilla - Alavés
-UID:f5f7d640-e537-46e9-bba3-48ecb91613c5
+UID:aad8f60a-86f7-490a-af61-e9a2664b26b9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
  i>Open: ETB1</li>\n<li>Open: Gol Play</li>\n<li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
 DESCRIPTION:- Open: Canal Sur\n- Open: ETB1\n- Open: Gol Play\n- PPV: DAZ
  N\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250415T004353Z
+DTSTART:20250424T170000Z
+DTEND:20250424T190000Z
+SUMMARY:Liga EA Sports - Osasuna - Sevilla
+UID:18675144-16ff-439f-a1e3-e7432d00ee4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
