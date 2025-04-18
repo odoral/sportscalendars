@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250415T081345Z
+DTSTAMP:20250418T004239Z
 DTSTART:20250418T100000Z
 DTEND:20250418T120000Z
 SUMMARY:Liga F - Real Sociedad F. - Eibar Fem.
-UID:4cfdc4f1-aea3-475c-a06f-7d671dd99880
+UID:d46f7dbd-31e9-49c5-bd11-ff7bdb5c863f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: Gol Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: Gol
  Stadium Premium</li>\n<li>PPV: MAX</li></ul></body></html>
 DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN 1\n-
   PPV: GolStadium Premium\n- PPV: MAX
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250418T004239Z
+DTSTART:20250427T140000Z
+DTEND:20250427T160000Z
+SUMMARY:Liga F - Real Sociedad F. - Valencia Féminas
+UID:46af1abb-4fd6-466d-9e83-e16a0f74af44
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
