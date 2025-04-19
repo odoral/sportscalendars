@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250419T004109Z
+DTSTAMP:20250419T041100Z
+DTSTART:20250419T113000Z
+DTEND:20250419T133000Z
+SUMMARY:Women's Champions League - Arsenal Fem. - Olympique Lyon (Fem.)
+UID:72609aa3-9647-40be-a192-460d73a2884e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: MAX</li>\n<li>PPV: Movis
+ tar Plus+ 2</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: DAZN 1\n- PPV: MAX\n- P
+ PV: Movistar Plus+ 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T041100Z
 DTSTART:20250420T160000Z
 DTEND:20250420T180000Z
 SUMMARY:Women's Champions League - Barcelona Femenino - Chelsea Women
-UID:03b2aa9d-ee7a-47b3-8330-6fd9daba8397
+UID:4d59cac5-6c9d-4586-9953-37c1b00f1c17
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV:
   MAX</li></ul></body></html>
@@ -28,21 +40,21 @@ DESCRIPTION:- Open: TV3\n- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamo
  s\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250419T004109Z
+DTSTAMP:20250419T041100Z
 DTSTART:20250427T130000Z
 DTEND:20250427T150000Z
 SUMMARY:Women's Champions League - Chelsea Women - Barcelona Femenino
-UID:2fb8927f-45b9-4ef4-a8e1-ade2549b0d07
+UID:7009a715-bf7b-4637-b866-3bf5af66a6aa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   DAZN</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250419T004109Z
+DTSTAMP:20250419T041100Z
 DTSTART:20250427T160000Z
 DTEND:20250427T180000Z
 SUMMARY:Women's Champions League - Olympique Lyon (Fem.) - Arsenal Fem.
-UID:86deae09-fbf7-415b-b50d-4f158e8a1032
+UID:99edcda5-563d-489a-83c7-e6b2c652b5cd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN

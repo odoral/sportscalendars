@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250419T004109Z
+DTSTAMP:20250419T041100Z
+DTSTART:20250419T113000Z
+DTEND:20250419T133000Z
+SUMMARY:Women's Champions League - Arsenal Fem. - Olympique Lyon (Fem.)
+UID:a4cc0d95-1336-4c59-8e6d-472926651d9c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: MAX</li>\n<li>PPV: Movis
+ tar Plus+ 2</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: DAZN 1\n- PPV: MAX\n- P
+ PV: Movistar Plus+ 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250419T041100Z
 DTSTART:20250427T160000Z
 DTEND:20250427T180000Z
 SUMMARY:Women's Champions League - Olympique Lyon (Fem.) - Arsenal Fem.
-UID:4956360b-0b97-4d43-a459-9939ebc03972
+UID:76713b5d-feed-4287-874e-b460a9f38f76
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
