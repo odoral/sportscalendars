@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250421T004619Z
+DTSTAMP:20250422T081342Z
 DTSTART:20250426T150000Z
 DTEND:20250426T170000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Amorebieta
-UID:7fdaeb47-d472-461a-8583-5e14794193da
+UID:8850b9ad-5c80-4fb7-8cb4-98c1e538721c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
- i>PPV: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
+ i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250421T004619Z
+DTSTAMP:20250422T081342Z
+DTSTART:20250426T170000Z
+DTEND:20250426T190000Z
+SUMMARY:Primera Federación - C.D. Arenteiro - Lugo
+UID:09bc9af8-6085-4324-ae81-dc4634e0967d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250422T081342Z
 DTSTART:20250427T100000Z
 DTEND:20250427T120000Z
 SUMMARY:Primera Federación - R.M. Castilla - AD Ceuta
-UID:cf217af4-b678-4b4b-914e-b304026978be
+UID:35bf441c-b1f9-48af-8c69-e52c266b044e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  \n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV\n- PPV: FEF TV
