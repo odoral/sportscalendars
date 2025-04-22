@@ -16,47 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250414T081343Z
-DTSTART:20250417T164500Z
-DTEND:20250417T184500Z
-SUMMARY:Conference League - Jagiellonia Bialystok - Betis
-UID:6f3b00d9-875a-4242-858a-a9a7c4060432
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+DTSTAMP:20250422T004344Z
+DTSTART:20250501T190000Z
+DTEND:20250501T210000Z
+SUMMARY:Conference League - Betis - Fiorentina
+UID:a72c6d41-172f-461e-990c-03754ce02d22
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250414T081343Z
-DTSTART:20250417T164500Z
-DTEND:20250417T184500Z
-SUMMARY:Conference League - Fiorentina - NK Celje
-UID:974d0edc-b66e-471e-a1b9-26530d0843c6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250414T081343Z
-DTSTART:20250417T190000Z
-DTEND:20250417T210000Z
-SUMMARY:Conference League - Rapid Viena - Djurgårdens IF
-UID:fa56bc1d-333c-4446-9fcb-20372f7a11b9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 10</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: M+ Liga de Cam
- peones 9</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 10\n- PPV: M+ Liga de Campeones 3
- \n- PPV: M+ Liga de Campeones 9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250414T081343Z
-DTSTART:20250417T190000Z
-DTEND:20250417T210000Z
-SUMMARY:Conference League - Chelsea - Legia Warszawa
-UID:71a8cc15-23cb-45b1-a900-94d9aacdc9b6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 8</li>\n<li>PPV: M+ Liga de Camp
- eones 9</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 8\
- n- PPV: M+ Liga de Campeones 9
+DTSTAMP:20250422T004344Z
+DTSTART:20250501T190000Z
+DTEND:20250501T210000Z
+SUMMARY:Conference League - Djurgårdens IF - Chelsea
+UID:59dbc4ec-efb8-44a4-9504-7449b42cbebc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
