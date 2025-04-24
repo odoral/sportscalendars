@@ -16,21 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250422T004344Z
+DTSTAMP:20250424T081401Z
 DTSTART:20250501T190000Z
 DTEND:20250501T210000Z
 SUMMARY:Europa League - Tottenham - Bodø/Glimt
-UID:81a36db5-ef39-446b-b36b-b64bb10e8e6b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:1ddaa19f-102c-4b34-8a3d-dea7eb909f98
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T004344Z
+DTSTAMP:20250424T081401Z
 DTSTART:20250501T190000Z
 DTEND:20250501T210000Z
 SUMMARY:Europa League - Athletic Club - Manchester United
-UID:eafbadf9-539f-441f-ac7e-31569c90442b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:f3de3e1a-e29e-4567-9173-73bd4795a0a4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
+ i></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
+  PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

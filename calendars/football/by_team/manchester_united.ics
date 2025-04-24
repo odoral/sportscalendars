@@ -16,22 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250422T004344Z
+DTSTAMP:20250424T081402Z
 DTSTART:20250427T130000Z
 DTEND:20250427T150000Z
 SUMMARY:Premier League - Bournemouth - Manchester United
-UID:ccc396b2-bbad-404e-a1ce-7faa78e47d5e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:c083bb1d-1db4-4433-9f64-62c2a8c30038
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 3</li>\n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 3\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T004344Z
+DTSTAMP:20250424T081402Z
 DTSTART:20250501T190000Z
 DTEND:20250501T210000Z
 SUMMARY:Europa League - Athletic Club - Manchester United
-UID:c366996e-1365-4abd-87cd-53a723546640
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:bbbe5e7c-fc86-4de1-8041-e44f415b05ae
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
+ i></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
+  PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

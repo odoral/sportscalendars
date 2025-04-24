@@ -16,21 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250422T004344Z
+DTSTAMP:20250424T081401Z
 DTSTART:20250501T190000Z
 DTEND:20250501T210000Z
 SUMMARY:Conference League - Betis - Fiorentina
-UID:a72c6d41-172f-461e-990c-03754ce02d22
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:67771544-7b5e-449e-9bc9-90604b0f91c6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250422T004344Z
+DTSTAMP:20250424T081401Z
 DTSTART:20250501T190000Z
 DTEND:20250501T210000Z
 SUMMARY:Conference League - Djurgårdens IF - Chelsea
-UID:59dbc4ec-efb8-44a4-9504-7449b42cbebc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:b59ad6a8-eebb-4bcc-aec2-1b3a96cce5e0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 5
 END:VEVENT
 END:VCALENDAR
