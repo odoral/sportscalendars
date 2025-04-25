@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250420T004721Z
+DTSTAMP:20250425T041205Z
 DTSTART:20250428T183000Z
 DTEND:20250428T203000Z
 SUMMARY:Liga Hypermotion - Almería - Racing Ferrol
-UID:052a91a9-09ce-4e5b-b364-c6089c52b8c4
+UID:b83b124c-c7d8-499b-8301-418c1452ba4b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250425T041205Z
+DTSTART:20250504T141500Z
+DTEND:20250504T161500Z
+SUMMARY:Liga Hypermotion - Racing Ferrol - Real Zaragoza
+UID:d75c773d-1164-4ace-bbb3-43bfe415f9bf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>

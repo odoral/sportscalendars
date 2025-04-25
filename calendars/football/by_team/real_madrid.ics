@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250424T004324Z
+DTSTAMP:20250425T041205Z
 DTSTART:20250426T200000Z
 DTEND:20250426T220000Z
 SUMMARY:Copa del Rey - Barcelona - Real Madrid
-UID:296260f5-864a-470e-af01-fdc1be04a356
+UID:01503883-8d38-42ed-9938-b49423c08533
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
  i>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa 
  del Rey\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250425T041205Z
+DTSTART:20250504T120000Z
+DTEND:20250504T140000Z
+SUMMARY:Liga EA Sports - Real Madrid - Celta
+UID:4be421cd-05fe-41f1-9268-bee4cf13e8de
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
 END:VEVENT
 END:VCALENDAR

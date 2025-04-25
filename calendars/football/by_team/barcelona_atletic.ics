@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250422T081343Z
+DTSTAMP:20250425T041205Z
 DTSTART:20250426T150000Z
 DTEND:20250426T170000Z
 SUMMARY:Primera Federación - Barcelona Atlètic - Amorebieta
-UID:e0cdbc90-7de8-4dd9-a763-c693a0070fea
+UID:d514acfe-eeba-425b-9f79-a5d59ba380fd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
  i>Open: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
 DESCRIPTION:- Open: Barça One\n- Open: Esport 3\n- PPV: FEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250425T041205Z
+DTSTART:20250504T100000Z
+DTEND:20250504T120000Z
+SUMMARY:Primera Federación - Lugo - Barcelona Atlètic
+UID:12d70087-2dbc-46ff-9b5e-2c75904a71fc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li>\n<l
+ i>PPV: FEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Barça One\n- PPV: FEF TV
 END:VEVENT
 END:VCALENDAR
