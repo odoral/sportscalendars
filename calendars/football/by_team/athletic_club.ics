@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250425T041205Z
+DTSTAMP:20250429T004346Z
 DTSTART:20250501T190000Z
 DTEND:20250501T210000Z
 SUMMARY:Europa League - Athletic Club - Manchester United
-UID:ea3460c4-81ca-40a6-a63d-c1b44c614e87
+UID:6a40d689-441d-43af-92e2-b7d392c621df
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -28,15 +28,24 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250425T041205Z
+DTSTAMP:20250429T004346Z
 DTSTART:20250504T190000Z
 DTEND:20250504T210000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Athletic Club
-UID:29580969-e6e6-4655-aba5-8e379fca71c1
+UID:4dd12cd1-15db-4efb-adb4-702c80cf3829
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body><
  /html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+\n- PPV: Orange Fút
  bol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250429T004346Z
+DTSTART:20250508T190000Z
+DTEND:20250508T210000Z
+SUMMARY:Europa League - Manchester United - Athletic Club
+UID:81d2e595-51a9-49b2-9685-4b6227585202
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

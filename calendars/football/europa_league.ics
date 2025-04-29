@@ -16,25 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250424T081401Z
+DTSTAMP:20250429T004346Z
 DTSTART:20250501T190000Z
 DTEND:20250501T210000Z
 SUMMARY:Europa League - Tottenham - Bodø/Glimt
-UID:1ddaa19f-102c-4b34-8a3d-dea7eb909f98
+UID:e31f656d-1d72-41c8-942a-27c84af8f0f4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250424T081401Z
+DTSTAMP:20250429T004346Z
 DTSTART:20250501T190000Z
 DTEND:20250501T210000Z
 SUMMARY:Europa League - Athletic Club - Manchester United
-UID:f3de3e1a-e29e-4567-9173-73bd4795a0a4
+UID:528b86b5-c55d-43ba-8801-51629e7ba8d6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250429T004346Z
+DTSTART:20250508T190000Z
+DTEND:20250508T210000Z
+SUMMARY:Europa League - Manchester United - Athletic Club
+UID:614bd170-145d-413f-91b0-a2ca44d26d86
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250429T004346Z
+DTSTART:20250508T190000Z
+DTEND:20250508T210000Z
+SUMMARY:Europa League - Bodø/Glimt - Tottenham
+UID:c0c1e72d-3dd8-4935-93f7-70ed6ddbed2b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
