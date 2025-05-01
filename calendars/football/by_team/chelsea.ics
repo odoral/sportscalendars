@@ -16,31 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250429T004346Z
+DTSTAMP:20250501T081318Z
 DTSTART:20250501T190000Z
 DTEND:20250501T210000Z
 SUMMARY:Conference League - Djurgårdens IF - Chelsea
-UID:5b8a44b7-d862-4d4d-b542-738361f65a3b
+UID:2a30ba05-b2b3-489d-b9d4-b54239492402
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250429T004346Z
+DTSTAMP:20250501T081318Z
 DTSTART:20250504T153000Z
 DTEND:20250504T173000Z
 SUMMARY:Premier League - Chelsea - Liverpool
-UID:8b73a765-a892-4472-99d3-63def31a49a0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:79f98b6a-be61-4ba6-8ca6-e9d937a7ae38
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 2</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li>
+ \n<li>PPV: MAX</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Liga de Campeones\n- PP
+ V: M+ Vamos\n- PPV: MAX
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250429T004346Z
+DTSTAMP:20250501T081318Z
 DTSTART:20250508T190000Z
 DTEND:20250508T210000Z
 SUMMARY:Conference League - Chelsea - Djurgårdens IF
-UID:d09b440b-7fe4-43fa-8d5d-700ee437b42c
+UID:04cf9ba5-97ee-4258-8b15-63a357ac44c5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
