@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250425T041205Z
+DTSTAMP:20250501T005037Z
 DTSTART:20250504T120000Z
 DTEND:20250504T140000Z
 SUMMARY:Liga EA Sports - Real Madrid - Celta
-UID:9d7f17f1-5a7b-43e1-b60b-60865e91ed83
+UID:361a5e69-26f0-4453-903e-65f0e6b25982
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250501T005037Z
+DTSTART:20250510T141500Z
+DTEND:20250510T161500Z
+SUMMARY:Liga EA Sports - Celta - Sevilla
+UID:34e30e73-3583-426f-8830-1add57ab16bb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
+ i>Open: Gol Play</li>\n<li>Open: TVG</li>\n<li>PPV: GolStadium Premium</
+ li></ul></body></html>
+DESCRIPTION:- Open: Canal Sur\n- Open: Gol Play\n- Open: TVG\n- PPV: GolS
+ tadium Premium
 END:VEVENT
 END:VCALENDAR
