@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250505T004735Z
+DTSTAMP:20250507T004449Z
 DTSTART:20250508T190000Z
 DTEND:20250508T210000Z
 SUMMARY:Europa League - Manchester United - Athletic Club
-UID:20f2f675-a2cc-4924-9b04-d1c0b6443a8f
+UID:92c99002-3d7f-441e-8793-ab70324d10ac
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -28,11 +28,21 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250505T004735Z
+DTSTAMP:20250507T004449Z
 DTSTART:20250511T131500Z
 DTEND:20250511T151500Z
 SUMMARY:Premier League - Manchester United - West Ham
-UID:fa95cb66-89ea-49ba-bbb5-4f354af880aa
+UID:aff78f09-9dce-445f-8281-e9f50e3313fe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250507T004449Z
+DTSTART:20250516T190000Z
+DTEND:20250516T210000Z
+SUMMARY:Premier League - Chelsea - Manchester United
+UID:7f72d77f-fd66-4a30-8a5d-d58554470382
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
