@@ -16,21 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250506T081443Z
+DTSTAMP:20250507T081424Z
 DTSTART:20250508T190000Z
 DTEND:20250508T210000Z
 SUMMARY:Conference League - Fiorentina - Betis
-UID:5e37ce60-6bc1-49b1-b9cc-fb056e024adc
+UID:a1aaf894-8c1d-43a1-9b77-f58034c3fe65
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250506T081443Z
+DTSTAMP:20250507T081424Z
 DTSTART:20250511T190000Z
 DTEND:20250511T210000Z
 SUMMARY:Liga EA Sports - Betis - Osasuna
-UID:3e23f443-0f60-4f40-a853-66fdc2d5aed9
+UID:9a94677f-a6c6-44f3-81fc-358df6d763ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body><
  /html>
@@ -38,13 +38,13 @@ DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+\n- PPV: Orange Fút
  bol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250506T081443Z
+DTSTAMP:20250507T081424Z
 DTSTART:20250515T170000Z
 DTEND:20250515T190000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Betis
-UID:960c1dd9-3924-4b8a-a5d2-baa6e14c7bbf
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:caae248e-b326-44cf-b1e6-1e4956c5022b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 END:VCALENDAR
