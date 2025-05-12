@@ -16,25 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250509T081335Z
-DTSTART:20250511T131500Z
-DTEND:20250511T151500Z
-SUMMARY:Premier League - Manchester United - West Ham
-UID:e2e0d5b3-2c49-4f9f-ba4c-e3e785c32248
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 2</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: MAX
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250509T081335Z
+DTSTAMP:20250512T004745Z
 DTSTART:20250516T191500Z
 DTEND:20250516T211500Z
 SUMMARY:Premier League - Chelsea - Manchester United
-UID:8aba92f7-2524-4baa-9493-d64e53379c2c
+UID:17745625-4b72-430b-8432-96ad6ea8a676
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
  s+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250512T004745Z
+DTSTART:20250521T190000Z
+DTEND:20250521T210000Z
+SUMMARY:Europa League - Tottenham - Manchester United
+UID:b70ac4f3-5523-4c62-bca0-226e7431482f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
