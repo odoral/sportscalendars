@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250512T004745Z
+DTSTAMP:20250513T081419Z
 DTSTART:20250515T193000Z
 DTEND:20250515T213000Z
 SUMMARY:Liga EA Sports - Espanyol - Barcelona
-UID:9a3687e3-b62e-48df-982a-225f66fbd6f7
+UID:d044c35c-ac81-42ec-89b4-c9ae269b3b1b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: M+ LaLiga TV 3</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Ora
  nge Fútbol 1</li></ul></body></html>
@@ -28,11 +28,21 @@ DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 3\n- PPV: Movistar P
  lus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250512T004745Z
+DTSTAMP:20250513T081419Z
+DTSTART:20250516T150000Z
+DTEND:20250516T170000Z
+SUMMARY:Otras competiciones - Barcelona - Real Madrid
+UID:b93fb82c-2edd-463b-8aed-41690ba926da
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Barça One</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Barça One
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250513T081419Z
 DTSTART:20250518T170000Z
 DTEND:20250518T190000Z
 SUMMARY:Liga EA Sports - Barcelona - Villarreal
-UID:ca101eed-cab6-49c3-9aa7-2175b1ecb0f8
+UID:7b2e119e-44d0-44bb-810c-a4c35221366f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
