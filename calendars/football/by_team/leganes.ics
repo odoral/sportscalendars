@@ -16,22 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250512T004745Z
+DTSTAMP:20250514T081333Z
 DTSTART:20250514T170000Z
 DTEND:20250514T190000Z
 SUMMARY:Liga EA Sports - Villarreal - Leganés
-UID:243eb8d9-fa34-4982-b0f2-73b00a02d774
+UID:3fc5f3a9-4fb4-4221-9ef5-ab392067c25a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Multi 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 2
+  DAZN LaLiga 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250512T004745Z
+DTSTAMP:20250514T081333Z
 DTSTART:20250518T170000Z
 DTEND:20250518T190000Z
 SUMMARY:Liga EA Sports - Las Palmas - Leganés
-UID:10223227-6509-419f-96ad-6455906a672b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:0b534733-9ce5-4d2e-a708-2a1c563ae0d3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TV Canaria</li>\n<li>Open: TeleMadrid</li>\n<li>PPV: GolStadium P
+ remium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- Open: TeleMadrid\n- P
+ PV: GolStadium Premium\n- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
