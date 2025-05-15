@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250512T004745Z
+DTSTAMP:20250515T081359Z
 DTSTART:20250518T100000Z
 DTEND:20250518T120000Z
 SUMMARY:Liga F - Barcelona Femenino - Athletic Club Fem.
-UID:78b8e316-e2bf-40c8-af96-3dc7172b4ddf
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:517167fc-00fe-420e-b922-72163def0698
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: MAX</li>\n<li>PPV: Movistar Plus+ 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: MAX\n- PPV: Movistar Plus+
+  2
 END:VEVENT
 END:VCALENDAR
