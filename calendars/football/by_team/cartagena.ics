@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250511T004839Z
+DTSTAMP:20250516T004540Z
 DTSTART:20250517T163000Z
 DTEND:20250517T183000Z
 SUMMARY:Liga Hypermotion - Cartagena - Tenerife
-UID:7265d87a-11f1-47f1-99cb-67bfc5e0e853
+UID:27dbba6c-2f62-4048-93d9-fe64b18462b3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250516T004540Z
+DTSTART:20250525T160000Z
+DTEND:20250525T180000Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Cartagena
+UID:c04b59c2-1068-4f17-be69-e68a639bdad5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>

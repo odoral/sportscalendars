@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250512T004745Z
+DTSTAMP:20250516T004540Z
 DTSTART:20250518T141500Z
 DTEND:20250518T161500Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Real Zaragoza
-UID:de6d6a32-1828-4562-bd0c-4ee707af7967
+UID:803760c1-2e75-46a9-837c-aa702720ef34
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250516T004540Z
+DTSTART:20250525T160000Z
+DTEND:20250525T180000Z
+SUMMARY:Liga Hypermotion - Tenerife - Real Oviedo
+UID:da466d1f-b84a-483a-95aa-36ed1fd9f351
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
