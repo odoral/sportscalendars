@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250515T081359Z
+DTSTAMP:20250517T081133Z
 DTSTART:20250518T100000Z
 DTEND:20250518T120000Z
 SUMMARY:Liga F - Barcelona Femenino - Athletic Club Fem.
-UID:05aca44a-2aa7-467b-abc8-a124da932438
+UID:3bc06e1e-abbd-4a72-9064-052c54574ee9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: MAX</li>\n<li>PPV: Movistar Plus+ 2</li></ul></bo
  dy></html>
@@ -28,13 +28,14 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: MAX\n- PPV: Movistar Plus+
   2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250515T081359Z
+DTSTAMP:20250517T081133Z
 DTSTART:20250524T160000Z
 DTEND:20250524T180000Z
 SUMMARY:Women's Champions League - Arsenal Fem. - Barcelona Femenino
-UID:a86de4c8-1737-458c-97f3-9f9cbcafb0dc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
-  DAZN</li></ul></body></html>
-DESCRIPTION:- Open: TV3\n- PPV: DAZN
+UID:2968269a-3464-4b42-a7d6-9f00cfaa90f8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
