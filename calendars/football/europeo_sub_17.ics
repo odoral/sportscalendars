@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250121T082933Z
+LAST-MODIFIED:20250410T142246Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,123 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250323T004523Z
-DTSTART:20250325T170000Z
-DTEND:20250325T190000Z
-SUMMARY:Europeo Sub-17 - Austria - España
-UID:4edee411-81ec-499d-b832-5ae5a3de8d5d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
- li>\n<li>PPV: RFEF TV</li></ul></body></html>
-DESCRIPTION:- Open: SEFutbol Youtube\n- PPV: RFEF TV
+DTSTAMP:20250519T081523Z
+DTSTART:20250519T160000Z
+DTEND:20250519T180000Z
+SUMMARY:Europeo Sub-17 - Albania - Portugal
+UID:ad40d000-ed49-4d55-a99d-686bb4a5162d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250519T183000Z
+DTEND:20250519T203000Z
+SUMMARY:Europeo Sub-17 - Alemania - Francia
+UID:11fd1494-1224-4427-803a-adcffb1e66ff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250520T160000Z
+DTEND:20250520T180000Z
+SUMMARY:Europeo Sub-17 - Inglaterra - Bélgica
+UID:b6678c01-e51c-41f4-bf88-a23cef20debf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250520T183000Z
+DTEND:20250520T203000Z
+SUMMARY:Europeo Sub-17 - Italia - República Checa
+UID:88447c3c-49f7-4c4f-ba4a-d10da2f380f5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250522T160000Z
+DTEND:20250522T180000Z
+SUMMARY:Europeo Sub-17 - Albania - Alemania
+UID:76ef084a-8701-4d3d-8cbd-116b5605d45f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250522T183000Z
+DTEND:20250522T203000Z
+SUMMARY:Europeo Sub-17 - Francia - Portugal
+UID:ee189ea4-13da-4839-9f87-1102ffeac24d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250523T160000Z
+DTEND:20250523T180000Z
+SUMMARY:Europeo Sub-17 - Bélgica - República Checa
+UID:ec81cca6-602b-4397-ac09-9ddb433084da
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250523T183000Z
+DTEND:20250523T203000Z
+SUMMARY:Europeo Sub-17 - Italia - Inglaterra
+UID:47c81d5b-0ae6-4ff7-8501-29a06b86edc1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250525T183000Z
+DTEND:20250525T203000Z
+SUMMARY:Europeo Sub-17 - Francia - Albania
+UID:4390fe77-2515-49c2-93eb-c08ca2c37672
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250525T183000Z
+DTEND:20250525T203000Z
+SUMMARY:Europeo Sub-17 - Portugal - Alemania
+UID:ee30424b-6354-4a9b-a3e6-9db49d8cacbc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250526T183000Z
+DTEND:20250526T203000Z
+SUMMARY:Europeo Sub-17 - República Checa - Inglaterra
+UID:a8b8b9ac-4bb6-4b96-a705-3d42332d28ed
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250519T081523Z
+DTSTART:20250526T183000Z
+DTEND:20250526T203000Z
+SUMMARY:Europeo Sub-17 - Bélgica - Italia
+UID:994654bf-f0f0-4fab-8cbf-74519f1f521c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: UEFA TV</li>\n<li>
+ PPV: UEFA TV (Premium)</li></ul></body></html>
+DESCRIPTION:- Open: UEFA TV\n- PPV: UEFA TV (Premium)
 END:VEVENT
 END:VCALENDAR
