@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250522T004510Z
+DTSTAMP:20250522T081348Z
+DTSTART:20250524T190000Z
+DTEND:20250524T210000Z
+SUMMARY:Otras competiciones - PSG - Stade de Reims
+UID:06a04fc4-d320-47a8-9615-cc9e998665e1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250522T081348Z
 DTSTART:20250531T190000Z
 DTEND:20250531T210000Z
 SUMMARY:Champions League - PSG - Inter de Milan
-UID:af652fad-6d9c-47db-a741-9127f77ed36e
+UID:a139d240-54b8-4faf-8d07-782bba44841f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar
   Plus+</li></ul></body></html>
