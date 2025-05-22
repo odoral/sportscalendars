@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250430T004431Z
-DTSTART:20250507T190000Z
-DTEND:20250507T210000Z
-SUMMARY:Champions League - PSG - Arsenal
-UID:0e0e1081-4f80-4d50-9160-e74c5d4f3eab
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+DTSTAMP:20250522T004510Z
+DTSTART:20250531T190000Z
+DTEND:20250531T210000Z
+SUMMARY:Champions League - PSG - Inter de Milan
+UID:af652fad-6d9c-47db-a741-9127f77ed36e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar
+  Plus+</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Liga de Campeones\
+ n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
