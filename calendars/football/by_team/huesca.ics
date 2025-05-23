@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250521T081348Z
+DTSTAMP:20250523T004528Z
 DTSTART:20250525T163000Z
 DTEND:20250525T183000Z
 SUMMARY:Liga Hypermotion - Cádiz - Huesca
-UID:54e74909-68c4-4c28-a777-da99c78b3645
+UID:da944e38-ea6b-4a1d-afe5-055395b83a07
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
  
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250523T004528Z
+DTSTART:20250601T160000Z
+DTEND:20250601T180000Z
+SUMMARY:Liga Hypermotion - Huesca - C.D. Eldense
+UID:0a9795fe-66ba-402a-85f9-0968d70095e2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

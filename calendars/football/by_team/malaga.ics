@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250522T081348Z
+DTSTAMP:20250523T004528Z
 DTSTART:20250525T163000Z
 DTEND:20250525T183000Z
 SUMMARY:Liga Hypermotion - Elche - Málaga
-UID:aa929c2c-e089-482e-9de4-961784911fa7
+UID:dab15830-5ec8-43d8-aeae-e62e9145a5c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 4</li>\n<li>PPV: Movis
@@ -28,5 +28,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 4\n- PPV: Mov
  istar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250523T004528Z
+DTSTART:20250601T160000Z
+DTEND:20250601T180000Z
+SUMMARY:Liga Hypermotion - Málaga - Burgos C.F.
+UID:b233b370-aff1-4341-9636-4798386e8a3d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
