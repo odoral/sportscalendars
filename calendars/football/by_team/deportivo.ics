@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250525T041710Z
+DTSTAMP:20250525T081153Z
 DTSTART:20250525T163000Z
 DTEND:20250525T183000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Deportivo
-UID:6ac811f8-f3e1-40c5-a5c8-c6c05b6433df
+UID:02b81c67-a402-4aea-9bbf-fd20ce793ca0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: M+ LaLiga 
@@ -30,11 +30,21 @@ DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
  a TV 3\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250525T041710Z
+DTSTAMP:20250525T081153Z
+DTSTART:20250529T180000Z
+DTEND:20250529T200000Z
+SUMMARY:Copa Campeones Juvenil - Deportivo - Betis
+UID:7bcc3c82-6cb6-47b5-a73c-4654946095db
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RFEF TV YouTube</l
+ i>\n<li>PPV: RFEF TV</li></ul></body></html>
+DESCRIPTION:- Open: RFEF TV YouTube\n- PPV: RFEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250525T081153Z
 DTSTART:20250601T160000Z
 DTEND:20250601T180000Z
 SUMMARY:Liga Hypermotion - Deportivo - Elche
-UID:118750c9-b449-48de-953c-6f760e2da667
+UID:40da3fd1-3bbd-4ad6-a74b-7032587f7571
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
