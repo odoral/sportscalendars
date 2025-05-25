@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250524T081132Z
+DTSTAMP:20250525T005133Z
 DTSTART:20250530T181500Z
 DTEND:20250530T201500Z
 SUMMARY:UEFA Women's Nations League - Bélgica - España
-UID:d1577efc-e97e-4ef6-9997-e6fcec9202eb
+UID:169a756b-7785-453d-93a1-0e621b0d93b2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 2\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250525T005133Z
+DTSTART:20250603T170000Z
+DTEND:20250603T190000Z
+SUMMARY:UEFA Women's Nations League - España - Inglaterra
+UID:8377ed95-0f72-45ff-9b07-ca757e1600e6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 2\n- Open: rtve Play
