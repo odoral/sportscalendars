@@ -16,11 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250525T005133Z
+DTSTAMP:20250525T041710Z
+DTSTART:20250525T163000Z
+DTEND:20250525T183000Z
+SUMMARY:Liga Hypermotion - Eibar - Córdoba
+UID:4229a67d-f485-4c0e-a287-4306b45b76d4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: Movistar P
+ lus+</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: M+ LaLiga TV\n- PPV: Movistar
+  Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250525T041710Z
 DTSTART:20250601T160000Z
 DTEND:20250601T180000Z
 SUMMARY:Liga Hypermotion - Córdoba - Albacete
-UID:cf1cc1cd-de12-4f8e-a71c-0a7469cfe310
+UID:bb46ff15-89b6-481a-88bd-ecdb4faadf1b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>

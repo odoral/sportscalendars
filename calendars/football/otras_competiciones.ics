@@ -16,23 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250525T005133Z
-DTSTART:20250524T180000Z
-DTEND:20250524T200000Z
-SUMMARY:Otras competiciones - Arminia Bielefeld - Stuttgart
-UID:349b128e-e8f3-424e-b4cc-5e07b96492d7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: GolStadium Premium</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250525T005133Z
-DTSTART:20250524T190000Z
-DTEND:20250524T210000Z
-SUMMARY:Otras competiciones - PSG - Stade de Reims
-UID:e88e4f1d-86a3-496f-9932-08a80d9d2775
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
- /body></html>
-DESCRIPTION:- PPV: M+ Vamos
+DTSTAMP:20250525T041710Z
+DTSTART:20250525T100000Z
+DTEND:20250525T120000Z
+SUMMARY:Otras competiciones - Barcelona - Real Madrid
+UID:07ad549a-1102-4eb5-8fec-11bc561182ad
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
 END:VEVENT
 END:VCALENDAR

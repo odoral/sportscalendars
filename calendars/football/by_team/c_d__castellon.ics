@@ -16,11 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250525T005133Z
+DTSTAMP:20250525T041710Z
+DTSTART:20250525T163000Z
+DTEND:20250525T183000Z
+SUMMARY:Liga Hypermotion - Granada C.F. - C.D. Castellón
+UID:040f8d18-5832-4a40-b23e-892ed54bd076
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 6</li>\n<li>PPV: M+ La
+ Liga TV</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 6\n- PPV: M+ 
+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250525T041710Z
 DTSTART:20250601T160000Z
 DTEND:20250601T180000Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Real Zaragoza
-UID:424d1e7d-3d68-4d9f-9c26-18545dde27cb
+UID:552c6d57-dac1-48fb-8567-c8b0d75b77fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
  iga TV Hypermotion</li></ul></body></html>
