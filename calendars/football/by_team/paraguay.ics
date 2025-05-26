@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250121T082933Z
+LAST-MODIFIED:20250410T142246Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250322T041050Z
-DTSTART:20250326T000000Z
-DTEND:20250326T020000Z
-SUMMARY:Mundial 2026 - Colombia - Paraguay
-UID:522c01d7-f0bc-43c7-b239-75dcaffa04b3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Vamos
+DTSTAMP:20250526T041634Z
+DTSTART:20250603T220000Z
+DTEND:20250604T000000Z
+SUMMARY:Mundial 2026 - Paraguay - Uruguay
+UID:b8f2ee78-9fc6-41c7-ba3e-4ce3fbaa386d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n
 END:VEVENT
 END:VCALENDAR

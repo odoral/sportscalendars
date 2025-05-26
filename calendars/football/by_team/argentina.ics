@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250121T082933Z
+LAST-MODIFIED:20250410T142246Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250323T004523Z
-DTSTART:20250326T000000Z
-DTEND:20250326T020000Z
-SUMMARY:Mundial 2026 - Argentina - Brasil
-UID:3d6a0e98-bdd1-445e-859a-c273975fb076
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 5</li>\n<li>PPV: Movistar Plus+</l
- i></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 5\n-
-  PPV: Movistar Plus+
+DTSTAMP:20250526T041634Z
+DTSTART:20250603T220000Z
+DTEND:20250604T000000Z
+SUMMARY:Mundial 2026 - Chile - Argentina
+UID:af2ecf87-0926-4730-95e0-bc9a74238846
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n
 END:VEVENT
 END:VCALENDAR
