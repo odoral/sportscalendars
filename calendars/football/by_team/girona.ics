@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250523T081343Z
-DTSTART:20250525T120000Z
-DTEND:20250525T140000Z
-SUMMARY:Liga EA Sports - Girona - Atlético de Madrid
-UID:5b042088-7623-4073-b682-fc45a9a41757
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
- <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T080000Z
+DTEND:20250606T100000Z
+SUMMARY:LaLiga FC Futures - Athletic Club - Girona
+UID:ac2c8f43-4f35-4e7a-8322-733f5e17c1b9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T100000Z
+DTEND:20250606T120000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Girona
+UID:2b8a7420-9764-4b05-83f4-5d9acbeca042
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
 END:VEVENT
 END:VCALENDAR

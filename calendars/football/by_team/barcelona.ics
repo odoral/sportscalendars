@@ -16,23 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250521T081348Z
-DTSTART:20250525T100000Z
-DTEND:20250525T120000Z
-SUMMARY:Otras competiciones - Barcelona - Real Madrid
-UID:79fff770-7004-4c5d-8ad6-62ed3ffacad4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
- </body></html>
-DESCRIPTION:- Open: Esport 3
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T110000Z
+DTEND:20250606T130000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Sevilla
+UID:b371225a-2bf9-48ea-9e22-d83550af6e2a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250521T081348Z
-DTSTART:20250525T190000Z
-DTEND:20250525T210000Z
-SUMMARY:Liga EA Sports - Athletic Club - Barcelona
-UID:4ff60e93-2742-437e-98ca-8ae4d31dbe8c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
- <li>PPV: M+ LaLiga TV 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: M+ LaLiga TV 2
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T160000Z
+DTEND:20250606T180000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Leganés
+UID:4afe9e46-9d12-4f07-a578-0e529e423865
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
 END:VEVENT
 END:VCALENDAR

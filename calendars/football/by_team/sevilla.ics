@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250520T081430Z
-DTSTART:20250525T141500Z
-DTEND:20250525T161500Z
-SUMMARY:Liga EA Sports - Villarreal - Sevilla
-UID:c37f9dab-958b-4f1f-8d88-71c703463de0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T090000Z
+DTEND:20250606T110000Z
+SUMMARY:LaLiga FC Futures - Sevilla - Leganés
+UID:43effbf3-ea21-46d6-8cff-3116777e6952
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T110000Z
+DTEND:20250606T130000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Sevilla
+UID:f3b44967-a2c9-4629-98a5-0114a70d7e47
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
 END:VEVENT
 END:VCALENDAR

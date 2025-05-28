@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250520T081430Z
-DTSTART:20250524T190000Z
-DTEND:20250524T210000Z
-SUMMARY:Liga EA Sports - Getafe - Celta
-UID:33544727-7700-49b0-b6ae-bbce17787545
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
- <li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T153000Z
+DTEND:20250606T173000Z
+SUMMARY:LaLiga FC Futures - Atlético de Madrid - Getafe
+UID:2dfcd795-1544-4abb-9c4f-d3251e226cdd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
 END:VEVENT
 END:VCALENDAR

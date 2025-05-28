@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250522T081348Z
-DTSTART:20250524T163000Z
-DTEND:20250524T183000Z
-SUMMARY:Liga EA Sports - Leganés - Valladolid
-UID:c9af860b-94ad-434f-9f99-5a690242bf20
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
- li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
-DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga TV
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T090000Z
+DTEND:20250606T110000Z
+SUMMARY:LaLiga FC Futures - Sevilla - Leganés
+UID:65bcebd7-4de8-4c49-89d1-d956f306c8e0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T160000Z
+DTEND:20250606T180000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Leganés
+UID:bf9e9ced-92d8-4b78-b97d-12af740d8035
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
 END:VEVENT
 END:VCALENDAR

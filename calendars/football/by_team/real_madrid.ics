@@ -16,13 +16,49 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250526T004712Z
+DTSTAMP:20250528T004527Z
 DTSTART:20250528T180000Z
 DTEND:20250528T200000Z
 SUMMARY:Copa Campeones Juvenil - Real Madrid - Valencia
-UID:de8d66e2-5a5b-45b9-8d8e-82674e65fe70
+UID:175fb15b-2fcf-48a5-8597-06bfd84b4369
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RFEF TV YouTube</l
  i>\n<li>PPV: RFEF TV</li></ul></body></html>
 DESCRIPTION:- Open: RFEF TV YouTube\n- PPV: RFEF TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T100000Z
+DTEND:20250606T120000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Girona
+UID:d11eb048-e8e2-4e5b-ae78-6a7b5a3faef0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T163000Z
+DTEND:20250606T183000Z
+SUMMARY:LaLiga FC Futures - Athletic Club - Real Madrid
+UID:5987604c-b853-4214-badf-6d1ec8335ea1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250528T004527Z
+DTSTART:20250606T180000Z
+DTEND:20250606T200000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Valladolid
+UID:a424d006-0fcc-4f37-91e4-e32fe0aeb9fb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
 END:VEVENT
 END:VCALENDAR
