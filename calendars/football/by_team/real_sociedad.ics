@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250520T081430Z
-DTSTART:20250524T141500Z
-DTEND:20250524T161500Z
-SUMMARY:Liga EA Sports - Real Madrid - Real Sociedad
-UID:07b91bfe-0143-4e40-80a4-c6a9f02869a5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+DTSTAMP:20250529T004547Z
+DTSTART:20250607T080000Z
+DTEND:20250607T100000Z
+SUMMARY:LaLiga FC Futures - Real Sociedad - Girona
+UID:08a4bf61-4f0f-4bf8-a86e-cdc54894239d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
 END:VEVENT
 END:VCALENDAR

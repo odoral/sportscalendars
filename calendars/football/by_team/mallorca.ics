@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250528T004527Z
+DTSTAMP:20250529T004547Z
 DTSTART:20250606T093000Z
 DTEND:20250606T113000Z
 SUMMARY:LaLiga FC Futures - Mallorca - Las Palmas
-UID:721960af-a431-4ead-9fcc-c0607a82bb85
+UID:d3d96144-fbac-48fc-ba8b-67110d169666
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250529T004547Z
+DTSTART:20250607T083000Z
+DTEND:20250607T103000Z
+SUMMARY:LaLiga FC Futures - Atlético de Madrid - Mallorca
+UID:5f860189-7865-41c8-9503-c228618a6ab4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>

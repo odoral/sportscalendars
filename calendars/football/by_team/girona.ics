@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250528T004527Z
+DTSTAMP:20250529T004547Z
 DTSTART:20250606T080000Z
 DTEND:20250606T100000Z
 SUMMARY:LaLiga FC Futures - Athletic Club - Girona
-UID:ac2c8f43-4f35-4e7a-8322-733f5e17c1b9
+UID:9e78ec85-803b-4f09-9dde-d48d2c5a7ee3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>
@@ -28,11 +28,23 @@ DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
   TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250528T004527Z
+DTSTAMP:20250529T004547Z
 DTSTART:20250606T100000Z
 DTEND:20250606T120000Z
 SUMMARY:LaLiga FC Futures - Real Madrid - Girona
-UID:2b8a7420-9764-4b05-83f4-5d9acbeca042
+UID:49abf20a-9517-4434-a447-68a8232c6f5d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250529T004547Z
+DTSTART:20250607T080000Z
+DTEND:20250607T100000Z
+SUMMARY:LaLiga FC Futures - Real Sociedad - Girona
+UID:700ad19d-011d-4c32-a05f-a4dbb786cb35
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>

@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250523T081343Z
-DTSTART:20250524T190000Z
-DTEND:20250524T210000Z
-SUMMARY:Liga EA Sports - Alavés - Osasuna
-UID:ae00f93b-c799-4892-80e3-86cd47abc681
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
- li>\n<li>PPV: M+ LaLiga TV</li>\n<li>PPV: M+ LaLiga TV 2</li></ul></body
- ></html>
-DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga TV\n- PPV: M+ LaLi
- ga TV 2
+DTSTAMP:20250529T004547Z
+DTSTART:20250607T090000Z
+DTEND:20250607T110000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Alavés
+UID:876a0736-ef83-4ba9-bf17-8359fdb4d259
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250529T004547Z
+DTSTART:20250607T110000Z
+DTEND:20250607T130000Z
+SUMMARY:LaLiga FC Futures - Alavés - Leganés
+UID:6e4326cd-60d6-4bd5-b6c5-0e83048052f5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
 END:VEVENT
 END:VCALENDAR

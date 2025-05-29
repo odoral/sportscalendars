@@ -16,31 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250528T004527Z
-DTSTART:20250528T190000Z
-DTEND:20250528T210000Z
-SUMMARY:Conference League - Betis - Chelsea
-UID:643ce207-02b0-4dde-b5d0-b68902735e33
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250528T004527Z
+DTSTAMP:20250529T004547Z
 DTSTART:20250529T180000Z
 DTEND:20250529T200000Z
 SUMMARY:Copa Campeones Juvenil - Deportivo - Betis
-UID:fb3234d2-9707-4a81-94e6-c3d1859f980c
+UID:1f7245ec-41a1-42c3-ba92-6f53ff6c4720
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RFEF TV YouTube</l
  i>\n<li>PPV: RFEF TV</li></ul></body></html>
 DESCRIPTION:- Open: RFEF TV YouTube\n- PPV: RFEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250528T004527Z
+DTSTAMP:20250529T004547Z
 DTSTART:20250606T083000Z
 DTEND:20250606T103000Z
 SUMMARY:LaLiga FC Futures - Betis - Osasuna
-UID:2888c9a4-06a5-498c-972d-8adb3f157bd6
+UID:8fad8661-f731-4f03-8842-303c7620b672
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
+  TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250529T004547Z
+DTSTART:20250607T093000Z
+DTEND:20250607T113000Z
+SUMMARY:LaLiga FC Futures - Betis - Villarreal
+UID:724befcf-10de-48f7-8fdd-662788e23511
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>
