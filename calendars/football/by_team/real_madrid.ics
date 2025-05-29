@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250529T004547Z
+DTSTAMP:20250529T081401Z
 DTSTART:20250606T100000Z
 DTEND:20250606T120000Z
 SUMMARY:LaLiga FC Futures - Real Madrid - Girona
-UID:e05701f6-e400-4ae3-94e7-7804268a9e28
+UID:76c52279-819a-4e33-a93c-1cfc6773ab19
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>
@@ -28,11 +28,11 @@ DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
   TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250529T004547Z
+DTSTAMP:20250529T081401Z
 DTSTART:20250606T163000Z
 DTEND:20250606T183000Z
 SUMMARY:LaLiga FC Futures - Athletic Club - Real Madrid
-UID:386299c5-e5c1-4326-8df1-2048dd124a27
+UID:aadd85cf-fd20-4b7e-a5a7-54e99a5ae81a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>
@@ -40,15 +40,25 @@ DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
   TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250529T004547Z
+DTSTAMP:20250529T081401Z
 DTSTART:20250606T180000Z
 DTEND:20250606T200000Z
 SUMMARY:LaLiga FC Futures - Real Madrid - Valladolid
-UID:f0230394-c1eb-4441-a271-e02f1a0c61d7
+UID:4cf37c41-2bf3-47c9-9d88-5f8e64fc52e2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>
 DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
   TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250529T081401Z
+DTSTART:20250606T220000Z
+DTEND:20250607T000000Z
+SUMMARY:Otras competiciones - Real Madrid - Borussia Dortmund
+UID:5570dd68-3404-4b01-8454-989cb896fbbb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: RealMadrid TV</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: RealMadrid TV
 END:VEVENT
 END:VCALENDAR

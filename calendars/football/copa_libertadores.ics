@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250424T004324Z
-DTSTART:20250423T220000Z
-DTEND:20250424T000000Z
-SUMMARY:Copa Libertadores - San Antonio Bulo Bulo - Vélez Sarsfield
-UID:de77c62c-802c-48bd-b2a9-bd8a6876eaa0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: LaLiga+ Youtube</l
- i>\n<li>PPV: LaLiga+</li></ul></body></html>
-DESCRIPTION:- Open: LaLiga+ Youtube\n- PPV: LaLiga+
+DTSTAMP:20250529T081401Z
+DTSTART:20250529T003000Z
+DTEND:20250529T023000Z
+SUMMARY:Copa Libertadores - LDU Quito - Central Córdoba
+UID:e86bf85e-07df-46f1-b530-bcb8f9a9779a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: LaLiga+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250424T004324Z
-DTSTART:20250423T220000Z
-DTEND:20250424T000000Z
-SUMMARY:Copa Libertadores - Olimpia - Peñarol
-UID:b8922a62-1d3e-4d41-a6af-3489ac56d7a6
+DTSTAMP:20250529T081401Z
+DTSTART:20250529T220000Z
+DTEND:20250530T000000Z
+SUMMARY:Copa Libertadores - Peñarol - Vélez Sarsfield
+UID:2270ea6e-8cfa-4fb8-b9bf-749e65b24762
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250529T081401Z
+DTSTART:20250530T003000Z
+DTEND:20250530T023000Z
+SUMMARY:Copa Libertadores - Racing Avellaneda - Fortaleza EC
+UID:d252d7c9-0b82-4810-8a4d-eee6342fd328
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
  body></html>
 DESCRIPTION:- PPV: LaLiga+
