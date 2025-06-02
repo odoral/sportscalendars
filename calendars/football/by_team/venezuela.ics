@@ -16,15 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250531T081203Z
+DTSTAMP:20250602T004845Z
 DTSTART:20250606T220000Z
 DTEND:20250607T000000Z
 SUMMARY:Mundial 2026 - Venezuela - Bolivia
-UID:e2148c10-bf04-4304-9059-10a562d61d57
+UID:19613676-e4c8-4b1c-8ed0-bdd27394f7e4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: Movistar Plus
  + 2</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- PPV: M+ Liga de Campeones 
  2\n- PPV: Movistar Plus+ 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250602T004845Z
+DTSTART:20250610T230000Z
+DTEND:20250611T010000Z
+SUMMARY:Mundial 2026 - Uruguay - Venezuela
+UID:d489ded2-315e-4583-b417-b80d11fb3be9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
