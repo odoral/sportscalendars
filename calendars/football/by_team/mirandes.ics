@@ -16,17 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250601T081208Z
-DTSTART:20250601T163000Z
-DTEND:20250601T183000Z
-SUMMARY:Liga Hypermotion - Cartagena - Mirandés
-UID:165aedc4-9305-4f3f-a410-eb80ce8d83ed
+DTSTAMP:20250603T081441Z
+DTSTART:20250608T163000Z
+DTEND:20250608T183000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Mirandés
+UID:a7802948-a2f4-4e66-8bc8-0ca56a6c80c2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 4</li>\n<li>PPV: M+ Va
- mos</li></ul></body></html>
+ iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange F
+ útbol 2</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 4\n- PPV: M+ 
- Vamos
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+\n- PPV: Orange
+  Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250603T081441Z
+DTSTART:20250612T190000Z
+DTEND:20250612T210000Z
+SUMMARY:Liga Hypermotion - Mirandés - Racing de Santander
+UID:816c8332-7bac-4487-9fdd-301807ee9b4e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange F
+ útbol 2</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
+ mium\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Plus+\n- PPV: Orange
+  Fútbol 2
 END:VEVENT
 END:VCALENDAR
