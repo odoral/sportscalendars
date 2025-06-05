@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250603T081441Z
+DTSTAMP:20250605T081402Z
+DTSTART:20250606T183000Z
+DTEND:20250606T203000Z
+SUMMARY:Otras competiciones - España - Ucrania
+UID:dde6a067-9a72-47fb-abb8-1aace9610868
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 2\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250605T081402Z
 DTSTART:20250607T100000Z
 DTEND:20250607T120000Z
 SUMMARY:Otras competiciones - Real Madrid - Borussia Dortmund
-UID:4cd3af0e-d565-47b5-ad99-2ecc19f7ab32
+UID:08f4dfe0-2705-43c6-9b1a-4e60efb3e9b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  </ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV
