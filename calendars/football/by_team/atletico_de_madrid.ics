@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250529T004547Z
+DTSTAMP:20250606T004526Z
 DTSTART:20250606T153000Z
 DTEND:20250606T173000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Getafe
-UID:99ecffaf-7198-4070-b8b5-f57b060fa313
+UID:173df3c2-5861-4849-8623-9cbabcf1f0a0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>
@@ -28,11 +28,11 @@ DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
   TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250529T004547Z
+DTSTAMP:20250606T004526Z
 DTSTART:20250606T173000Z
 DTEND:20250606T193000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Las Palmas
-UID:ebba2b9a-64b3-4bc1-872b-79c55af950ed
+UID:ca4e79bd-3b67-4119-af9c-22e8f808e518
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>
@@ -40,11 +40,11 @@ DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
   TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250529T004547Z
+DTSTAMP:20250606T004526Z
 DTSTART:20250607T083000Z
 DTEND:20250607T103000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Mallorca
-UID:09ffe996-a645-4e23-a3ef-c15f39293027
+UID:5f06f0f3-bda5-490b-a85a-3bee8ded36f1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>
@@ -52,15 +52,25 @@ DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
   TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250529T004547Z
+DTSTAMP:20250606T004526Z
 DTSTART:20250607T100000Z
 DTEND:20250607T120000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Valencia
-UID:c1c5e2b4-fca8-4478-a671-49b47e28bb64
+UID:40ef5439-3bff-4432-8e68-5c453b0ba9b0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li>\n<li>PPV: M+ LaLiga TV</li></ul></body></h
  tml>
 DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium\n- PPV: M+ LaLiga
   TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250606T004526Z
+DTSTART:20250615T190000Z
+DTEND:20250615T210000Z
+SUMMARY:Mundial de Clubes FIFA - PSG - Atlético de Madrid
+UID:6a5fe3fc-16a0-4389-836b-358e10cb96fc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
