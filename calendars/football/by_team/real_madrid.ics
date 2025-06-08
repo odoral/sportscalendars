@@ -16,13 +16,17 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250607T004539Z
-DTSTART:20250607T100000Z
-DTEND:20250607T120000Z
-SUMMARY:Otras competiciones - Real Madrid - Borussia Dortmund
-UID:e144e874-d81b-470d-b241-71e22864dae0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
- </ul></body></html>
-DESCRIPTION:- Open: RealMadrid TV
+DTSTAMP:20250608T081200Z
+DTSTART:20250608T080000Z
+DTEND:20250608T100000Z
+SUMMARY:LaLiga FC Futures - Espanyol - Real Madrid
+UID:e805d53c-ec1f-4801-95dc-6b23aa3cbb29
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: M+ LaLiga TV</li>\n<
+ li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
+ Stadium Premium\n- PPV: LaLiga TV Hypermotion\n- PPV: M+ LaLiga TV\n- PP
+ V: M+ Vamos
 END:VEVENT
 END:VCALENDAR
