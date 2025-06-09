@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250607T004539Z
-DTSTART:20250607T100000Z
-DTEND:20250607T120000Z
-SUMMARY:Otras competiciones - Real Madrid - Borussia Dortmund
-UID:b8bfe764-85ae-4dd9-8f2a-222bdf1f97c4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
- </ul></body></html>
-DESCRIPTION:- Open: RealMadrid TV
+DTSTAMP:20250609T081526Z
+DTSTART:20250615T021500Z
+DTEND:20250615T041500Z
+SUMMARY:Otras competiciones - México - República Dominicana
+UID:d401274b-a408-4527-ab68-f96723239cd4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250609T081526Z
+DTSTART:20250616T001500Z
+DTEND:20250616T021500Z
+SUMMARY:Otras competiciones - Haití - Arabia Saudí
+UID:9d52faf9-655f-4d00-b4f3-02b366de76b7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR
