@@ -16,13 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250604T004627Z
-DTSTART:20250607T160000Z
-DTEND:20250607T180000Z
-SUMMARY:Mundial 2026 - Andorra - Inglaterra
-UID:d834ec33-6f73-4da4-ba93-08ea1e3ca576
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
- li></ul></body></html>
-DESCRIPTION:- PPV: UEFA TV (Premium)
+DTSTAMP:20250610T081432Z
+DTSTART:20250612T190000Z
+DTEND:20250612T210000Z
+SUMMARY:Europeo Sub-21 - República Checa - Inglaterra
+UID:c49cb706-7bca-47e1-9d0e-143ef5513da4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250615T160000Z
+DTEND:20250615T180000Z
+SUMMARY:Europeo Sub-21 - Inglaterra - Eslovenia
+UID:459c7f3c-91cf-4b3f-9d9a-ebcb9083574e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250618T190000Z
+DTEND:20250618T210000Z
+SUMMARY:Europeo Sub-21 - Inglaterra - Alemania
+UID:5e07bdce-1908-4324-bf4e-f521abcba4d3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

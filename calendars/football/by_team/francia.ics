@@ -16,13 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250608T081200Z
-DTSTART:20250608T130000Z
-DTEND:20250608T150000Z
-SUMMARY:UEFA Nations League - Alemania - Francia
-UID:67e78dca-62b0-4e26-91a7-20de649c0a2d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play
+DTSTAMP:20250610T081432Z
+DTSTART:20250611T190000Z
+DTEND:20250611T210000Z
+SUMMARY:Europeo Sub-21 - Portugal - Francia
+UID:aed04e74-6ca1-42ed-bac8-c6a281933d23
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250614T190000Z
+DTEND:20250614T210000Z
+SUMMARY:Europeo Sub-21 - Francia - Georgia
+UID:cd0c59c9-9b27-42a6-92f0-e3d5dc3fdfc5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250617T160000Z
+DTEND:20250617T180000Z
+SUMMARY:Europeo Sub-21 - Francia - Polonia
+UID:8038b678-4ad1-4dbc-9838-475350a13682
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

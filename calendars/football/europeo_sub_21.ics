@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20250410T142246Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,243 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241012T081019Z
-DTSTART:20241015T150000Z
-DTEND:20241015T170000Z
-SUMMARY:Europeo Sub-21 - España - Malta
-UID:42fdb524-98ee-41e0-ad4e-889f1b9d623e
+DTSTAMP:20250610T081432Z
+DTSTART:20250611T160000Z
+DTEND:20250611T180000Z
+SUMMARY:Europeo Sub-21 - Eslovaquia - España
+UID:dbdfbe8a-9b9c-4605-83a0-0bc843dd2d6e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250611T190000Z
+DTEND:20250611T210000Z
+SUMMARY:Europeo Sub-21 - Portugal - Francia
+UID:06cd312c-e2f2-4ace-ba42-7c31636fb94b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250611T190000Z
+DTEND:20250611T210000Z
+SUMMARY:Europeo Sub-21 - Polonia - Georgia
+UID:543fb013-f721-444d-93ad-67b59b1b5731
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250611T190000Z
+DTEND:20250611T210000Z
+SUMMARY:Europeo Sub-21 - Italia - Rumanía
+UID:4f04e390-c4bf-45d9-88cf-5b9fbc876ecd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250612T160000Z
+DTEND:20250612T180000Z
+SUMMARY:Europeo Sub-21 - Ucrania - Dinamarca
+UID:58be49d1-5591-496b-ab6c-3d65b15850b9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250612T190000Z
+DTEND:20250612T210000Z
+SUMMARY:Europeo Sub-21 - Finlandia - Holanda
+UID:1bd39fb0-57ca-402e-83ef-9a3d7aa95aea
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250612T190000Z
+DTEND:20250612T210000Z
+SUMMARY:Europeo Sub-21 - República Checa - Inglaterra
+UID:5977a199-16e1-464f-ac41-ca9a29a45de9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250612T190000Z
+DTEND:20250612T210000Z
+SUMMARY:Europeo Sub-21 - Alemania - Eslovenia
+UID:2731f28a-a75d-4cab-9903-7a300adcb784
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250614T160000Z
+DTEND:20250614T180000Z
+SUMMARY:Europeo Sub-21 - España - Rumanía
+UID:4eefed19-80a4-445e-900e-ff10b018b240
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250614T190000Z
+DTEND:20250614T210000Z
+SUMMARY:Europeo Sub-21 - Francia - Georgia
+UID:c32e0625-eb22-4611-b0e8-fe86b3970386
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250614T190000Z
+DTEND:20250614T210000Z
+SUMMARY:Europeo Sub-21 - Eslovaquia - Italia
+UID:afefdd6a-c345-4981-854a-9ff14f51b1c4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250614T190000Z
+DTEND:20250614T210000Z
+SUMMARY:Europeo Sub-21 - Portugal - Polonia
+UID:b4bb2a80-f894-49eb-a02d-f9c03af8b474
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250615T160000Z
+DTEND:20250615T180000Z
+SUMMARY:Europeo Sub-21 - Finlandia - Ucrania
+UID:726118bb-7fc9-418c-b3fb-c87e764a8a10
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250615T160000Z
+DTEND:20250615T180000Z
+SUMMARY:Europeo Sub-21 - Inglaterra - Eslovenia
+UID:2ae0b946-eb95-433b-9b6f-d72f4fe7b33a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250615T190000Z
+DTEND:20250615T210000Z
+SUMMARY:Europeo Sub-21 - Holanda - Dinamarca
+UID:ba515a4c-e5a0-4ca5-8fba-67c5f0dbb9a6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250615T190000Z
+DTEND:20250615T210000Z
+SUMMARY:Europeo Sub-21 - República Checa - Alemania
+UID:044b7244-3d58-4147-92c8-b9abd8db9f8c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250617T160000Z
+DTEND:20250617T180000Z
+SUMMARY:Europeo Sub-21 - Francia - Polonia
+UID:03bb7ece-c8f1-4e87-970e-eed001a41505
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250617T160000Z
+DTEND:20250617T180000Z
+SUMMARY:Europeo Sub-21 - Georgia - Portugal
+UID:6ffdc062-5543-4567-9b84-9700408a8501
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250617T190000Z
+DTEND:20250617T210000Z
+SUMMARY:Europeo Sub-21 - España - Italia
+UID:ae3c0a15-78f8-49c4-ba5f-85b56c9fd71b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250617T190000Z
+DTEND:20250617T210000Z
+SUMMARY:Europeo Sub-21 - Rumanía - Eslovaquia
+UID:ea818e43-852e-46e5-87fa-0a566aff7680
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250618T160000Z
+DTEND:20250618T180000Z
+SUMMARY:Europeo Sub-21 - Dinamarca - Finlandia
+UID:a93b7026-8917-45ae-9c16-de00762f26fd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250618T160000Z
+DTEND:20250618T180000Z
+SUMMARY:Europeo Sub-21 - Holanda - Ucrania
+UID:5dd2fc47-63d1-4e37-a871-99e6473a1d32
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250618T190000Z
+DTEND:20250618T210000Z
+SUMMARY:Europeo Sub-21 - Eslovenia - República Checa
+UID:11dfa16c-25c4-4326-baba-cef7c6724da8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250610T081432Z
+DTSTART:20250618T190000Z
+DTEND:20250618T210000Z
+SUMMARY:Europeo Sub-21 - Inglaterra - Alemania
+UID:ce41afac-01cc-4023-8e38-bb12ce81d043
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
