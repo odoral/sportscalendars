@@ -16,33 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250612T041806Z
+DTSTAMP:20250612T081419Z
 DTSTART:20250612T190000Z
 DTEND:20250612T210000Z
 SUMMARY:Europeo Sub-21 - República Checa - Inglaterra
-UID:fbfeb6bd-b89b-46e8-a3ca-bfb613b12bbe
+UID:f50fd6e8-bea3-4b0f-8cec-2dc5b9bb1cd0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250612T041806Z
+DTSTAMP:20250612T081419Z
 DTSTART:20250615T160000Z
 DTEND:20250615T180000Z
 SUMMARY:Europeo Sub-21 - Inglaterra - Eslovenia
-UID:8146613e-1f46-47fd-9b3e-02e8642da69c
+UID:cc99f8b1-17c5-486a-baae-57e8ce91fa4a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
  ></body></html>
 DESCRIPTION:- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250612T041806Z
+DTSTAMP:20250612T081419Z
 DTSTART:20250618T190000Z
 DTEND:20250618T210000Z
 SUMMARY:Europeo Sub-21 - Inglaterra - Alemania
-UID:5b6414aa-822e-4ed4-911c-3f3f5f625ce9
+UID:d56ae8cd-fb9a-4b5b-82db-259910c2f753
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
  ></body></html>
 DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250612T081419Z
+DTSTART:20250621T170000Z
+DTEND:20250621T190000Z
+SUMMARY:Europeo Sub-19 Femenino - España - Inglaterra
+UID:640a80fd-ceff-48d2-ab2f-e1ef2235b417
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
+ li></ul></body></html>
+DESCRIPTION:- PPV: UEFA TV (Premium)
 END:VEVENT
 END:VCALENDAR
