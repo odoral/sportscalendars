@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250609T005036Z
+DTSTAMP:20250613T004632Z
 DTSTART:20250618T190000Z
 DTEND:20250618T210000Z
 SUMMARY:Mundial de Clubes FIFA - Real Madrid - Al Hilal
-UID:5ccccfa7-379c-4709-92c7-fd3efa553377
+UID:8705dc48-8d94-4a4c-aabc-0262594e9b5f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Telecinco</li>\n<l
+ i>PPV: DAZN</li>\n<li>PPV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: Telecinco\n- PPV: DAZN\n- PPV: mitele
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250613T004632Z
+DTSTART:20250622T190000Z
+DTEND:20250622T210000Z
+SUMMARY:Mundial de Clubes FIFA - Real Madrid - Pachuca
+UID:9df52fb5-2b51-4224-b131-ce88b1cbe9f0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Telecinco</li>\n<l
  i>PPV: DAZN</li>\n<li>PPV: mitele</li></ul></body></html>
 DESCRIPTION:- Open: Telecinco\n- PPV: DAZN\n- PPV: mitele
