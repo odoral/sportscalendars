@@ -17,10 +17,20 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20250615T121617Z
-DTSTART:20250616T001500Z
-DTEND:20250616T021500Z
-SUMMARY:Otras competiciones - Haití - Arabia Saudí
-UID:78f450e2-c17a-464e-9da8-e1caf41510aa
+DTSTART:20250616T030000Z
+DTEND:20250616T050000Z
+SUMMARY:Otras competiciones - Costa Rica - Surinam
+UID:d5b14024-4751-4064-8cd8-6e8feb9e1365
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
+ li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: CONCACAF YouTube\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T121617Z
+DTSTART:20250619T020000Z
+DTEND:20250619T040000Z
+SUMMARY:Otras competiciones - Surinam - México
+UID:e6c02a84-8ade-4eed-bcb9-395b9064ec65
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
  li>\n<li>Open: Gol Play</li>\n<li>PPV: GolStadium Premium</li></ul></bod
  y></html>
@@ -29,22 +39,10 @@ DESCRIPTION:- Open: CONCACAF YouTube\n- Open: Gol Play\n- PPV: GolStadium
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250615T121617Z
-DTSTART:20250620T011500Z
-DTEND:20250620T031500Z
-SUMMARY:Otras competiciones - Arabia Saudí - Estados Unidos
-UID:e09708b4-1d61-43be-9984-14065fd5a6f7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
- li>\n<li>Open: Gol Play</li>\n<li>PPV: GolStadium Premium</li></ul></bod
- y></html>
-DESCRIPTION:- Open: CONCACAF YouTube\n- Open: Gol Play\n- PPV: GolStadium
-  Premium
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250615T121617Z
-DTSTART:20250622T230000Z
-DTEND:20250623T010000Z
-SUMMARY:Otras competiciones - Arabia Saudí - Trinidad y Tobago
-UID:f601d610-e952-4400-a14b-e67be6c87c6b
+DTSTART:20250623T020000Z
+DTEND:20250623T040000Z
+SUMMARY:Otras competiciones - República Dominicana - Surinam
+UID:490b5886-5eec-412a-8da0-4c74ccb77fc7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
  li></ul></body></html>
 DESCRIPTION:- Open: CONCACAF YouTube

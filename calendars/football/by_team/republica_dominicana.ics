@@ -16,15 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250614T081138Z
+DTSTAMP:20250615T121617Z
 DTSTART:20250615T021500Z
 DTEND:20250615T041500Z
 SUMMARY:Otras competiciones - México - República Dominicana
-UID:2b68d26d-2219-40fd-a1d4-9afc339fde94
+UID:2cb5a079-8ec4-4f68-8fee-6dffeb6ee3e9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
  li>\n<li>Open: Gol Play</li>\n<li>PPV: GolStadium Premium</li></ul></bod
  y></html>
 DESCRIPTION:- Open: CONCACAF YouTube\n- Open: Gol Play\n- PPV: GolStadium
   Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T121617Z
+DTSTART:20250618T230000Z
+DTEND:20250619T010000Z
+SUMMARY:Otras competiciones - Costa Rica - República Dominicana
+UID:d0dee8b1-3995-43f4-88bd-bddd99072964
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
+ li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: CONCACAF YouTube\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250615T121617Z
+DTSTART:20250623T020000Z
+DTEND:20250623T040000Z
+SUMMARY:Otras competiciones - República Dominicana - Surinam
+UID:2d168bbd-f4cf-4846-99fa-a4f9019bed3b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
+ li></ul></body></html>
+DESCRIPTION:- Open: CONCACAF YouTube
 END:VEVENT
 END:VCALENDAR
