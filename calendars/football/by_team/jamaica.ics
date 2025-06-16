@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250615T121617Z
+DTSTAMP:20250616T004933Z
 DTSTART:20250617T020000Z
 DTEND:20250617T040000Z
 SUMMARY:Otras competiciones - Jamaica - Guatemala
-UID:a9920c33-7871-464f-92b9-6e459e0571ff
+UID:6f977411-03c5-4f0e-8dff-da1392513b3d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
  li>\n<li>Open: Gol Play</li>\n<li>PPV: GolStadium Premium</li></ul></bod
  y></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- Open: CONCACAF YouTube\n- Open: Gol Play\n- PPV: GolStadium
   Premium
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T121617Z
+DTSTAMP:20250616T004933Z
 DTSTART:20250620T234500Z
 DTEND:20250621T014500Z
 SUMMARY:Otras competiciones - Jamaica - Guadalupe
-UID:dc90dc3c-d825-49d4-8da7-d285871d707f
+UID:52de7c26-92b1-415d-af21-2af7c4e3e79f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
  li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
 DESCRIPTION:- Open: CONCACAF YouTube\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250616T004933Z
+DTSTART:20250624T230000Z
+DTEND:20250625T010000Z
+SUMMARY:Otras competiciones - Panamá - Jamaica
+UID:5a4f2714-a273-4e34-bbcd-da19d46f2921
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
+ li></ul></body></html>
+DESCRIPTION:- Open: CONCACAF YouTube
 END:VEVENT
 END:VCALENDAR

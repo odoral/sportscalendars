@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250615T121617Z
+DTSTAMP:20250616T004933Z
 DTSTART:20250618T001500Z
 DTEND:20250618T021500Z
 SUMMARY:Otras competiciones - Curaçao - El Salvador
-UID:a69fbb7d-1d51-4c96-aed4-02ee7c7f67d8
+UID:076aa132-164f-45c0-b044-3bd9f30cbab3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
  li>\n<li>Open: Gol Play</li>\n<li>PPV: GolStadium Premium</li></ul></bod
  y></html>
@@ -28,15 +28,25 @@ DESCRIPTION:- Open: CONCACAF YouTube\n- Open: Gol Play\n- PPV: GolStadium
   Premium
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T121617Z
+DTSTAMP:20250616T004933Z
 DTSTART:20250622T020000Z
 DTEND:20250622T040000Z
 SUMMARY:Otras competiciones - Honduras - El Salvador
-UID:e6683191-7177-4a8b-a020-1ff7b41757ea
+UID:c00e0f23-73e8-418d-bbc3-62e937af06ed
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
  li>\n<li>Open: Gol Play</li>\n<li>PPV: GolStadium Premium</li></ul></bod
  y></html>
 DESCRIPTION:- Open: CONCACAF YouTube\n- Open: Gol Play\n- PPV: GolStadium
   Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250616T004933Z
+DTSTART:20250625T020000Z
+DTEND:20250625T040000Z
+SUMMARY:Otras competiciones - Canada - El Salvador
+UID:4db8ed93-f085-448b-90be-7a2ebacae8a5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CONCACAF YouTube</
+ li></ul></body></html>
+DESCRIPTION:- Open: CONCACAF YouTube
 END:VEVENT
 END:VCALENDAR
