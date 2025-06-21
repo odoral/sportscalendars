@@ -132,30 +132,32 @@ public class ReadmeWriter implements Closeable {
     }
 
     protected void writeReadmeItemsTable(List<ReadmeItem> readmeItems) throws IOException {
-        writer.write("|Name|Action #1|Action #2|");
-        writer.newLine();
-        writer.write("|----|---------|---------|");
-        writer.newLine();
-        readmeItems.stream()
-                .sorted(Comparator.comparing(ReadmeItem::getDescription))
-                .forEach(readmeItem -> {
-                    try {
-                        writer.write("|");
-                        writer.write(readmeItem.getDescription());
-                        writer.write("|");
-                        writer.write(" [Download ICS]");
-                        String githubRawURL = getGithubRawURL(projectBaseDirectory, readmeItem.getFile());
-                        writer.write("(" + githubRawURL + ")");
-                        writer.write("|");
-                        writer.write(" [Add to Google Calendar]");
-                        writer.write("(https://calendar.google.com/calendar/r?cid=" + githubRawURL.replace("https", "webcal") + ")");
-                        writer.write("|");
-                        writer.newLine();
-                    } catch (IOException e) {
-                        throw new RuntimeException(e);
-                    }
-                });
-        writer.newLine();
+        if (readmeItems != null) {
+            writer.write("|Name|Action #1|Action #2|");
+            writer.newLine();
+            writer.write("|----|---------|---------|");
+            writer.newLine();
+            readmeItems.stream()
+                    .sorted(Comparator.comparing(ReadmeItem::getDescription))
+                    .forEach(readmeItem -> {
+                        try {
+                            writer.write("|");
+                            writer.write(readmeItem.getDescription());
+                            writer.write("|");
+                            writer.write(" [Download ICS]");
+                            String githubRawURL = getGithubRawURL(projectBaseDirectory, readmeItem.getFile());
+                            writer.write("(" + githubRawURL + ")");
+                            writer.write("|");
+                            writer.write(" [Add to Google Calendar]");
+                            writer.write("(https://calendar.google.com/calendar/r?cid=" + githubRawURL.replace("https", "webcal") + ")");
+                            writer.write("|");
+                            writer.newLine();
+                        } catch (IOException e) {
+                            throw new RuntimeException(e);
+                        }
+                    });
+            writer.newLine();
+        }
     }
 
     protected String getGithubRawURL(File projectBaseDirectory, File calendarFile) {
