@@ -16,23 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250622T005304Z
-DTSTART:20250622T160000Z
-DTEND:20250622T180000Z
-SUMMARY:Europeo Sub-21 - Dinamarca - Francia
-UID:1348dedf-1da2-4bd1-a52e-079f5deada10
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250622T005304Z
-DTSTART:20250622T190000Z
-DTEND:20250622T210000Z
-SUMMARY:Europeo Sub-21 - Alemania - Italia
-UID:916cd6fd-d73c-46e3-bdae-28ecd0396f46
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+DTSTAMP:20250623T081518Z
+DTSTART:20250625T160000Z
+DTEND:20250625T180000Z
+SUMMARY:Europeo Sub-21 - Inglaterra - Holanda
+UID:8c756b31-c219-4512-807c-bc6258150b80
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
