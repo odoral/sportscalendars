@@ -16,33 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250703T004654Z
+DTSTAMP:20250703T081410Z
 DTSTART:20250704T190000Z
 DTEND:20250704T210000Z
 SUMMARY:Mundial de Clubes FIFA - Fluminense - Al Hilal
-UID:6ac45315-676c-46d4-938c-e7d5104b6705
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Cuatro</li>\n<li>P
- PV: DAZN</li>\n<li>PPV: mitele</li></ul></body></html>
-DESCRIPTION:- Open: Cuatro\n- PPV: DAZN\n- PPV: mitele
+UID:adbe767a-3603-4fcf-96c8-651180ae083a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Telecinco</li>\n<l
+ i>PPV: DAZN</li>\n<li>PPV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: Telecinco\n- PPV: DAZN\n- PPV: mitele
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250703T004654Z
+DTSTAMP:20250703T081410Z
 DTSTART:20250705T010000Z
 DTEND:20250705T030000Z
 SUMMARY:Mundial de Clubes FIFA - Palmeiras - Chelsea
-UID:15342ea6-c3a7-47a6-b9df-efcea9a56854
+UID:85cf8d72-dcd8-4935-bcc7-68e4d7f54029
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250703T004654Z
+DTSTAMP:20250703T081410Z
 DTSTART:20250705T160000Z
 DTEND:20250705T180000Z
 SUMMARY:Mundial de Clubes FIFA - PSG - FC Bayern
-UID:3a7d8089-acb8-4923-bc50-819aa12bc321
+UID:b9aaaf26-a68a-4757-9dea-119c9cc462c3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250703T081410Z
+DTSTART:20250705T200000Z
+DTEND:20250705T220000Z
+SUMMARY:Mundial de Clubes FIFA - Real Madrid - Borussia Dortmund
+UID:b8077603-c60c-4121-a895-e07528cc6091
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Telecinco</li>\n<l
+ i>PPV: DAZN</li>\n<li>PPV: mitele</li></ul></body></html>
+DESCRIPTION:- Open: Telecinco\n- PPV: DAZN\n- PPV: mitele
 END:VEVENT
 END:VCALENDAR
