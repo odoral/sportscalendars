@@ -16,13 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250607T004539Z
-DTSTART:20250610T230000Z
-DTEND:20250611T010000Z
-SUMMARY:Mundial 2026 - Uruguay - Venezuela
-UID:b8b28259-ed6c-49ae-bc4d-d9ff8f67804f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: Movistar Plus+ 2
+DTSTAMP:20250711T081408Z
+DTSTART:20250712T000000Z
+DTEND:20250712T020000Z
+SUMMARY:Copa América Femenina - Ecuador - Uruguay
+UID:6fc421dc-a37a-4cde-ad6d-744bb0d95770
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
+ be</li></ul></body></html>
+DESCRIPTION:- Open: Copa América YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250711T081408Z
+DTSTART:20250715T210000Z
+DTEND:20250715T230000Z
+SUMMARY:Copa América Femenina - Uruguay - Argentina
+UID:d66144b8-2563-47c4-b8df-5c12f6d8ae29
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
+ be</li></ul></body></html>
+DESCRIPTION:- Open: Copa América YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250711T081408Z
+DTSTART:20250718T210000Z
+DTEND:20250718T230000Z
+SUMMARY:Copa América Femenina - Uruguay - Perú
+UID:ca028f7b-d162-4e60-8de5-7fd3fb3a7fb8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
+ be</li></ul></body></html>
+DESCRIPTION:- Open: Copa América YouTube
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250607T081150Z
-DTSTART:20250611T000000Z
-DTEND:20250611T020000Z
-SUMMARY:Mundial 2026 - Argentina - Colombia
-UID:dc778a62-cb9b-44e2-95e4-805451d194b1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
- i></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
-  PPV: Movistar Plus+
+DTSTAMP:20250711T081408Z
+DTSTART:20250717T000000Z
+DTEND:20250717T020000Z
+SUMMARY:Copa América Femenina - Venezuela - Colombia
+UID:52729f73-1f27-400a-9798-832e9a5b551e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
+ be</li></ul></body></html>
+DESCRIPTION:- Open: Copa América YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250711T081408Z
+DTSTART:20250720T000000Z
+DTEND:20250720T020000Z
+SUMMARY:Copa América Femenina - Colombia - Paraguay
+UID:c725d82f-2346-4a2d-9e81-4bfe0b0cf660
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
+ be</li></ul></body></html>
+DESCRIPTION:- Open: Copa América YouTube
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250607T004539Z
-DTSTART:20250611T004500Z
-DTEND:20250611T024500Z
-SUMMARY:Mundial 2026 - Brasil - Paraguay
-UID:b57fa049-706e-4b96-a4a8-0966a7a38e56
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
+DTSTAMP:20250711T081408Z
+DTSTART:20250713T210000Z
+DTEND:20250713T230000Z
+SUMMARY:Copa América Femenina - Bolivia - Paraguay
+UID:af166f05-7bc5-4d33-9850-af0d72e0a721
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
+ be</li></ul></body></html>
+DESCRIPTION:- Open: Copa América YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250711T081408Z
+DTSTART:20250720T000000Z
+DTEND:20250720T020000Z
+SUMMARY:Copa América Femenina - Colombia - Paraguay
+UID:b2af8751-fa61-4397-939f-03be2dfbd0d5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
+ be</li></ul></body></html>
+DESCRIPTION:- Open: Copa América YouTube
 END:VEVENT
 END:VCALENDAR

@@ -16,12 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250608T005233Z
-DTSTART:20250610T200000Z
-DTEND:20250610T220000Z
-SUMMARY:Mundial 2026 - Bolivia - Chile
-UID:e9b7f58b-0224-40cd-8c83-58b05b53de04
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+DTSTAMP:20250711T081408Z
+DTSTART:20250713T210000Z
+DTEND:20250713T230000Z
+SUMMARY:Copa América Femenina - Bolivia - Paraguay
+UID:88faa0f7-309c-42ff-b989-e938c9413e09
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
+ be</li></ul></body></html>
+DESCRIPTION:- Open: Copa América YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250711T081408Z
+DTSTART:20250716T210000Z
+DTEND:20250716T230000Z
+SUMMARY:Copa América Femenina - Bolivia - Brasil
+UID:4c6550a2-b571-4780-92cb-c68d2420ce4a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
+ be</li></ul></body></html>
+DESCRIPTION:- Open: Copa América YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250711T081408Z
+DTSTART:20250719T210000Z
+DTEND:20250719T230000Z
+SUMMARY:Copa América Femenina - Venezuela - Bolivia
+UID:8f37bbe4-2e94-4588-9ba0-8166b83a85cd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
+ be</li></ul></body></html>
+DESCRIPTION:- Open: Copa América YouTube
 END:VEVENT
 END:VCALENDAR
