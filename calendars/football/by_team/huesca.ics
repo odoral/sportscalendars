@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250710T004757Z
+DTSTAMP:20250714T005310Z
 DTSTART:20250719T170000Z
 DTEND:20250719T190000Z
 SUMMARY:Amistoso - Tarazona - Huesca
-UID:dea1f3ef-1dd0-4cc9-aaaf-060ddfff2c0a
+UID:3ce3f70f-c517-4942-a490-2261555dec83
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250714T005310Z
+DTSTART:20250723T170000Z
+DTEND:20250723T190000Z
+SUMMARY:Amistoso - Huesca - Osasuna Promesas
+UID:11807524-6d00-47f9-8742-db2cf19cd9a7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
