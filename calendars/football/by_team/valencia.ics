@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250715T081514Z
+DTSTAMP:20250716T042956Z
 DTSTART:20250719T180000Z
 DTEND:20250719T200000Z
 SUMMARY:Amistoso - Valencia - C.D. Castellón
-UID:7fcaa368-7f38-4045-a6b7-332448579691
+UID:a93e539d-cf0b-46b8-abb3-1f98fc9b8b4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250716T042956Z
+DTSTART:20250723T170000Z
+DTEND:20250723T190000Z
+SUMMARY:Amistoso - Valencia - Leganés
+UID:d194ae01-e653-4f4b-9642-f25f0615472e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: GolStadium Premium</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
