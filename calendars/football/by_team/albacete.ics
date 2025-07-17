@@ -16,15 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250530T081350Z
-DTSTART:20250601T190000Z
-DTEND:20250601T210000Z
-SUMMARY:Liga Hypermotion - Córdoba - Albacete
-UID:ece60b1b-2327-4721-8638-80be4fd15124
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion
+DTSTAMP:20250717T081454Z
+DTSTART:20250723T170000Z
+DTEND:20250723T190000Z
+SUMMARY:Amistoso - Albacete - F.C. Andorra
+UID:37430da8-3a06-4add-a1ae-c67a47669aea
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250717T081454Z
+DTSTART:20250725T220000Z
+DTEND:20250726T000000Z
+SUMMARY:Amistoso - Real Murcia - Albacete
+UID:4e6e4511-c5ea-45ad-ac72-0dc5a7e32f76
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: CMMPlay (Castilla-LM)</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: CMMPlay (Castilla-LM
+ )
 END:VEVENT
 END:VCALENDAR
