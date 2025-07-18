@@ -16,17 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250601T081208Z
-DTSTART:20250601T163000Z
-DTEND:20250601T183000Z
-SUMMARY:Liga Hypermotion - Racing de Santander - Granada C.F.
-UID:8d580b20-53e9-4ec9-a8de-b84817a6c743
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 5</li>\n<li>PPV: M+ Va
- mos</li></ul></body></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 5\n- PPV: M+ 
- Vamos
+DTSTAMP:20250718T081452Z
+DTSTART:20250719T170000Z
+DTEND:20250719T190000Z
+SUMMARY:Amistoso - Granada C.F. - Orlando Pirates
+UID:7ca89431-9f03-4100-b2f9-73fb5706f1ca
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Granada CF YouTube
+ </li></ul></body></html>
+DESCRIPTION:- Open: Granada CF YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250718T081452Z
+DTSTART:20250726T174500Z
+DTEND:20250726T194500Z
+SUMMARY:Amistoso - Cádiz - Granada C.F.
+UID:0e66d7b5-ab7b-447d-a4e1-1b9845ecd185
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Granada CF YouTube
+ </li></ul></body></html>
+DESCRIPTION:- Open: Granada CF YouTube
 END:VEVENT
 END:VCALENDAR

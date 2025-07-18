@@ -16,15 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250607T004539Z
-DTSTART:20250607T083000Z
-DTEND:20250607T103000Z
-SUMMARY:LaLiga FC Futures - Atlético de Madrid - Mallorca
-UID:fe046573-313f-435e-8d68-2c5571679c7e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium<
- /li>\n<li>PPV: M+ LaLiga TV</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: Gol
- Stadium Premium\n- PPV: M+ LaLiga TV
+DTSTAMP:20250718T081452Z
+DTSTART:20250723T073000Z
+DTEND:20250723T093000Z
+SUMMARY:Amistoso - Mallorca - Sant Andreu
+UID:9b9d585c-e56e-4284-ab15-3a349da00692
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: IB3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250718T081452Z
+DTSTART:20250727T130000Z
+DTEND:20250727T150000Z
+SUMMARY:Amistoso - Al Shabab F.C. - Mallorca
+UID:b9c45c4f-90ce-44ad-848a-55104aca3c38
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: IB3
 END:VEVENT
 END:VCALENDAR
