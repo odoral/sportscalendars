@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250719T004808Z
+DTSTAMP:20250719T081253Z
 DTSTART:20250719T190000Z
 DTEND:20250719T210000Z
 SUMMARY:Eurocopa Femenina - Francia - Alemania
-UID:cabe0e71-d571-4627-8639-c5967cc0e054
+UID:e5a40922-4400-4a24-8904-4e2b6fbc38d6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250719T081253Z
+DTSTART:20250722T190000Z
+DTEND:20250722T210000Z
+SUMMARY:Eurocopa Femenina - Inglaterra - Italia
+UID:2b43345c-76ef-4a65-87fb-ef305dd53622
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
