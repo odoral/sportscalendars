@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250717T005054Z
+DTSTAMP:20250720T005555Z
 DTSTART:20250726T180000Z
 DTEND:20250726T200000Z
 SUMMARY:Amistoso - O. Marsella - Girona
-UID:2eb461b2-a7c8-4247-af3b-742fc2f2c28f
+UID:a6d214b6-c86d-4d24-8f11-d983cc2a33aa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250720T005555Z
+DTSTART:20250729T184500Z
+DTEND:20250729T204500Z
+SUMMARY:Amistoso - O. Marsella - Valencia
+UID:140db790-71d3-4dbc-9e5a-dab536361d39
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Gol Play</li>\n<li>Open: À Punt (València)</li>\n<li>PPV: GolStad
+ ium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Gol Play\n- Open: À Punt (València)
+ \n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR
