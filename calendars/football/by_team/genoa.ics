@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250520T081430Z
-DTSTART:20250524T160000Z
-DTEND:20250524T180000Z
-SUMMARY:Serie A Italia - Bologna - Genoa
-UID:6d6656b4-684e-4af0-aa7f-f5430f299d54
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+DTSTAMP:20250722T005047Z
+DTSTART:20250731T170000Z
+DTEND:20250731T190000Z
+SUMMARY:Amistoso - Villarreal - Genoa
+UID:caee2913-f3c4-4836-8914-bb4925aebe60
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250722T005047Z
+DTSTART:20250731T170000Z
+DTEND:20250731T190000Z
+SUMMARY:Amistoso - Real Oviedo - Genoa
+UID:fc9f96f4-9050-4f8b-8fc5-f8d2afff5354
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR
