@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250723T081515Z
-DTSTART:20250723T170000Z
-DTEND:20250723T190000Z
-SUMMARY:Amistoso - Huesca - Osasuna Promesas
-UID:2321d189-69e8-4edc-94c3-6b86cc0b914a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: Aragón TV</li></ul></body></html>
-DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250723T081515Z
+DTSTAMP:20250724T005058Z
 DTSTART:20250726T170000Z
 DTEND:20250726T190000Z
 SUMMARY:Amistoso - Osasuna - Huesca
-UID:bc3eccf1-797f-48a0-8b8f-630168cdcdb6
+UID:932bc508-2f08-4684-a56e-ab2ed58fdbae
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250724T005058Z
+DTSTART:20250802T170000Z
+DTEND:20250802T190000Z
+SUMMARY:Amistoso - Huesca - C.D. Castellón
+UID:92131289-6b76-43f7-bf77-d8338ccec921
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR

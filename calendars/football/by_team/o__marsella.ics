@@ -16,25 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250720T005555Z
+DTSTAMP:20250724T005058Z
 DTSTART:20250726T180000Z
 DTEND:20250726T200000Z
 SUMMARY:Amistoso - O. Marsella - Girona
-UID:a6d214b6-c86d-4d24-8f11-d983cc2a33aa
+UID:deb14113-a416-4eeb-8b03-67fca55dab44
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250720T005555Z
+DTSTAMP:20250724T005058Z
 DTSTART:20250729T184500Z
 DTEND:20250729T204500Z
 SUMMARY:Amistoso - O. Marsella - Valencia
-UID:140db790-71d3-4dbc-9e5a-dab536361d39
+UID:feed0e72-523b-44a1-83fd-21d696a276ee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: Gol Play</li>\n<li>Open: À Punt (València)</li>\n<li>PPV: GolStad
  ium Premium</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: Gol Play\n- Open: À Punt (València)
  \n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250724T005058Z
+DTSTART:20250802T180000Z
+DTEND:20250802T200000Z
+SUMMARY:Amistoso - O. Marsella - Sevilla
+UID:4c04803f-f8e9-4e2e-be2a-f12f386f31d2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Sevilla FC +</li></
+ ul></body></html>
+DESCRIPTION:- PPV: Sevilla FC +
 END:VEVENT
 END:VCALENDAR

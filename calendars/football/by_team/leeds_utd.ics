@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20250410T142246Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240730T081052Z
-DTSTART:20240803T140000Z
-DTEND:20240803T160000Z
-SUMMARY:Amistoso - Leeds Utd - Valencia
-UID:941d7a3e-a4f2-4f37-a425-83217d2e11bf
+DTSTAMP:20250724T005058Z
+DTSTART:20250802T140000Z
+DTEND:20250802T160000Z
+SUMMARY:Amistoso - Leeds Utd - Villarreal
+UID:120711d3-9e26-44bd-85a6-872a93088afd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: À Punt (València)</li>\n<li>PPV: GolStadium</li></ul></body></htm
- l>
-DESCRIPTION:- Open: Gol Play\n- Open: À Punt (València)\n- PPV: GolStadiu
- m
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR
