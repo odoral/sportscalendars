@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250727T005611Z
+DTSTAMP:20250728T081637Z
+DTSTART:20250730T190000Z
+DTEND:20250730T210000Z
+SUMMARY:Amistoso - Real Zaragoza - Mirandés
+UID:1d3a9b3d-9901-43d1-9ce6-cd1a02a9c8b7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250728T081637Z
 DTSTART:20250801T220000Z
 DTEND:20250802T000000Z
 SUMMARY:Amistoso - Tarazona - Real Zaragoza
-UID:3960d5ae-21ca-4190-a9e9-f9153d4ef140
+UID:f488b214-8c1a-40eb-bf57-abe1aaa49301
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: Aragón Deporte</li>\n<li>Open: Aragón TV</li></ul>
  </body></html>

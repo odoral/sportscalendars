@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250121T082933Z
+LAST-MODIFIED:20250410T142246Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250307T041134Z
-DTSTART:20250313T200000Z
-DTEND:20250313T220000Z
-SUMMARY:Conference League - Vitoria Guimaraes - Betis
-UID:d00146d3-908d-474f-844b-678fab6fe9cf
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 11</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: M+ Liga de Cam
- peones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 11\n- PPV: M+ Liga de Campeones 3
- \n- PPV: M+ Liga de Campeones 4
+DTSTAMP:20250728T081637Z
+DTSTART:20250801T190000Z
+DTEND:20250801T210000Z
+SUMMARY:Amistoso - Vitoria Guimaraes - Celta
+UID:1cd7e538-8a1d-427c-b2ce-9a53124d8a92
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: TVG
 END:VEVENT
 END:VCALENDAR
