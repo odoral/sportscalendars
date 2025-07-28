@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250727T005611Z
+DTSTAMP:20250728T005505Z
 DTSTART:20250802T170000Z
 DTEND:20250802T190000Z
 SUMMARY:Amistoso - Huesca - C.D. Castellón
-UID:dbf38aed-f81d-42d4-9023-b5e1fe0c3252
+UID:1d9e2398-cb41-4ab2-a581-2bd5277dea4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250728T005505Z
+DTSTART:20250806T163000Z
+DTEND:20250806T183000Z
+SUMMARY:Amistoso - Alavés - Huesca
+UID:5efc84d5-3176-48da-8463-ebe6900cdb00
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
