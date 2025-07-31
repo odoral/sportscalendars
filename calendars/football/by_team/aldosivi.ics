@@ -17,14 +17,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20250731T081543Z
-DTSTART:20250802T000000Z
-DTEND:20250802T020000Z
-SUMMARY:Copa América Femenina - Argentina - Uruguay
-UID:c602c1d1-7667-4927-aa57-68332860f064
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
- be</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: M+ Liga de Campeones</li
- ></ul></body></html>
-DESCRIPTION:- Open: Copa América YouTube\n- PPV: M+ Ellas Vamos\n- PPV: M
- + Liga de Campeones
+DTSTART:20250801T001000Z
+DTEND:20250801T021000Z
+SUMMARY:Copa Argentina - Aldosivi - Argentinos Juniors
+UID:49982128-b2fd-4c84-b682-a78b6a70ec59
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Fanatiz</li></ul></
+ body></html>
+DESCRIPTION:- PPV: Fanatiz
 END:VEVENT
 END:VCALENDAR

@@ -16,17 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250601T081208Z
-DTSTART:20250601T163000Z
-DTEND:20250601T183000Z
-SUMMARY:Liga Hypermotion - Almería - Tenerife
-UID:9847cc62-e239-4288-9a20-216b6d7eb1e5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 6</li>\n<li>PPV: M+ Va
- mos</li></ul></body></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 6\n- PPV: M+ 
- Vamos
+DTSTAMP:20250731T081543Z
+DTSTART:20250802T170000Z
+DTEND:20250802T190000Z
+SUMMARY:Otras competiciones - Tenerife - Las Palmas
+UID:a779d050-48a2-4aad-a337-97cc6574e0dc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
+ l></body></html>
+DESCRIPTION:- Open: TV Canaria
 END:VEVENT
 END:VCALENDAR

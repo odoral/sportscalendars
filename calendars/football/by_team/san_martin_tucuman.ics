@@ -17,14 +17,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20250731T081543Z
-DTSTART:20250802T000000Z
-DTEND:20250802T020000Z
-SUMMARY:Copa América Femenina - Argentina - Uruguay
-UID:c602c1d1-7667-4927-aa57-68332860f064
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
- be</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: M+ Liga de Campeones</li
- ></ul></body></html>
-DESCRIPTION:- Open: Copa América YouTube\n- PPV: M+ Ellas Vamos\n- PPV: M
- + Liga de Campeones
+DTSTART:20250803T001000Z
+DTEND:20250803T021000Z
+SUMMARY:Copa Argentina - San Martín Tucumán - River Plate
+UID:22669ca4-d48b-4d43-8f7d-a04a1b173cbf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Fanatiz</li></ul></
+ body></html>
+DESCRIPTION:- PPV: Fanatiz
 END:VEVENT
 END:VCALENDAR

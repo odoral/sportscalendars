@@ -16,17 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250528T081400Z
-DTSTART:20250531T141500Z
-DTEND:20250531T161500Z
-SUMMARY:Liga Hypermotion - Racing Ferrol - Sporting de Gijón
-UID:bb3f8a5c-c4f9-4758-99d3-46360d879d01
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li>\n<li>PPV: Orange Fútbol 
- 2</li></ul></body></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: DAZN\n- PPV: GolStadium Pre
- mium\n- PPV: LaLiga TV Hypermotion\n- PPV: M+ Vamos\n- PPV: Orange Fútbo
- l 2
+DTSTAMP:20250731T081543Z
+DTSTART:20250802T170000Z
+DTEND:20250802T190000Z
+SUMMARY:Amistoso - Racing Ferrol - R.M. Castilla
+UID:ec07bc2c-0594-4956-913d-44a51ccec23e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
+ </ul></body></html>
+DESCRIPTION:- Open: RealMadrid TV
 END:VEVENT
 END:VCALENDAR
