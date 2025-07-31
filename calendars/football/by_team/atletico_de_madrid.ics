@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250730T043454Z
+DTSTAMP:20250731T005200Z
 DTSTART:20250803T180000Z
 DTEND:20250803T200000Z
 SUMMARY:Amistoso - Porto - Atlético de Madrid
-UID:5f8fc77b-718d-422d-b20d-f71617202728
+UID:9cd9d448-819d-4ce9-adaf-9d3a3f9e8ed7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250731T005200Z
+DTSTART:20250809T150000Z
+DTEND:20250809T170000Z
+SUMMARY:Amistoso - Newcastle - Atlético de Madrid
+UID:8d7af629-182b-4237-baf4-daddabe896ab
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+

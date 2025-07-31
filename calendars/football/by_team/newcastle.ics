@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250730T005146Z
+DTSTAMP:20250731T005200Z
 DTSTART:20250808T173000Z
 DTEND:20250808T193000Z
 SUMMARY:Amistoso - Newcastle - Espanyol
-UID:84e7b1b5-39de-47ff-b2ea-afe5c685b5c9
+UID:508bede5-4aa6-4e5b-996d-bc9c23f1c6e5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: RCD Espanyol YouTube</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: RCD Espanyol YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250731T005200Z
+DTSTART:20250809T150000Z
+DTEND:20250809T170000Z
+SUMMARY:Amistoso - Newcastle - Atlético de Madrid
+UID:21dc7753-c822-42da-9d9c-c2aefd5b58f7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
+ <li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

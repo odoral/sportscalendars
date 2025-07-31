@@ -16,24 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250728T081637Z
-DTSTART:20250730T174500Z
-DTEND:20250730T194500Z
-SUMMARY:Amistoso - Linares Deportivo - Albacete
-UID:af0d2a92-daf9-4116-a003-d83fbf1f7e10
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
- LM)</li></ul></body></html>
-DESCRIPTION:- Open: CMMPlay (Castilla-LM)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250728T081637Z
+DTSTAMP:20250731T005200Z
 DTSTART:20250801T220000Z
 DTEND:20250802T000000Z
 SUMMARY:Amistoso - Albacete - Villarreal B
-UID:f8a8873a-d099-44b6-894e-974836615f4a
+UID:9fbe8636-3cde-4f78-8e49-398637cc062e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: CMMPlay (Castilla-LM)</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: CMMPlay (Castilla-LM
  )
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250731T005200Z
+DTSTART:20250808T220000Z
+DTEND:20250809T000000Z
+SUMMARY:Amistoso - Albacete - Cartagena
+UID:4740e6cc-44d8-4d2d-aa74-a5ba22a6a30a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: CMMPlay (Castilla-LM)</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: CMMPlay (Castilla-LM
+ )
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250731T005200Z
+DTSTART:20250809T173000Z
+DTEND:20250809T193000Z
+SUMMARY:Amistoso - Albacete - C.D. Castellón
+UID:6c8c13c1-2bcd-4741-bf9d-2852bbbabca6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)
 END:VEVENT
 END:VCALENDAR
