@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250726T081258Z
-DTSTART:20250726T170000Z
-DTEND:20250726T190000Z
-SUMMARY:Amistoso - Osasuna - Huesca
-UID:243151d7-384c-405c-a00a-a488a98098c4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: Aragón TV</li>\n<li>Open: Navarra TV</li></ul></body></html
- >
-DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Navarra TV
- 
+DTSTAMP:20250801T081515Z
+DTSTART:20250802T170000Z
+DTEND:20250802T190000Z
+SUMMARY:Amistoso - Osasuna - Racing de Santander
+UID:917ac80e-3a86-40ad-870c-2b2f051b8198
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Navarra TV</li></u
+ l></body></html>
+DESCRIPTION:- Open: Navarra TV
 END:VEVENT
 END:VCALENDAR
