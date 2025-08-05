@@ -16,69 +16,80 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
+DTSTART:20250806T183000Z
+DTEND:20250806T203000Z
+SUMMARY:Otras competiciones - Nàstic Tarragona - Real Zaragoza
+UID:4d2cc4dc-5a88-4dc1-b418-d7e23c211469
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250805T081527Z
 DTSTART:20250806T190000Z
 DTEND:20250806T210000Z
 SUMMARY:Otras competiciones - Valladolid - Getafe
-UID:53d10705-b986-465a-9b34-bb562574aeb1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:65d18e4b-0186-4bf5-9067-ae69ab592209
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Getafe CF Youtube<
+ /li></ul></body></html>
+DESCRIPTION:- Open: Getafe CF Youtube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
 DTSTART:20250809T180000Z
 DTEND:20250809T200000Z
 SUMMARY:Otras competiciones - Málaga - Betis
-UID:a7dc6ee4-02f9-4432-9488-a8f5aa13fb0e
+UID:0fa4f5cb-078c-44e4-a44b-56fcfc379c9f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li></ul>
  </body></html>
 DESCRIPTION:- Open: Betis TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
 DTSTART:20250809T180000Z
 DTEND:20250809T200000Z
 SUMMARY:Otras competiciones - Granada C.F. - Al-Ain F.C.
-UID:62fb45c2-d394-4776-b23f-8507590da2fa
+UID:cdcdfb03-535b-4b11-8c28-8a8d187b6854
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Granada CF YouTube
  </li></ul></body></html>
 DESCRIPTION:- Open: Granada CF YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
 DTSTART:20250809T180000Z
 DTEND:20250809T200000Z
 SUMMARY:Otras competiciones - Mallorca - Hamburger S.V.
-UID:bff2565d-900f-4f9b-8e2e-c335896ec5db
+UID:95e7b67c-44f6-46a9-88d8-dfa7840a8334
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li>\n<li>Open
  : RCD Mallorca YouTube </li></ul></body></html>
 DESCRIPTION:- Open: IB3\n- Open: RCD Mallorca YouTube 
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
 DTSTART:20250809T180000Z
 DTEND:20250809T200000Z
 SUMMARY:Otras competiciones - Deportivo - Le Havre AC
-UID:4a64600c-dc92-4c45-883d-0f9fcfe19f62
+UID:a44df49a-1b8d-4a19-baff-5a15f8a3f73f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: R.C. Deportivo You
  tube</li></ul></body></html>
 DESCRIPTION:- Open: R.C. Deportivo Youtube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
 DTSTART:20250809T183000Z
 DTEND:20250809T203000Z
 SUMMARY:Otras competiciones - Elche - Hércules
-UID:82fc3c11-485d-4295-b2bc-164ddf2b381a
+UID:111d104c-c5ac-4ffb-9054-5dee93f16209
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
 DTSTART:20250809T190000Z
 DTEND:20250809T210000Z
 SUMMARY:Otras competiciones - Valencia - Torino
-UID:51bdf70d-9c70-4c5d-843e-8147643b5edc
+UID:8555059e-56bd-43c8-bca4-e48f15cfd140
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: À Punt (València)</li>\n<li>PPV: GolStadium Premium</li></ul></bo
  dy></html>
@@ -86,41 +97,41 @@ DESCRIPTION:- Open: Gol Play\n- Open: À Punt (València)\n- PPV: GolStadiu
  m Premium
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
 DTSTART:20250809T193000Z
 DTEND:20250809T213000Z
 SUMMARY:Otras competiciones - Real Zaragoza - Huesca
-UID:4f7ae303-8391-471a-906f-149c2f5b88b3
+UID:d02a6be4-85c9-4898-b510-1d4afdece475
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
 DTSTART:20250810T190000Z
 DTEND:20250810T210000Z
 SUMMARY:Otras competiciones - Villarreal - Aston Villa
-UID:eb6d65c2-dc2a-4f7a-a707-5db6863c705b
+UID:c23e0c32-2407-4a69-b59c-a472bb8536e6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
  /li></ul></body></html>
 DESCRIPTION:- Open: À Punt (València)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
 DTSTART:20250810T190000Z
 DTEND:20250810T210000Z
 SUMMARY:Otras competiciones - Barcelona - Como 1907
-UID:756ce517-1cc8-4fc4-8840-881f15c95fee
+UID:23db457b-f4f1-4329-90e1-3eefb48454d5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li></ul></bod
  y></html>
 DESCRIPTION:- Open: TV3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250805T005300Z
+DTSTAMP:20250805T081527Z
 DTSTART:20250813T190000Z
 DTEND:20250813T210000Z
 SUMMARY:Otras competiciones - PSG - Tottenham
-UID:aa2c3f02-646e-454f-a177-9dcdfe276e14
+UID:e6a71a23-ea3a-4e69-bb6f-12d95885643d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+
