@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250803T005705Z
+DTSTAMP:20250806T081522Z
+DTSTART:20250806T170000Z
+DTEND:20250806T190000Z
+SUMMARY:Otras competiciones - Deportivo - Real Oviedo
+UID:d13bc4d3-6cff-47ff-b144-69ceb3364aa2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA</li>\n<li>Open
+ : TVG</li></ul></body></html>
+DESCRIPTION:- Open: TPA\n- Open: TVG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250806T081522Z
 DTSTART:20250809T180000Z
 DTEND:20250809T200000Z
 SUMMARY:Otras competiciones - Deportivo - Le Havre AC
-UID:1ec28baf-a00d-489b-b173-4e2d882f586d
+UID:3360c7e5-9bdf-48a4-af4c-b7fbbfea4529
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: R.C. Deportivo You
  tube</li></ul></body></html>
 DESCRIPTION:- Open: R.C. Deportivo Youtube
