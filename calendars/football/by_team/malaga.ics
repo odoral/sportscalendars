@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250731T005200Z
+DTSTAMP:20250807T005252Z
 DTSTART:20250809T180000Z
 DTEND:20250809T200000Z
 SUMMARY:Otras competiciones - Málaga - Betis
-UID:edc58b0c-5cb9-495e-83ac-c5ef27f09a44
+UID:0e6eb8a5-8b32-4c28-b579-97f0eeb7b9d2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li></ul>
  </body></html>
 DESCRIPTION:- Open: Betis TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250807T005252Z
+DTSTART:20250816T173000Z
+DTEND:20250816T193000Z
+SUMMARY:Liga Hypermotion - Málaga - Eibar
+UID:93da0010-bf6a-4f1a-9a4b-7e52b3285610
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li>\n<li>PPV: Orange Fút
+ bol 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: M+ Vamos\n-
+  PPV: Orange Fútbol 2
 END:VEVENT
 END:VCALENDAR

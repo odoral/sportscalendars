@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250731T005200Z
+DTSTAMP:20250807T005252Z
 DTSTART:20250808T173000Z
 DTEND:20250808T193000Z
 SUMMARY:Amistoso - Newcastle - Espanyol
-UID:508bede5-4aa6-4e5b-996d-bc9c23f1c6e5
+UID:b7f10ad8-b6cd-4d0e-ace2-0e671b565fc5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: RCD Espanyol YouTube</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: RCD Espanyol YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250731T005200Z
+DTSTAMP:20250807T005252Z
 DTSTART:20250809T150000Z
 DTEND:20250809T170000Z
 SUMMARY:Amistoso - Newcastle - Atlético de Madrid
-UID:21dc7753-c822-42da-9d9c-c2aefd5b58f7
+UID:2e9ff8b0-f028-4ae3-aabe-6620c3a239da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li>\n
  <li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga TV\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250807T005252Z
+DTSTART:20250816T113000Z
+DTEND:20250816T133000Z
+SUMMARY:Premier League - Aston Villa - Newcastle
+UID:ac14aba1-aa80-41bf-ac5c-c8cdafd1b5bf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

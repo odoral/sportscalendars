@@ -16,25 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250802T081259Z
-DTSTART:20250806T173000Z
-DTEND:20250806T193000Z
-SUMMARY:Amistoso - Poblense - Mallorca
-UID:514cfbfd-ef9b-4bab-8a3c-abc110cce6f0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esports IB3 Youtub
- e</li>\n<li>Open: IB3</li>\n<li>Open: RCD Mallorca YouTube </li></ul></b
- ody></html>
-DESCRIPTION:- Open: Esports IB3 Youtube\n- Open: IB3\n- Open: RCD Mallorc
- a YouTube 
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250802T081259Z
+DTSTAMP:20250807T005252Z
 DTSTART:20250809T180000Z
 DTEND:20250809T200000Z
 SUMMARY:Otras competiciones - Mallorca - Hamburger S.V.
-UID:220a55dd-7bac-4cdb-ad90-06997a423f12
+UID:95bd1a82-d1b0-434c-82bc-d75add1e0a29
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li>\n<li>Open
  : RCD Mallorca YouTube </li></ul></body></html>
 DESCRIPTION:- Open: IB3\n- Open: RCD Mallorca YouTube 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250807T005252Z
+DTSTART:20250816T173000Z
+DTEND:20250816T193000Z
+SUMMARY:Liga EA Sports - Mallorca - Barcelona
+UID:d30f8997-4fc7-4294-9ac6-1db8efe6b445
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga TV</li></
+ ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga TV
 END:VEVENT
 END:VCALENDAR
