@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250807T005252Z
+DTSTAMP:20250808T081522Z
+DTSTART:20250809T100000Z
+DTEND:20250809T120000Z
+SUMMARY:Amistoso - Burgos C.F. - Valladolid
+UID:ba3f1ddc-a4b2-4dd4-95d7-543096775aed
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 8 Burgos</li></
+ ul></body></html>
+DESCRIPTION:- Open: La 8 Burgos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250808T081522Z
 DTSTART:20250815T193000Z
 DTEND:20250815T213000Z
 SUMMARY:Liga Hypermotion - Valladolid - AD Ceuta
-UID:95ed0bd7-9b57-4670-b17d-c22e8114d474
+UID:9c565c63-b20b-4a18-8c90-245c49121e00
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Oran
  ge Fútbol 2</li></ul></body></html>
