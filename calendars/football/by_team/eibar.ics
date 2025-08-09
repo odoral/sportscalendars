@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250807T005252Z
+DTSTAMP:20250809T081253Z
+DTSTART:20250809T170000Z
+DTEND:20250809T190000Z
+SUMMARY:Amistoso - Eibar - Alavés
+UID:96764974-0d7a-4e7f-a4dc-f52db354d604
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportivo Alavés Y
+ ouTube</li></ul></body></html>
+DESCRIPTION:- Open: Deportivo Alavés YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250809T081253Z
 DTSTART:20250816T173000Z
 DTEND:20250816T193000Z
 SUMMARY:Liga Hypermotion - Málaga - Eibar
-UID:100d1388-4ca4-4109-aca8-aeacabea5317
+UID:748c3a05-e826-4c9d-a056-311833f9ab2d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li>\n<li>PPV: Orange Fút
  bol 2</li></ul></body></html>
