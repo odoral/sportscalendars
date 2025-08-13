@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250808T005233Z
+DTSTAMP:20250813T004754Z
 DTSTART:20250817T173000Z
 DTEND:20250817T193000Z
 SUMMARY:Liga Hypermotion - Cádiz - Mirandés
-UID:907be272-0875-42c3-80ed-6d6012bcfc1e
+UID:d0b5aff2-ed62-479d-acd2-adc863ab1edf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250813T004754Z
+DTSTART:20250822T193000Z
+DTEND:20250822T213000Z
+SUMMARY:Liga Hypermotion - Leganés - Cádiz
+UID:e22fb92d-1886-4404-ae03-89011a3a1639
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Oran
+ ge Fútbol 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Pl
+ us+\n- PPV: Orange Fútbol 2
 END:VEVENT
 END:VCALENDAR
