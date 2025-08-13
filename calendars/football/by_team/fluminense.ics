@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250706T081226Z
-DTSTART:20250708T190000Z
-DTEND:20250708T210000Z
-SUMMARY:Mundial de Clubes FIFA - Fluminense - Chelsea
-UID:97c4f5d8-ad31-4572-84aa-0e355bc88508
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Telecinco</li>\n<l
- i>PPV: DAZN</li>\n<li>PPV: mitele</li></ul></body></html>
-DESCRIPTION:- Open: Telecinco\n- PPV: DAZN\n- PPV: mitele
+DTSTAMP:20250813T082107Z
+DTSTART:20250813T003000Z
+DTEND:20250813T023000Z
+SUMMARY:Copa Sudamericana - América de Cali - Fluminense
+UID:c3084939-e1b5-4283-84f1-141f10e48707
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250813T082107Z
+DTSTART:20250820T003000Z
+DTEND:20250820T023000Z
+SUMMARY:Copa Sudamericana - Fluminense - América de Cali
+UID:8292fc91-4d5c-4f91-820c-cd9b09fa54ef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
