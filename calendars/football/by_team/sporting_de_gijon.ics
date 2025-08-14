@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250811T005331Z
+DTSTAMP:20250814T004741Z
 DTSTART:20250818T170000Z
 DTEND:20250818T190000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Córdoba
-UID:8aa644fe-16e2-4786-afcb-7bbae556800d
+UID:69f9bcc6-6b8f-4496-b932-722d3a84dd88
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250814T004741Z
+DTSTART:20250823T170000Z
+DTEND:20250823T190000Z
+SUMMARY:Liga Hypermotion - AD Ceuta - Sporting de Gijón
+UID:f39f19ae-372d-4128-ae93-b6979e2d3477
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: M+ Vamos</li>\n<li>PPV: Orange Fút
+ bol 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: M+ Vamos\n-
+  PPV: Orange Fútbol 2
 END:VEVENT
 END:VCALENDAR

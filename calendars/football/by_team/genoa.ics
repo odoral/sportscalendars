@@ -16,23 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250726T081258Z
-DTSTART:20250731T170000Z
-DTEND:20250731T190000Z
-SUMMARY:Amistoso - Villarreal - Genoa
-UID:4a82d0c7-2a6e-4525-9c02-f167ccad24c1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
- /li></ul></body></html>
-DESCRIPTION:- Open: À Punt (València)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250726T081258Z
-DTSTART:20250731T170000Z
-DTEND:20250731T190000Z
-SUMMARY:Amistoso - Real Oviedo - Genoa
-UID:35ad9186-b41e-45da-8bfe-1e1e1ec4b3b0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: GolStadium Premium</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
+DTSTAMP:20250814T004741Z
+DTSTART:20250823T163000Z
+DTEND:20250823T183000Z
+SUMMARY:Serie A Italia - Genoa - U.S. Lecce
+UID:390e22e5-49a9-43d7-bb94-4f2ae72cb190
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
