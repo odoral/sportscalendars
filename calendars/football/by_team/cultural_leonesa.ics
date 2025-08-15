@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250815T004824Z
+DTSTAMP:20250815T042154Z
+DTSTART:20250815T193000Z
+DTEND:20250815T213000Z
+SUMMARY:Liga Hypermotion - Burgos C.F. - Cultural Leonesa
+UID:3603a564-e582-4548-9ec9-9f2edc3579ae
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV
+  Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250815T042154Z
 DTSTART:20250824T173000Z
 DTEND:20250824T193000Z
 SUMMARY:Liga Hypermotion - Cultural Leonesa - Almería
-UID:e5c672ad-02db-43e0-af9e-b6b6eb391bb7
+UID:ee30734d-e5e8-49ef-a0fb-377105e176c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Oran
  ge Fútbol 2</li></ul></body></html>
