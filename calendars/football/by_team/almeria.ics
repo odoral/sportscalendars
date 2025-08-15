@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250811T005331Z
+DTSTAMP:20250815T004824Z
 DTSTART:20250818T193000Z
 DTEND:20250818T213000Z
 SUMMARY:Liga Hypermotion - Almería - Albacete
-UID:e66be345-747d-47f7-919a-f6f3c1184362
+UID:428dd31b-882a-43dc-afae-c542bb76b65f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250815T004824Z
+DTSTART:20250824T173000Z
+DTEND:20250824T193000Z
+SUMMARY:Liga Hypermotion - Cultural Leonesa - Almería
+UID:5be160d4-3816-4bfb-9dad-1532a0b8b8fc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Oran
+ ge Fútbol 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Movistar Pl
+ us+\n- PPV: Orange Fútbol 2
 END:VEVENT
 END:VCALENDAR
