@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250121T082933Z
+LAST-MODIFIED:20250410T142246Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250218T081208Z
-DTSTART:20250220T200000Z
-DTEND:20250220T220000Z
-SUMMARY:Europa League - Viktoria Plzen - Ferencvaros
-UID:3d19a784-751e-4af7-84df-f0793cc0ff5a
+DTSTAMP:20250816T081225Z
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+SUMMARY:Champions League - Ferencvaros - Qarabag FK
+UID:92961365-e875-4e9b-92d1-f95ea22e6dea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 13</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: M+ Liga de Cam
- peones 6</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 13\n- PPV: M+ Liga de Campeones 3
- \n- PPV: M+ Liga de Campeones 6
+ s 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 END:VCALENDAR

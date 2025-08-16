@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250121T082933Z
+LAST-MODIFIED:20250410T142246Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250305T081242Z
-DTSTART:20250312T200000Z
-DTEND:20250312T220000Z
-SUMMARY:Champions League - Aston Villa - Club Brugge
-UID:1f8f54e5-0153-4497-9c07-887618b19369
+DTSTAMP:20250816T081225Z
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+SUMMARY:Champions League - Rangers FC - Club Brugge
+UID:7df5dc24-3a47-4f77-a08f-6920302d598d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: M+ Liga de Camp
- eones 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
- n- PPV: M+ Liga de Campeones 5
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

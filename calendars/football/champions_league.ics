@@ -16,15 +16,73 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250522T004510Z
-DTSTART:20250531T190000Z
-DTEND:20250531T210000Z
-SUMMARY:Champions League - PSG - Inter de Milan
-UID:84d41f1f-8f9e-426d-ada2-e3fa09066568
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar
-  Plus+</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Liga de Campeones\
- n- PPV: Movistar Plus+
+DTSTAMP:20250816T081225Z
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+SUMMARY:Champions League - Crvena Zvezda - Pafos FC
+UID:5d53109d-088c-45ac-9984-2071c06a5797
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T081225Z
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+SUMMARY:Champions League - Ferencvaros - Qarabag FK
+UID:4b46bfb7-5184-4f43-b679-d6bc24426be3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T081225Z
+DTSTART:20250819T190000Z
+DTEND:20250819T210000Z
+SUMMARY:Champions League - Rangers FC - Club Brugge
+UID:6ab56325-16f1-4d2a-9297-0e479e04c976
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T081225Z
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+SUMMARY:Champions League - Celtic FC - F.C. Kairat
+UID:b0f3a55f-51f1-4960-b7b1-44f08d81c7e5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T081225Z
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+SUMMARY:Champions League - Bodø/Glimt - Sturm Graz
+UID:6965be8e-6b92-49db-a500-68aa78d9a881
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T081225Z
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+SUMMARY:Champions League - Basilea - København
+UID:c3d5abc9-fbdb-4bea-8750-f3c007b78b55
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T081225Z
+DTSTART:20250820T190000Z
+DTEND:20250820T210000Z
+SUMMARY:Champions League - Fenerbahçe - Benfica
+UID:a3bee641-afb3-40f8-9fcc-2f2f0daeec36
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
