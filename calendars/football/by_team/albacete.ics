@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250815T081439Z
+DTSTAMP:20250816T004445Z
 DTSTART:20250818T193000Z
 DTEND:20250818T213000Z
 SUMMARY:Liga Hypermotion - Almería - Albacete
-UID:f0df39ec-fc25-42ba-befc-1d11d9a4160c
+UID:d2122c75-b7c5-456c-a916-a20c8a244991
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T004445Z
+DTSTART:20250825T173000Z
+DTEND:20250825T193000Z
+SUMMARY:Liga Hypermotion - Albacete - Racing de Santander
+UID:9bd3d522-9ae7-4d0e-957b-a0286f10d613
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

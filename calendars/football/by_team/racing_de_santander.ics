@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250813T082107Z
+DTSTAMP:20250816T004446Z
 DTSTART:20250816T150000Z
 DTEND:20250816T170000Z
 SUMMARY:Liga Hypermotion - Racing de Santander - C.D. Castellón
-UID:e406ca1e-dcf3-487d-833f-2d1a4d31f8d4
+UID:f5c2fbb9-6649-4deb-a804-9c629d94031a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250816T004446Z
+DTSTART:20250825T173000Z
+DTEND:20250825T193000Z
+SUMMARY:Liga Hypermotion - Albacete - Racing de Santander
+UID:aff3ad12-5656-4834-8b1d-ee9febe92263
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
