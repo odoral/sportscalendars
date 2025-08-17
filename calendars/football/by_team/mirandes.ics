@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250814T004742Z
+DTSTAMP:20250817T005236Z
 DTSTART:20250817T173000Z
 DTEND:20250817T193000Z
 SUMMARY:Liga Hypermotion - Cádiz - Mirandés
-UID:e42ece71-9e7a-4f53-9206-a547e509c117
+UID:eb028ff4-1021-4335-8430-c914b5e98098
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250814T004742Z
+DTSTAMP:20250817T005236Z
+DTSTART:20250817T173000Z
+DTEND:20250817T193000Z
+SUMMARY:Liga Hypermotion - Cádiz - Mirandés
+UID:47a7c438-5f21-4916-be47-9a2ebf64067b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250817T005236Z
 DTSTART:20250823T150000Z
 DTEND:20250823T170000Z
 SUMMARY:Liga Hypermotion - Mirandés - Huesca
-UID:e6461e5a-6255-42ef-9ca8-b70e767c9d53
+UID:ce2e707d-8be7-4f6d-8954-be53ad932295
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
