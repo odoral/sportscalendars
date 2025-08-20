@@ -16,13 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250622T005304Z
-DTSTART:20250622T180000Z
-DTEND:20250622T200000Z
-SUMMARY:Primera Federación - Real Sociedad B - Nàstic Tarragona
-UID:ddc99c6e-47ee-4227-8de7-a344dcac8c3a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
- n: Esport 3</li>\n<li>PPV: FEF TV</li></ul></body></html>
-DESCRIPTION:- Open: ETB1\n- Open: Esport 3\n- PPV: FEF TV
+DTSTAMP:20250820T004345Z
+DTSTART:20250829T150000Z
+DTEND:20250829T170000Z
+SUMMARY:Primera Federación - Racing Ferrol - C.F. Talavera
+UID:add4f689-26e8-47bd-bb0a-0f597c87042b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250820T004345Z
+DTSTART:20250829T171500Z
+DTEND:20250829T191500Z
+SUMMARY:Primera Federación - R.M. Castilla - Lugo
+UID:95ec4659-efd5-433a-93ba-11cc4c54c4b1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250820T004345Z
+DTSTART:20250829T193000Z
+DTEND:20250829T213000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Algeciras
+UID:90c6f77d-fe6f-4d8a-a55c-5e0e2d81f5f2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
