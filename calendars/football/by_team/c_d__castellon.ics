@@ -16,15 +16,29 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250818T081559Z
+DTSTAMP:20250821T004303Z
 DTSTART:20250822T193000Z
 DTEND:20250822T213000Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Valladolid
-UID:fb82382b-3b8b-4e60-b9a4-0b483beb370c
+UID:c9635b80-a9b5-4469-8e3d-ea4d8e1b93de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250821T004303Z
+DTSTART:20250830T193000Z
+DTEND:20250830T213000Z
+SUMMARY:Liga Hypermotion - C.D. Castellón - Real Zaragoza
+UID:54e53ce2-ddf7-4326-aaac-79dd19fb5cda
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TEN TV</
+ li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLi
+ ga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
+ - Open: TEN TV\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV
+  Hypermotion
 END:VEVENT
 END:VCALENDAR
