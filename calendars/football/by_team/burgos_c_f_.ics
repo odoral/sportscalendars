@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250820T081406Z
+DTSTAMP:20250822T004440Z
 DTSTART:20250824T150000Z
 DTEND:20250824T170000Z
 SUMMARY:Liga Hypermotion - Deportivo - Burgos C.F.
-UID:a7beb95d-f400-475e-b5b6-3b5c3f468598
+UID:5b35913d-f969-45e0-be73-84b36e1d9d41
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250822T004440Z
+DTSTART:20250831T150000Z
+DTEND:20250831T170000Z
+SUMMARY:Liga Hypermotion - F.C. Andorra - Burgos C.F.
+UID:ecac43ed-9f44-441f-9aa7-c7af041f9f3b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

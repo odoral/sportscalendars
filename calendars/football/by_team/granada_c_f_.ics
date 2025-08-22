@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250818T081559Z
+DTSTAMP:20250822T004440Z
 DTSTART:20250822T173000Z
 DTEND:20250822T193000Z
 SUMMARY:Liga Hypermotion - Eibar - Granada C.F.
-UID:29a937ab-b131-4e9c-994c-ace53a4a3389
+UID:f03fa68a-d0cb-48ca-be91-b5cdf7d1caa8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250822T004440Z
+DTSTART:20250831T193000Z
+DTEND:20250831T213000Z
+SUMMARY:Liga Hypermotion - Granada C.F. - Mirandés
+UID:f9de4df7-428e-4878-9d10-3bf517a802c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

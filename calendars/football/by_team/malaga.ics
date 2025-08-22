@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250820T081406Z
+DTSTAMP:20250822T004440Z
 DTSTART:20250824T193000Z
 DTEND:20250824T213000Z
 SUMMARY:Liga Hypermotion - Málaga - Real Sociedad B
-UID:2fe986df-e711-4818-840f-feb380d4ce96
+UID:fad4f33a-51ee-41da-8286-597fbac5e3ed
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250822T004440Z
+DTSTART:20250831T173000Z
+DTEND:20250831T193000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Málaga
+UID:cfe81673-bb5f-48d3-b0a1-6258e9db21bd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
