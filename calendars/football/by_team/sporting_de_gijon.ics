@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250825T081511Z
+DTSTAMP:20250828T004315Z
 DTSTART:20250829T193000Z
 DTEND:20250829T213000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Cultural Leonesa
-UID:f4a93f5c-16a3-4aa1-b52a-60e95d30fda4
+UID:fb4c3c2a-bee5-4d03-b94e-44c753e9e1b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250828T004315Z
+DTSTART:20250906T141500Z
+DTEND:20250906T161500Z
+SUMMARY:Liga Hypermotion - Deportivo - Sporting de Gijón
+UID:2759614b-9b80-4ad7-9a6f-cb16e2431088
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

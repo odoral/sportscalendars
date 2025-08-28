@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250827T081311Z
+DTSTAMP:20250828T004315Z
 DTSTART:20250830T170000Z
 DTEND:20250830T190000Z
 SUMMARY:Liga Hypermotion - Valladolid - Córdoba
-UID:221f5916-9a13-4f2c-b0a1-ab9725677ccb
+UID:ed6e9be6-e5c0-4a5e-8113-b5e274f88508
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250828T004315Z
+DTSTART:20250906T163000Z
+DTEND:20250906T183000Z
+SUMMARY:Liga Hypermotion - Real Zaragoza - Valladolid
+UID:5b2c7739-b726-4cf9-8fcf-fe09bfe05560
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
