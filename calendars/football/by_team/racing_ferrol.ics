@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250828T081332Z
+DTSTAMP:20250829T004319Z
 DTSTART:20250831T100000Z
 DTEND:20250831T120000Z
 SUMMARY:Primera Federación - Racing Ferrol - C.F. Talavera
-UID:67ae5d04-6d81-4f8d-bda0-8d1b125b4391
+UID:840b12fc-81f9-4a4e-ac9f-3e39cdc44422
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
  >
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
  
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250829T004319Z
+DTSTART:20250907T160000Z
+DTEND:20250907T180000Z
+SUMMARY:Primera Federación - R.M. Castilla - Racing Ferrol
+UID:02caaea1-c518-4ffe-a924-01e9b43659a3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

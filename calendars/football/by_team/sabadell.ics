@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250828T081332Z
+DTSTAMP:20250829T004319Z
 DTSTART:20250830T171500Z
 DTEND:20250830T191500Z
 SUMMARY:Primera Federación - Sabadell - C.D. Eldense
-UID:9a8930ff-191d-4b89-ad09-7f56113daffa
+UID:4db7f763-b92d-44a4-82c7-4759d7afea93
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250829T004319Z
+DTSTART:20250907T160000Z
+DTEND:20250907T180000Z
+SUMMARY:Primera Federación - At. Sanluqueño - Sabadell
+UID:4f65d0c6-5799-4854-a3ff-23ac3cfaed6b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

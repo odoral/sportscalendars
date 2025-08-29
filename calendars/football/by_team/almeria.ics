@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250825T081511Z
+DTSTAMP:20250829T004319Z
 DTSTART:20250829T173000Z
 DTEND:20250829T193000Z
 SUMMARY:Liga Hypermotion - Real Sociedad B - Almería
-UID:7aabb5de-087a-4654-84cc-45d1f7d978b8
+UID:b060349f-1dca-4fe2-a669-fc66ead0af3b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250829T004319Z
+DTSTART:20250907T163000Z
+DTEND:20250907T183000Z
+SUMMARY:Liga Hypermotion - Almería - Racing de Santander
+UID:f29ad9ad-e4ce-4825-b8a6-d72d650e3e6c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
