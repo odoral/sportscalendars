@@ -16,22 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250827T041154Z
+DTSTAMP:20250829T081258Z
 DTSTART:20250831T100000Z
 DTEND:20250831T120000Z
 SUMMARY:Liga F - RCD Espanyol Fem. - At. Madrid Fem.
-UID:59a5ec6e-a422-4671-bb40-57c7d28550e3
+UID:5ed6c370-8f03-4c7f-bd67-23b08def7748
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: TEN TV</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: GolStadium Premium
+ >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: GolStad
+ ium Premium
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250827T041154Z
+DTSTAMP:20250829T081258Z
 DTSTART:20250905T180000Z
 DTEND:20250905T200000Z
 SUMMARY:Liga F - At. Madrid Fem. - Real Madrid Fem.
-UID:faec46d5-cb8f-4260-9d2b-c73719272755
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:15ae38b9-21a0-42bb-a8b7-1bae7ad61a66
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

@@ -16,22 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250828T004315Z
+DTSTAMP:20250829T081258Z
 DTSTART:20250831T100000Z
 DTEND:20250831T120000Z
 SUMMARY:Liga F - Eibar Fem. - Sevilla FC Fem.
-UID:c8fa3448-67b6-4a7a-b495-01db46fcb242
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:ce2f1eae-d67b-40f2-961c-4e36fa14a381
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250828T004315Z
+DTSTAMP:20250829T081258Z
 DTSTART:20250906T100000Z
 DTEND:20250906T120000Z
 SUMMARY:Liga F - Sevilla FC Fem. - UDG Tenerife
-UID:fe280a72-9dc5-4299-83e8-77c0b06447ad
+UID:8510ec44-a0ba-496b-9d58-cda0b6d2dbbe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: TEN TV</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: GolStadium Premium
+ >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: GolStad
+ ium Premium
 END:VEVENT
 END:VCALENDAR
