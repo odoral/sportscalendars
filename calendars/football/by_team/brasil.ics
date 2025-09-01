@@ -16,15 +16,22 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250731T081543Z
-DTSTART:20250802T210000Z
-DTEND:20250802T230000Z
-SUMMARY:Copa América Femenina - Colombia - Brasil
-UID:9d791671-0b66-4644-916a-9db12f24d48f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
- be</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: M+ Liga de Campeones</li
- >\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- Open: Copa América YouTube\n- PPV: M+ Ellas Vamos\n- PPV: M
- + Liga de Campeones\n- PPV: M+ Vamos
+DTSTAMP:20250901T081452Z
+DTSTART:20250905T003000Z
+DTEND:20250905T023000Z
+SUMMARY:Mundial 2026 - Brasil - Chile
+UID:0c8d75f3-0e27-4c2d-838d-364c7bc87109
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T081452Z
+DTSTART:20250909T233000Z
+DTEND:20250910T013000Z
+SUMMARY:Mundial 2026 - Bolivia - Brasil
+UID:c6cdd016-da94-4392-a80c-87ef6eeca074
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

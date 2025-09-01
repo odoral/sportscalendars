@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250723T005125Z
-DTSTART:20250725T000000Z
-DTEND:20250725T020000Z
-SUMMARY:Copa América Femenina - Ecuador - Argentina
-UID:00f70e0f-1c5c-4c66-b258-bbc279395b94
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
- be</li></ul></body></html>
-DESCRIPTION:- Open: Copa América YouTube
+DTSTAMP:20250901T081452Z
+DTSTART:20250904T233000Z
+DTEND:20250905T013000Z
+SUMMARY:Mundial 2026 - Paraguay - Ecuador
+UID:a5fec077-f59a-449a-b82e-2f7b82e810b7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 5</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T081452Z
+DTSTART:20250909T230000Z
+DTEND:20250910T010000Z
+SUMMARY:Mundial 2026 - Ecuador - Argentina
+UID:29c6bd90-d8ee-4118-becf-ded533c59b05
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

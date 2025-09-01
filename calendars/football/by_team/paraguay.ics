@@ -16,15 +16,22 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250727T081251Z
-DTSTART:20250728T210000Z
-DTEND:20250728T230000Z
-SUMMARY:Copa América Femenina - Chile - Paraguay
-UID:cf20a8c5-4c91-4f94-818c-b2ac80e88e8a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
- be</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: M+ Liga de Campeones</li
- ></ul></body></html>
-DESCRIPTION:- Open: Copa América YouTube\n- PPV: M+ Ellas Vamos\n- PPV: M
- + Liga de Campeones
+DTSTAMP:20250901T081452Z
+DTSTART:20250904T233000Z
+DTEND:20250905T013000Z
+SUMMARY:Mundial 2026 - Paraguay - Ecuador
+UID:e2454a0e-bb49-4822-9e6b-bf5ca0909088
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 5</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T081452Z
+DTSTART:20250909T233000Z
+DTEND:20250910T013000Z
+SUMMARY:Mundial 2026 - Perú - Paraguay
+UID:e2b42bf8-1dae-4000-87bf-64565dff6f2b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

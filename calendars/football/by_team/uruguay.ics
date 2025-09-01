@@ -16,15 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250731T081543Z
-DTSTART:20250802T000000Z
-DTEND:20250802T020000Z
-SUMMARY:Copa América Femenina - Argentina - Uruguay
-UID:408bf822-6de3-4637-8675-0b08920d8635
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Copa América YouTu
- be</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: M+ Liga de Campeones</li
- ></ul></body></html>
-DESCRIPTION:- Open: Copa América YouTube\n- PPV: M+ Ellas Vamos\n- PPV: M
- + Liga de Campeones
+DTSTAMP:20250901T081452Z
+DTSTART:20250904T233000Z
+DTEND:20250905T013000Z
+SUMMARY:Mundial 2026 - Uruguay - Perú
+UID:323d4997-52e9-47ed-ba74-9d2cc8c1980a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250901T081452Z
+DTSTART:20250909T233000Z
+DTEND:20250910T013000Z
+SUMMARY:Mundial 2026 - Chile - Uruguay
+UID:bf9aa2cb-725a-4626-8268-76f59197c601
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+ 2</l
+ i></ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+ 2
 END:VEVENT
 END:VCALENDAR
