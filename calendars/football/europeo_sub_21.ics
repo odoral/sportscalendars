@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250627T081412Z
-DTSTART:20250628T190000Z
-DTEND:20250628T210000Z
-SUMMARY:Europeo Sub-21 - Alemania - Inglaterra
-UID:76256029-f3e3-42fb-a46a-d4e0acce7ce1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
- ></body></html>
-DESCRIPTION:- Open: rtve Play
+DTSTAMP:20250902T081413Z
+DTSTART:20250904T220000Z
+DTEND:20250905T000000Z
+SUMMARY:Europeo Sub-21 - España - Chipre
+UID:8c91a423-6eb7-4e37-a01d-05dae3d46288
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250902T081413Z
+DTSTART:20250908T220000Z
+DTEND:20250909T000000Z
+SUMMARY:Europeo Sub-21 - Kosovo - España
+UID:6bd45cda-cee4-40e0-b4ab-79a3ed680231
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

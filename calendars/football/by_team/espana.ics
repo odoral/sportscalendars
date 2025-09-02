@@ -16,23 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250901T081452Z
+DTSTAMP:20250902T081413Z
 DTSTART:20250904T184500Z
 DTEND:20250904T204500Z
 SUMMARY:Mundial 2026 - Bulgaria - España
-UID:33e96624-ae10-409a-8937-3f11ae957464
+UID:8217d660-f883-4dad-af90-145b1760cd1b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250901T081452Z
+DTSTAMP:20250902T081413Z
+DTSTART:20250904T220000Z
+DTEND:20250905T000000Z
+SUMMARY:Europeo Sub-21 - España - Chipre
+UID:b07e2170-280a-4d71-9d7a-16794b82ef92
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250902T081413Z
 DTSTART:20250907T184500Z
 DTEND:20250907T204500Z
 SUMMARY:Mundial 2026 - Turquía - España
-UID:4a874cbd-f28e-4f39-b9e1-c7d96c94d3ef
+UID:c0629edf-2574-4957-9e53-827b132f7ba8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250902T081413Z
+DTSTART:20250908T220000Z
+DTEND:20250909T000000Z
+SUMMARY:Europeo Sub-21 - Kosovo - España
+UID:a44ca020-c4ce-4234-a630-96f19e2eb885
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
