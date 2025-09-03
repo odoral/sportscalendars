@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250830T004056Z
+DTSTAMP:20250903T041133Z
 DTSTART:20250907T141500Z
 DTEND:20250907T161500Z
 SUMMARY:Liga Hypermotion - Real Sociedad B - Cádiz
-UID:a5d85f99-964f-4681-88a9-e83f83353262
+UID:7c4c2858-97ae-41e8-8266-b2d11fa86e4e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>
  \n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: GolStad
  ium Premium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250903T041133Z
+DTSTART:20250912T183000Z
+DTEND:20250912T203000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Real Sociedad B
+UID:e5c3b8f8-2aae-449b-a1f7-a74e89adc433
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
