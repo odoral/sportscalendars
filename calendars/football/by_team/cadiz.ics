@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250903T081328Z
+DTSTAMP:20250904T004126Z
 DTSTART:20250907T141500Z
 DTEND:20250907T161500Z
 SUMMARY:Liga Hypermotion - Real Sociedad B - Cádiz
-UID:6d4c436e-0214-427a-8252-87e02df2e01f
+UID:45d30ee0-804e-4136-afdb-eb7fa8d59266
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>
  \n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></
  ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: GolStad
  ium Premium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250904T004126Z
+DTSTART:20250913T141500Z
+DTEND:20250913T161500Z
+SUMMARY:Liga Hypermotion - Cádiz - Eibar
+UID:78c87a23-30e0-4e4f-a696-0f2d52745e5f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

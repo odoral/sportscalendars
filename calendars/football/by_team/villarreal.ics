@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250825T004630Z
-DTSTART:20250831T150000Z
-DTEND:20250831T170000Z
-SUMMARY:Liga EA Sports - Celta - Villarreal
-UID:4f54873d-15ef-4c69-9c9e-022a71cee7a4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
- </body></html>
-DESCRIPTION:- PPV: M+ LaLiga
+DTSTAMP:20250904T004126Z
+DTSTART:20250913T190000Z
+DTEND:20250913T210000Z
+SUMMARY:Liga EA Sports - Atlético de Madrid - Villarreal
+UID:b7712a97-61ca-4603-bca8-4c031c967e3f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR
