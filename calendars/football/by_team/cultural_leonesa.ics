@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250903T081328Z
+DTSTAMP:20250905T004223Z
 DTSTART:20250907T163000Z
 DTEND:20250907T183000Z
 SUMMARY:Liga Hypermotion - Cultural Leonesa - Leganés
-UID:efb6bd26-1953-4828-b8db-a0aa46fbf717
+UID:18bd5f2c-f768-4e78-8ca4-c33ed513f62f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250905T004223Z
+DTSTART:20250914T141500Z
+DTEND:20250914T161500Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Cultural Leonesa
+UID:87c8fff9-b7fc-477b-856a-549bfd928980
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250901T081452Z
+DTSTAMP:20250905T004223Z
 DTSTART:20250905T193000Z
 DTEND:20250905T213000Z
 SUMMARY:Liga Hypermotion - Córdoba - C.D. Castellón
-UID:cef3410f-3d83-49ec-b732-e6b7740bda17
+UID:2e3b296b-ae22-4ad6-ab91-b2f14b919e48
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250905T004223Z
+DTSTART:20250914T120000Z
+DTEND:20250914T140000Z
+SUMMARY:Liga Hypermotion - F.C. Andorra - Córdoba
+UID:56acc0f8-6d84-4b0f-bf49-ced6382f0f8f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

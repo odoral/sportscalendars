@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250830T004056Z
+DTSTAMP:20250905T004223Z
 DTSTART:20250906T141500Z
 DTEND:20250906T161500Z
 SUMMARY:Liga Hypermotion - Deportivo - Sporting de Gijón
-UID:8df1211f-dc41-46db-ac2f-b11e06cf2faf
+UID:5eec1546-6242-4fa8-ad66-51b46daf3e43
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250905T004223Z
+DTSTART:20250914T163000Z
+DTEND:20250914T183000Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Burgos C.F.
+UID:10d76a75-1b4b-45d3-8ad2-f9029d03d136
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
