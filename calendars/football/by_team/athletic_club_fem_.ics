@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250907T004628Z
+DTSTAMP:20250907T041111Z
+DTSTART:20250907T100000Z
+DTEND:20250907T120000Z
+SUMMARY:Liga F - Athletic Club Fem. - Barcelona Femenino
+UID:25b3835b-c1f4-4c3f-a173-d41768eadb16
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 2</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Ellas Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T041111Z
 DTSTART:20250914T100000Z
 DTEND:20250914T120000Z
 SUMMARY:Liga F - Deportivo Abanca - Athletic Club Fem.
-UID:e9e52f18-89ae-455a-8426-fa40dab29744
+UID:ad69cb6d-ab5a-45d3-b0aa-73a4e3b6702e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: G
  olStadium Premium</li></ul></body></html>
