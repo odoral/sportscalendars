@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250904T004126Z
+DTSTAMP:20250907T004627Z
 DTSTART:20250913T190000Z
 DTEND:20250913T210000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Villarreal
-UID:b7712a97-61ca-4603-bca8-4c031c967e3f
+UID:06d50c5b-78e3-4c30-8fbc-48635f5a8e2e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T004627Z
+DTSTART:20250916T190000Z
+DTEND:20250916T210000Z
+SUMMARY:Champions League - Tottenham - Villarreal
+UID:0694eec8-09a3-4560-aeba-71034afe1aa9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
