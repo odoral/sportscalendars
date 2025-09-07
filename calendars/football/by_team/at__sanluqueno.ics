@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250903T081328Z
+DTSTAMP:20250907T121527Z
 DTSTART:20250907T161500Z
 DTEND:20250907T181500Z
 SUMMARY:Primera Federación - At. Sanluqueño - Sabadell
-UID:6d749a33-5831-4ca2-87eb-cb37324eb89a
+UID:6d031467-ecc8-424d-8b0e-f4e0097af5fe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T121527Z
+DTSTART:20250913T163000Z
+DTEND:20250913T183000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - At. Sanluqueño
+UID:e6dbec25-7a16-4df2-b2d8-f5aa9010f53e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

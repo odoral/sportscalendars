@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250907T081115Z
+DTSTAMP:20250907T121527Z
 DTSTART:20250907T140000Z
 DTEND:20250907T160000Z
 SUMMARY:Primera Federación - Osasuna Promesas - Ourense C.F.
-UID:f6f9cd03-31a9-468e-a01d-f5cd963232b6
+UID:2a1de0bc-9189-4c5c-badb-14a27c6bc460
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Web TVG</li>\n<li>
  PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li
- ></ul></body></html>
+ >\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: Web TVG\n- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- 
- PPV: LaLiga+
+ PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250907T121527Z
+DTSTART:20250914T100000Z
+DTEND:20250914T120000Z
+SUMMARY:Primera Federación - Real Avilés - Osasuna Promesas
+UID:59bb5bcf-fa3d-4014-9639-2c622ca15831
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

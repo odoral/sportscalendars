@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250907T041111Z
+DTSTAMP:20250907T121527Z
 DTSTART:20250907T141500Z
 DTEND:20250907T161500Z
 SUMMARY:Liga Hypermotion - Real Sociedad B - Cádiz
-UID:4a935655-4bcd-4be6-8654-ba9f968a7019
+UID:4f47b5f9-9dbf-4eba-b896-3bf605728c18
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>
  \n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></
@@ -29,13 +29,15 @@ DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: GolStad
  ium Premium\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250907T041111Z
+DTSTAMP:20250907T121527Z
 DTSTART:20250912T183000Z
 DTEND:20250912T203000Z
 SUMMARY:Liga Hypermotion - Las Palmas - Real Sociedad B
-UID:76593135-a15e-4129-a22c-0a4867a3f59f
+UID:c0dd34e4-ffc3-4365-b5f0-64b9f786a3b2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 END:VCALENDAR
