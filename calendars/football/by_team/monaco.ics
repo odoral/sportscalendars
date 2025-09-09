@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250121T082933Z
+LAST-MODIFIED:20250410T142246Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250214T081136Z
-DTSTART:20250218T200000Z
-DTEND:20250218T220000Z
-SUMMARY:Champions League - Benfica - Mónaco
-UID:3244a7b4-f0a3-4d1c-b96b-28409397f1e4
+DTSTAMP:20250909T004244Z
+DTSTART:20250918T164500Z
+DTEND:20250918T184500Z
+SUMMARY:Champions League - Club Brugge - Mónaco
+UID:ec73caaa-4cd8-4db5-87cf-b0cdd64eaa06
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: M+ Liga de Camp
- eones 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
- n- PPV: M+ Liga de Campeones 5
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
