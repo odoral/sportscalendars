@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250909T004244Z
+DTSTAMP:20250912T004128Z
 DTSTART:20250914T153000Z
 DTEND:20250914T173000Z
 SUMMARY:Premier League - Manchester City - Manchester United
-UID:ce564732-67bb-4bca-a9f0-b05576cdfc44
+UID:1e01e621-4405-4741-90fa-517c8121d481
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
@@ -28,13 +28,25 @@ DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
  s+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250909T004244Z
+DTSTAMP:20250912T004128Z
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
 SUMMARY:Champions League - Manchester City - Nápoles
-UID:86316246-0954-4dd2-b3e5-1347517a8199
+UID:14863613-ac3d-44c9-befc-7394af9939ef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250912T004128Z
+DTSTART:20250921T153000Z
+DTEND:20250921T173000Z
+SUMMARY:Premier League - Arsenal - Manchester City
+UID:6d6c5fa7-71ef-452d-ae76-486694a412d0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR

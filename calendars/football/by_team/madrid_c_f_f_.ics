@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250908T081500Z
+DTSTAMP:20250912T004127Z
 DTSTART:20250914T160000Z
 DTEND:20250914T180000Z
 SUMMARY:Liga F - Real Madrid Fem. - Madrid C.F.F.
-UID:caf58cf5-cf85-413d-b21b-b5699bf597e3
+UID:465fd7e2-d953-44f6-a1c3-65026a7b9caf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Ellas Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Ellas Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250912T004127Z
+DTSTART:20250921T100000Z
+DTEND:20250921T120000Z
+SUMMARY:Liga F - Madrid C.F.F. - At. Madrid Fem.
+UID:d5b2b095-f322-44a1-b576-a315b669ca1a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: GolStad
+ ium Premium
 END:VEVENT
 END:VCALENDAR
