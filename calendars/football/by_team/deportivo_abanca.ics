@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250914T004517Z
+DTSTAMP:20250914T041123Z
+DTSTART:20250914T100000Z
+DTEND:20250914T120000Z
+SUMMARY:Liga F - Deportivo Abanca - Athletic Club Fem.
+UID:20099cd4-cb62-4af5-9204-3caf6b91403a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TEN TV</li>\n<li>Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: D
+ AZN 2</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TVG 2\n- PPV: DAZN\
+ n- PPV: DAZN 2\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250914T041123Z
 DTSTART:20250921T163000Z
 DTEND:20250921T183000Z
 SUMMARY:Liga F - Real Madrid Fem. - Deportivo Abanca
-UID:da553210-4cb2-4a82-a5fb-f3805e6228ec
+UID:cd5b528d-1434-4b31-a22d-66de6794294f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Ellas Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Ellas Vamos

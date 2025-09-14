@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250914T004517Z
+DTSTAMP:20250914T041123Z
+DTSTART:20250914T190000Z
+DTEND:20250914T210000Z
+SUMMARY:Liga EA Sports - Barcelona - Valencia
+UID:3b6f95da-20b3-4112-9fc2-32ca9fa2bc06
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: M+ LaLiga 2</li>\n<li>PPV: M+ LaLiga 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2\n- PPV: M+ LaLiga 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250914T041123Z
 DTSTART:20250920T190000Z
 DTEND:20250920T210000Z
 SUMMARY:Liga EA Sports - Valencia - Athletic Club
-UID:3ab8db4b-d49c-4ab0-8166-3389db6b4575
+UID:48c9af6d-3178-4ad8-8df0-f9f0700ffcd4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
@@ -28,11 +38,11 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250914T004517Z
+DTSTAMP:20250914T041123Z
 DTSTART:20250923T170000Z
 DTEND:20250923T190000Z
 SUMMARY:Liga EA Sports - Espanyol - Valencia
-UID:e3b5d017-cbef-4c9d-8bd4-74a9a7dc8139
+UID:f9bfef1f-9f76-493b-a638-c582ce4311ac
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga

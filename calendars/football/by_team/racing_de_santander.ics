@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250914T004517Z
+DTSTAMP:20250914T041123Z
+DTSTART:20250914T141500Z
+DTEND:20250914T161500Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Cultural Leonesa
+UID:78fa0d7e-928e-4b73-ac15-f44398b98d4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250914T041123Z
 DTSTART:20250921T190000Z
 DTEND:20250921T210000Z
 SUMMARY:Liga Hypermotion - Córdoba - Racing de Santander
-UID:8866095a-c156-4913-b68d-d26d9eeaed1b
+UID:4b2dde1f-f8ae-406b-83de-b9049c7b622a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
