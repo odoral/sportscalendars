@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250912T081319Z
+DTSTAMP:20250914T004517Z
 DTSTART:20250913T190000Z
 DTEND:20250913T210000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Villarreal
-UID:af9a7631-de5c-4da0-a78a-c5c59c6cba2a
+UID:98a2a8c3-15e6-47e5-9034-3baeacda874f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 2</li>\n<li>PPV: M+ LaLiga 3</li>\n<li>PPV: Orange Fútbo
  l 1</li></ul></body></html>
@@ -28,23 +28,33 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2\n- PPV: M+ LaLiga 3\n- P
  PV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250912T081319Z
+DTSTAMP:20250914T004517Z
 DTSTART:20250916T190000Z
 DTEND:20250916T210000Z
 SUMMARY:Champions League - Tottenham - Villarreal
-UID:e09be95e-6972-4a54-98cd-e0ad8791bbbf
+UID:fa9563f7-ceee-4799-9724-d7e92cb348d1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250912T081319Z
+DTSTAMP:20250914T004517Z
 DTSTART:20250920T163000Z
 DTEND:20250920T183000Z
 SUMMARY:Liga EA Sports - Villarreal - Osasuna
-UID:a2f81c5c-5e04-4b92-96f1-308a00953c83
+UID:cf15b159-fe52-4c6f-b2e0-b886f0270e60
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250914T004517Z
+DTSTART:20250923T193000Z
+DTEND:20250923T213000Z
+SUMMARY:Liga EA Sports - Sevilla - Villarreal
+UID:f1c321f6-81e5-4913-beba-b57ed22aec4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 END:VCALENDAR
