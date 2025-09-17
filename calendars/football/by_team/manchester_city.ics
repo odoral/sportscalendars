@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250916T081343Z
+DTSTAMP:20250917T081335Z
 DTSTART:20250918T190000Z
 DTEND:20250918T210000Z
 SUMMARY:Champions League - Manchester City - Nápoles
-UID:cfe94a39-d30a-4a48-9c40-c67ad98a5593
+UID:d23a903c-4cf7-459d-b439-d81ae9aac118
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250916T081343Z
+DTSTAMP:20250917T081335Z
 DTSTART:20250921T153000Z
 DTEND:20250921T173000Z
 SUMMARY:Premier League - Arsenal - Manchester City
-UID:c5dfe175-41b5-429c-a02e-715fa037d51a
+UID:9fe011c9-1f5e-4653-9957-d9af70173d58
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones
+  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
+ +</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
+ V: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
