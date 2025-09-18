@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250908T081500Z
-DTSTART:20250914T183000Z
-DTEND:20250914T203000Z
-SUMMARY:Primera Federación - Racing Ferrol - Ponferradina
-UID:ab1829be-c4dc-4a1e-99b8-0df0917fee46
+DTSTAMP:20250918T081320Z
+DTSTART:20250921T140000Z
+DTEND:20250921T160000Z
+SUMMARY:Primera Federación - Lugo - Racing Ferrol
+UID:94465011-96ac-4a6c-9420-4bfaf849a6c7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
  </ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
   Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T081320Z
+DTSTART:20250926T193000Z
+DTEND:20250926T213000Z
+SUMMARY:Primera Federación - Racing Ferrol - Guadalajara
+UID:c5b51467-fd2e-41af-9d51-eaa6583af5de
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
+  Federación</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ \n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

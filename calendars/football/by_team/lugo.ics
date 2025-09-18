@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250907T121527Z
-DTSTART:20250914T161500Z
-DTEND:20250914T181500Z
-SUMMARY:Primera Federación - Zamora C.F. - Lugo
-UID:9436ebb7-20c7-428d-ae86-7df648372887
+DTSTAMP:20250918T081320Z
+DTSTART:20250921T140000Z
+DTEND:20250921T160000Z
+SUMMARY:Primera Federación - Lugo - Racing Ferrol
+UID:b54d154a-2594-4db7-97d4-070a5a8e8047
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T081320Z
+DTSTART:20250926T171500Z
+DTEND:20250926T191500Z
+SUMMARY:Primera Federación - C.F. Talavera - Lugo
+UID:f24c4623-cf83-45e3-af73-6c174381834b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga+</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

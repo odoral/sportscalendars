@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250910T081337Z
-DTSTART:20250914T161500Z
-DTEND:20250914T181500Z
-SUMMARY:Primera Federación - Guadalajara - Unionistas
-UID:55cf4e6e-531d-4fab-a1e5-58f0d6d66f66
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+DTSTAMP:20250918T081320Z
+DTSTART:20250919T171500Z
+DTEND:20250919T191500Z
+SUMMARY:Primera Federación - Ponferradina - Guadalajara
+UID:32f4354a-a1ec-473d-9b44-b665d0705c1e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
+  Federación</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ \n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T081320Z
+DTSTART:20250926T193000Z
+DTEND:20250926T213000Z
+SUMMARY:Primera Federación - Racing Ferrol - Guadalajara
+UID:61ab21cf-bbf6-4e49-b3d0-25c543a03672
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
+  Federación</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ \n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

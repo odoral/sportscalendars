@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250913T081121Z
-DTSTART:20250914T100000Z
-DTEND:20250914T120000Z
-SUMMARY:Primera Federación - Ourense C.F. - C.F. Talavera
-UID:47a8dc30-35a2-48b7-88d7-f2bc7d046bcd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
- LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
- >
-DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
- 
+DTSTAMP:20250918T081320Z
+DTSTART:20250921T110000Z
+DTEND:20250921T130000Z
+SUMMARY:Primera Federación - Tenerife - Ourense C.F.
+UID:2818cd29-b51a-4d51-9fc5-adf16d4b1aed
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T081320Z
+DTSTART:20250927T141500Z
+DTEND:20250927T161500Z
+SUMMARY:Primera Federación - Ourense C.F. - Pontevedra
+UID:1a4025ca-60b8-4841-b44b-dd333f1192b7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR

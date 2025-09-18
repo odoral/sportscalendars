@@ -16,15 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250913T081121Z
-DTSTART:20250914T100000Z
-DTEND:20250914T120000Z
-SUMMARY:Primera Federación - Ourense C.F. - C.F. Talavera
-UID:05470b9c-bf8b-4fd5-8f8c-d2d452858dc7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
- LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
- >
-DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
- 
+DTSTAMP:20250918T081320Z
+DTSTART:20250921T100000Z
+DTEND:20250921T120000Z
+SUMMARY:Primera Federación - C.F. Talavera - Barakaldo
+UID:6829d445-3ded-47c8-be4c-735760df8a13
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T081320Z
+DTSTART:20250926T171500Z
+DTEND:20250926T191500Z
+SUMMARY:Primera Federación - C.F. Talavera - Lugo
+UID:61971fc6-b085-4b28-9714-c15ede599915
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
