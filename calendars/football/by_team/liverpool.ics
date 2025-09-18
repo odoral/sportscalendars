@@ -16,25 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250917T081335Z
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-SUMMARY:Champions League - Liverpool - Atlético de Madrid
-UID:04193a89-d187-4906-a3aa-4f3ef42fafbb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
- i></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
-  PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250917T081335Z
+DTSTAMP:20250918T004101Z
 DTSTART:20250920T113000Z
 DTEND:20250920T133000Z
 SUMMARY:Premier League - Liverpool - Everton
-UID:7ceb99be-f26e-4623-9b92-1ce0e60a5ccd
+UID:b4719b16-14ae-4bd1-890e-cfe5d37642e4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T004101Z
+DTSTART:20250927T140000Z
+DTEND:20250927T160000Z
+SUMMARY:Premier League - Crystal Palace - Liverpool
+UID:c1280299-8669-48e8-9ae0-3c52f299d173
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

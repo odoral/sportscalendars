@@ -16,35 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250917T081335Z
-DTSTART:20250917T190000Z
-DTEND:20250917T210000Z
-SUMMARY:Champions League - Liverpool - Atlético de Madrid
-UID:3c695c77-c738-4615-b20b-855f026fd5ed
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
- i></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
-  PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250917T081335Z
+DTSTAMP:20250918T004101Z
 DTSTART:20250921T141500Z
 DTEND:20250921T161500Z
 SUMMARY:Liga EA Sports - Mallorca - Atlético de Madrid
-UID:620af088-5632-4e98-ad61-da18741db2d0
+UID:b7f4500b-b1d1-4a3d-a794-ac31b6088aff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250917T081335Z
+DTSTAMP:20250918T004101Z
 DTSTART:20250924T193000Z
 DTEND:20250924T213000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Rayo Vallecano
-UID:00362e9b-06d1-415f-ac35-7c9d733e03ab
+UID:b7187cf2-3c13-475c-8df0-b7d4215200b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T004101Z
+DTSTART:20250927T141500Z
+DTEND:20250927T161500Z
+SUMMARY:Liga EA Sports - Atlético de Madrid - Real Madrid
+UID:0a19e3c5-925d-47e2-912b-3d3d797c0b9a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 END:VCALENDAR

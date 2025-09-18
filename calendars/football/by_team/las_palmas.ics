@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250913T003916Z
+DTSTAMP:20250918T004101Z
 DTSTART:20250920T163000Z
 DTEND:20250920T183000Z
 SUMMARY:Liga Hypermotion - Leganés - Las Palmas
-UID:c44b14f3-fb3b-47b8-9b12-fa0fff54bf41
+UID:0d48dc55-b230-4336-97db-4de1f25185cb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250918T004101Z
+DTSTART:20250927T190000Z
+DTEND:20250927T210000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Almería
+UID:6ef0beae-5ffc-42fb-9065-66a75e44cbea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
