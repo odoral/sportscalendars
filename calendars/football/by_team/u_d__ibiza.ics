@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250918T081320Z
+DTSTAMP:20250919T004258Z
 DTSTART:20250921T183000Z
 DTEND:20250921T203000Z
 SUMMARY:Primera Federación - U.D. Ibiza - Antequera
-UID:d46b3c46-0b2a-4dea-bdd7-0f4f2f926fcf
+UID:3b18f231-fbfd-42d5-b936-3b6a1fc9496e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T004258Z
+DTSTART:20250928T183000Z
+DTEND:20250928T203000Z
+SUMMARY:Primera Federación - At. Madrid B - U.D. Ibiza
+UID:0d3b95e3-a277-47cd-af4a-d8c72b5b140c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

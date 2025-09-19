@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250918T081320Z
+DTSTAMP:20250919T004258Z
 DTSTART:20250919T193000Z
 DTEND:20250919T213000Z
 SUMMARY:Primera Federación - Real Murcia - Villarreal B
-UID:b8624be4-2414-4020-8294-60a092caab94
+UID:d1827b98-2148-4dc0-8f02-4ecc8fee1671
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T004258Z
+DTSTART:20250928T161500Z
+DTEND:20250928T181500Z
+SUMMARY:Primera Federación - Algeciras - Real Murcia
+UID:119c14c3-d1d8-4e31-acde-97bfbc35afe3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
+ n</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
+ rimera Federación
 END:VEVENT
 END:VCALENDAR

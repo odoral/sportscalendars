@@ -16,24 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250916T081343Z
-DTSTART:20250918T170000Z
-DTEND:20250918T190000Z
-SUMMARY:Women's Champions League - At. Madrid Fem. - BK Häcken Fem.
-UID:bc5c2aee-5814-4dc7-85ba-8229d4bc15f8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250916T081343Z
+DTSTAMP:20250919T004258Z
 DTSTART:20250921T100000Z
 DTEND:20250921T120000Z
 SUMMARY:Liga F - Madrid C.F.F. - At. Madrid Fem.
-UID:7315b9d8-af31-45f5-810b-97e958ab723d
+UID:fb5e4ecc-fcbb-403a-94dd-48854ba21944
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: G
  olStadium Premium</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: DAZN 1\
  n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T004258Z
+DTSTART:20250928T100000Z
+DTEND:20250928T120000Z
+SUMMARY:Liga F - Granada Fem. - At. Madrid Fem.
+UID:48c0376f-b527-4275-a1f9-287a98199de3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: GolStad
+ ium Premium
 END:VEVENT
 END:VCALENDAR

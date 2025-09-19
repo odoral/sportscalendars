@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250918T081320Z
+DTSTAMP:20250919T004258Z
 DTSTART:20250920T190000Z
 DTEND:20250920T210000Z
 SUMMARY:Primera Federación - C.E. Europa - Nàstic Tarragona
-UID:3e4d8663-1d1b-4eb0-b6de-9e75c9934423
+UID:e90a9257-8b20-4dd0-b46f-290e72c1c886
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
  li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prim
  era Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T004258Z
+DTSTART:20250928T100000Z
+DTEND:20250928T120000Z
+SUMMARY:Primera Federación - Teruel - C.E. Europa
+UID:024c7572-f35e-401b-b643-c55e7a06983f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

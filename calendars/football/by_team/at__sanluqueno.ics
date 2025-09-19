@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250918T081320Z
+DTSTAMP:20250919T004258Z
 DTSTART:20250921T161500Z
 DTEND:20250921T181500Z
 SUMMARY:Primera Federación - At. Sanluqueño - Teruel
-UID:a3ffef15-4fd6-4b4f-8325-46ad2370eace
+UID:44aec4a3-96da-482e-92cf-4cb5f896c53f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250919T004258Z
+DTSTART:20250928T100000Z
+DTEND:20250928T120000Z
+SUMMARY:Primera Federación - At. Sanluqueño - Cartagena
+UID:0eeb7f26-9311-4dfa-9d3a-a405fa5a9348
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
