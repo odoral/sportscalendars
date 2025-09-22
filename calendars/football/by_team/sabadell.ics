@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250921T004653Z
+DTSTAMP:20250922T081454Z
+DTSTART:20250924T150000Z
+DTEND:20250924T170000Z
+SUMMARY:Primera Federación - Sabadell - Cartagena
+UID:f7e9ba95-9e06-4775-af70-b34d3819640e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250922T081454Z
 DTSTART:20250927T163000Z
 DTEND:20250927T183000Z
 SUMMARY:Primera Federación - Sabadell - Villarreal B
-UID:c470a42d-440b-43ff-874a-529509a949d5
+UID:a8700dd2-d080-4651-b7c8-0fe4da237b90
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+

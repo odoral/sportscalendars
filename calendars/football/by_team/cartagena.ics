@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250922T004634Z
+DTSTAMP:20250922T081454Z
+DTSTART:20250924T150000Z
+DTEND:20250924T170000Z
+SUMMARY:Primera Federación - Sabadell - Cartagena
+UID:0f5948a4-de8f-47f9-bee2-8b898b611586
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250922T081454Z
 DTSTART:20250928T100000Z
 DTEND:20250928T120000Z
 SUMMARY:Primera Federación - At. Sanluqueño - Cartagena
-UID:61c873ef-ffff-49b3-9486-687fc9be8d0f
+UID:23c605d6-5161-4e58-8c71-9cdd646ca5db
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
