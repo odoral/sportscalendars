@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250920T081127Z
+DTSTAMP:20250923T004201Z
 DTSTART:20250925T190000Z
 DTEND:20250925T210000Z
 SUMMARY:Europa League - Red Bull Salzburg - Porto
-UID:d4fc36d0-4826-4911-b04c-96e8f76c0e2b
+UID:7482793b-4ced-41aa-8ed7-72e68dcd90de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T004201Z
+DTSTART:20251002T190000Z
+DTEND:20251002T210000Z
+SUMMARY:Europa League - Porto - Crvena Zvezda
+UID:2b3b0660-4566-442d-972c-eeca9389f726
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

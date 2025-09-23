@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250920T081127Z
+DTSTAMP:20250923T004201Z
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
 SUMMARY:Europa League - Malmö FF - PFC Ludogorets
-UID:3f68e629-11a2-426d-80b7-0e369123a58b
+UID:9d2e13ef-e3c3-44b9-94c3-1c50f77f1835
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T004201Z
+DTSTART:20251002T164500Z
+DTEND:20251002T184500Z
+SUMMARY:Europa League - PFC Ludogorets - Betis
+UID:f783c458-171c-4ca3-966b-3a277e0e7b15
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

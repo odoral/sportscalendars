@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250920T081127Z
+DTSTAMP:20250923T004201Z
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
 SUMMARY:Europa League - Braga - Feyenoord
-UID:343b26ff-4b8e-4ce1-9aa4-e2b5544427e5
+UID:c672757f-3bd7-48cb-a8c5-5277bbe48e81
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T004201Z
+DTSTART:20251002T190000Z
+DTEND:20251002T210000Z
+SUMMARY:Europa League - Feyenoord - Aston Villa
+UID:5d727e4a-e94c-4a87-9df7-94c5c433a26c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

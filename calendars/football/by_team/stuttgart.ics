@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250920T081127Z
+DTSTAMP:20250923T004201Z
 DTSTART:20250925T190000Z
 DTEND:20250925T210000Z
 SUMMARY:Europa League - Stuttgart - Celta
-UID:22aa8a10-e22c-4aaa-8716-4c056efa0d0c
+UID:a5d5e1eb-0a13-458c-85a4-698b64bb5281
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Liga de Campeones 3
  </li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ Liga de Campeones\n- PPV:
   M+ Liga de Campeones 3\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250920T081127Z
+DTSTAMP:20250923T004201Z
 DTSTART:20250928T153000Z
 DTEND:20250928T173000Z
 SUMMARY:Bundesliga - FC Köln - Stuttgart
-UID:e51be55f-abeb-4b0c-97d9-631f43c36e7c
+UID:6f8399e4-78c2-4692-b4bf-9186825226c7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T004201Z
+DTSTART:20251002T190000Z
+DTEND:20251002T210000Z
+SUMMARY:Europa League - Basilea - Stuttgart
+UID:cab173c0-58ef-4eb0-b7c4-f970192f081b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

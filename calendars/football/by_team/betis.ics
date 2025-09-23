@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250922T081454Z
+DTSTAMP:20250923T004201Z
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
 SUMMARY:Europa League - Betis - Nottingham Forest
-UID:29794e7f-9422-4fdc-92c4-8d1ee61ccce8
+UID:47115ddb-97dc-450d-b170-ab407c5fb1de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Liga de Campeones 3
  </li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ Liga de Campeones\n- PPV:
   M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250922T081454Z
+DTSTAMP:20250923T004201Z
 DTSTART:20250928T190000Z
 DTEND:20250928T210000Z
 SUMMARY:Liga EA Sports - Betis - Osasuna
-UID:97d36ba9-c382-45e5-a045-066b8ae9f427
+UID:46165abd-ba54-440d-b658-b8348512c9b7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T004201Z
+DTSTART:20251002T164500Z
+DTEND:20251002T184500Z
+SUMMARY:Europa League - PFC Ludogorets - Betis
+UID:487bcb81-2e8a-4e6a-9bd0-e6aede55ca2d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

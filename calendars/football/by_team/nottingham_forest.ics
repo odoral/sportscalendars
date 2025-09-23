@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250922T081454Z
+DTSTAMP:20250923T004201Z
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
 SUMMARY:Europa League - Betis - Nottingham Forest
-UID:f154bf45-3b12-424d-9ec8-65f5f03bb115
+UID:28d3384b-eaa0-42bf-828e-919c4d94568c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Liga de Campeones 3
  </li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ Liga de Campeones\n- PPV:
   M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250922T081454Z
+DTSTAMP:20250923T004201Z
 DTSTART:20250927T163000Z
 DTEND:20250927T183000Z
 SUMMARY:Premier League - Nottingham Forest - Sunderland
-UID:cc2d290e-b40f-4e1c-b3b7-990a2362206c
+UID:1287a524-71d9-411a-a02c-9f42478b4ff4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T004201Z
+DTSTART:20251002T190000Z
+DTEND:20251002T210000Z
+SUMMARY:Europa League - Nottingham Forest - FC Midtjylland
+UID:c35f3fbc-dedc-4a20-8f14-fe10e343894d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

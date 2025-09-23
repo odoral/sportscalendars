@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250920T081127Z
+DTSTAMP:20250923T004201Z
 DTSTART:20250924T190000Z
 DTEND:20250924T210000Z
 SUMMARY:Europa League - Friburgo - Basilea
-UID:bff2968d-2230-4bd6-95cd-f0ef834bf0ea
+UID:51a4f1c2-12b4-4769-8ee1-daba7eb5885f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250923T004201Z
+DTSTART:20251002T190000Z
+DTEND:20251002T210000Z
+SUMMARY:Europa League - Basilea - Stuttgart
+UID:1954d82c-ab30-4d75-978d-cbdabce0596a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
