@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20250927T141500Z
 DTEND:20250927T161500Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Real Madrid
-UID:07a6f02f-46ff-4e5b-8c4f-03f58deec1b8
+UID:132246e1-1ea8-40b3-96fc-a05fefd03785
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20250930T190000Z
 DTEND:20250930T210000Z
 SUMMARY:Champions League - Atlético de Madrid - Eintracht Frankfurt
-UID:b8852848-0c35-4572-b52c-389d18de18d0
+UID:6c78b16e-e116-4be7-b093-a90dba6a488c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T004156Z
+DTSTART:20251005T190000Z
+DTEND:20251005T210000Z
+SUMMARY:Liga EA Sports - Celta - Atlético de Madrid
+UID:fa4b2c87-2e5e-4b04-b7f8-59ceb147664d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR

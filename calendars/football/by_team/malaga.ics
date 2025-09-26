@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250924T081353Z
+DTSTAMP:20250926T004156Z
 DTSTART:20250928T141500Z
 DTEND:20250928T161500Z
 SUMMARY:Liga Hypermotion - Burgos C.F. - Málaga
-UID:02cc0178-bfc3-449f-a300-1ee557f1efea
+UID:2a587af9-7d60-4aca-ad4d-a5207a7fce1f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T004156Z
+DTSTART:20251005T163000Z
+DTEND:20251005T183000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Málaga
+UID:3705ea70-c834-4740-8652-06e2e44b26cd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

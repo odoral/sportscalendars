@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250922T004634Z
-DTSTART:20250925T193000Z
-DTEND:20250925T213000Z
-SUMMARY:Liga EA Sports - Real Oviedo - Barcelona
-UID:f80f5f52-11db-41fa-b86f-274ece8e4ed1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250922T004634Z
+DTSTAMP:20250926T004156Z
 DTSTART:20250928T163000Z
 DTEND:20250928T183000Z
 SUMMARY:Liga EA Sports - Barcelona - Real Sociedad
-UID:605ad4b2-68c4-4c3a-adf4-9e0cf9f92c03
+UID:d6a2fb8c-0451-4156-8814-b76a11ef2c43
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
@@ -38,13 +28,23 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250922T004634Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251001T190000Z
 DTEND:20251001T210000Z
 SUMMARY:Champions League - Barcelona - PSG
-UID:cad7732b-f274-4ad5-87fe-917ad6e71fb2
+UID:ccc82477-b828-4e1f-9770-7d6f726a8508
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T004156Z
+DTSTART:20251005T141500Z
+DTEND:20251005T161500Z
+SUMMARY:Liga EA Sports - Sevilla - Barcelona
+UID:5b6a17ea-a36d-42d7-8007-4865e3752be5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR

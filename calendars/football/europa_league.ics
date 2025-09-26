@@ -16,273 +16,181 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
-DTSTART:20250925T164500Z
-DTEND:20250925T184500Z
-SUMMARY:Europa League - Lille - SK Brann
-UID:b4a3f703-1371-4480-a5d1-ba7ddc4fe341
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
-DTSTART:20250925T164500Z
-DTEND:20250925T184500Z
-SUMMARY:Europa League - Go Ahead Eagles - FCSB
-UID:7fcfc0dd-efaf-430b-8264-a5b261e197ce
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
-DTSTART:20250925T190000Z
-DTEND:20250925T210000Z
-SUMMARY:Europa League - Aston Villa - Bologna
-UID:2510577f-d45c-4dbc-96fb-066729211b80
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
-DTSTART:20250925T190000Z
-DTEND:20250925T210000Z
-SUMMARY:Europa League - Utrecht - Olympique Lyon
-UID:c6f22cb8-961d-4fe9-989f-2921b930b5f6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 6</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
-DTSTART:20250925T190000Z
-DTEND:20250925T210000Z
-SUMMARY:Europa League - Red Bull Salzburg - Porto
-UID:271a1070-0769-40f7-9f60-357a27191017
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
-DTSTART:20250925T190000Z
-DTEND:20250925T210000Z
-SUMMARY:Europa League - Stuttgart - Celta
-UID:b34b92ec-758d-4add-b786-f9da18961ba8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
- li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Liga de Campeones 3
- </li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ Liga de Campeones\n- PPV:
-  M+ Liga de Campeones 3\n- PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
-DTSTART:20250925T190000Z
-DTEND:20250925T210000Z
-SUMMARY:Europa League - Ferencvaros - Viktoria Plzen
-UID:ca5a8da2-8e9c-4fa5-b5fb-4182fc18c585
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
-DTSTART:20250925T190000Z
-DTEND:20250925T210000Z
-SUMMARY:Europa League - Rangers FC - Genk
-UID:3f913c76-df27-4a2c-a9da-fdc7b99a96d9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
-DTSTART:20250925T190000Z
-DTEND:20250925T210000Z
-SUMMARY:Europa League - Young Boys - Panathinaikos
-UID:75631133-c8c6-4010-a3fb-2041976e7008
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
 SUMMARY:Europa League - Bologna - Friburgo
-UID:5edfc6f7-6ad1-4712-9352-317d563c5729
+UID:b80fa35f-b957-4a7d-bb26-4fafa73a737a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
 SUMMARY:Europa League - Roma - Lille
-UID:4faa561d-e4c1-440d-8af0-404a5a2798d2
+UID:838b9695-7af5-4f9e-a143-448ca881c4b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
 SUMMARY:Europa League - Celtic FC - Braga
-UID:4ee25e9f-bc0b-4617-9bde-1153670ffa79
+UID:da1ef274-a7dd-4cd9-9a41-9a2843ed6a92
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
 SUMMARY:Europa League - FCSB - Young Boys
-UID:e0ef0948-7520-40eb-b2d8-f81350374c9e
+UID:ee5496fa-7799-4d8b-83d7-465e3d640097
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
 SUMMARY:Europa League - Viktoria Plzen - Malmö FF
-UID:2c6faa63-af41-4282-8e4b-4e8837bdd63b
+UID:c7a0d42b-bb4f-4073-a360-741abeb1767a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
 SUMMARY:Europa League - Fenerbahçe - Niza
-UID:8df9333e-6125-4865-90b4-1e85d5981d84
+UID:9264f182-e07b-4cdb-bac4-d73e922e2b63
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
 SUMMARY:Europa League - Panathinaikos - Go Ahead Eagles
-UID:ed4feadd-07ce-4131-b82d-ac49a2f97b93
+UID:b56c7de4-1d82-4302-96f7-14c30803f2e2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
 SUMMARY:Europa League - SK Brann - Utrecht
-UID:1afccfef-4811-4f0e-9948-8d2af702bbc8
+UID:1b4dface-1cad-4dcd-aaa0-eec9c399124d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T164500Z
 DTEND:20251002T184500Z
 SUMMARY:Europa League - PFC Ludogorets - Betis
-UID:0279ed23-26f5-42ce-94db-c81d62a7ff49
+UID:fe575ccd-621f-4751-857a-6a4647468f67
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
 SUMMARY:Europa League - Genk - Ferencvaros
-UID:70f52fdc-ca7b-456d-9cda-146eb92512af
+UID:3668d9c5-768e-459e-b8c9-a49d2e162184
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
 SUMMARY:Europa League - Feyenoord - Aston Villa
-UID:22e3b629-089d-41d5-a606-f24bc17c2d54
+UID:7a478a84-1269-4e64-b579-a8e4a8704ddd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
 SUMMARY:Europa League - Celta - PAOK FC
-UID:c30fc546-2286-4044-9893-f092f8f225d5
+UID:5e325165-d838-4cd3-8eef-3cafcdd6db85
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
 SUMMARY:Europa League - Porto - Crvena Zvezda
-UID:a9c9839f-0160-4f53-a746-5730f596cd46
+UID:9e596d62-1869-490a-b9e0-69f03a539be3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
 SUMMARY:Europa League - Sturm Graz - Rangers FC
-UID:b596b358-d2f6-4715-b588-15cb4fb3d543
+UID:1a387af3-6146-4f95-874d-f150bd1ae5c2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
 SUMMARY:Europa League - Nottingham Forest - FC Midtjylland
-UID:1b26a810-6adc-474b-b873-f63d23e2a205
+UID:f5e753a2-26c3-4b03-bd64-fa57e8380cab
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
 SUMMARY:Europa League - Maccabi Tel Aviv FC - Dinamo Zagreb
-UID:b3860777-4bee-4f58-819d-bcdc24dde967
+UID:3b428b92-ac61-4e52-9d56-70e094086efc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
 SUMMARY:Europa League - Basilea - Stuttgart
-UID:c77e7300-50f4-4aef-ae99-2d145d4efca1
+UID:d28915a7-1ecd-4961-8681-5d7d2a766d82
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250925T004233Z
+DTSTAMP:20250926T004156Z
 DTSTART:20251002T190000Z
 DTEND:20251002T210000Z
 SUMMARY:Europa League - Olympique Lyon - Red Bull Salzburg
-UID:0bcb1b17-90e7-4fbe-9981-e4f4a6042bd9
+UID:41d09420-f224-4e1a-bf2d-a28302079d39
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones

@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250924T081353Z
+DTSTAMP:20250926T004156Z
 DTSTART:20250926T183000Z
 DTEND:20250926T203000Z
 SUMMARY:Liga Hypermotion - Mirandés - Real Zaragoza
-UID:49dc6fce-65fa-4a44-8741-67dce04d2f4b
+UID:81a1402e-f32f-42c2-8093-60c73b394196
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TEN TV</
  li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLi
@@ -29,5 +29,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
  - Open: TEN TV\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV
   Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250926T004156Z
+DTSTART:20251005T163000Z
+DTEND:20251005T183000Z
+SUMMARY:Liga Hypermotion - Valladolid - Mirandés
+UID:2f423aa6-dc34-4f8d-baef-3c89178b8f07
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
