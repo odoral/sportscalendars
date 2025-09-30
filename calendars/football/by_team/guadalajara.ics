@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250920T004036Z
-DTSTART:20250926T193000Z
-DTEND:20250926T213000Z
-SUMMARY:Primera Federación - Racing Ferrol - Guadalajara
-UID:39b161cf-9d2e-4704-ab88-5e1163d86709
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
- LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
-  Federación</li></ul></body></html>
-DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
- \n- PPV: Primera Federación
+DTSTAMP:20250930T081433Z
+DTSTART:20251005T161500Z
+DTEND:20251005T181500Z
+SUMMARY:Primera Federación - Guadalajara - Real Avilés
+UID:d189712b-c1a3-4616-8b2f-647b965f3bc2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
