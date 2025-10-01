@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250930T081433Z
+DTSTAMP:20251001T041225Z
 DTSTART:20251005T183000Z
 DTEND:20251005T203000Z
 SUMMARY:Primera Federación - Bilbao Athletic - Osasuna Promesas
-UID:7308ae92-a919-4d12-89ec-3d3a0c79f649
+UID:24e497c4-bfd2-431c-9237-d702be9ebf05
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251001T041225Z
+DTSTART:20251010T191500Z
+DTEND:20251010T211500Z
+SUMMARY:Primera Federación - Barakaldo - Bilbao Athletic
+UID:5ce49dbf-b64e-4a3f-a83e-6c1baef3e903
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación

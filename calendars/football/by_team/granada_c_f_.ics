@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250929T004416Z
+DTSTAMP:20251001T041225Z
 DTSTART:20251004T190000Z
 DTEND:20251004T210000Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Real Sociedad B
-UID:3cd1d787-d781-482b-b0e5-fc87b84fe82d
+UID:e4dfe22f-8f0b-41ee-980b-04e09d701809
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251001T041225Z
+DTSTART:20251010T183000Z
+DTEND:20251010T203000Z
+SUMMARY:Liga Hypermotion - Granada C.F. - Las Palmas
+UID:7a39ae75-4283-43bf-984e-f1cb38abb932
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
+ i>Open: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>Open: TV Canaria</li>\
+ n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga T
+ V Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Canal Sur\n- Open: Gol Play\n- Open: TEN TV\n- Open: 
+ TV Canaria\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hyp
+ ermotion
 END:VEVENT
 END:VCALENDAR

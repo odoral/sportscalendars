@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250930T081433Z
+DTSTAMP:20251001T041225Z
 DTSTART:20251005T140000Z
 DTEND:20251005T160000Z
 SUMMARY:Primera Federación - Teruel - Hércules
-UID:15911fcf-b8fb-457b-99ae-a76d475eec57
+UID:795a12c1-63ef-4007-934f-ef31f70d9a0a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251001T041225Z
+DTSTART:20251010T170000Z
+DTEND:20251010T190000Z
+SUMMARY:Primera Federación - Hércules - At. Madrid B
+UID:8802a1aa-b98b-484b-9b1e-7a4b530f8e3c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación

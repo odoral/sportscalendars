@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250930T081433Z
+DTSTAMP:20251001T041225Z
 DTSTART:20251005T140000Z
 DTEND:20251005T160000Z
 SUMMARY:Primera Federación - C.D. Arenteiro - Barakaldo
-UID:f168d3f5-5b6d-496f-b0f7-ef57d96a7c88
+UID:ecf7906b-a3f5-4ee7-965c-f6eb5bc82c55
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251001T041225Z
+DTSTART:20251010T191500Z
+DTEND:20251010T211500Z
+SUMMARY:Primera Federación - Barakaldo - Bilbao Athletic
+UID:2720d256-061a-464e-996e-bdde7999150b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
