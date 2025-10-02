@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250930T081433Z
+DTSTAMP:20251002T004128Z
 DTSTART:20251004T120000Z
 DTEND:20251004T140000Z
 SUMMARY:Primera Federación - Betis Deportivo - Algeciras
-UID:a61ab13f-67b3-4547-9c50-aab405f5ee58
+UID:926cba9e-c962-4958-98d3-c2a423bdda9d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251002T004128Z
+DTSTART:20251011T163000Z
+DTEND:20251011T183000Z
+SUMMARY:Primera Federación - Algeciras - C.E. Europa
+UID:f5134aa6-3ee0-47c7-9dfa-d9e99737be7a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

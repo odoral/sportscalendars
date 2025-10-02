@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250930T081433Z
+DTSTAMP:20251002T004128Z
 DTSTART:20251005T161500Z
 DTEND:20251005T181500Z
 SUMMARY:Primera Federación - Cartagena - Tarazona
-UID:910676dc-2583-4da9-b8e1-e1f059651fb5
+UID:d022580d-91cd-4fa3-8d39-f3086fd7e1b4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251002T004128Z
+DTSTART:20251011T141500Z
+DTEND:20251011T161500Z
+SUMMARY:Primera Federación - Tarazona - Real Murcia
+UID:ddc02d5b-6ff6-4753-86fa-af69b0c0c1f3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
