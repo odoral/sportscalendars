@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251002T004128Z
+DTSTAMP:20251002T081315Z
+DTSTART:20251002T200000Z
+DTEND:20251002T220000Z
+SUMMARY:Mundial Sub-20 - Estados Unidos - Francia
+UID:d9134911-911d-4159-bf5b-e1a66465304c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
+ en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251002T081315Z
 DTSTART:20251004T200000Z
 DTEND:20251004T220000Z
 SUMMARY:Mundial Sub-20 - España - Brasil
-UID:1a0036f3-f496-466f-ad14-57c25f6b55c5
+UID:d523ce8c-6cae-44f3-9ade-0f1a4a597c3d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
  en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
