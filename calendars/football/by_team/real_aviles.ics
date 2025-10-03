@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250930T081433Z
+DTSTAMP:20251003T004147Z
 DTSTART:20251005T161500Z
 DTEND:20251005T181500Z
 SUMMARY:Primera Federación - Guadalajara - Real Avilés
-UID:23c18bf5-9b5b-443a-b1bc-0cb492897dd5
+UID:01056ba5-088c-41ec-97e7-41f9ef9260db
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251003T004147Z
+DTSTART:20251012T121500Z
+DTEND:20251012T141500Z
+SUMMARY:Primera Federación - Zamora C.F. - Real Avilés
+UID:7a5d54a6-f9fb-4151-9ff1-d25c5069ceee
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

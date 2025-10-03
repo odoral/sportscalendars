@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250930T081433Z
+DTSTAMP:20251003T004147Z
 DTSTART:20251005T161500Z
 DTEND:20251005T181500Z
 SUMMARY:Primera Federación - Cartagena - Tarazona
-UID:e1efca74-d735-49e3-a6a4-34700c28dd8b
+UID:2f02b6c1-1a4c-4c9e-b9c6-b49f212a92c7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251003T004147Z
+DTSTART:20251012T143000Z
+DTEND:20251012T163000Z
+SUMMARY:Primera Federación - Sevilla At. - Cartagena
+UID:f88f4f96-faa0-4b9f-a543-8871a98e1079
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

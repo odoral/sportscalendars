@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250930T081433Z
+DTSTAMP:20251003T004147Z
 DTSTART:20251004T200000Z
 DTEND:20251004T220000Z
 SUMMARY:Primera Federación - Tenerife - Zamora C.F.
-UID:d7e1bb6b-be7d-4172-9c09-e0154fa235bc
+UID:f85e0f31-e66d-4785-b4ca-01a234773a2a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251003T004147Z
+DTSTART:20251012T190000Z
+DTEND:20251012T210000Z
+SUMMARY:Primera Federación - Cacereño - Tenerife
+UID:c3a15a25-7a64-443f-a0f4-c448c4d1b3de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
