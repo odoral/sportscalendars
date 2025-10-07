@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251007T081404Z
+DTSTART:20251007T193000Z
+DTEND:20251007T213000Z
+SUMMARY:Mundial Sub-20 - Ucrania - España
+UID:a2717823-3bf1-4ccd-ac06-c193ecfc8652
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
+ en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251007T081404Z
 DTSTART:20251011T184500Z
 DTEND:20251011T204500Z
 SUMMARY:Mundial 2026 - España - Georgia
-UID:609fea87-0ebb-43ab-8972-ccd9a128af68
+UID:7e5ffa67-d5ac-4e94-8336-46d6c729050c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251007T081404Z
 DTSTART:20251013T220000Z
 DTEND:20251014T000000Z
 SUMMARY:Europeo Sub-21 - España - Finlandia
-UID:ff9b6871-b0ff-4ab7-b823-8942aea00905
+UID:33105d19-a23a-46ae-82d3-618c5a8f40b4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></b
  ody></html>
@@ -38,11 +48,11 @@ DESCRIPTION:Atención: Pendientede confirmar\n- Open: Teledeporte\n- Open:
   rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251007T081404Z
 DTSTART:20251014T184500Z
 DTEND:20251014T204500Z
 SUMMARY:Mundial 2026 - España - Bulgaria
-UID:304db795-803d-4f08-81cf-2e1c7c1fb7ff
+UID:2e20418a-4b18-41fc-bd30-5ba26db2febb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play

@@ -16,31 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251006T004354Z
+DTSTAMP:20251007T081404Z
 DTSTART:20251007T190000Z
 DTEND:20251007T210000Z
 SUMMARY:Women's Champions League - Barcelona Femenino - FC Bayern Fem.
-UID:01a1f95d-95e2-4e98-9f82-7f29f0e59b0c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:f275ac11-8699-4bd3-9b0c-582ee8fa8522
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251006T004354Z
+DTSTAMP:20251007T081404Z
 DTSTART:20251012T100000Z
 DTEND:20251012T120000Z
 SUMMARY:Liga F - At. Madrid Fem. - Barcelona Femenino
-UID:a0f57c66-d3e2-493f-8cb6-1e717412467c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:f55604ec-2b32-4991-adb4-a0b9f13db599
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: Movistar Plus+ 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: Movistar Plus+ 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251006T004354Z
+DTSTAMP:20251007T081404Z
 DTSTART:20251015T190000Z
 DTEND:20251015T210000Z
 SUMMARY:Women's Champions League - A.S. Roma Fem. - Barcelona Femenino
-UID:1bfebb17-ef19-4f98-ae31-8e3d73b67533
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:06495321-2ad2-45f6-85a6-f7f164d9d567
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  Disney+</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: Disney+
 END:VEVENT
 END:VCALENDAR
