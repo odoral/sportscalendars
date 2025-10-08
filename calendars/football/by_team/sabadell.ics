@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251006T004354Z
+DTSTAMP:20251008T041123Z
 DTSTART:20251012T100000Z
 DTEND:20251012T120000Z
 SUMMARY:Primera Federación - Sabadell - Teruel
-UID:18ac79d8-5c47-40db-9dd4-c5b87fdf6aa7
+UID:6f94d828-979f-4afd-9a93-91ecbe5038a2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251008T041123Z
+DTSTART:20251017T170000Z
+DTEND:20251017T190000Z
+SUMMARY:Primera Federación - Alcorcón - Sabadell
+UID:287d1254-98f2-4e70-82fc-fcd117616f4e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

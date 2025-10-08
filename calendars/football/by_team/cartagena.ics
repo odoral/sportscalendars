@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251006T004354Z
+DTSTAMP:20251008T041123Z
 DTSTART:20251012T143000Z
 DTEND:20251012T163000Z
 SUMMARY:Primera Federación - Sevilla At. - Cartagena
-UID:49911106-63cb-4c95-bf47-9b74e3bc8fc0
+UID:09d522b3-c6f3-41d7-a04e-59190b7f1424
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251008T041123Z
+DTSTART:20251017T191500Z
+DTEND:20251017T211500Z
+SUMMARY:Primera Federación - Cartagena - Algeciras
+UID:0a289e1b-5cb2-4677-815c-88ecc313c9f8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación

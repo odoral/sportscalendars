@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251008T041123Z
 DTSTART:20251011T163000Z
 DTEND:20251011T183000Z
 SUMMARY:Primera Federación - Algeciras - C.E. Europa
-UID:dc2df164-5ade-4324-bb5f-f88086775292
+UID:0e10fbf9-c8ad-4e5b-a094-ff75e7f58364
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251008T041123Z
+DTSTART:20251017T191500Z
+DTEND:20251017T211500Z
+SUMMARY:Primera Federación - Cartagena - Algeciras
+UID:ee115ea0-3dc0-4d30-93de-cc760ee56994
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
