@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251009T004237Z
 DTSTART:20251012T100000Z
 DTEND:20251012T120000Z
 SUMMARY:Primera Federación - Osasuna Promesas - Racing Ferrol
-UID:a411be76-0608-45f9-9775-9fdeabdd6f5e
+UID:39f1ed6e-e9d1-46b4-a54d-c6c663ce3cb0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251009T004237Z
+DTSTART:20251018T120000Z
+DTEND:20251018T140000Z
+SUMMARY:Primera Federación - Racing Ferrol - Arenas Club
+UID:20c3c13a-db0c-41ea-8cd0-14d0c39c4b52
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

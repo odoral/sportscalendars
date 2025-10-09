@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251004T004004Z
+DTSTAMP:20251009T004236Z
 DTSTART:20251011T120000Z
 DTEND:20251011T140000Z
 SUMMARY:Primera Federación - Villarreal B - Betis Deportivo
-UID:a12e1c7e-bcef-4baf-a024-720788566a9d
+UID:ef5ba272-beb9-4f4e-ad35-7895f82fe79e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251009T004236Z
+DTSTART:20251018T141500Z
+DTEND:20251018T161500Z
+SUMMARY:Primera Federación - Hércules - Villarreal B
+UID:d37b6139-8427-4699-b7f2-b11d2ff292e8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
+ /li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Fed
+ eración</li></ul></body></html>
+DESCRIPTION:- Open: À Punt (València)\n- PPV: FC Play\n- PPV: LaLiga+\n- 
+ PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

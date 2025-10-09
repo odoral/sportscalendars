@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251006T004354Z
+DTSTAMP:20251009T004237Z
 DTSTART:20251011T163000Z
 DTEND:20251011T183000Z
 SUMMARY:Primera Federación - Arenas Club - Lugo
-UID:61f96777-395c-405b-bbae-6c3bdce5af0f
+UID:599041b3-bd75-4686-aeb9-b9f6b9d0b953
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251009T004237Z
+DTSTART:20251018T120000Z
+DTEND:20251018T140000Z
+SUMMARY:Primera Federación - Racing Ferrol - Arenas Club
+UID:535a85f4-8fc0-4521-9969-ba954a650bab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

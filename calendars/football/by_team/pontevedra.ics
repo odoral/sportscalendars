@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251006T004354Z
+DTSTAMP:20251009T004237Z
 DTSTART:20251012T100000Z
 DTEND:20251012T120000Z
 SUMMARY:Primera Federación - R.M. Castilla - Pontevedra
-UID:cc8b7b6c-5cb3-4958-a317-0da13f90643c
+UID:d54d92ed-14ef-48fe-8e1c-495d0d3fffa3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251009T004237Z
+DTSTART:20251018T140000Z
+DTEND:20251018T160000Z
+SUMMARY:Primera Federación - Pontevedra - Osasuna Promesas
+UID:0ea1a1e2-1538-4192-b661-0971cd4385fd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

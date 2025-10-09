@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251009T004237Z
 DTSTART:20251011T140000Z
 DTEND:20251011T160000Z
 SUMMARY:Primera Federación - Marbella - C.D. Eldense
-UID:754a009f-f911-4ec2-80e6-288f7fd067fd
+UID:eaf4abfa-d237-4f00-b206-e2b17ba1840f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251009T004237Z
+DTSTART:20251018T190000Z
+DTEND:20251018T210000Z
+SUMMARY:Primera Federación - C.E. Europa - C.D. Eldense
+UID:d844b12d-9629-46a4-9b4a-ba60b81a4505
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
+ li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prim
+ era Federación
 END:VEVENT
 END:VCALENDAR

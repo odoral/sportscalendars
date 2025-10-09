@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251009T004236Z
 DTSTART:20251011T160000Z
 DTEND:20251011T180000Z
 SUMMARY:Primera Federación - Unionistas - Mérida
-UID:b338a156-b4d8-4755-9a9b-db967cf3172c
+UID:7eeae0c3-e01d-4378-8af8-6551062e6b94
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251009T004236Z
+DTSTART:20251018T173000Z
+DTEND:20251018T193000Z
+SUMMARY:Primera Federación - Tenerife - Unionistas
+UID:42cbc0ed-34a7-48b9-a6f6-28ced7e7f10d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
+ </li></ul></body></html>
+DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
+ imera Federación
 END:VEVENT
 END:VCALENDAR
