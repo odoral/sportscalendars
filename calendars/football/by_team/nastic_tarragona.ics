@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251010T004245Z
 DTSTART:20251012T164500Z
 DTEND:20251012T184500Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Alcorcón
-UID:610527a9-0dda-4874-a8e9-bd079a3b2798
+UID:e2d0f6f6-58bb-4935-ac08-6346a72bf037
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251010T004245Z
+DTSTART:20251019T100000Z
+DTEND:20251019T120000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Tarazona
+UID:644784d2-fc16-4466-82ae-7f48a7689247
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
+ PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

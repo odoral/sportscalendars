@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251010T004245Z
 DTSTART:20251012T100000Z
 DTEND:20251012T120000Z
 SUMMARY:Primera Federación - Juv. Torremolinos - U.D. Ibiza
-UID:93007c31-5287-41fc-b0c7-9bb2555b8015
+UID:9cb5b3a2-c8ac-439c-a297-11271b6e1533
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251010T004245Z
+DTSTART:20251019T161500Z
+DTEND:20251019T181500Z
+SUMMARY:Primera Federación - Real Murcia - U.D. Ibiza
+UID:2ee25230-8f31-4335-9731-512204b1f9b5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
+ n</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
+ rimera Federación
 END:VEVENT
 END:VCALENDAR

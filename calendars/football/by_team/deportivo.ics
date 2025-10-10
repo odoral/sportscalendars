@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251010T004245Z
 DTSTART:20251012T190000Z
 DTEND:20251012T210000Z
 SUMMARY:Liga Hypermotion - Málaga - Deportivo
-UID:c9fe4667-457a-4e27-a3be-e42832571e9d
+UID:e2a0410d-838b-4c94-8610-ed0746b7f3c4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251010T004245Z
+DTSTART:20251019T163000Z
+DTEND:20251019T183000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Deportivo
+UID:8b4ede1a-43e0-46e3-bbe6-4c0297fa37c2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>

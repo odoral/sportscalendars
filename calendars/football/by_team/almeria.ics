@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
+DTSTAMP:20251010T004245Z
 DTSTART:20251011T163000Z
 DTEND:20251011T183000Z
 SUMMARY:Liga Hypermotion - Almería - Real Zaragoza
-UID:ca5bbf3c-b7cf-4859-ad65-e30fe7256c78
+UID:755ed94b-b353-4761-9b7d-3ebd68a948de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251010T004245Z
+DTSTART:20251019T163000Z
+DTEND:20251019T183000Z
+SUMMARY:Liga Hypermotion - Córdoba - Almería
+UID:cc65463e-c40c-4138-9503-8dbd0f167325
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

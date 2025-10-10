@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251002T081315Z
-DTSTART:20251004T163000Z
-DTEND:20251004T183000Z
-SUMMARY:Premier League - Chelsea - Liverpool
-UID:a9d8143a-083b-4964-a808-af34c4d7b1e5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
- +</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
- V: Movistar Plus+
+DTSTAMP:20251010T004245Z
+DTSTART:20251019T153000Z
+DTEND:20251019T173000Z
+SUMMARY:Premier League - Liverpool - Manchester United
+UID:a3adff4b-2dd3-490d-b5ec-a334eef89c84
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

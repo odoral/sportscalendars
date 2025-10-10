@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251006T004354Z
+DTSTAMP:20251010T004245Z
 DTSTART:20251012T141500Z
 DTEND:20251012T161500Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Racing de Santander
-UID:5d12c4f8-8a0f-4b3e-b21a-3e2f2e0eeabc
+UID:31496a98-899f-4fff-b218-24c5f8edfeb3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251010T004245Z
+DTSTART:20251019T163000Z
+DTEND:20251019T183000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Deportivo
+UID:61f678c7-89e7-4ab0-ac42-6073220fa92b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>

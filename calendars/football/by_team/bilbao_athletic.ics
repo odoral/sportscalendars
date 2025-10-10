@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251006T004354Z
+DTSTAMP:20251010T004245Z
 DTSTART:20251010T191500Z
 DTEND:20251010T211500Z
 SUMMARY:Primera Federación - Barakaldo - Bilbao Athletic
-UID:778977e1-8cac-44b1-b9d8-481a05de7615
+UID:569b7405-02a5-4025-825b-dbde388bc86f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251010T004245Z
+DTSTART:20251019T183000Z
+DTEND:20251019T203000Z
+SUMMARY:Primera Federación - Bilbao Athletic - Cacereño
+UID:8037d93a-a8dd-4499-b1e5-4c672d087261
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
