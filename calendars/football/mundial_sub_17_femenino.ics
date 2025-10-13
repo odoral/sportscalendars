@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251012T081126Z
+DTSTAMP:20251013T004606Z
 DTSTART:20251019T190000Z
 DTEND:20251019T210000Z
 SUMMARY:Mundial Sub-17 Femenino - España - Colombia
-UID:d2843e35-27f0-4f84-9c66-aaae20d5bb13
+UID:fda1e412-426a-4090-b48a-e67301790013
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251013T004606Z
+DTSTART:20251022T130000Z
+DTEND:20251022T150000Z
+SUMMARY:Mundial Sub-17 Femenino - España - Corea del Sur
+UID:54bdab8a-1c56-49d6-a5fc-6aa04940657f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play

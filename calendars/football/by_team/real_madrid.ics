@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251012T041122Z
+DTSTAMP:20251013T004606Z
 DTSTART:20251019T190000Z
 DTEND:20251019T210000Z
 SUMMARY:Liga EA Sports - Getafe - Real Madrid
-UID:2c829e9e-231b-4203-89c8-8de49cb3ed2d
+UID:d033b0bb-7d36-478f-9c1f-3c3f403223d2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251013T004606Z
+DTSTART:20251022T190000Z
+DTEND:20251022T210000Z
+SUMMARY:Champions League - Real Madrid - Juventus
+UID:c7068cd2-370e-468b-8c08-ccf24ea9ec6f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR
