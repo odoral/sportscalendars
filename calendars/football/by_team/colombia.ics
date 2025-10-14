@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251012T081126Z
+DTSTAMP:20251014T081234Z
+DTSTART:20251015T230000Z
+DTEND:20251016T010000Z
+SUMMARY:Mundial Sub-20 - Argentina - Colombia
+UID:3027d46b-da92-4f45-a9f8-1eb069fca31b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
+ en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251014T081234Z
 DTSTART:20251019T190000Z
 DTEND:20251019T210000Z
 SUMMARY:Mundial Sub-17 Femenino - España - Colombia
-UID:ee74e5fa-66f5-4a36-9bf2-a08320f69264
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+UID:125f8ae8-80d5-4e2f-a16a-274d951c347b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
+ en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

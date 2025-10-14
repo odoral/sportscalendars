@@ -16,23 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251011T081128Z
-DTSTART:20251012T230000Z
-DTEND:20251013T010000Z
-SUMMARY:Mundial Sub-20 - Noruega - Francia
-UID:63af4c2b-4e29-4d19-9386-595ed2ab796d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li></ul></b
- ody></html>
-DESCRIPTION:- Open: FIFA+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251011T081128Z
-DTSTART:20251013T184500Z
-DTEND:20251013T204500Z
-SUMMARY:Mundial 2026 - Islandia - Francia
-UID:2518e390-b1a0-4a45-865b-f06d211dfd8a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
- li></ul></body></html>
-DESCRIPTION:- PPV: UEFA TV (Premium)
+DTSTAMP:20251014T081234Z
+DTSTART:20251015T200000Z
+DTEND:20251015T220000Z
+SUMMARY:Mundial Sub-20 - Marruecos - Francia
+UID:15fb4d51-c03f-4adb-86d8-383c947f97e2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
+ en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

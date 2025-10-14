@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251011T004033Z
+DTSTAMP:20251014T081234Z
 DTSTART:20251019T100000Z
 DTEND:20251019T120000Z
 SUMMARY:Primera Federación - At. Madrid B - Juv. Torremolinos
-UID:8b58b3d0-1c4c-4075-894e-87d4797cc51a
+UID:eff4eb30-cec3-4235-b7d0-c5b300564d19
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251014T081234Z
+DTSTART:20251022T150000Z
+DTEND:20251022T170000Z
+SUMMARY:Primera Federación - Hércules - At. Madrid B
+UID:98c5beb3-5f28-4c3d-9ea5-bb4d52731045
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

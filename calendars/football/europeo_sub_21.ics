@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251005T041101Z
-DTSTART:20251013T220000Z
-DTEND:20251014T000000Z
+DTSTAMP:20251014T081234Z
+DTSTART:20251014T000000Z
+DTEND:20251014T020000Z
 SUMMARY:Europeo Sub-21 - España - Finlandia
-UID:aac9515e-0ad2-45e2-a75d-eb1c04fbb0c9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
- firmar\n<ul><li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></b
- ody></html>
-DESCRIPTION:Atención: Pendientede confirmar\n- Open: Teledeporte\n- Open:
-  rtve Play
+UID:4a44c0e7-dbd7-44fb-81fb-ad16e4e5377f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
