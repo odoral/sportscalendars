@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251011T004033Z
+DTSTAMP:20251015T004359Z
 DTSTART:20251019T190000Z
 DTEND:20251019T210000Z
 SUMMARY:Liga Hypermotion - Las Palmas - Eibar
-UID:1e4746b7-5340-41fd-9a07-7fc6d0a9b262
+UID:e3b434cb-2925-4b04-be8e-6c7f35ce84c3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251015T004359Z
+DTSTART:20251024T183000Z
+DTEND:20251024T203000Z
+SUMMARY:Liga Hypermotion - Huesca - Las Palmas
+UID:104c43f5-80c5-470a-960f-b085828401f5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TEN TV</
+ li>\n<li>Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium 
+ Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
+ - Open: TEN TV\n- Open: TV Canaria\n- PPV: DAZN\n- PPV: GolStadium Premi
+ um\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

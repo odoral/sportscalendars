@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251011T004033Z
+DTSTAMP:20251015T004359Z
 DTSTART:20251018T140000Z
 DTEND:20251018T160000Z
 SUMMARY:Primera Federación - Guadalajara - Barakaldo
-UID:a0c437bd-f2fe-4ab7-b42c-35fc642ed6fa
+UID:0eae7121-fc44-4654-999c-7b8901d7228e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251015T004359Z
+DTSTART:20251024T191500Z
+DTEND:20251024T211500Z
+SUMMARY:Primera Federación - Barakaldo - Tenerife
+UID:fe8f7856-a801-4408-ba67-75ac2d8924a0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
