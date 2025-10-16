@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251013T004606Z
+DTSTAMP:20251016T004353Z
 DTSTART:20251017T170000Z
 DTEND:20251017T190000Z
 SUMMARY:Primera Federación - Alcorcón - Sabadell
-UID:c670e83b-6f26-414d-a321-96b69d449344
+UID:4266d58b-edc0-4efd-b49c-bf2c38f6039f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251016T004353Z
+DTSTART:20251025T163000Z
+DTEND:20251025T183000Z
+SUMMARY:Primera Federación - Sabadell - Nàstic Tarragona
+UID:6ee97044-c5f8-4687-a264-e01540c5c533
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
+ li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prim
+ era Federación
 END:VEVENT
 END:VCALENDAR

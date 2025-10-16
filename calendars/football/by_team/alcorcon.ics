@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251013T004606Z
+DTSTAMP:20251016T004353Z
 DTSTART:20251017T170000Z
 DTEND:20251017T190000Z
 SUMMARY:Primera Federación - Alcorcón - Sabadell
-UID:2a1e4d1e-60e2-43f8-9083-a49fa5a74f04
+UID:61b45975-46f3-4b53-97b2-68dc0220d3a1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251016T004353Z
+DTSTART:20251025T120000Z
+DTEND:20251025T140000Z
+SUMMARY:Primera Federación - Algeciras - Alcorcón
+UID:f123799f-3e6f-44b4-b458-610434dca6f2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación

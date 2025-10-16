@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251015T041225Z
+DTSTAMP:20251016T004353Z
 DTSTART:20251019T100000Z
 DTEND:20251019T120000Z
 SUMMARY:Primera Federación - Ourense C.F. - R.M. Castilla
-UID:404610b7-3f7f-44a7-b3da-652ccbb7c478
+UID:ae869606-1f07-4f4b-8dbc-c3e79e4386a8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251016T004353Z
+DTSTART:20251025T190000Z
+DTEND:20251025T210000Z
+SUMMARY:Primera Federación - R.M. Castilla - Real Avilés
+UID:b9e8300b-d048-4c8f-979c-6ec523b5f9fc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

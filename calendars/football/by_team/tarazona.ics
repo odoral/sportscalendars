@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251012T041122Z
+DTSTAMP:20251016T004353Z
 DTSTART:20251019T100000Z
 DTEND:20251019T120000Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Tarazona
-UID:44a1b2e2-48eb-423e-ae1d-cfb4927b0339
+UID:c111dd5b-6eab-43fe-9cf7-6f9b1dfd5528
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
  ></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
  PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251016T004353Z
+DTSTART:20251025T141500Z
+DTEND:20251025T161500Z
+SUMMARY:Primera Federación - Tarazona - Betis Deportivo
+UID:e7ae56ff-0ee3-4034-8e15-475ec5cf8e28
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
