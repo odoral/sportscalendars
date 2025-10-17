@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251015T041225Z
+DTSTAMP:20251017T004324Z
 DTSTART:20251018T163000Z
 DTEND:20251018T183000Z
 SUMMARY:Primera Federación - Lugo - Celta B
-UID:38478dc2-8190-4c65-aeca-31c3c188a90f
+UID:12e15a18-94c2-4dc7-9bab-0e4b7fd3918c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li><
  /ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PP
  V: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T004324Z
+DTSTART:20251026T150000Z
+DTEND:20251026T170000Z
+SUMMARY:Primera Federación - Unionistas - Lugo
+UID:43ceb932-5c39-4e9b-a72c-a1131e3909b4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

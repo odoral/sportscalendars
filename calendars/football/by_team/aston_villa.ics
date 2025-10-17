@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251016T081424Z
+DTSTAMP:20251017T004324Z
 DTSTART:20251019T130000Z
 DTEND:20251019T150000Z
 SUMMARY:Premier League - Tottenham - Aston Villa
-UID:43bb0e1d-e667-48a5-a4f7-739214044813
+UID:c63eee5e-49bc-4fe5-b8b2-88ac74634887
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251016T081424Z
+DTSTAMP:20251017T004324Z
 DTSTART:20251023T164500Z
 DTEND:20251023T184500Z
 SUMMARY:Europa League - Go Ahead Eagles - Aston Villa
-UID:cd00f5bd-0f50-4040-8fb5-767e1cf4e6fb
+UID:7888bbd6-6851-4cc7-86d3-35704fd2c14e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T004324Z
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+SUMMARY:Premier League - Aston Villa - Manchester City
+UID:a5d93aad-3d12-4ff3-84e0-46a41ea800c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR

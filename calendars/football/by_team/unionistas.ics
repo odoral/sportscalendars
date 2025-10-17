@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251012T041122Z
+DTSTAMP:20251017T004324Z
 DTSTART:20251018T173000Z
 DTEND:20251018T193000Z
 SUMMARY:Primera Federación - Tenerife - Unionistas
-UID:8473666c-173c-4683-846f-f1aacaba3b4a
+UID:20c6f7b5-c82b-42ae-93c3-b159ce00a005
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
  </li></ul></body></html>
 DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
  imera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T004324Z
+DTSTART:20251026T150000Z
+DTEND:20251026T170000Z
+SUMMARY:Primera Federación - Unionistas - Lugo
+UID:d333a249-4ead-49ad-8acf-c25911e65982
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

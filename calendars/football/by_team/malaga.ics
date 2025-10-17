@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251015T041225Z
+DTSTAMP:20251017T004324Z
 DTSTART:20251019T120000Z
 DTEND:20251019T140000Z
 SUMMARY:Liga Hypermotion - Leganés - Málaga
-UID:74f021b7-75fc-42e6-b54f-e099a880af23
+UID:62c0b080-88e9-4086-a514-5e5979a286d5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T004324Z
+DTSTART:20251026T130000Z
+DTEND:20251026T150000Z
+SUMMARY:Liga Hypermotion - Málaga - F.C. Andorra
+UID:e11069fb-4f3b-4cfe-be6f-419736178554
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

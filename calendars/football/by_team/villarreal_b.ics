@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251012T041122Z
+DTSTAMP:20251017T004324Z
 DTSTART:20251018T141500Z
 DTEND:20251018T161500Z
 SUMMARY:Primera Federación - Hércules - Villarreal B
-UID:7b1d7653-2db0-45e1-b29d-1b7717101b89
+UID:a21a71a2-042e-40d0-a7c9-861c1bf1755d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
  /li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Fed
  eración</li></ul></body></html>
 DESCRIPTION:- Open: À Punt (València)\n- PPV: FC Play\n- PPV: LaLiga+\n- 
  PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T004324Z
+DTSTART:20251026T110000Z
+DTEND:20251026T130000Z
+SUMMARY:Primera Federación - Villarreal B - Antequera
+UID:39fd8750-e8a4-4878-af6a-e564694f4ed1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

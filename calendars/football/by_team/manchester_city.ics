@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251016T081424Z
+DTSTAMP:20251017T004324Z
 DTSTART:20251018T140000Z
 DTEND:20251018T160000Z
 SUMMARY:Premier League - Manchester City - Everton
-UID:e1e00529-bee2-42be-8159-55f2cd3a1176
+UID:7f09dfea-8657-404e-97b5-7d9f4f9107fb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251016T081424Z
+DTSTAMP:20251017T004324Z
 DTSTART:20251021T190000Z
 DTEND:20251021T210000Z
 SUMMARY:Champions League - Villarreal - Manchester City
-UID:cb3ba3f0-0741-4815-9e6b-1485a276f052
+UID:1074ef9a-55fd-4b05-8f98-c4c7bc503fb8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T004324Z
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+SUMMARY:Premier League - Aston Villa - Manchester City
+UID:1e6c3a5c-de87-4c1b-a812-af9867ad4e2a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR

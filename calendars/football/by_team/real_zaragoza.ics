@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251015T041225Z
+DTSTAMP:20251017T004324Z
 DTSTART:20251018T163000Z
 DTEND:20251018T183000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Cultural Leonesa
-UID:d6900fce-7e55-46df-bd42-68a21fe84251
+UID:781b9e24-c72d-4300-b4b1-6dc16ca16e53
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TEN TV</
  li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLi
@@ -29,5 +29,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
  - Open: TEN TV\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV
   Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251017T004324Z
+DTSTART:20251026T173000Z
+DTEND:20251026T193000Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Real Zaragoza
+UID:bd4382ee-e8c5-4f57-8d90-88bfea069cba
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
