@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251017T004324Z
+DTSTAMP:20251018T081152Z
+DTSTART:20251018T190000Z
+DTEND:20251018T210000Z
+SUMMARY:Mundial Sub-20 - Colombia - Francia
+UID:4a8ceabd-ef94-4900-aa86-c432252ddf33
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: FIFA+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251018T081152Z
 DTSTART:20251019T190000Z
 DTEND:20251019T210000Z
 SUMMARY:Mundial Sub-17 Femenino - España - Colombia
-UID:b7d90b99-446d-4034-88ad-949598de25e2
+UID:fca26e21-f67f-4a6a-9bed-7bfc34b50028
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
  en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
