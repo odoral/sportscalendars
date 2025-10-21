@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250926T004156Z
-DTSTART:20250926T003000Z
-DTEND:20250926T023000Z
-SUMMARY:Copa Sudamericana - U. de Chile - Alianza Lima
-UID:9d889026-68f8-4518-b69f-ce85ecc7a6e1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li></ul></
- body></html>
-DESCRIPTION:- PPV: LaLiga+
+DTSTAMP:20251021T081455Z
+DTSTART:20251022T003000Z
+DTEND:20251022T023000Z
+SUMMARY:Copa Sudamericana - Independiente del Valle - Atlético Mineiro
+UID:f06a7966-ca85-4ea5-b2cd-1710eb36c23b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251021T081455Z
+DTSTART:20251023T220000Z
+DTEND:20251024T000000Z
+SUMMARY:Copa Sudamericana - U. de Chile - Lanús
+UID:9f93d3ae-2d45-43d2-b85d-0df371b880f8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
