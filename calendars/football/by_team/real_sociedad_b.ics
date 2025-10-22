@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251019T041357Z
+DTSTAMP:20251022T004521Z
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
 SUMMARY:Liga Hypermotion - Burgos C.F. - Real Sociedad B
-UID:90286c63-2966-4c69-8ed3-9b0e1077bd8f
+UID:faac2362-abbb-46bb-b1e7-4dc93a9beec5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251022T004521Z
+DTSTART:20251031T193000Z
+DTEND:20251031T213000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Real Sociedad B
+UID:64791b5b-fb0a-4f30-8cd1-2a620c08b08a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

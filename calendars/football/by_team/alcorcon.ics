@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251018T004053Z
+DTSTAMP:20251022T004521Z
 DTSTART:20251025T120000Z
 DTEND:20251025T140000Z
 SUMMARY:Primera Federación - Algeciras - Alcorcón
-UID:d7e47275-7065-47ad-a172-087552e238b5
+UID:062a7491-7466-4435-a361-82c674bf3aef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251022T004521Z
+DTSTART:20251031T201500Z
+DTEND:20251031T221500Z
+SUMMARY:Primera Federación - Alcorcón - Sevilla At.
+UID:511c55de-7ada-438a-8220-a60839ddfd2c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
