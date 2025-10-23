@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251021T081455Z
+DTSTAMP:20251023T081417Z
 DTSTART:20251023T220000Z
 DTEND:20251024T000000Z
 SUMMARY:Copa Sudamericana - U. de Chile - Lanús
-UID:4d39ac3b-a08c-495b-b8f3-c84bd8d82c37
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
+UID:70b99d6f-04a2-4ea0-af60-f90eb3897dce
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamo
+ s
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T081417Z
+DTSTART:20251030T220000Z
+DTEND:20251031T000000Z
+SUMMARY:Copa Sudamericana - Lanús - U. de Chile
+UID:266c7868-ddc0-4e77-87b3-8a9de05020ab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

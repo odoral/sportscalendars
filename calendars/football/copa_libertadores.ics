@@ -16,23 +16,47 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251022T081523Z
+DTSTAMP:20251023T081417Z
 DTSTART:20251023T003000Z
 DTEND:20251023T023000Z
 SUMMARY:Copa Libertadores - C.R. Flamengo - Racing Avellaneda
-UID:cd045d06-9556-43e8-91d1-2d2e7cdb6336
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+UID:19855e8a-c0ce-460c-ab73-8dc2ac7d70b4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body><
+ /html>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones\n- PPV: Movistar 
+ Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251022T081523Z
+DTSTAMP:20251023T081417Z
 DTSTART:20251024T003000Z
 DTEND:20251024T023000Z
 SUMMARY:Copa Libertadores - LDU Quito - Palmeiras
-UID:6318f77b-5cb9-40eb-8c84-afa9fd8f15b0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+UID:a6176312-4cad-43c3-9b18-7efb6d8a5dc3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body><
+ /html>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones\n- PPV: Movistar 
+ Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T081417Z
+DTSTART:20251030T003000Z
+DTEND:20251030T023000Z
+SUMMARY:Copa Libertadores - Racing Avellaneda - C.R. Flamengo
+UID:f63a8031-6381-4cfc-8dd1-1dd7702dc779
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T081417Z
+DTSTART:20251031T003000Z
+DTEND:20251031T023000Z
+SUMMARY:Copa Libertadores - Palmeiras - LDU Quito
+UID:cc3b9e0e-3b3b-456d-a00f-cfcec50fde49
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251022T081523Z
+DTSTAMP:20251023T081417Z
 DTSTART:20251023T003000Z
 DTEND:20251023T023000Z
 SUMMARY:Copa Libertadores - C.R. Flamengo - Racing Avellaneda
-UID:265be284-0e68-4faf-b7e1-f0dca8ef08cc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+UID:9ef5863b-a949-42cd-ab1f-960f7aa68cd8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body><
+ /html>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones\n- PPV: Movistar 
+ Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T081417Z
+DTSTART:20251030T003000Z
+DTEND:20251030T023000Z
+SUMMARY:Copa Libertadores - Racing Avellaneda - C.R. Flamengo
+UID:2f4e4155-e34f-4e38-a8b7-e331399dc657
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

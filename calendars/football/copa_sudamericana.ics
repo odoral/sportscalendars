@@ -16,13 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251023T004409Z
+DTSTAMP:20251023T081417Z
 DTSTART:20251023T220000Z
 DTEND:20251024T000000Z
 SUMMARY:Copa Sudamericana - U. de Chile - Lanús
-UID:e50110cd-07a2-4c55-bbd6-88b09e4c1db3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
+UID:dc4bb6f1-cf9b-4921-889e-6aca92057988
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamo
+ s
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T081417Z
+DTSTART:20251029T003000Z
+DTEND:20251029T023000Z
+SUMMARY:Copa Sudamericana - Atlético Mineiro - Independiente del Valle
+UID:8c2db75d-177b-407f-8e62-f48a39688389
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T081417Z
+DTSTART:20251030T220000Z
+DTEND:20251031T000000Z
+SUMMARY:Copa Sudamericana - Lanús - U. de Chile
+UID:16bfbd99-c4d1-44b0-a809-5fc2013a1a10
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

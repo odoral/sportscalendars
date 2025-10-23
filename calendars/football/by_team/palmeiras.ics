@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251022T081523Z
+DTSTAMP:20251023T081417Z
 DTSTART:20251024T003000Z
 DTEND:20251024T023000Z
 SUMMARY:Copa Libertadores - LDU Quito - Palmeiras
-UID:39f9bbe3-41c2-414b-8d5b-76afab373ae6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+UID:7272eb3b-12b0-4048-963c-640c3c190858
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
+ PV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body><
+ /html>
+DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones\n- PPV: Movistar 
+ Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T081417Z
+DTSTART:20251031T003000Z
+DTEND:20251031T023000Z
+SUMMARY:Copa Libertadores - Palmeiras - LDU Quito
+UID:ad22f163-8c33-4bd1-befc-e3aef0bf4435
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

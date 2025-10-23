@@ -16,14 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251022T081523Z
-DTSTART:20251022T003000Z
-DTEND:20251022T023000Z
-SUMMARY:Copa Sudamericana - Independiente del Valle - Atlético Mineiro
-UID:d64fc6ea-f1fc-4921-838a-5118c811f09c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
- PV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
- 
-DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+DTSTAMP:20251023T081417Z
+DTSTART:20251029T003000Z
+DTEND:20251029T023000Z
+SUMMARY:Copa Sudamericana - Atlético Mineiro - Independiente del Valle
+UID:e3fb7a0a-79ab-43fe-aefd-d29bd1f0ff3e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
