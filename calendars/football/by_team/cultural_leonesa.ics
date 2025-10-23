@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251022T081523Z
+DTSTAMP:20251023T004409Z
 DTSTART:20251025T120000Z
 DTEND:20251025T140000Z
 SUMMARY:Liga Hypermotion - Cultural Leonesa - AD Ceuta
-UID:4264d4ff-1ede-4d45-9b1f-222ad192b18c
+UID:4e3c435f-e4a4-4f9f-bdf8-832e7e3d0a23
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T004409Z
+DTSTART:20251101T151500Z
+DTEND:20251101T171500Z
+SUMMARY:Liga Hypermotion - Cultural Leonesa - Mirandés
+UID:63563af2-bbc7-4a7f-865b-ec3f9f4d3409
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

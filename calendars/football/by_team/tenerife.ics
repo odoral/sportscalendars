@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251019T041357Z
+DTSTAMP:20251023T004409Z
 DTSTART:20251024T191500Z
 DTEND:20251024T211500Z
 SUMMARY:Primera Federación - Barakaldo - Tenerife
-UID:8b04e1bf-c718-45b4-bd30-6892550e7e4b
+UID:530bfb8e-7dd2-4df6-86ff-037b38c35bc8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T004409Z
+DTSTART:20251101T173000Z
+DTEND:20251101T193000Z
+SUMMARY:Primera Federación - Racing Ferrol - Tenerife
+UID:64c527ad-1873-4773-84bb-bc88dee8a647
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>Open: TVG 2</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>P
+ PV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: TV Canaria\n- Open: TVG 2\n- PPV: FC Play\n- PPV: LaL
+ iga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

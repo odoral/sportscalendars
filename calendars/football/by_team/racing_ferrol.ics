@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251019T041357Z
+DTSTAMP:20251023T004409Z
 DTSTART:20251025T141500Z
 DTEND:20251025T161500Z
 SUMMARY:Primera Federación - Celta B - Racing Ferrol
-UID:eca0b02e-6982-40e2-9ee7-88f276451b86
+UID:4a072b9b-81d0-478e-9654-2ee4e438ac6f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
  </ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
   Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251023T004409Z
+DTSTART:20251101T173000Z
+DTEND:20251101T193000Z
+SUMMARY:Primera Federación - Racing Ferrol - Tenerife
+UID:bd0d7ab4-694b-4f8d-a19f-38ec96510c80
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>Open: TVG 2</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>P
+ PV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: TV Canaria\n- Open: TVG 2\n- PPV: FC Play\n- PPV: LaL
+ iga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
