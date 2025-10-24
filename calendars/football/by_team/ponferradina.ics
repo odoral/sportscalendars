@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251020T004756Z
+DTSTAMP:20251024T004107Z
 DTSTART:20251024T170000Z
 DTEND:20251024T190000Z
 SUMMARY:Primera Federación - Mérida - Ponferradina
-UID:9dd09759-ddff-4f50-a909-a1124c5d6889
+UID:183e0228-8f00-4b40-8b19-0ac662dcffc8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251024T004107Z
+DTSTART:20251102T171500Z
+DTEND:20251102T191500Z
+SUMMARY:Primera Federación - Ponferradina - Cacereño
+UID:61cbdc62-1c90-4aac-8a72-58716adbe37d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

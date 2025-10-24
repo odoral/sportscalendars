@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251022T081523Z
+DTSTAMP:20251024T004107Z
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
 SUMMARY:Primera Federación - C.F. Talavera - Osasuna Promesas
-UID:d77f07b9-ac54-4ef6-af4d-c52a0fa20a74
+UID:075b3740-27bc-4cd3-8a97-bb29d21609a9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251024T004107Z
+DTSTART:20251102T171500Z
+DTEND:20251102T191500Z
+SUMMARY:Primera Federación - R.M. Castilla - C.F. Talavera
+UID:8d15388a-100d-431c-9f14-2429509d3087
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

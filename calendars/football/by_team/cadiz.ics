@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251022T081523Z
+DTSTAMP:20251024T004107Z
 DTSTART:20251025T163000Z
 DTEND:20251025T183000Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Cádiz
-UID:b886d6a6-a789-4356-aeaf-ff77d216ce3e
+UID:508f7caa-da67-49f7-ad10-6a375d331f59
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251024T004107Z
+DTSTART:20251102T130000Z
+DTEND:20251102T150000Z
+SUMMARY:Liga Hypermotion - F.C. Andorra - Cádiz
+UID:ec0ecab1-550d-45f9-a155-919f508557eb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

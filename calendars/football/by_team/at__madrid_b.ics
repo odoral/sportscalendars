@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251023T004409Z
+DTSTAMP:20251024T004107Z
 DTSTART:20251026T193000Z
 DTEND:20251026T213000Z
 SUMMARY:Primera Federación - At. Madrid B - C.E. Europa
-UID:001edc23-9283-4c25-996b-f68497487ab9
+UID:533f2165-e13a-4e5b-87ad-7fef4667b89a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251024T004107Z
+DTSTART:20251102T193000Z
+DTEND:20251102T213000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - At. Madrid B
+UID:bf35146b-ac8c-419f-8389-85e78fb1ed44
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
