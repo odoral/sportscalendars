@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251025T004257Z
+DTSTAMP:20251025T081123Z
+DTSTART:20251028T200000Z
+DTEND:20251028T220000Z
+SUMMARY:Copa del Rey - Negreira - Real Sociedad
+UID:daa87911-a584-4487-825e-ca6602f5bd8d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: M+ Liga de Campeones</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
 DTSTART:20251101T173000Z
 DTEND:20251101T193000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Athletic Club
-UID:b066a243-2b38-4bac-905b-94afef8bbc6c
+UID:5809df7a-910a-4add-aa8a-a864886aadf8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+

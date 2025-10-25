@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251023T004409Z
+DTSTAMP:20251025T081123Z
 DTSTART:20251025T141500Z
 DTEND:20251025T161500Z
 SUMMARY:Primera Federación - Celta B - Racing Ferrol
-UID:4a072b9b-81d0-478e-9654-2ee4e438ac6f
+UID:0b1af3f0-5b41-4a2e-88ec-bcd8e1b0cd17
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
  </ul></body></html>
@@ -28,11 +28,21 @@ DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
   Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251023T004409Z
+DTSTAMP:20251025T081123Z
+DTSTART:20251028T183000Z
+DTEND:20251028T203000Z
+SUMMARY:Copa del Rey - UP Langreo - Racing Ferrol
+UID:38e80dbc-fe77-4a24-a9b7-618f79ff18dd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: TVG 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
 DTSTART:20251101T173000Z
 DTEND:20251101T193000Z
 SUMMARY:Primera Federación - Racing Ferrol - Tenerife
-UID:bd0d7ab4-694b-4f8d-a19f-38ec96510c80
+UID:e3d49321-6142-403a-b00a-6484f131201d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>Open: TVG 2</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>P
  PV: Primera Federación</li></ul></body></html>

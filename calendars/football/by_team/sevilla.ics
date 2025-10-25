@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251025T004257Z
+DTSTAMP:20251025T081123Z
+DTSTART:20251028T200000Z
+DTEND:20251028T220000Z
+SUMMARY:Copa del Rey - Toledo - Sevilla
+UID:56e6c9cf-e180-4e57-8f4e-9fc85a6f1918
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
 DTSTART:20251101T151500Z
 DTEND:20251101T171500Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Sevilla
-UID:a6470cb0-ca70-4105-a4e9-7945e0c64734
+UID:871623db-e51e-44f4-aeb9-c34a5d781411
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 END:VCALENDAR

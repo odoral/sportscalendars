@@ -16,15 +16,203 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250417T004313Z
-DTSTART:20250426T200000Z
-DTEND:20250426T220000Z
-SUMMARY:Copa del Rey - Barcelona - Real Madrid
-UID:d80346de-6cbd-473c-9ca2-a325c036a8d5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Copa del Rey</li>\n<l
- i>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ Copa 
- del Rey\n- PPV: Movistar Plus+
+DTSTAMP:20251025T081123Z
+DTSTART:20251028T180000Z
+DTEND:20251028T200000Z
+SUMMARY:Copa del Rey - Constancia - Girona
+UID:84e2f893-6d8e-48d7-9892-0cad934ccf4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251028T180000Z
+DTEND:20251028T200000Z
+SUMMARY:Copa del Rey - Ourense C.F. - Real Oviedo
+UID:14cd49e3-d51d-42f3-8ef3-a74ffcbc9b05
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 3</li></u
+ l></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251028T183000Z
+DTEND:20251028T203000Z
+SUMMARY:Copa del Rey - UP Langreo - Racing Ferrol
+UID:8a8891ed-b59d-4836-aa04-85f621d6fd87
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: TVG 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251028T190000Z
+DTEND:20251028T210000Z
+SUMMARY:Copa del Rey - UD Maracena - Valencia
+UID:bebc8122-3c9a-4ee6-b78e-0847de18e0c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 2</li></u
+ l></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251028T190000Z
+DTEND:20251028T210000Z
+SUMMARY:Copa del Rey - Inter de Valdemoro - Getafe
+UID:e1c0350f-f259-4896-a58f-0aec6c92d683
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 4</li></u
+ l></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251028T200000Z
+DTEND:20251028T220000Z
+SUMMARY:Copa del Rey - Toledo - Sevilla
+UID:a94507ad-8cdd-4217-a704-8d574d7d9de6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251028T200000Z
+DTEND:20251028T220000Z
+SUMMARY:Copa del Rey - Negreira - Real Sociedad
+UID:92b99cef-f9b0-4f47-82a5-9dfea9617551
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: M+ Liga de Campeones</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251029T180000Z
+DTEND:20251029T200000Z
+SUMMARY:Copa del Rey - Los Garres - Elche
+UID:a5dd045c-8a34-47d3-9ae9-ffb2bb801a04
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 2</li></u
+ l></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251029T180000Z
+DTEND:20251029T200000Z
+SUMMARY:Copa del Rey - CD Sant Jordi - Osasuna
+UID:e7ef37e2-94a4-4334-801c-5686ec64ce20
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251029T190000Z
+DTEND:20251029T210000Z
+SUMMARY:Copa del Rey - Atletic Sant Just - Mallorca
+UID:8ab4635c-c9fd-4fd4-b886-f2de6b050dbc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 3</li></u
+ l></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251029T193000Z
+DTEND:20251029T213000Z
+SUMMARY:Copa del Rey - UD Ourense - Pontevedra
+UID:25294727-3b21-4253-8687-f5f98d654ffc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: TVG 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251029T200000Z
+DTEND:20251029T220000Z
+SUMMARY:Copa del Rey - Ciudad de Lucena - Villarreal
+UID:f1862fc3-6419-48ad-be49-52f72a1acac4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: M+ Liga de Campeones</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251029T200000Z
+DTEND:20251029T220000Z
+SUMMARY:Copa del Rey - CD Yuncos - Rayo Vallecano
+UID:56906bc3-9ea1-4454-9d7e-fc34badb69aa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 2</li>\n<
+ li>PPV: M+ LaLiga 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 2\n- PPV: M+ LaLiga 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251030T180000Z
+DTEND:20251030T200000Z
+SUMMARY:Copa del Rey - Orihuela - Levante
+UID:23bb650d-9732-4fc7-90b3-d7791be6eab0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 2</li></u
+ l></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251030T180000Z
+DTEND:20251030T200000Z
+SUMMARY:Copa del Rey - Puerto de Vega CF - Celta
+UID:89e3c616-fc15-4f9b-a05e-372ae0317088
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251030T190000Z
+DTEND:20251030T210000Z
+SUMMARY:Copa del Rey - At. Baleares - Nàstic Tarragona
+UID:2d9a086f-9f46-4cfa-8649-8d52b3d5a30a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251030T190000Z
+DTEND:20251030T210000Z
+SUMMARY:Copa del Rey - CD Getxo - Alavés
+UID:34e349e3-ca5e-45ab-8733-55d4e53a70e2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 3</li></u
+ l></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251030T200000Z
+DTEND:20251030T220000Z
+SUMMARY:Copa del Rey - Sámano - Deportivo
+UID:76ecce6f-1423-4eea-b502-83a72047626d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: TVG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251030T200000Z
+DTEND:20251030T220000Z
+SUMMARY:Copa del Rey - Palma del Río CF - Betis
+UID:28aee542-71b7-4987-b0da-e7d41a6aa480
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 4</li>\n<
+ li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 4\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251025T081123Z
+DTSTART:20251030T200000Z
+DTEND:20251030T220000Z
+SUMMARY:Copa del Rey - Atlètic Lleida - Espanyol
+UID:d7a6e19f-216a-492e-84ce-61a670489091
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: M+ Liga de Campeones</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
