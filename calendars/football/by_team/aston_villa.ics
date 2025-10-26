@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251026T004749Z
+DTSTAMP:20251026T041122Z
+DTSTART:20251026T140000Z
+DTEND:20251026T160000Z
+SUMMARY:Premier League - Aston Villa - Manchester City
+UID:ccd8ce85-b1bc-4183-b98b-6327197cbe85
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251026T041122Z
 DTSTART:20251101T200000Z
 DTEND:20251101T220000Z
 SUMMARY:Premier League - Liverpool - Aston Villa
-UID:d238411a-85ba-4290-ad82-862f58e4bed8
+UID:6b06db7b-43e3-45cc-9cb4-3de6ba45673d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
