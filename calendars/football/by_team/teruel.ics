@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251027T042030Z
+DTSTAMP:20251028T081415Z
 DTSTART:20251029T190000Z
 DTEND:20251029T210000Z
 SUMMARY:Copa del Rey - Sant Andreu - Teruel
-UID:2e88a84b-4c98-4c54-802e-af01942a9883
+UID:b7a5aff2-9c20-42fc-9d22-37cfdff16cf5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  ></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251027T042030Z
+DTSTAMP:20251028T081415Z
 DTSTART:20251102T110000Z
 DTEND:20251102T130000Z
 SUMMARY:Primera Federación - Teruel - Marbella
-UID:972f268b-569f-4a24-82be-997145fe8ced
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga+</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+UID:870e9f73-c083-4155-9541-819f28a51299
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
+ PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

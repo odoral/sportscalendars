@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251027T042030Z
+DTSTAMP:20251028T081415Z
+DTSTART:20251029T190000Z
+DTEND:20251029T210000Z
+SUMMARY:Copa del Rey - Caudal Deportivo - Sporting de Gijón
+UID:24ebf7cc-1c9c-46ec-ae47-ab911832b6c9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: TPA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251028T081415Z
 DTSTART:20251102T151500Z
 DTEND:20251102T171500Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Las Palmas
-UID:69cbef66-da3b-440d-8809-e94c2c6e1746
+UID:8238f326-f4b4-4b60-a60e-0b181241c066
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>P
  PV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></b
