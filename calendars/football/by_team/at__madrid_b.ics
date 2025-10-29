@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251027T042030Z
+DTSTAMP:20251029T041640Z
 DTSTART:20251102T193000Z
 DTEND:20251102T213000Z
 SUMMARY:Primera Federación - Nàstic Tarragona - At. Madrid B
-UID:792ab2f4-a47e-45d9-970c-7f8e4985b7f3
+UID:1f19b013-738f-4900-821e-7ebcb05d9731
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251029T041640Z
+DTSTART:20251107T201500Z
+DTEND:20251107T221500Z
+SUMMARY:Primera Federación - At. Madrid B - C.D. Eldense
+UID:3b4edfeb-44ed-4304-be84-a5e0a95384be
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
