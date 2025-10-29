@@ -16,33 +16,37 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251028T004318Z
+DTSTAMP:20251029T081415Z
 DTSTART:20251030T200000Z
 DTEND:20251030T220000Z
 SUMMARY:Copa del Rey - Palma del Río CF - Betis
-UID:b703f0e8-44c9-49ed-ba14-45677ed524f5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 4</li>\n<
- li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga 4\n- PPV: Movistar Plus+
+UID:59ff5bb4-52f7-49a6-88f8-eda93db73771
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 4</
+ li>\n<li>PPV: M+ LaLiga 4</li>\n<li>PPV: Movistar Plus+</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: LaLiga TV Multi 4\n- PPV: M+ LaLiga 4\n- PPV: Movistar
+  Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251028T004318Z
+DTSTAMP:20251029T081415Z
 DTSTART:20251102T200000Z
 DTEND:20251102T220000Z
 SUMMARY:Liga EA Sports - Betis - Mallorca
-UID:c49cc824-7ce0-4235-9287-abaf97686518
+UID:d874995f-b31a-42f4-9c6c-38b8408b17f3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251028T004318Z
+DTSTAMP:20251029T081415Z
 DTSTART:20251106T200000Z
 DTEND:20251106T220000Z
 SUMMARY:Europa League - Betis - Olympique Lyon
-UID:702434a8-503b-45e5-874e-0ff91df0a171
+UID:811c77ea-1333-449c-abc6-2efc93250c56
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+ s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
+ i></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
+  PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
