@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251030T004609Z
+DTSTAMP:20251030T081346Z
 DTSTART:20251031T193000Z
 DTEND:20251031T213000Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Real Sociedad B
-UID:af144a12-9226-4757-950c-1dd88114a585
+UID:c2e6643b-6920-4a96-8167-e257b8f8d58e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
@@ -28,11 +28,21 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251030T004609Z
+DTSTAMP:20251030T081346Z
+DTSTART:20251105T190000Z
+DTEND:20251105T210000Z
+SUMMARY:Liga Hypermotion - Real Sociedad B - Huesca
+UID:e5cf34a3-86d1-4881-9e07-e11ede6de9ca
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251030T081346Z
 DTSTART:20251108T130000Z
 DTEND:20251108T150000Z
 SUMMARY:Liga Hypermotion - Real Sociedad B - Leganés
-UID:2241f186-aa09-41dc-b866-9e7b3290bdd5
+UID:093ccd1d-81ce-4f95-9293-2155582e86ec
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion

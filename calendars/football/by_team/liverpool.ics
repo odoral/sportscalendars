@@ -16,25 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251029T081415Z
+DTSTAMP:20251030T081346Z
 DTSTART:20251101T200000Z
 DTEND:20251101T220000Z
 SUMMARY:Premier League - Liverpool - Aston Villa
-UID:f127823e-fcd0-4180-9c66-2bdb38d836eb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:51ba42a6-a973-4b8d-bb4d-206b1084cc7e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T081415Z
+DTSTAMP:20251030T081346Z
 DTSTART:20251104T200000Z
 DTEND:20251104T220000Z
 SUMMARY:Champions League - Liverpool - Real Madrid
-UID:5325f86d-4b24-41c9-8e1b-4e7447c421b1
+UID:a2b7d510-9f86-48c1-ad7a-184064b9d2b9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
- i></ul></body></html>
+ i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
-  PPV: Movistar Plus+
+  PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 END:VCALENDAR
