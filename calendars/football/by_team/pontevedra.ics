@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251027T042030Z
-DTSTART:20251029T193000Z
-DTEND:20251029T213000Z
-SUMMARY:Copa del Rey - UD Ourense - Pontevedra
-UID:74d472aa-ebfd-440e-ab13-c011dd20cfce
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li></ul></b
- ody></html>
-DESCRIPTION:- Open: TVG 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251027T042030Z
+DTSTAMP:20251030T004609Z
 DTSTART:20251101T130000Z
 DTEND:20251101T150000Z
 SUMMARY:Primera Federación - Pontevedra - Zamora C.F.
-UID:54c88a6e-34b2-480a-96a6-747d7ed57669
+UID:d088abd1-c17c-43fa-8f62-b7e3196a4eaf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251030T004609Z
+DTSTART:20251108T170000Z
+DTEND:20251108T190000Z
+SUMMARY:Primera Federación - Unionistas - Pontevedra
+UID:1dc25be6-ccb4-4aa5-9d03-24f58ebea2a5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

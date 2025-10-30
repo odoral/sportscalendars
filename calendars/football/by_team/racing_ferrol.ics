@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251029T041640Z
+DTSTAMP:20251030T004609Z
 DTSTART:20251101T173000Z
 DTEND:20251101T193000Z
 SUMMARY:Primera Federación - Racing Ferrol - Tenerife
-UID:82f82b68-375a-44fb-9856-43cb43918e3e
+UID:4c595fa1-4fc5-4a7a-b968-f1f81c843a44
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>Open: TVG 2</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>P
  PV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: TV Canaria\n- Open: TVG 2\n- PPV: FC Play\n- PPV: LaL
  iga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251030T004609Z
+DTSTART:20251108T151500Z
+DTEND:20251108T171500Z
+SUMMARY:Primera Federación - C.D. Arenteiro - Racing Ferrol
+UID:64e154de-49f4-4340-bfab-5181ef4bbf78
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

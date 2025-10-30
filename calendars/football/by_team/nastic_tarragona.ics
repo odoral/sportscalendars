@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251026T041122Z
+DTSTAMP:20251030T004609Z
 DTSTART:20251030T190000Z
 DTEND:20251030T210000Z
 SUMMARY:Copa del Rey - At. Baleares - Nàstic Tarragona
-UID:62397f91-1f20-480b-b2f3-8e1406d932d0
+UID:bbcd5b83-b3f6-4f68-a082-2530fac0dd5b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251026T041122Z
+DTSTAMP:20251030T004609Z
 DTSTART:20251102T193000Z
 DTEND:20251102T213000Z
 SUMMARY:Primera Federación - Nàstic Tarragona - At. Madrid B
-UID:99fd43ed-414d-47cd-a058-2ac50f54fb64
+UID:a60ffd70-fbe7-4736-982f-b81e609bdbcb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251030T004609Z
+DTSTART:20251108T200000Z
+DTEND:20251108T220000Z
+SUMMARY:Primera Federación - Real Murcia - Nàstic Tarragona
+UID:e9a502c9-e5d5-41fe-b80a-dbc9f64ab049
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
