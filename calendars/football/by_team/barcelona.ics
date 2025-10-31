@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251029T081415Z
+DTSTAMP:20251031T041405Z
 DTSTART:20251102T173000Z
 DTEND:20251102T193000Z
 SUMMARY:Liga EA Sports - Barcelona - Elche
-UID:bbac3759-3022-4d49-bf39-57c06d52f818
+UID:aeda94e6-5aa8-45e5-af2f-9a7c1bfb6445
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251029T081415Z
+DTSTAMP:20251031T041405Z
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
 SUMMARY:Champions League - Club Brugge - Barcelona
-UID:c2db5c43-5e15-40fa-ac28-ded0f668ef27
+UID:bea93b85-827d-4c93-bdda-8b307e6de969
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T041405Z
+DTSTART:20251109T200000Z
+DTEND:20251109T220000Z
+SUMMARY:Liga EA Sports - Celta - Barcelona
+UID:90969d98-4795-4493-b1e6-c426d362d6d0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR

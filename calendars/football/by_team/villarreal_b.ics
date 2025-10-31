@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251027T042030Z
+DTSTAMP:20251031T041405Z
 DTSTART:20251101T170000Z
 DTEND:20251101T190000Z
 SUMMARY:Primera Federación - Cartagena - Villarreal B
-UID:2ba2835c-94fc-4f3e-b132-4c6df0237715
+UID:69b1c3cf-dc6c-4a34-8d0a-de15f84281b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T041405Z
+DTSTART:20251109T193000Z
+DTEND:20251109T213000Z
+SUMMARY:Primera Federación - Villarreal B - At. Sanluqueño
+UID:73b749b8-d17e-4d59-b365-2d1c80ff8c54
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

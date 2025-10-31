@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251030T081346Z
+DTSTAMP:20251031T041405Z
 DTSTART:20251101T110000Z
 DTEND:20251101T130000Z
 SUMMARY:Liga F - At. Madrid Fem. - Alhama C.F.
-UID:48a1016e-3500-4298-8837-82eb39eaae0f
+UID:0579180e-4d9a-4009-8b47-93343fcc9f9d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: G
  olStadium Premium</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: DAZN 1\
  n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T041405Z
+DTSTART:20251109T110000Z
+DTEND:20251109T130000Z
+SUMMARY:Liga F - DUX Logroño Fem. - At. Madrid Fem.
+UID:a65da749-d6fc-4718-8ca3-0ab315214bff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: GolStad
+ ium Premium
 END:VEVENT
 END:VCALENDAR

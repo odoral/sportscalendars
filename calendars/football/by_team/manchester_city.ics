@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251030T081346Z
+DTSTAMP:20251031T041405Z
 DTSTART:20251102T163000Z
 DTEND:20251102T183000Z
 SUMMARY:Premier League - Manchester City - Bournemouth
-UID:68df6908-d731-473c-8714-e633cca6c2b2
+UID:8a81ce8a-74b0-47ec-95cb-9f31d73dc886
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
  +</li></ul></body></html>
@@ -28,13 +28,25 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
  V: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251030T081346Z
+DTSTAMP:20251031T041405Z
 DTSTART:20251105T200000Z
 DTEND:20251105T220000Z
 SUMMARY:Champions League - Manchester City - Borussia Dortmund
-UID:13b761d3-f2a0-4a2a-8d3b-3b517635c2b6
+UID:d586cca4-f999-42b3-9bbc-2011ed7de7a2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T041405Z
+DTSTART:20251109T163000Z
+DTEND:20251109T183000Z
+SUMMARY:Premier League - Manchester City - Liverpool
+UID:50d84f53-37b7-4da1-a1df-8755424b1140
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR

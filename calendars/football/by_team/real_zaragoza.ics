@@ -16,15 +16,29 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251030T004609Z
+DTSTAMP:20251031T041405Z
 DTSTART:20251102T200000Z
 DTEND:20251102T220000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Deportivo
-UID:5bf9e65d-990e-4bd2-a210-26b4bd08c2d6
+UID:520ab356-d574-4e97-ab91-f80298076b97
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T041405Z
+DTSTART:20251109T173000Z
+DTEND:20251109T193000Z
+SUMMARY:Liga Hypermotion - Granada C.F. - Real Zaragoza
+UID:0645d6c0-c42f-4114-82f9-b97b2ece56a4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TEN TV</
+ li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLi
+ ga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
+ - Open: TEN TV\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV
+  Hypermotion
 END:VEVENT
 END:VCALENDAR

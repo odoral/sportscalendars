@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251027T042030Z
+DTSTAMP:20251031T041405Z
 DTSTART:20251031T201500Z
 DTEND:20251031T221500Z
 SUMMARY:Primera Federación - Alcorcón - Sevilla At.
-UID:a7bcf918-5cf6-4c30-ab9d-c5e1aa4ed465
+UID:986662b9-f44f-478c-b87f-2fb8f658f1a8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T041405Z
+DTSTART:20251109T110000Z
+DTEND:20251109T130000Z
+SUMMARY:Primera Federación - Sevilla At. - Juv. Torremolinos
+UID:75438e69-2bc9-43c4-8d55-c949813de517
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

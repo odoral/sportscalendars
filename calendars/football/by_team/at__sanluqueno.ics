@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251026T041122Z
+DTSTAMP:20251031T041405Z
 DTSTART:20251101T200000Z
 DTEND:20251101T220000Z
 SUMMARY:Primera Federación - C.E. Europa - At. Sanluqueño
-UID:f0c2a6a3-31c0-49ea-8c39-bfa5ca40c1ab
+UID:c9ae6052-6723-47b4-9264-05a962b35add
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
  li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prim
  era Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T041405Z
+DTSTART:20251109T193000Z
+DTEND:20251109T213000Z
+SUMMARY:Primera Federación - Villarreal B - At. Sanluqueño
+UID:cb6aa56e-4442-4e3e-ab83-88fde012dfb3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

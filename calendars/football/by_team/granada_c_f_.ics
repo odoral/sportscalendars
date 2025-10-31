@@ -16,15 +16,29 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251026T041122Z
+DTSTAMP:20251031T041405Z
 DTSTART:20251103T193000Z
 DTEND:20251103T213000Z
 SUMMARY:Liga Hypermotion - Valladolid - Granada C.F.
-UID:f0ca8df5-2814-46af-9e74-edae10bd838c
+UID:ae893e87-1c55-413b-8826-e5edd63a0e99
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251031T041405Z
+DTSTART:20251109T173000Z
+DTEND:20251109T193000Z
+SUMMARY:Liga Hypermotion - Granada C.F. - Real Zaragoza
+UID:08d38ae9-0798-4e63-9dd4-4a67034e9ac4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TEN TV</
+ li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLi
+ ga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
+ - Open: TEN TV\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV
+  Hypermotion
 END:VEVENT
 END:VCALENDAR
