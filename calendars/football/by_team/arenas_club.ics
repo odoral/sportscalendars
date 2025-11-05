@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251103T041855Z
+DTSTAMP:20251105T081435Z
 DTSTART:20251108T200000Z
 DTEND:20251108T220000Z
 SUMMARY:Primera Federación - Arenas Club - Osasuna Promesas
-UID:f86336e5-de01-42f7-8884-e40cdb043bc1
+UID:e2fd7e29-4cc2-4dd3-80fa-1be4e95deed6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251105T081435Z
+DTSTART:20251114T201500Z
+DTEND:20251114T221500Z
+SUMMARY:Primera Federación - Real Avilés - Arenas Club
+UID:abf66ef8-5bcd-46f4-8888-e3c371729722
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
