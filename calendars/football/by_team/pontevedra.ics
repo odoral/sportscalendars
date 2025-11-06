@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251102T004859Z
+DTSTAMP:20251106T004549Z
 DTSTART:20251108T170000Z
 DTEND:20251108T190000Z
 SUMMARY:Primera Federación - Unionistas - Pontevedra
-UID:8486d695-511f-4d51-b620-1d5bae16d424
+UID:97485a9c-9a96-47a4-94cd-ad19c7d4391d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251106T004549Z
+DTSTART:20251115T151500Z
+DTEND:20251115T171500Z
+SUMMARY:Primera Federación - Pontevedra - Mérida
+UID:ecae8f1c-5221-4d33-9213-9bc71f7a277a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR

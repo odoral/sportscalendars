@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251102T004859Z
+DTSTAMP:20251106T004549Z
 DTSTART:20251108T183000Z
 DTEND:20251108T203000Z
 SUMMARY:Primera Federación - Tenerife - Bilbao Athletic
-UID:70c63c4f-8bb8-4192-aae8-4dd958b028d7
+UID:d8dc99cb-ff84-4aef-905e-ff813565a996
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251106T004549Z
+DTSTART:20251115T210000Z
+DTEND:20251115T230000Z
+SUMMARY:Primera Federación - Tenerife - Celta B
+UID:0d52d2ed-b61c-456b-be83-d99f3b5ffc91
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
+ </li></ul></body></html>
+DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
+ imera Federación
 END:VEVENT
 END:VCALENDAR
