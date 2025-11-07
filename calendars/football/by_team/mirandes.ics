@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251103T081549Z
+DTSTAMP:20251107T041315Z
 DTSTART:20251107T193000Z
 DTEND:20251107T213000Z
 SUMMARY:Liga Hypermotion - Mirandés - Sporting de Gijón
-UID:daccee60-ad69-4bb2-8c1d-f64ee3543b62
+UID:416050b4-7c12-42dc-9081-e05ca090205e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T041315Z
+DTSTART:20251116T173000Z
+DTEND:20251116T193000Z
+SUMMARY:Liga Hypermotion - Mirandés - Burgos C.F.
+UID:5ebdb95c-b7b6-4b20-96ba-0e6dba33c080
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

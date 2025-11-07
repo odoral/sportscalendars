@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251102T004859Z
+DTSTAMP:20251107T041315Z
 DTSTART:20251108T151500Z
 DTEND:20251108T171500Z
 SUMMARY:Primera Federación - Hércules - C.E. Europa
-UID:471e6f0d-c468-4906-86ac-4457feee87ff
+UID:65fe10c3-e1c7-4350-ab86-f02355856911
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T041315Z
+DTSTART:20251116T200000Z
+DTEND:20251116T220000Z
+SUMMARY:Primera Federación - C.E. Europa - Cartagena
+UID:92e0db96-daf4-45fb-99a7-1a10a838284f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación

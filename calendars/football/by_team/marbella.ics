@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251105T081435Z
+DTSTAMP:20251107T041315Z
 DTSTART:20251109T110000Z
 DTEND:20251109T130000Z
 SUMMARY:Primera Federación - Marbella - Alcorcón
-UID:109af802-fa55-4a53-afaf-65775464a56f
+UID:beece30c-7fe8-42e9-80ca-a7b37d21ced6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T041315Z
+DTSTART:20251116T131500Z
+DTEND:20251116T151500Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Marbella
+UID:6cc4e854-ae36-4ad7-a2db-3cb753b4568b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

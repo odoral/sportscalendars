@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251104T081454Z
+DTSTAMP:20251107T041316Z
 DTSTART:20251109T110000Z
 DTEND:20251109T130000Z
 SUMMARY:Liga F - DUX Logroño Fem. - At. Madrid Fem.
-UID:bf72d0d8-b5be-4c01-b290-d15879547722
+UID:ad0e674b-8364-45c4-826f-6f236f68c552
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 3</li>\n<li>PPV: G
  olStadium Premium</li></ul></body></html>
@@ -28,13 +28,25 @@ DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: DAZN 3\
  n- PPV: GolStadium Premium
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251104T081454Z
+DTSTAMP:20251107T041316Z
 DTSTART:20251112T200000Z
 DTEND:20251112T220000Z
 SUMMARY:Women's Champions League - At. Madrid Fem. - Juventus Women
-UID:f4aece0b-2e59-4f8b-a1ed-a38a404279f7
+UID:739824ec-637a-44f3-add7-9119372fa76b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T041316Z
+DTSTART:20251116T110000Z
+DTEND:20251116T130000Z
+SUMMARY:Liga F - At. Madrid Fem. - FC Badalona Women
+UID:c922f0f4-6d55-4127-bd79-0f9851187121
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: GolStad
+ ium Premium
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251105T081435Z
+DTSTAMP:20251107T041315Z
 DTSTART:20251112T193000Z
 DTEND:20251112T213000Z
 SUMMARY:Primera Federación - Zamora C.F. - Ourense C.F.
-UID:014120e7-4309-4c4a-aafd-85707b8597cb
+UID:6bd1252f-8922-4e12-8f39-3fbe7ac2a025
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T041315Z
+DTSTART:20251116T174500Z
+DTEND:20251116T194500Z
+SUMMARY:Primera Federación - Racing Ferrol - Zamora C.F.
+UID:738e8c70-ab60-4282-864c-9cdc69ffe4dd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

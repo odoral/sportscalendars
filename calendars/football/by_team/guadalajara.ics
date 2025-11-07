@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251105T081435Z
+DTSTAMP:20251107T041315Z
 DTSTART:20251109T171500Z
 DTEND:20251109T191500Z
 SUMMARY:Primera Federación - Guadalajara - Lugo
-UID:89b246bc-eac5-479e-91d4-33d7330ad88e
+UID:f20a6fc5-0523-4158-a3fd-0bdca7f1149a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T041315Z
+DTSTART:20251116T150000Z
+DTEND:20251116T170000Z
+SUMMARY:Primera Federación - Ourense C.F. - Guadalajara
+UID:406d4e86-cd62-46b7-b750-01ebc543e8dc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
+ >
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ 
 END:VEVENT
 END:VCALENDAR

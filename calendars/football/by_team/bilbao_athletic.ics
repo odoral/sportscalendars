@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251102T004859Z
+DTSTAMP:20251107T041315Z
 DTSTART:20251108T183000Z
 DTEND:20251108T203000Z
 SUMMARY:Primera Federación - Tenerife - Bilbao Athletic
-UID:1807f7ba-723c-428d-bf53-d56864b80bc2
+UID:341dbfa3-8742-4d46-bc5b-7fce68601780
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251107T041315Z
+DTSTART:20251116T173000Z
+DTEND:20251116T193000Z
+SUMMARY:Primera Federación - Bilbao Athletic - C.D. Arenteiro
+UID:fb9ef672-7309-4d1d-9a7a-7c5508e867ce
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
