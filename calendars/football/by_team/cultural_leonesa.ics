@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251105T081435Z
+DTSTAMP:20251108T041142Z
 DTSTART:20251108T173000Z
 DTEND:20251108T193000Z
 SUMMARY:Liga Hypermotion - Deportivo - Cultural Leonesa
-UID:ba9855b3-e289-41a7-a8a2-ae569fa3d208
+UID:c9005ba5-0cc7-47cd-9e52-caf4e59fff58
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251108T041142Z
+DTSTART:20251117T193000Z
+DTEND:20251117T213000Z
+SUMMARY:Liga Hypermotion - Cultural Leonesa - Málaga
+UID:86c4bd92-f685-4539-9433-d7d152f06fb6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
