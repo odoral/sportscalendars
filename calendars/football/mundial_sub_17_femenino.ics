@@ -16,23 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251104T081453Z
-DTSTART:20251105T153000Z
-DTEND:20251105T173000Z
-SUMMARY:Mundial Sub-17 Femenino - Brasil - Corea del Norte
-UID:8ddfb22d-2941-4384-a483-9a0273776ae0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251104T081453Z
-DTSTART:20251105T190000Z
-DTEND:20251105T210000Z
-SUMMARY:Mundial Sub-17 Femenino - Holanda - México
-UID:1a217d83-17f8-4b52-a519-466d5d910211
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+DTSTAMP:20251108T081217Z
+DTSTART:20251108T190000Z
+DTEND:20251108T210000Z
+SUMMARY:Mundial Sub-17 Femenino - Corea del Norte - Holanda
+UID:b28e4b95-3d66-4301-880b-0d41b42f29eb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
+ en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
