@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251109T004840Z
+DTSTAMP:20251112T004618Z
 DTSTART:20251116T131500Z
 DTEND:20251116T151500Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Marbella
-UID:b6418708-0b01-4481-aab7-a9ed119a00d0
+UID:bfb346fa-dadf-45f4-a0c7-002fd37a2b16
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251112T004618Z
+DTSTART:20251121T180000Z
+DTEND:20251121T200000Z
+SUMMARY:Primera Federación - Villarreal B - Nàstic Tarragona
+UID:37dfcebb-ca91-43d3-871b-bb9c1fae1d32
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
