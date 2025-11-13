@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251112T081447Z
+DTSTAMP:20251113T041640Z
 DTSTART:20251114T183000Z
 DTEND:20251114T203000Z
 SUMMARY:Liga F - Deportivo Abanca - Levante UD  Fem.
-UID:2f623fab-4591-409b-9277-bf1f05669402
+UID:b7ebd809-e200-46fc-a93f-6e40728122b2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251113T041640Z
+DTSTART:20251122T110000Z
+DTEND:20251122T130000Z
+SUMMARY:Liga F - Sevilla FC Fem. - Deportivo Abanca
+UID:a11e4eb0-6ede-49bc-920e-73be6956b147
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TEN TV</li>\n<li>Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: G
+ olStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TVG 2\n- PPV: DAZN\
+ n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR

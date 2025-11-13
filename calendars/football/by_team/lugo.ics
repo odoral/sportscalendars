@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251112T081447Z
+DTSTAMP:20251113T041640Z
 DTSTART:20251115T190000Z
 DTEND:20251115T210000Z
 SUMMARY:Primera Federación - Ponferradina - Lugo
-UID:c98b6ad3-8f8e-467e-99e1-16d11b86dfed
+UID:e4c7e56b-6564-4020-8c16-74d828e419db
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 2</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Fede
  ración</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 2\n- PPV: LaLiga+\n- P
  PV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251113T041640Z
+DTSTART:20251122T151500Z
+DTEND:20251122T171500Z
+SUMMARY:Primera Federación - Lugo - Pontevedra
+UID:c4ef2e30-39df-497a-bfd7-2a322a552f95
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

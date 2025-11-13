@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251110T004825Z
+DTSTAMP:20251113T041640Z
 DTSTART:20251114T180000Z
 DTEND:20251114T200000Z
 SUMMARY:Primera Federación - Betis Deportivo - Sabadell
-UID:48d4bd6e-414c-4bfb-be41-46fc0d1cc575
+UID:e3a38d52-9114-474b-b57c-2a156d07a6e9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
  li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prim
  era Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251113T041640Z
+DTSTART:20251122T200000Z
+DTEND:20251122T220000Z
+SUMMARY:Primera Federación - Hércules - Betis Deportivo
+UID:f89e3edc-ef2a-483b-bc54-556d47e9711f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
