@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251113T081420Z
+DTSTAMP:20251114T041403Z
 DTSTART:20251115T200000Z
 DTEND:20251115T220000Z
 SUMMARY:Primera Federación - Tenerife - Celta B
-UID:30e21d63-efac-42d0-a868-9d3d90e9d814
+UID:d41e8605-c64b-4f6d-8bac-8f1ae3d137b9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
  </li></ul></body></html>
 DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
  imera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T041403Z
+DTSTART:20251123T110000Z
+DTEND:20251123T130000Z
+SUMMARY:Primera Federación - Celta B - Ponferradina
+UID:c69a5479-4094-47ec-b03b-849cd930851c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

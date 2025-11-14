@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251109T004840Z
+DTSTAMP:20251114T041403Z
 DTSTART:20251116T174500Z
 DTEND:20251116T194500Z
 SUMMARY:Primera Federación - Racing Ferrol - Zamora C.F.
-UID:326cbd76-5670-445e-b993-d01419d83967
+UID:c6f23344-1924-4ce9-a9df-37de09fb8555
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251114T041403Z
+DTSTART:20251123T150000Z
+DTEND:20251123T170000Z
+SUMMARY:Primera Federación - Barakaldo - Racing Ferrol
+UID:02c53dbc-ad08-4a92-af11-7a63bcfbdd07
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
