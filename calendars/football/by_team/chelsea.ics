@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251113T041641Z
+DTSTAMP:20251116T005029Z
 DTSTART:20251122T123000Z
 DTEND:20251122T143000Z
 SUMMARY:Premier League - Burnley - Chelsea
-UID:7e9f77ee-0498-410d-befc-658472e612a8
+UID:ed1eea14-0df9-4f4f-b6ad-83863090c9a1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251116T005029Z
+DTSTART:20251125T200000Z
+DTEND:20251125T220000Z
+SUMMARY:Champions League - Chelsea - Barcelona
+UID:0c0c31d4-bf7d-494e-88a9-cca44a86ec37
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR
