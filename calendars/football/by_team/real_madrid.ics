@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251114T041403Z
+DTSTAMP:20251117T041720Z
 DTSTART:20251123T200000Z
 DTEND:20251123T220000Z
 SUMMARY:Liga EA Sports - Elche - Real Madrid
-UID:7277fafe-3ca8-41ba-ba80-6978d74c8128
+UID:c46941c2-897e-4377-89f8-ae68ef421859
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251117T041720Z
+DTSTART:20251126T200000Z
+DTEND:20251126T220000Z
+SUMMARY:Champions League - Olympiacos - Real Madrid
+UID:eb59757b-6be4-49e7-b10a-8ca0f65f2a01
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
