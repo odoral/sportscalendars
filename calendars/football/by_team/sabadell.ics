@@ -16,21 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T004601Z
+DTSTAMP:20251119T081409Z
+DTSTART:20251119T183000Z
+DTEND:20251119T203000Z
+SUMMARY:Copa Catalunya - Ripollet CF - Sabadell
+UID:ed51a23a-9086-4a14-981c-d3b403328718
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch RadioSabade
+ ll</li></ul></body></html>
+DESCRIPTION:- Open: Twitch RadioSabadell
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251119T081409Z
 DTSTART:20251123T193000Z
 DTEND:20251123T213000Z
 SUMMARY:Primera Federación - Sabadell - Sevilla At.
-UID:b552b6ae-2558-42d0-af4f-09516703165a
+UID:d285b497-57ec-47f1-bc36-51bfd54cade2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
+ li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prim
+ era Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251119T004601Z
+DTSTAMP:20251119T081409Z
 DTSTART:20251128T201500Z
 DTEND:20251128T221500Z
 SUMMARY:Primera Federación - C.E. Europa - Sabadell
-UID:cf247bdf-1a74-4bdc-95fe-57d9cd9b9992
+UID:4e205207-23dd-4cea-989f-d10d2fcd02e6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
