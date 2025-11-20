@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251120T041244Z
 DTSTART:20251123T173000Z
 DTEND:20251123T193000Z
 SUMMARY:Liga EA Sports - Getafe - Atlético de Madrid
-UID:dd8ecf79-dcee-4772-85fb-77a7f4168887
+UID:4d97f6c7-7425-4de7-81c9-6cd3b40abf01
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251120T041244Z
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
 SUMMARY:Champions League - Atlético de Madrid - Inter de Milan
-UID:eff5c3db-5ed3-486d-831a-a8ec84cb5503
+UID:bff5cdf9-3ba9-46fa-9f44-92d0040c87a1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251120T041244Z
+DTSTART:20251129T200000Z
+DTEND:20251129T220000Z
+SUMMARY:Liga EA Sports - Atlético de Madrid - Real Oviedo
+UID:8e71ce0a-43e2-4f59-b90a-6bcb2adb6d2e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 END:VCALENDAR

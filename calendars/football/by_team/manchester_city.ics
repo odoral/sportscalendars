@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251120T041244Z
 DTSTART:20251122T173000Z
 DTEND:20251122T193000Z
 SUMMARY:Premier League - Newcastle - Manchester City
-UID:30dc5ff9-67fd-4532-b543-74ae0374afcb
+UID:e0fe5d24-3f16-4556-b540-841d6d939e6d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
  s+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251120T041244Z
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
 SUMMARY:Champions League - Manchester City - Bayer Leverkusen
-UID:aaf53dc2-fe21-437b-9363-c98a7e1a3711
+UID:4ed5ee1e-1a6c-451e-a976-f092e85a2a12
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251120T041244Z
+DTSTART:20251129T150000Z
+DTEND:20251129T170000Z
+SUMMARY:Premier League - Manchester City - Leeds Utd
+UID:d4a47042-7246-4344-9ebe-f954c5049186
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

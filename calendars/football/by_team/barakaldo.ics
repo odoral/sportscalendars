@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251120T041244Z
 DTSTART:20251123T150000Z
 DTEND:20251123T170000Z
 SUMMARY:Primera Federación - Barakaldo - Racing Ferrol
-UID:775429c4-9ce9-44d4-bfda-5d001cf99763
+UID:620d5064-a42b-4574-929a-048cee3f9f6c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251120T041244Z
+DTSTART:20251129T130000Z
+DTEND:20251129T150000Z
+SUMMARY:Primera Federación - R.M. Castilla - Barakaldo
+UID:a0788e78-8088-4a07-94cd-ecdad657c1c3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

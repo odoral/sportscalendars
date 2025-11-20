@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251120T041244Z
 DTSTART:20251122T173000Z
 DTEND:20251122T193000Z
 SUMMARY:Primera Federación - Arenas Club - Tenerife
-UID:98f2eb32-1f1c-4ad0-b422-37e5cd3ccdd2
+UID:e58c2121-adb5-4fd9-be07-0c72fe7d0aad
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251120T041244Z
+DTSTART:20251129T183000Z
+DTEND:20251129T203000Z
+SUMMARY:Primera Federación - Tenerife - C.D. Arenteiro
+UID:51f781b7-3477-46b9-b69e-e164b29446ed
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

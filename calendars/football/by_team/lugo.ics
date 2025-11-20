@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251120T041244Z
 DTSTART:20251122T151500Z
 DTEND:20251122T171500Z
 SUMMARY:Primera Federación - Lugo - Pontevedra
-UID:b8e6e43f-ab12-4e86-b11f-eac955959113
+UID:f1bc6f17-df6e-4b9d-89da-8d90f43e2365
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li><
  /ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PP
  V: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251120T041244Z
+DTSTART:20251129T151500Z
+DTEND:20251129T171500Z
+SUMMARY:Primera Federación - Bilbao Athletic - Lugo
+UID:d782ff80-bb52-4a0e-8bc4-6da5f81f5213
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

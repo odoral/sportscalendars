@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251117T081606Z
+DTSTAMP:20251120T041245Z
 DTSTART:20251121T201500Z
 DTEND:20251121T221500Z
 SUMMARY:Primera Federación - Unionistas - R.M. Castilla
-UID:e335c1c5-9006-4945-b3f3-cf95aec01602
+UID:c88684b4-7241-48f5-af6f-08b0ee354573
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251120T041245Z
+DTSTART:20251129T130000Z
+DTEND:20251129T150000Z
+SUMMARY:Primera Federación - R.M. Castilla - Barakaldo
+UID:edfbbcef-23a7-4672-a6f6-9c7aba79d7ff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

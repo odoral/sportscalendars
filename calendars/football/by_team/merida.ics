@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251120T041245Z
 DTSTART:20251122T151500Z
 DTEND:20251122T171500Z
 SUMMARY:Primera Federación - Mérida - Real Avilés
-UID:7df30ad0-eda5-4e4e-ae74-2f0c4b04b79c
+UID:abf26f08-2e02-48e5-872e-c602870ff725
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251120T041245Z
+DTSTART:20251129T200000Z
+DTEND:20251129T220000Z
+SUMMARY:Primera Federación - Racing Ferrol - Mérida
+UID:7e7e63cb-eaf6-40f0-b717-cc95e7a409bc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

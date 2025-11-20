@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251120T041244Z
 DTSTART:20251122T173000Z
 DTEND:20251122T193000Z
 SUMMARY:Premier League - Newcastle - Manchester City
-UID:f9aaf17a-9783-4ccc-a072-31645eb5563b
+UID:5a291a6b-a097-457f-b98c-ccf760b7e3f2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
  s+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251120T041244Z
 DTSTART:20251125T200000Z
 DTEND:20251125T220000Z
 SUMMARY:Champions League - O. Marsella - Newcastle
-UID:2e36a176-bda0-44a1-b1f8-8487cc343d05
+UID:d089702b-2fea-4cee-acf3-5129a9d0ac44
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251120T041244Z
+DTSTART:20251129T173000Z
+DTEND:20251129T193000Z
+SUMMARY:Premier League - Everton - Newcastle
+UID:f63dc164-a86c-43d1-a1da-cc754ca85fda
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
