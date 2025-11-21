@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251121T041322Z
 DTSTART:20251123T151500Z
 DTEND:20251123T171500Z
 SUMMARY:Liga EA Sports - Betis - Girona
-UID:7ba10ef4-4e7e-493e-8f64-6119727802fa
+UID:9e6ff4d4-90c4-4e55-b2db-34d0940d78e9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251121T041322Z
 DTSTART:20251127T200000Z
 DTEND:20251127T220000Z
 SUMMARY:Europa League - Betis - Utrecht
-UID:dd4282ab-012e-4bdc-b3d9-62516627d0c2
+UID:749d1a6c-cae1-4f3b-9785-7b2376a41aae
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251121T041322Z
+DTSTART:20251130T151500Z
+DTEND:20251130T171500Z
+SUMMARY:Liga EA Sports - Sevilla - Betis
+UID:00789fcc-50b9-4bbb-be35-9c1c2aeb0288
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR

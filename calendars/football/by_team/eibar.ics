@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251121T041322Z
 DTSTART:20251122T173000Z
 DTEND:20251122T193000Z
 SUMMARY:Liga Hypermotion - Eibar - Real Zaragoza
-UID:f857fa6b-2a02-48a7-a5ee-3c37d227ba73
+UID:37bb12cb-5e1d-468c-a02c-2ef887b04f4c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TEN TV</
  li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLi
@@ -29,5 +29,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
  - Open: TEN TV\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV
   Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251121T041322Z
+DTSTART:20251130T151500Z
+DTEND:20251130T171500Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Eibar
+UID:ebc16a1c-b576-43f9-9329-fc26a9d8a26d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

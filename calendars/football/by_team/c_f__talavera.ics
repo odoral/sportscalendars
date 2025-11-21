@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251120T081507Z
+DTSTAMP:20251121T041322Z
 DTSTART:20251123T150000Z
 DTEND:20251123T170000Z
 SUMMARY:Primera Federación - Zamora C.F. - C.F. Talavera
-UID:0ee6cc6a-feb0-447b-a00f-d27c0610bcd4
+UID:ce002d8e-b6da-4241-af5a-2b2a18ffc468
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
  >
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
  
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251121T041322Z
+DTSTART:20251130T110000Z
+DTEND:20251130T130000Z
+SUMMARY:Primera Federación - C.F. Talavera - Cacereño
+UID:4bf51b65-4439-4917-b7d8-819a3f3f0599
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

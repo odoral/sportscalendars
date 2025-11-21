@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251121T041322Z
 DTSTART:20251123T200000Z
 DTEND:20251123T220000Z
 SUMMARY:Liga EA Sports - Elche - Real Madrid
-UID:cc6b4f97-4136-42d0-a2d5-4731c22e5a67
+UID:2914baf9-afda-4a68-83e8-a37af403f0cb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251119T081409Z
+DTSTAMP:20251121T041322Z
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
 SUMMARY:Champions League - Olympiacos - Real Madrid
-UID:ae9e6fb3-fe86-405c-838a-3233947115bd
+UID:f2d29a78-4b5c-451c-812b-8dca74493a1b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251121T041322Z
+DTSTART:20251130T200000Z
+DTEND:20251130T220000Z
+SUMMARY:Liga EA Sports - Girona - Real Madrid
+UID:32a027c2-f05f-4ce6-bb7f-e1bd7ab09df7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR
