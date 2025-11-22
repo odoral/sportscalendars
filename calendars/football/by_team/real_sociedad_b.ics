@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251121T081451Z
+DTSTAMP:20251122T041200Z
 DTSTART:20251124T193000Z
 DTEND:20251124T213000Z
 SUMMARY:Liga Hypermotion - Real Sociedad B - Valladolid
-UID:a2a25f07-f4dc-49f0-9936-aa8fbc15a69d
+UID:8cb13d4c-c82d-4427-b74e-0fec39fcaef2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251122T041200Z
+DTSTART:20251201T193000Z
+DTEND:20251201T213000Z
+SUMMARY:Liga Hypermotion - Mirandés - Real Sociedad B
+UID:406a3df1-5a97-4ca3-9703-62244e2c5875
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
