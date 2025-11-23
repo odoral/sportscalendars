@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251120T041245Z
+DTSTAMP:20251123T005335Z
 DTSTART:20251123T151500Z
 DTEND:20251123T171500Z
 SUMMARY:Liga Hypermotion - Huesca - Sporting de Gijón
-UID:22cff48c-f95a-4945-90d0-5d93a53f19bd
+UID:884d37f2-3486-4c95-9411-6e05a3e5a814
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251120T041245Z
+DTSTAMP:20251123T005335Z
 DTSTART:20251129T173000Z
 DTEND:20251129T193000Z
 SUMMARY:Liga Hypermotion - Almería - Huesca
-UID:bf91e709-e29d-4a37-9371-5d64fdaa9ac3
+UID:177f7f5c-4b26-4b02-adbb-f81859648287
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251123T005335Z
+DTSTART:20251202T180000Z
+DTEND:20251202T200000Z
+SUMMARY:Copa del Rey - Racing Ferrol - Huesca
+UID:22598201-0828-4612-b2f3-f4c04bd78abe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: TVG 2</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: TVG 2
 END:VEVENT
 END:VCALENDAR

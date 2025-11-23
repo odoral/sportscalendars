@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251119T004601Z
+DTSTAMP:20251123T005335Z
 DTSTART:20251128T193000Z
 DTEND:20251128T213000Z
 SUMMARY:UEFA Women's Nations League - Alemania - España
-UID:a6efbce0-134a-4e75-8326-e0c874120922
+UID:525e4084-663b-4d89-b2c0-a7a73fc05183
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251123T005335Z
+DTSTART:20251202T173000Z
+DTEND:20251202T193000Z
+SUMMARY:UEFA Women's Nations League - España - Alemania
+UID:6dfe5d07-32ec-4363-9f09-24038867e9e6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
