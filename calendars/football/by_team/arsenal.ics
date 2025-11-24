@@ -16,35 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251122T081240Z
-DTSTART:20251123T163000Z
-DTEND:20251123T183000Z
-SUMMARY:Premier League - Arsenal - Tottenham
-UID:e07cf484-8959-4a30-a32d-07b071bfd8b4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
- +</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
- V: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251122T081240Z
+DTSTAMP:20251124T042516Z
 DTSTART:20251126T200000Z
 DTEND:20251126T220000Z
 SUMMARY:Champions League - Arsenal - FC Bayern
-UID:c8ee8d59-4cf5-41b7-a417-8f0d6a37f9ce
+UID:19911f31-b062-4088-a3d2-ed0b566406b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251122T081240Z
+DTSTAMP:20251124T042516Z
 DTSTART:20251130T163000Z
 DTEND:20251130T183000Z
 SUMMARY:Premier League - Chelsea - Arsenal
-UID:8a4deab1-2dc2-4843-bdc1-31ad273126f5
+UID:86d0ab49-cd38-4149-8d13-652acce03a5a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251124T042516Z
+DTSTART:20251203T193000Z
+DTEND:20251203T213000Z
+SUMMARY:Premier League - Arsenal - Brentford
+UID:9e8398c6-9a77-4719-b861-c2a8c3aee0ac
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
