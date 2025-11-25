@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251122T041200Z
+DTSTAMP:20251125T004507Z
 DTSTART:20251129T173000Z
 DTEND:20251129T193000Z
 SUMMARY:Liga Hypermotion - Albacete - Deportivo
-UID:d16d24ba-e245-4f9e-90f4-ce10ac47913c
+UID:16776010-0a4b-43f8-aa51-94e4e20c145d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: Gol
  Stadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></h
  tml>
 DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TVG\n- PPV: DAZN\n-
   PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251125T004507Z
+DTSTART:20251204T180000Z
+DTEND:20251204T200000Z
+SUMMARY:Copa del Rey - Leganés - Albacete
+UID:5a556873-5b52-45f5-a3fb-9b1622cd75a2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMM (Castilla-LM)<
+ /li></ul></body></html>
+DESCRIPTION:- Open: CMM (Castilla-LM)
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251123T005335Z
+DTSTAMP:20251125T004507Z
 DTSTART:20251127T174500Z
 DTEND:20251127T194500Z
 SUMMARY:Europa League - PFC Ludogorets - Celta
-UID:7b81d6cb-9f39-4aa1-abdb-6bb5a98bdbeb
+UID:fb17f91a-dc9b-4fb4-8a84-ff89adcb7838
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251123T005335Z
+DTSTAMP:20251125T004507Z
 DTSTART:20251130T173000Z
 DTEND:20251130T193000Z
 SUMMARY:Liga EA Sports - Celta - Espanyol
-UID:49b2c5cf-dbe1-40de-ad54-ac9f74871f1e
+UID:3f7f88f5-4a06-4a3e-99d8-8584efbd085b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251125T004507Z
+DTSTART:20251204T200000Z
+DTEND:20251204T220000Z
+SUMMARY:Copa del Rey - Sant Andreu - Celta
+UID:2b426879-c8a2-478b-b305-23ab189bf966
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR

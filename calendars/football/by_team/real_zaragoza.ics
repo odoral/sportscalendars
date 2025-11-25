@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251123T005335Z
+DTSTAMP:20251125T004507Z
 DTSTART:20251130T130000Z
 DTEND:20251130T150000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Leganés
-UID:21a1baf1-b6fb-4ce6-857b-9688d186e27d
+UID:eca57ebe-cfc2-4681-b1ee-61a1d5bc9cf5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251125T004507Z
+DTSTART:20251204T200000Z
+DTEND:20251204T220000Z
+SUMMARY:Copa del Rey - Real Zaragoza - Burgos C.F.
+UID:042cbc29-2158-412e-aebc-cf80e3f6cbf9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR

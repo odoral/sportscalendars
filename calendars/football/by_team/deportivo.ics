@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251124T042516Z
+DTSTAMP:20251125T004507Z
 DTSTART:20251129T173000Z
 DTEND:20251129T193000Z
 SUMMARY:Liga Hypermotion - Albacete - Deportivo
-UID:8eecde4c-afba-4604-968b-4d4ea028163c
+UID:be436c38-4ab9-45e4-8814-18cf27935f00
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: Gol
  Stadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></h
  tml>
 DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TVG\n- PPV: DAZN\n-
   PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251125T004507Z
+DTSTART:20251204T180000Z
+DTEND:20251204T200000Z
+SUMMARY:Copa del Rey - Sabadell - Deportivo
+UID:fc6d0ebb-db7e-4ba0-924f-581f6a2cf69d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: TVG</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: TVG
 END:VEVENT
 END:VCALENDAR
