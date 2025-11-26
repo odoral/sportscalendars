@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251124T042516Z
+DTSTAMP:20251126T081445Z
 DTSTART:20251126T180000Z
 DTEND:20251126T200000Z
 SUMMARY:Liga Hypermotion - AD Ceuta - Almería
-UID:02b3622f-261f-4754-aaa2-fdacc64e3a9b
+UID:6c7fd218-c763-46b2-b951-967caad2ccfe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251124T042516Z
+DTSTAMP:20251126T081445Z
 DTSTART:20251129T130000Z
 DTEND:20251129T150000Z
 SUMMARY:Liga Hypermotion - AD Ceuta - Burgos C.F.
-UID:37836efa-a63d-42f8-b294-8d7fec11a74d
+UID:903ee68a-dfc3-48d6-ab89-2c7c80281e06
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 END:VCALENDAR
