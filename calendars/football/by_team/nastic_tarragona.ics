@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251122T041200Z
+DTSTAMP:20251126T041631Z
 DTSTART:20251130T150000Z
 DTEND:20251130T170000Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Hércules
-UID:0c1e78d2-121e-47a7-bf5d-a5b70fe505f6
+UID:77678807-1756-4d9c-baae-eeb2aeab2545
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
  /li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: À Punt (València)\n- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251126T041631Z
+DTSTART:20251205T193000Z
+DTEND:20251205T213000Z
+SUMMARY:Primera Federación - Sevilla At. - Nàstic Tarragona
+UID:a0348243-00a0-4dee-8155-875041b0f51e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
