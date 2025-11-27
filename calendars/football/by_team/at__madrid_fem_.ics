@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251121T041322Z
-DTSTART:20251123T120000Z
-DTEND:20251123T140000Z
-SUMMARY:Liga F - UDG Tenerife - At. Madrid Fem.
-UID:1b14bb06-3e09-41a6-92d6-acf852325b0c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 2</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Ellas Vamos
+DTSTAMP:20251127T041411Z
+DTSTART:20251206T110000Z
+DTEND:20251206T130000Z
+SUMMARY:Liga F - At. Madrid Fem. - Sevilla FC Fem.
+UID:23a0a916-8716-46e8-9c55-944d859a3a9b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n- PPV: GolStad
+ ium Premium
 END:VEVENT
 END:VCALENDAR

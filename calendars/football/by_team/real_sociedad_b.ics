@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251126T081445Z
+DTSTAMP:20251127T041411Z
 DTSTART:20251201T193000Z
 DTEND:20251201T213000Z
 SUMMARY:Liga Hypermotion - Mirandés - Real Sociedad B
-UID:62869526-615e-44d7-b922-bff25da2bd2c
+UID:110ec8de-c6de-45be-ad61-9047c63a5af3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251127T041411Z
+DTSTART:20251206T173000Z
+DTEND:20251206T193000Z
+SUMMARY:Liga Hypermotion - Real Sociedad B - Sporting de Gijón
+UID:8a14df09-005d-4eb3-bf8b-60b1227229b7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

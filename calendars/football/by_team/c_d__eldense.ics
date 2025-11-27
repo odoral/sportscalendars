@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251124T042516Z
+DTSTAMP:20251127T041411Z
 DTSTART:20251129T190000Z
 DTEND:20251129T210000Z
 SUMMARY:Primera Federación - C.D. Eldense - Antequera
-UID:a1472e27-49e7-49ff-b83d-00d096dc522a
+UID:3c623d4f-d3ca-4cb4-918b-a410a85686da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251127T041411Z
+DTSTART:20251206T171500Z
+DTEND:20251206T191500Z
+SUMMARY:Primera Federación - Alcorcón - C.D. Eldense
+UID:44dd788e-1335-42cd-bf58-acbcee3fa339
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
