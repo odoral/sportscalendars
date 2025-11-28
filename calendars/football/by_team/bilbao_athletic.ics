@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251126T081445Z
+DTSTAMP:20251128T041356Z
 DTSTART:20251129T151500Z
 DTEND:20251129T171500Z
 SUMMARY:Primera Federación - Bilbao Athletic - Lugo
-UID:fac61cdf-40d1-4bd3-8890-005de99114fd
+UID:16af52a6-3e98-41a2-b48e-e3b9e3dbc4ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
  </ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
   Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251128T041356Z
+DTSTART:20251207T110000Z
+DTEND:20251207T130000Z
+SUMMARY:Primera Federación - Arenas Club - Bilbao Athletic
+UID:9e98f787-786c-4c0f-be7d-e6449fff72d3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

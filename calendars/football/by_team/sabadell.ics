@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251125T081535Z
+DTSTAMP:20251128T041356Z
 DTSTART:20251128T201500Z
 DTEND:20251128T221500Z
 SUMMARY:Primera Federación - C.E. Europa - Sabadell
-UID:25be5c9c-ffe3-409b-ae4d-5ef327335bf3
+UID:5231909f-a8e7-4d97-bb08-466952449345
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
  li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prim
  era Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251125T081535Z
+DTSTAMP:20251128T041356Z
 DTSTART:20251204T180000Z
 DTEND:20251204T200000Z
 SUMMARY:Copa del Rey - Sabadell - Deportivo
-UID:edf2f18e-9066-4b2c-88c0-4d89824de600
+UID:e48708b9-fb97-4d9f-944a-cf5f26d41e4a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: TVG</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: TVG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251128T041356Z
+DTSTART:20251207T150000Z
+DTEND:20251207T170000Z
+SUMMARY:Primera Federación - Sabadell - U.D. Ibiza
+UID:7bc627dc-c23a-4b6f-bbaf-387bc2c46e90
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

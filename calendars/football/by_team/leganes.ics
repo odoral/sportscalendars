@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251126T081445Z
+DTSTAMP:20251128T041356Z
 DTSTART:20251130T130000Z
 DTEND:20251130T150000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Leganés
-UID:3eae5137-5be6-45a6-acc0-871c6acfd0a2
+UID:4b8befc1-fe3b-41b6-901c-10824a1a465a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251126T081445Z
+DTSTAMP:20251128T041356Z
 DTSTART:20251204T180000Z
 DTEND:20251204T200000Z
 SUMMARY:Copa del Rey - Leganés - Albacete
-UID:34387cfc-7197-4261-a254-23c1039addae
+UID:109646c4-77c8-409e-9cf8-42210ff4b3ef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMM (Castilla-LM)<
  /li></ul></body></html>
 DESCRIPTION:- Open: CMM (Castilla-LM)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251128T041356Z
+DTSTART:20251207T151500Z
+DTEND:20251207T171500Z
+SUMMARY:Liga Hypermotion - Leganés - Córdoba
+UID:68eb3a67-f9ed-4c6c-be7a-7e88c66506dc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

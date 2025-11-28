@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251126T081445Z
+DTSTAMP:20251128T041356Z
 DTSTART:20251130T151500Z
 DTEND:20251130T171500Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Eibar
-UID:756852ae-97a3-4077-9041-926f6ce707bb
+UID:82c06c86-b94c-435f-ab85-c328f92804f3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -28,13 +28,25 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251126T081445Z
+DTSTAMP:20251128T041356Z
 DTSTART:20251204T190000Z
 DTEND:20251204T210000Z
 SUMMARY:Copa del Rey - Ponferradina - Racing de Santander
-UID:cc1d8985-5c7f-47a2-99de-70e6719c2bc5
+UID:7d668534-5447-4d8a-a247-d79a53ccecba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251128T041356Z
+DTSTART:20251207T130000Z
+DTEND:20251207T150000Z
+SUMMARY:Liga Hypermotion - Cádiz - Racing de Santander
+UID:dd396e54-39c2-479d-a5f3-50475a86ccc0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

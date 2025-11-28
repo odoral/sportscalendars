@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251126T081445Z
+DTSTAMP:20251128T041356Z
 DTSTART:20251129T173000Z
 DTEND:20251129T193000Z
 SUMMARY:Primera Federación - Tenerife - C.D. Arenteiro
-UID:2f5ff859-6719-41f1-8b0b-869ab379e15c
+UID:921d6b67-0845-4625-a4a8-ab71cf12213f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251128T041356Z
+DTSTART:20251207T110000Z
+DTEND:20251207T130000Z
+SUMMARY:Primera Federación - C.D. Arenteiro - C.F. Talavera
+UID:ad758d4a-ca6d-44ba-8fd1-cd6a4203b78a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
+ >
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ 
 END:VEVENT
 END:VCALENDAR

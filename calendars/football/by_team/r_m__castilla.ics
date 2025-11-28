@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251126T081445Z
+DTSTAMP:20251128T041356Z
 DTSTART:20251129T130000Z
 DTEND:20251129T150000Z
 SUMMARY:Primera Federación - R.M. Castilla - Barakaldo
-UID:5b90f9b7-d118-4fb6-b7e2-0e38df25b421
+UID:436f84ab-ca16-4051-b6be-c8efcc16f5ff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251128T041356Z
+DTSTART:20251207T150000Z
+DTEND:20251207T170000Z
+SUMMARY:Primera Federación - Zamora C.F. - R.M. Castilla
+UID:a8368389-c2f7-4bcf-8a07-597d3e0c627c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
