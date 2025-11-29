@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251125T081535Z
-DTSTART:20251128T180000Z
-DTEND:20251128T200000Z
-SUMMARY:Primera Federación - Betis Deportivo - Cartagena
-UID:cfff505e-3970-4e7c-ae5f-cc1119d9d7a3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251125T081535Z
+DTSTAMP:20251129T004426Z
 DTSTART:20251204T200000Z
 DTEND:20251204T220000Z
 SUMMARY:Copa del Rey - Cartagena - Valencia
-UID:6dc7e5dc-b5bc-4d23-8fe1-19bbc030de02
+UID:dd5b3df3-816b-457f-914b-1596136f274f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T004426Z
+DTSTART:20251208T171500Z
+DTEND:20251208T191500Z
+SUMMARY:Primera Federación - Cartagena - Real Murcia
+UID:9668765b-7c32-4ab6-830f-a281a18243b0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
+ n</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
+ rimera Federación
 END:VEVENT
 END:VCALENDAR
