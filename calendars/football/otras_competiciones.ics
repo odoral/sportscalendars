@@ -16,63 +16,143 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251125T004507Z
+DTSTAMP:20251129T081315Z
+DTSTART:20251202T170000Z
+DTEND:20251202T190000Z
+SUMMARY:Otras competiciones - Borussia Mönchengladbach - St. Pauli
+UID:8f7737f7-c7f5-43cd-8127-cd89b0e287c7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T081315Z
+DTSTART:20251202T170000Z
+DTEND:20251202T190000Z
+SUMMARY:Otras competiciones - Hertha Berlin - Kaiserslautern
+UID:13ee9ea3-2f52-4af8-b0e8-cdcbb8736d54
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: GolStadium Premium<
+ /li></ul></body></html>
+DESCRIPTION:- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T081315Z
 DTSTART:20251202T200000Z
 DTEND:20251202T220000Z
 SUMMARY:Otras competiciones - Juventus - Udinese
-UID:165c1697-82e8-4156-b387-8b43aae438e4
+UID:eba22d9e-1e19-434b-b77a-968b37218929
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251125T004507Z
+DTSTAMP:20251129T081315Z
+DTSTART:20251202T200000Z
+DTEND:20251202T220000Z
+SUMMARY:Otras competiciones - Borussia Dortmund - Bayer Leverkusen
+UID:3232b617-9876-4670-af11-e4775483e1c7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: GolStadium Premium<
+ /li></ul></body></html>
+DESCRIPTION:- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T081315Z
+DTSTART:20251202T200000Z
+DTEND:20251202T220000Z
+SUMMARY:Otras competiciones - RB Leipzig - 1. FC Magdeburg
+UID:cdd0a45c-7d60-44e8-929d-da38797427a6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: GolStadium Premium<
+ /li></ul></body></html>
+DESCRIPTION:- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T081315Z
 DTSTART:20251203T140000Z
 DTEND:20251203T160000Z
 SUMMARY:Otras competiciones - Atalanta - Genoa
-UID:a289bfd3-d8d9-4d8f-af42-57b9e08adcdc
+UID:a1e8b016-d0ca-4b56-b9ab-54301a5a55ba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251125T004507Z
+DTSTAMP:20251129T081315Z
 DTSTART:20251203T170000Z
 DTEND:20251203T190000Z
 SUMMARY:Otras competiciones - Nápoles - Cagliari
-UID:06bb1922-3a1b-4326-ab2f-e86cbebe5536
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:1986e9a4-6b9e-46e2-b72a-f5f29ecefb79
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: DAZN 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: DAZN 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251125T004507Z
+DTSTAMP:20251129T081315Z
+DTSTART:20251203T170000Z
+DTEND:20251203T190000Z
+SUMMARY:Otras competiciones - Friburgo - Darmstadt 98
+UID:3da7ba4a-93eb-40b8-81be-0dd6b2c80aa9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: GolStadium Premium<
+ /li></ul></body></html>
+DESCRIPTION:- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T081315Z
+DTSTART:20251203T170000Z
+DTEND:20251203T190000Z
+SUMMARY:Otras competiciones - VfL Bochum - Stuttgart
+UID:d649d6d0-e308-4dc9-89fc-6f78b424b1af
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: GolStadium Premium<
+ /li></ul></body></html>
+DESCRIPTION:- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T081315Z
+DTSTART:20251203T194500Z
+DTEND:20251203T214500Z
+SUMMARY:Otras competiciones - Hamburger S.V. - Holstein Kiel
+UID:3ad481d2-5e74-4a57-abc0-becc5bc8b415
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: GolStadium Premium<
+ /li></ul></body></html>
+DESCRIPTION:- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T081315Z
+DTSTART:20251203T194500Z
+DTEND:20251203T214500Z
+SUMMARY:Otras competiciones - Union Berlin - FC Bayern
+UID:2334d9a0-b18a-4056-a8ad-c328aff61265
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251129T081315Z
 DTSTART:20251203T200000Z
 DTEND:20251203T220000Z
 SUMMARY:Otras competiciones - Inter de Milan - Venezia F.C.
-UID:f3258cd4-fbfa-4c51-a1fb-502ac10a98ab
+UID:f06f003b-8952-4bfd-8ab3-7e865ebc0b78
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251125T004507Z
+DTSTAMP:20251129T081315Z
 DTSTART:20251204T170000Z
 DTEND:20251204T190000Z
 SUMMARY:Otras competiciones - Bologna - Parma
-UID:80aa903d-1ad6-4e56-9507-143cb25d9f42
+UID:291a8a2d-c948-4da2-bf47-75ceca6ed8c8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251125T004507Z
+DTSTAMP:20251129T081315Z
 DTSTART:20251204T200000Z
 DTEND:20251204T220000Z
 SUMMARY:Otras competiciones - Lazio - A.C. Milan
-UID:362af436-949a-4117-8188-cdfd16a52577
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:414bde64-ff04-4069-9ff1-0a3921a64cb6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2
 END:VEVENT
 END:VCALENDAR
