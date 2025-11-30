@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251127T041411Z
-DTSTART:20251129T151500Z
-DTEND:20251129T171500Z
-SUMMARY:Liga EA Sports - Barcelona - Alavés
-UID:e8f8cbfb-5842-4700-ac89-317de52aba63
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251127T041411Z
+DTSTAMP:20251130T005327Z
 DTSTART:20251202T200000Z
 DTEND:20251202T220000Z
 SUMMARY:Liga EA Sports - Barcelona - Atlético de Madrid
-UID:85109a5f-1c50-4620-8af1-0606a0252883
+UID:ce005e7e-d797-41a7-81db-cf6b936a5074
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 2</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fú
  tbol 1</li></ul></body></html>
@@ -38,13 +28,23 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2\n- PPV: Movistar Plus+\n
  - PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251127T041411Z
+DTSTAMP:20251130T005327Z
 DTSTART:20251206T173000Z
 DTEND:20251206T193000Z
 SUMMARY:Liga EA Sports - Betis - Barcelona
-UID:4901c0b1-8ac3-4e77-89ce-178793498190
+UID:b6e4cd72-6f54-4afd-bd42-0bfb1c0500ee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251130T005327Z
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+SUMMARY:Champions League - Barcelona - Eintracht Frankfurt
+UID:cea7dfd7-23e3-4907-9927-0624d5edaf04
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

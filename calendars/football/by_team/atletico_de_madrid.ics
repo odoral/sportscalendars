@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251127T041411Z
-DTSTART:20251129T200000Z
-DTEND:20251129T220000Z
-SUMMARY:Liga EA Sports - Atlético de Madrid - Real Oviedo
-UID:51cdf8ce-00a6-4b15-a703-a51877f11c71
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251127T041411Z
+DTSTAMP:20251130T005327Z
 DTSTART:20251202T200000Z
 DTEND:20251202T220000Z
 SUMMARY:Liga EA Sports - Barcelona - Atlético de Madrid
-UID:2eba4abc-849c-459c-8006-332b45d1330a
+UID:266054ba-6909-4087-89ba-f2743fd8c82b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 2</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fú
  tbol 1</li></ul></body></html>
@@ -38,15 +28,25 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2\n- PPV: Movistar Plus+\n
  - PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251127T041411Z
+DTSTAMP:20251130T005327Z
 DTSTART:20251206T200000Z
 DTEND:20251206T220000Z
 SUMMARY:Liga EA Sports - Athletic Club - Atlético de Madrid
-UID:6bd8ecf4-c0ec-408b-ae79-31506ab1f50b
+UID:0664d50b-25d9-4653-839a-892dec5a2561
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251130T005327Z
+DTSTART:20251209T200000Z
+DTEND:20251209T220000Z
+SUMMARY:Champions League - PSV Eindhoven - Atlético de Madrid
+UID:09c0b6b9-4695-4cae-8952-de297ba8abc7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
