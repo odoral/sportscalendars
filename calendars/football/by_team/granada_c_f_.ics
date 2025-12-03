@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251130T005327Z
+DTSTAMP:20251203T041939Z
 DTSTART:20251204T210000Z
 DTEND:20251204T230000Z
 SUMMARY:Copa del Rey - Tenerife - Granada C.F.
-UID:609f7ea8-4952-4ad2-95dd-f37e9408fd6d
+UID:f0e475fd-265f-4f01-aeca-eff604ef0b44
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T005327Z
+DTSTAMP:20251203T041939Z
 DTSTART:20251207T200000Z
 DTEND:20251207T220000Z
 SUMMARY:Liga Hypermotion - Granada C.F. - AD Ceuta
-UID:f3f26ae6-0f4d-471e-8012-b55b189b39ff
+UID:a8be1231-22d0-49a1-98ae-6d1debf55b04
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 END:VCALENDAR
