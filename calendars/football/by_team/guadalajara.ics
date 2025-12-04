@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251203T041939Z
+DTSTAMP:20251204T004655Z
 DTSTART:20251207T171500Z
 DTEND:20251207T191500Z
 SUMMARY:Primera Federación - Guadalajara - Osasuna Promesas
-UID:42588ebc-c59f-4206-b412-97c8960dcd8c
+UID:eb87cc63-be0a-4a56-8955-df98bfb6b010
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251204T004655Z
+DTSTART:20251213T130000Z
+DTEND:20251213T150000Z
+SUMMARY:Primera Federación - R.M. Castilla - Guadalajara
+UID:936061c9-0822-4765-aa56-a45238cb0ab8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

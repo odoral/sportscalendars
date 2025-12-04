@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251130T005327Z
+DTSTAMP:20251204T004655Z
 DTSTART:20251207T110000Z
 DTEND:20251207T130000Z
 SUMMARY:Primera Federación - C.D. Arenteiro - C.F. Talavera
-UID:562b2ff9-364f-4641-9831-5da6d0087be7
+UID:2aa412b0-0775-4187-9bbc-64c145520b16
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
  >
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
  
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251204T004655Z
+DTSTART:20251213T151500Z
+DTEND:20251213T171500Z
+SUMMARY:Primera Federación - Ponferradina - C.D. Arenteiro
+UID:4c0f194d-9488-4584-865e-ee51f00cd399
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

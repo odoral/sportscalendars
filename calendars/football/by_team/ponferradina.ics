@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251130T005327Z
+DTSTAMP:20251204T004655Z
 DTSTART:20251204T190000Z
 DTEND:20251204T210000Z
 SUMMARY:Copa del Rey - Ponferradina - Racing de Santander
-UID:48ab432f-488d-4862-b864-9bbac4e701ac
+UID:2738ac6a-4986-49bb-a6f1-d72897b58759
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T005327Z
+DTSTAMP:20251204T004655Z
 DTSTART:20251208T150000Z
 DTEND:20251208T170000Z
 SUMMARY:Primera Federación - Unionistas - Ponferradina
-UID:ff6cf65f-bac7-4397-a76e-a1073d6abc2f
+UID:8013ac6f-497e-4a65-9f25-87f742eaae9d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251204T004655Z
+DTSTART:20251213T151500Z
+DTEND:20251213T171500Z
+SUMMARY:Primera Federación - Ponferradina - C.D. Arenteiro
+UID:b18f55d0-47db-4092-9826-3101831692e7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación

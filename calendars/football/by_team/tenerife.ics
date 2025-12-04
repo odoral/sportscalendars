@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251130T005327Z
+DTSTAMP:20251204T004655Z
 DTSTART:20251204T210000Z
 DTEND:20251204T230000Z
 SUMMARY:Copa del Rey - Tenerife - Granada C.F.
-UID:1f7ce0f6-8852-4ce7-89cf-0c1d86d49c6b
+UID:dfe97cc3-20aa-45c0-bc9f-f7092400b395
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251130T005327Z
+DTSTAMP:20251204T004655Z
 DTSTART:20251207T193000Z
 DTEND:20251207T213000Z
 SUMMARY:Primera Federación - Lugo - Tenerife
-UID:62e3a81e-ed2a-4bed-b9dd-ee616100475c
+UID:45367166-e5a6-48b0-91b5-b81ffc21803d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251204T004655Z
+DTSTART:20251213T173000Z
+DTEND:20251213T193000Z
+SUMMARY:Primera Federación - Real Avilés - Tenerife
+UID:b8a485e6-b63a-420d-bbc1-f60cd749e0fb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
+ </li></ul></body></html>
+DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
+ imera Federación
 END:VEVENT
 END:VCALENDAR

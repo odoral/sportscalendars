@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251203T041939Z
+DTSTAMP:20251204T004655Z
 DTSTART:20251204T180000Z
 DTEND:20251204T200000Z
 SUMMARY:Copa del Rey - Sabadell - Deportivo
-UID:45d889af-2f49-4ed4-8e96-5b099df323a9
+UID:5a3f3c71-cbcd-4d0c-a0c0-145c7f0a2c68
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: TVG</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: TVG
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251203T041939Z
+DTSTAMP:20251204T004655Z
 DTSTART:20251207T150000Z
 DTEND:20251207T170000Z
 SUMMARY:Primera Federación - Sabadell - U.D. Ibiza
-UID:70efeb88-ceea-4cf1-9e8c-19990ca1f269
+UID:29647607-0f6a-42a4-9adf-f9c84125c471
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251204T004655Z
+DTSTART:20251213T200000Z
+DTEND:20251213T220000Z
+SUMMARY:Primera Federación - Real Murcia - Sabadell
+UID:469ae999-0e5a-4303-b550-b0f1eb005f08
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
