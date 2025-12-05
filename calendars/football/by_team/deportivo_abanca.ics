@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251202T081548Z
+DTSTAMP:20251205T042022Z
 DTSTART:20251206T110000Z
 DTEND:20251206T130000Z
 SUMMARY:Liga F - Deportivo Abanca - Granada Fem.
-UID:e219476c-31ce-45af-ab41-9c3f9e2a163d
+UID:47914fe6-2e10-4f48-9a2f-3c6bf7d848d1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 3</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251205T042022Z
+DTSTART:20251214T110000Z
+DTEND:20251214T130000Z
+SUMMARY:Liga F - Real Sociedad F. - Deportivo Abanca
+UID:eddb9bc8-e99a-4753-8ed2-0c49f38f6e16
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>Open: TVG 2</li>\n<li>PPV: 
+ DAZN</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TEN TV\n- Open: TVG 2
+ \n- PPV: DAZN\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR

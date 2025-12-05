@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251203T041939Z
+DTSTAMP:20251205T042023Z
 DTSTART:20251206T151500Z
 DTEND:20251206T171500Z
 SUMMARY:Primera Federación - Celta B - Pontevedra
-UID:2ced8945-d34a-4c52-ad66-e455d42dd507
+UID:56da88bd-5d2d-469c-9931-e75ca4c77579
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li><
  /ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PP
  V: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251205T042023Z
+DTSTART:20251214T110000Z
+DTEND:20251214T130000Z
+SUMMARY:Primera Federación - Bilbao Athletic - Celta B
+UID:bd910d96-bef8-4e2c-8abb-7dd13961e927
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

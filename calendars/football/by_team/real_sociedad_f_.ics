@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251202T081548Z
+DTSTAMP:20251205T042022Z
 DTSTART:20251206T180000Z
 DTEND:20251206T200000Z
 SUMMARY:Liga F - Real Madrid Fem. - Real Sociedad F.
-UID:04d851b4-e7e1-485a-bc78-d0221dd50577
+UID:b3dc427f-cf7d-457d-b32d-dc289aa43ae9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 2</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Ellas Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251205T042022Z
+DTSTART:20251214T110000Z
+DTEND:20251214T130000Z
+SUMMARY:Liga F - Real Sociedad F. - Deportivo Abanca
+UID:9cc0eee8-956a-48bb-b7c5-f2cc68fea2ba
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>Open: TVG 2</li>\n<li>PPV: 
+ DAZN</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TEN TV\n- Open: TVG 2
+ \n- PPV: DAZN\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR

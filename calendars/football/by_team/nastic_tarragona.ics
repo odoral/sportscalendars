@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251201T044043Z
+DTSTAMP:20251205T042022Z
 DTSTART:20251205T193000Z
 DTEND:20251205T213000Z
 SUMMARY:Primera Federación - Sevilla At. - Nàstic Tarragona
-UID:a8e9e1b4-0d12-4394-b954-ca59cecaf1a6
+UID:81245220-47f8-4066-a673-f2889f7d8284
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251205T042022Z
+DTSTART:20251214T171500Z
+DTEND:20251214T191500Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Cartagena
+UID:1ac4a961-8ce5-4cce-a178-099e83bd03ad
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
+ n</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
+ rimera Federación
 END:VEVENT
 END:VCALENDAR

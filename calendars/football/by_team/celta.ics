@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251204T081548Z
-DTSTART:20251204T200000Z
-DTEND:20251204T220000Z
-SUMMARY:Copa del Rey - Sant Andreu - Celta
-UID:b24dd602-8986-437e-beac-49e9a82cc58b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: M+ LaLiga 5</li></ul></body></html>
-DESCRIPTION:- Open: La 2\n- Open: rtve Play\n- PPV: M+ LaLiga 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251204T081548Z
+DTSTAMP:20251205T042023Z
 DTSTART:20251207T200000Z
 DTEND:20251207T220000Z
 SUMMARY:Liga EA Sports - Real Madrid - Celta
-UID:c224b8f6-e65b-467b-98a2-e7d9b27fafec
+UID:8ee30d64-e5de-455a-b66a-bc7960cd59e5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251204T081548Z
+DTSTAMP:20251205T042023Z
 DTSTART:20251211T200000Z
 DTEND:20251211T220000Z
 SUMMARY:Europa League - Celta - Bologna
-UID:b4e2dd95-7fc6-4e56-9bf6-7849ba8b382d
+UID:52e018cb-617c-4f8f-87bf-7a9f2f522877
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251205T042023Z
+DTSTART:20251214T151500Z
+DTEND:20251214T171500Z
+SUMMARY:Liga EA Sports - Celta - Athletic Club
+UID:4050450e-d309-4ba6-82b9-cbf84b0c2d86
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251130T005327Z
+DTSTAMP:20251205T042023Z
 DTSTART:20251208T193000Z
 DTEND:20251208T213000Z
 SUMMARY:Liga Hypermotion - Málaga - Real Zaragoza
-UID:289d4729-8ca0-49b1-bf2c-33e809a57fa6
+UID:69e88337-b23d-49cb-b478-445d76470200
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TEN TV</
  li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLi
@@ -28,5 +28,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
  - Open: TEN TV\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV
   Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251205T042023Z
+DTSTART:20251214T151500Z
+DTEND:20251214T171500Z
+SUMMARY:Liga Hypermotion - Albacete - Málaga
+UID:fc66c741-f353-467d-9a1e-241b3cb14c0f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
