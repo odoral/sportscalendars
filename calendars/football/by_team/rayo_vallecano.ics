@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251205T042023Z
+DTSTAMP:20251206T004501Z
 DTSTART:20251207T173000Z
 DTEND:20251207T193000Z
 SUMMARY:Liga EA Sports - Espanyol - Rayo Vallecano
-UID:c2588d37-7730-4af6-b344-ab7bd6facd56
+UID:ff543626-a914-4fc4-9a87-cba45dd448be
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251205T042023Z
+DTSTAMP:20251206T004501Z
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
 SUMMARY:Conference League - Jagiellonia Bialystok - Rayo Vallecano
-UID:62081baf-8a9e-4dcd-a091-737cd1c02416
+UID:ec5e6b54-c4ad-43a6-b6b2-5acb8f8f5e6f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251206T004501Z
+DTSTART:20251215T200000Z
+DTEND:20251215T220000Z
+SUMMARY:Liga EA Sports - Rayo Vallecano - Betis
+UID:1ec32e7c-208f-4cca-abfc-5ae8b4f817ff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR
