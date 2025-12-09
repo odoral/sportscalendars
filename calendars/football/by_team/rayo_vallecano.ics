@@ -16,25 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251208T004826Z
+DTSTAMP:20251209T041942Z
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
 SUMMARY:Conference League - Jagiellonia Bialystok - Rayo Vallecano
-UID:00701918-b13a-4ddb-93c2-320f473a2a84
+UID:ca03f2b7-1e14-476e-bab3-7fbae4e31fed
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251208T004826Z
+DTSTAMP:20251209T041942Z
 DTSTART:20251215T200000Z
 DTEND:20251215T220000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Betis
-UID:2ea3f6c3-dffc-4e69-92d2-69b2b746d171
+UID:52440148-ad78-482c-be6b-cc568369def5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251209T041942Z
+DTSTART:20251218T200000Z
+DTEND:20251218T220000Z
+SUMMARY:Conference League - Rayo Vallecano - FC Drita
+UID:453cf466-15b8-4401-9820-14899ada3fc6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

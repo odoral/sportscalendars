@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251206T081300Z
+DTSTAMP:20251209T041942Z
 DTSTART:20251211T174500Z
 DTEND:20251211T194500Z
 SUMMARY:Conference League - Jagiellonia Bialystok - Rayo Vallecano
-UID:f5d3e469-e1e7-476d-be21-f62669849031
+UID:13426786-c650-42d0-afc3-2a40f9ba9a83
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251209T041942Z
+DTSTART:20251218T200000Z
+DTEND:20251218T220000Z
+SUMMARY:Conference League - Rayo Vallecano - FC Drita
+UID:01bd4b2f-72df-4a75-9581-850249b780fb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
