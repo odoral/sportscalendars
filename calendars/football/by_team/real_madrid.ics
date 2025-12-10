@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251208T004826Z
+DTSTAMP:20251210T081525Z
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
 SUMMARY:Champions League - Real Madrid - Manchester City
-UID:2663518a-1bd1-4590-8779-89c2cf93fa24
+UID:352e063d-80b1-4d53-b1f1-a0381978f903
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
   PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251208T004826Z
+DTSTAMP:20251210T081525Z
 DTSTART:20251214T200000Z
 DTEND:20251214T220000Z
 SUMMARY:Liga EA Sports - Alavés - Real Madrid
-UID:03896d9b-1834-4047-9cb3-3fe6b35ffdbf
+UID:4130293d-e708-48b7-849c-c59c39b04b4c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251210T081525Z
+DTSTART:20251217T200000Z
+DTEND:20251217T220000Z
+SUMMARY:Copa del Rey - C.F. Talavera - Real Madrid
+UID:117f7ecb-2abc-4a59-a6f2-db253b4f6f03
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

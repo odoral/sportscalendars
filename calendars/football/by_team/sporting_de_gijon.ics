@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251207T005337Z
+DTSTAMP:20251210T081525Z
 DTSTART:20251213T151500Z
 DTEND:20251213T171500Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Granada C.F.
-UID:b5ddcfeb-2031-49c3-80ca-69e9eb950a0b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:09dac2c8-3533-4d34-a046-af9ce5aeb83f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Multi 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251210T081525Z
+DTSTART:20251216T200000Z
+DTEND:20251216T220000Z
+SUMMARY:Copa del Rey - Sporting de Gijón - Valencia
+UID:088edb30-7fdf-42fe-a684-ebf35ccfc4c0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 END:VCALENDAR

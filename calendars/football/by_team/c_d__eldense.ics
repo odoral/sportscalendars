@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251207T005337Z
+DTSTAMP:20251210T081525Z
 DTSTART:20251213T151500Z
 DTEND:20251213T171500Z
 SUMMARY:Primera Federación - C.D. Eldense - Tarazona
-UID:0affe064-375f-4620-af39-5b2b388ff0a4
+UID:2c2ced91-a2ee-4afe-9e49-ebb81de4c23a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga+</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+ PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251210T081525Z
+DTSTART:20251216T200000Z
+DTEND:20251216T220000Z
+SUMMARY:Copa del Rey - C.D. Eldense - Real Sociedad
+UID:6bf67b2f-7844-4544-b968-49c1766117ab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 END:VCALENDAR

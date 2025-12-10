@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251207T005337Z
+DTSTAMP:20251210T081525Z
 DTSTART:20251210T200000Z
 DTEND:20251210T220000Z
 SUMMARY:Champions League - Club Brugge - Arsenal
-UID:e412006a-deb6-4bde-a17f-f84472e5596d
+UID:8e80b0c9-af0b-4934-8694-627e10de8af1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251207T005337Z
+DTSTAMP:20251210T081525Z
 DTSTART:20251213T200000Z
 DTEND:20251213T220000Z
 SUMMARY:Premier League - Arsenal - Wolves
-UID:cfdeaa74-5783-4362-b884-16d9b2de49f9
+UID:661558ab-567b-4902-b8cc-31d6753e7794
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: Movistar Plus+
+  DAZN 2</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
+ +</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Liga de Campeones\n- PP
+ V: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

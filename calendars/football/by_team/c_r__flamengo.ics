@@ -16,14 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251127T081546Z
-DTSTART:20251129T200000Z
-DTEND:20251129T220000Z
-SUMMARY:Copa Libertadores - Palmeiras - C.R. Flamengo
-UID:cd21a06c-168a-4687-b2a3-118153bc4dc5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
- PV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
- 
-DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+DTSTAMP:20251210T081525Z
+DTSTART:20251210T170000Z
+DTEND:20251210T190000Z
+SUMMARY:FIFA Intercontinental Cup - Cruz Azul - C.R. Flamengo
+UID:d6213bce-d7ff-43d8-8c00-315665339f70
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: FIFA+
 END:VEVENT
 END:VCALENDAR
