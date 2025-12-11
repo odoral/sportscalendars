@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251206T004501Z
+DTSTAMP:20251211T004933Z
 DTSTART:20251214T171500Z
 DTEND:20251214T191500Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Cartagena
-UID:1f88c4b8-d288-486b-9a22-8c873bc347e4
+UID:ffa8ef0f-9450-4c09-a0b9-96814060a2a6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
  <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
  n</li></ul></body></html>
 DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
  rimera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251211T004933Z
+DTSTART:20251220T200000Z
+DTEND:20251220T220000Z
+SUMMARY:Primera Federación - Antequera - Nàstic Tarragona
+UID:b6b6a770-c4bf-4e19-af30-7c6ec912d95b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

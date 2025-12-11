@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251210T081525Z
+DTSTAMP:20251211T004933Z
 DTSTART:20251213T151500Z
 DTEND:20251213T171500Z
 SUMMARY:Primera Federación - C.D. Eldense - Tarazona
-UID:b0485a8e-dcbd-44c8-93b5-6aeb15479be2
+UID:ba99c80e-2885-412c-87e6-bb99fae6bfe7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251211T004933Z
+DTSTART:20251220T173000Z
+DTEND:20251220T193000Z
+SUMMARY:Primera Federación - Tarazona - Teruel
+UID:c59bd6e3-2102-4954-b393-9ea055fee67f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
+ PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

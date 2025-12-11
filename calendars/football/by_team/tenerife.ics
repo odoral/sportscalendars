@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251208T004826Z
+DTSTAMP:20251211T004933Z
 DTSTART:20251213T173000Z
 DTEND:20251213T193000Z
 SUMMARY:Primera Federación - Real Avilés - Tenerife
-UID:46f20b40-8419-41b6-af01-6ea6d0b6e0d1
+UID:cde7a557-3d0b-4f15-8906-d32b1b571cf9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
  </li></ul></body></html>
 DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
  imera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251211T004933Z
+DTSTART:20251220T183000Z
+DTEND:20251220T203000Z
+SUMMARY:Primera Federación - Tenerife - Ponferradina
+UID:5c08214a-cd6d-4dec-b15d-e18591f2b623
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

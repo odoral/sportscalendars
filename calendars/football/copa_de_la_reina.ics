@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251105T004642Z
-DTSTART:20251106T200000Z
-DTEND:20251106T220000Z
-SUMMARY:Copa de la Reina - Real Oviedo Fem. - Sevilla FC Fem.
-UID:bb106441-fcdd-4084-8325-88cf426a5c30
+DTSTAMP:20251211T004933Z
+DTSTART:20251220T110000Z
+DTEND:20251220T130000Z
+SUMMARY:Copa de la Reina - Sevilla FC Fem. - UDG Tenerife
+UID:01ab93ba-8d7c-4593-87d7-8ccbf1dedd0f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
+ l></body></html>
+DESCRIPTION:- Open: TV Canaria
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251211T004933Z
+DTSTART:20251220T180000Z
+DTEND:20251220T200000Z
+SUMMARY:Copa de la Reina - RCD Espanyol Fem. - Real Madrid Fem.
+UID:6b1251df-d49a-41d5-8100-ec4d184178a8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play

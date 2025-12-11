@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251210T081525Z
+DTSTAMP:20251211T004933Z
 DTSTART:20251214T150000Z
 DTEND:20251214T170000Z
 SUMMARY:Primera Federación - Teruel - Algeciras
-UID:7312c64e-0349-4dac-b103-62ef02ab0286
+UID:6a715855-7321-4c6b-8596-c43b48067aad
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251211T004933Z
+DTSTART:20251220T173000Z
+DTEND:20251220T193000Z
+SUMMARY:Primera Federación - Tarazona - Teruel
+UID:c422a505-0a2f-4ee5-a7f5-f61303ccff79
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
+ PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

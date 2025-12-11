@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251208T004826Z
+DTSTAMP:20251211T004933Z
 DTSTART:20251212T180000Z
 DTEND:20251212T200000Z
 SUMMARY:Primera Federación - Betis Deportivo - Alcorcón
-UID:393c0789-6b21-4ca8-957e-1fe33fdaff19
+UID:7a115aa6-ac8c-4569-952d-76225aa2a108
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251211T004933Z
+DTSTART:20251220T151500Z
+DTEND:20251220T171500Z
+SUMMARY:Primera Federación - C.D. Eldense - Betis Deportivo
+UID:9e071754-0db8-4cdd-92a0-97e2665be6b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251208T042403Z
+DTSTAMP:20251211T004933Z
 DTSTART:20251212T193000Z
 DTEND:20251212T213000Z
 SUMMARY:Primera Federación - C.E. Europa - Antequera
-UID:fa3e9fa6-102f-4ab8-8490-1490393433ea
+UID:34b8349f-4364-4395-9fe5-c68ace8c24bb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</l
  i></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n-
   PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251211T004933Z
+DTSTART:20251220T200000Z
+DTEND:20251220T220000Z
+SUMMARY:Primera Federación - Antequera - Nàstic Tarragona
+UID:1a93ec73-a2da-4577-9526-b72d6da96b71
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
