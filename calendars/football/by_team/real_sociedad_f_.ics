@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251211T122132Z
+DTSTAMP:20251212T042525Z
 DTSTART:20251214T110000Z
 DTEND:20251214T130000Z
 SUMMARY:Liga F - Real Sociedad F. - Deportivo Abanca
-UID:3856e890-8f79-4f69-a06d-1c6f232a91e8
+UID:0005e1ff-814f-470a-ae49-38cfcbde49d2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>Open: TVG 2</li>\n<li>PPV: 
  DAZN</li>\n<li>PPV: DAZN 2</li>\n<li>PPV: GolStadium Premium</li></ul></
  body></html>
 DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TEN TV\n- Open: TVG 2
  \n- PPV: DAZN\n- PPV: DAZN 2\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251212T042525Z
+DTSTART:20251221T110000Z
+DTEND:20251221T130000Z
+SUMMARY:Copa de la Reina - Deportivo Abanca - Real Sociedad F.
+UID:d4eacdf6-1169-4043-b6d6-066d01beaf71
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: TVG 2</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: TVG 2
 END:VEVENT
 END:VCALENDAR

@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251211T122132Z
+DTSTAMP:20251212T042525Z
 DTSTART:20251214T110000Z
 DTEND:20251214T130000Z
 SUMMARY:Primera Federación - C.F. Talavera - Mérida
-UID:c1ca132e-ff12-47b6-a248-df670b50c689
+UID:fd307a6e-7aaf-4d85-bd8e-e2e1f0a3508d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251211T122132Z
+DTSTAMP:20251212T042525Z
 DTSTART:20251217T200000Z
 DTEND:20251217T220000Z
 SUMMARY:Copa del Rey - C.F. Talavera - Real Madrid
-UID:e0c348f8-7c0d-4709-8481-7fbcc189c577
+UID:cfe542c0-d5f4-4d25-b972-d27fbe52caf8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251212T042525Z
+DTSTART:20251221T110000Z
+DTEND:20251221T130000Z
+SUMMARY:Primera Federación - Arenas Club - C.F. Talavera
+UID:35979769-5abf-4a26-ac03-acc1866bba22
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

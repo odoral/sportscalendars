@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251211T122132Z
+DTSTAMP:20251212T042525Z
 DTSTART:20251213T173000Z
 DTEND:20251213T193000Z
 SUMMARY:Primera Federación - Ourense C.F. - Barakaldo
-UID:97eb10a4-4d48-4c55-80b6-65061e3c49d4
+UID:6554ba9f-d014-4d01-8860-e752c0b5029c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251212T042525Z
+DTSTART:20251221T150000Z
+DTEND:20251221T170000Z
+SUMMARY:Primera Federación - Barakaldo - Pontevedra
+UID:03b770ef-91d0-413e-b1b0-6878f227c343
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
