@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251213T041656Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251217T180000Z
 DTEND:20251217T200000Z
 SUMMARY:Copa del Rey - Huesca - Osasuna
-UID:d91930d5-e6d6-4fed-a389-7775fe77c121
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
- </body></html>
-DESCRIPTION:- PPV: Movistar+
+UID:0564a1bf-132c-4d1c-b182-490c3e1fe340
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 5</li></u
+ l></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251213T041656Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251220T151500Z
 DTEND:20251220T171500Z
 SUMMARY:Liga Hypermotion - Huesca - Racing de Santander
-UID:7409192c-fa0f-4fa1-b859-8dd74b9b3e40
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:5e9f11bb-e09f-49f8-bc6d-f87217f060fb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

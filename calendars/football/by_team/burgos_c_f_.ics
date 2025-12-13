@@ -16,33 +16,39 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251212T042525Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251214T173000Z
 DTEND:20251214T193000Z
 SUMMARY:Liga Hypermotion - Almería - Burgos C.F.
-UID:580f7891-de89-40b4-92b4-f0570668a36c
+UID:44c9e79c-2a52-4228-b98d-5e4584ce237b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Multi 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 2
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
+ range Fútbol 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2\n- PPV: Orange Fútbol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251212T042525Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251218T180000Z
 DTEND:20251218T200000Z
 SUMMARY:Copa del Rey - Burgos C.F. - Getafe
-UID:d8ed3e23-1599-43c8-91df-6e93e287cbee
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
- </body></html>
-DESCRIPTION:- PPV: Movistar+
+UID:272a5be3-692b-43f6-bec2-542374410073
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
+ li>\n<li>PPV: M+ LaLiga 2</li></ul></body></html>
+DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251212T042525Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251221T173000Z
 DTEND:20251221T193000Z
 SUMMARY:Liga Hypermotion - Burgos C.F. - Real Zaragoza
-UID:dad8c0d7-748f-45a7-b1fa-4e39167db441
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:669003b5-e4a3-41a5-872f-17fba0cfcdb6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TEN TV</
+ li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLi
+ ga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
+ - Open: TEN TV\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV
+  Hypermotion
 END:VEVENT
 END:VCALENDAR

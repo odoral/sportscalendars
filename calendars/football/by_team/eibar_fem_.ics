@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251211T122132Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251214T110000Z
 DTEND:20251214T130000Z
 SUMMARY:Liga F - Eibar Fem. - At. Madrid Fem.
-UID:fd2c220b-5a3d-4ee0-be6f-98125f14b42d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:cdf11f95-826d-4ac1-8ac6-c48381b29959
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: M+ Vamos 2</li></ul
+ ></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos\n- PPV: M+ 
+ Vamos 2
 END:VEVENT
 END:VCALENDAR

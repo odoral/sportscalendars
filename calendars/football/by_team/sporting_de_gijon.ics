@@ -16,33 +16,37 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251212T081600Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251213T151500Z
 DTEND:20251213T171500Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Granada C.F.
-UID:bd267791-13ac-4e41-9033-b4f0ba1084c7
+UID:1b407120-8b2d-4570-8543-621e2820dcd9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Multi 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 2
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251212T081600Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251216T200000Z
 DTEND:20251216T220000Z
 SUMMARY:Copa del Rey - Sporting de Gijón - Valencia
-UID:d9fd86b9-2dda-47cb-be2d-0d210fd84168
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 4</li>\n<
- li>PPV: Movistar+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga 4\n- PPV: Movistar+
+UID:de26f741-e736-4402-abe6-fcdd8fca419f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 4</
+ li>\n<li>PPV: M+ LaLiga 4</li></ul></body></html>
+DESCRIPTION:- PPV: LaLiga TV Multi 4\n- PPV: M+ LaLiga 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251212T081600Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251220T173000Z
 DTEND:20251220T193000Z
 SUMMARY:Liga Hypermotion - Leganés - Sporting de Gijón
-UID:035ed0f6-3cf4-4ba6-9f42-d46aa6386a2b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:8f235c91-8640-49a9-aed1-396385251186
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

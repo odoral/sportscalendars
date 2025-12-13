@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251212T081600Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251215T193000Z
 DTEND:20251215T213000Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Mirandés
-UID:df9c97b7-d3e3-4c44-a01c-e43d2cc63546
+UID:feeb5b63-cb03-4308-82cb-2a88704496b0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Multi 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 2
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251212T081600Z
+DTSTAMP:20251213T081300Z
 DTSTART:20251221T200000Z
 DTEND:20251221T220000Z
 SUMMARY:Liga Hypermotion - Cádiz - C.D. Castellón
-UID:e8a5c8d0-0c59-4ca1-b99b-9c7ca28f2904
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:4f912e40-7b67-4637-acee-245f8621c941
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
