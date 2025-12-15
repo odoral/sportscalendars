@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251214T042811Z
+DTSTAMP:20251215T081737Z
 DTSTART:20251216T180000Z
 DTEND:20251216T200000Z
 SUMMARY:Copa del Rey - Eibar - Elche
-UID:71fbb6b1-d973-4131-8893-d2de707706e8
+UID:69b84fbe-49d4-4fdb-89e6-2a7f958389b1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ LaLiga 3</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251214T042811Z
+DTSTAMP:20251215T081737Z
 DTSTART:20251219T193000Z
 DTEND:20251219T213000Z
 SUMMARY:Liga Hypermotion - Eibar - Valladolid
-UID:395b846c-19bf-453c-b9ed-efa4d6ac437e
+UID:688b851e-52d3-4279-9e79-5d9d1c524efc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 END:VCALENDAR
