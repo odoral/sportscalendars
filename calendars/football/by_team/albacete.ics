@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251215T005220Z
+DTSTAMP:20251217T081617Z
 DTSTART:20251217T180000Z
 DTEND:20251217T200000Z
 SUMMARY:Copa del Rey - Albacete - Celta
-UID:5c641331-4a19-425f-a20c-81226620c0b5
+UID:524c789c-0aa7-4ac7-bd4b-e9d884e0aaa5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 4</
  li>\n<li>PPV: M+ LaLiga 4</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 4\n- PPV: M+ LaLiga 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251215T005220Z
+DTSTAMP:20251217T081617Z
 DTSTART:20251221T173000Z
 DTEND:20251221T193000Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Albacete
-UID:b2a083ef-8823-410b-aa98-336d90d4d51b
+UID:53efae39-357f-4e2b-b631-01aa17e54855
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 3
 END:VEVENT
 END:VCALENDAR
