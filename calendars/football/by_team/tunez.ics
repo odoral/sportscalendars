@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250410T142246Z
+LAST-MODIFIED:20251211T094730Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251115T081203Z
-DTSTART:20251118T193000Z
-DTEND:20251118T213000Z
-SUMMARY:Amistoso - Brasil - Túnez
-UID:5c2e2fd6-5be6-4ab3-8cfb-dbabbe2bc2f4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+DTSTAMP:20251218T081527Z
+DTSTART:20251227T200000Z
+DTEND:20251227T220000Z
+SUMMARY:Copa Africana de Naciones - Nigeria - Túnez
+UID:41c25bc6-d403-4e11-bb62-2a75bc4076ae
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

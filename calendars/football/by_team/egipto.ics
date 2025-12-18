@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20251211T094730Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240808T081037Z
-DTSTART:20240808T150000Z
-DTEND:20240808T170000Z
-SUMMARY:Juegos Olímpicos - Egipto - Marruecos
-UID:f8f5cd3f-221f-4eb5-9795-18b73ab04491
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: Eurosport 5</li>\n<li>PPV: MAX</li></ul></bo
- dy></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: Eurosport 5\n- PPV: M
- AX
+DTSTAMP:20251218T081526Z
+DTSTART:20251222T200000Z
+DTEND:20251222T220000Z
+SUMMARY:Copa Africana de Naciones - Egipto - Zimbabue
+UID:cc4a9bae-6950-45d0-83ce-170e4df57dae
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

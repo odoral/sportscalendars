@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250410T142246Z
+LAST-MODIFIED:20251211T094730Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251018T004053Z
-DTSTART:20251019T230000Z
-DTEND:20251020T010000Z
-SUMMARY:Mundial Sub-20 - Argentina - Marruecos
-UID:46bc46d8-5008-4804-95c0-54893b143881
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li>\n<li>Op
- en: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: FIFA+\n- Open: Teledeporte\n- Open: rtve Play
+DTSTAMP:20251218T081526Z
+DTSTART:20251221T190000Z
+DTEND:20251221T210000Z
+SUMMARY:Copa Africana de Naciones - Marruecos - Comoras
+UID:afd52c1a-fa9e-46e0-b53c-453c89485599
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251218T081526Z
+DTSTART:20251226T200000Z
+DTEND:20251226T220000Z
+SUMMARY:Copa Africana de Naciones - Marruecos - Mali
+UID:c065f89b-c386-4400-a9a1-4fc5b0e39d79
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

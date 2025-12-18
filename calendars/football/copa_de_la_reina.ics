@@ -16,41 +16,51 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251213T081300Z
+DTSTAMP:20251218T081526Z
+DTSTART:20251219T180000Z
+DTEND:20251219T200000Z
+SUMMARY:Copa de la Reina - C.E. Europa Fem. - Athletic Club Fem.
+UID:2d244c53-6b98-4892-affc-8b3e31b0c747
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betevé (Bcn)</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Betevé (Bcn)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251218T081526Z
 DTSTART:20251220T110000Z
 DTEND:20251220T130000Z
 SUMMARY:Copa de la Reina - Sevilla FC Fem. - UDG Tenerife
-UID:f1669f04-7828-451e-9133-21c8f17ca2cb
+UID:9099f9c4-6ca7-4470-ac62-8c1b38ab1708
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
  l></body></html>
 DESCRIPTION:- Open: TV Canaria
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251213T081300Z
+DTSTAMP:20251218T081526Z
 DTSTART:20251220T180000Z
 DTEND:20251220T200000Z
 SUMMARY:Copa de la Reina - RCD Espanyol Fem. - Real Madrid Fem.
-UID:fb46d22a-a161-46b9-a2a2-03e3b616d829
+UID:f46838c7-20c0-46df-a10a-04a777a01795
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251213T081300Z
+DTSTAMP:20251218T081526Z
 DTSTART:20251221T110000Z
 DTEND:20251221T130000Z
 SUMMARY:Copa de la Reina - Deportivo Abanca - Real Sociedad F.
-UID:c43243b5-23a8-4c5a-9bc4-281fb2b6e3a5
+UID:67abff67-9fa9-441a-a809-0ac20f225e68
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: TVG 2</li></ul></body></html>
 DESCRIPTION:- Open: ETB1\n- Open: TVG 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251213T081300Z
+DTSTAMP:20251218T081526Z
 DTSTART:20251221T180000Z
 DTEND:20251221T200000Z
 SUMMARY:Copa de la Reina - Alavés Fem. - Barcelona Femenino
-UID:2540a1c0-a87b-4bab-8e0e-2b46a9b65d88
+UID:f2f32009-01a0-4917-899e-3df1f9bb5b58
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
