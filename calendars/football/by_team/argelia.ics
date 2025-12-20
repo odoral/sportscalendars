@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251218T081527Z
+DTSTAMP:20251220T081345Z
 DTSTART:20251224T150000Z
 DTEND:20251224T170000Z
 SUMMARY:Copa Africana de Naciones - Argelia - Sudán
-UID:a5c8ae44-9c8c-4c45-969e-3f04cf1c5c55
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:0d409341-a5a1-4027-b800-f050e6cee94d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251220T081345Z
+DTSTART:20251228T173000Z
+DTEND:20251228T193000Z
+SUMMARY:Copa Africana de Naciones - Argelia - Burkina Faso
+UID:48cec28b-cf7e-4ed0-ac96-d9ef6a944af2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251218T081526Z
+DTSTAMP:20251220T081345Z
 DTSTART:20251222T200000Z
 DTEND:20251222T220000Z
 SUMMARY:Copa Africana de Naciones - Egipto - Zimbabue
-UID:cc4a9bae-6950-45d0-83ce-170e4df57dae
+UID:9e93d638-90a9-44b2-97e7-f47dcd04e51a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251220T081345Z
+DTSTART:20251226T150000Z
+DTEND:20251226T170000Z
+SUMMARY:Copa Africana de Naciones - Egipto - Sudáfrica
+UID:25a592f9-5e7d-42f0-acdc-d2d384592ca2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones

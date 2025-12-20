@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251218T081526Z
+DTSTAMP:20251220T081345Z
 DTSTART:20251222T140000Z
 DTEND:20251222T160000Z
 SUMMARY:Copa Africana de Naciones - Mali - Zambia
-UID:8967051a-3b00-4983-bc4a-503a51073bd2
+UID:e1076cba-3745-4e2d-ada3-b0a97711c07c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251218T081526Z
+DTSTAMP:20251220T081345Z
 DTSTART:20251226T200000Z
 DTEND:20251226T220000Z
 SUMMARY:Copa Africana de Naciones - Marruecos - Mali
-UID:60ab4e13-8109-4dc9-9efc-435bd6f30211
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
- /body></html>
-DESCRIPTION:- PPV: M+ Vamos
+UID:5bf4c28d-c8e6-419a-b799-33706eff6717
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

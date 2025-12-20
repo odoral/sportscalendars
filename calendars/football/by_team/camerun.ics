@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251219T004928Z
+DTSTAMP:20251220T081345Z
+DTSTART:20251224T200000Z
+DTEND:20251224T220000Z
+SUMMARY:Copa Africana de Naciones - Camerún - Gabón
+UID:7b005038-5f3a-4ec5-9257-e84676375b3b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251220T081345Z
 DTSTART:20251228T200000Z
 DTEND:20251228T220000Z
 SUMMARY:Copa Africana de Naciones - Costa de Marfil - Camerún
-UID:40a545e9-f340-49d1-a1f1-ac2729feafde
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:325c01f3-ff87-40ed-a62a-3bd8b88b8725
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

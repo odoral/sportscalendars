@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251218T081526Z
+DTSTAMP:20251220T081345Z
 DTSTART:20251222T170000Z
 DTEND:20251222T190000Z
 SUMMARY:Copa Africana de Naciones - Sudáfrica - Angola
-UID:6f60d2e8-d1d2-408d-ae7c-fc094b78dac8
+UID:e2f0e0c9-90b9-474f-b662-a8598041b495
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251220T081345Z
+DTSTART:20251226T150000Z
+DTEND:20251226T170000Z
+SUMMARY:Copa Africana de Naciones - Egipto - Sudáfrica
+UID:e5ac04bf-4841-4d6a-a54c-478e5876f042
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

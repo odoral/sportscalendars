@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251218T081527Z
+DTSTAMP:20251220T081345Z
 DTSTART:20251223T150000Z
 DTEND:20251223T170000Z
 SUMMARY:Copa Africana de Naciones - Senegal - Botswana
-UID:13f3ccc7-0026-481f-a441-c792cc65b75c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:8ec54db8-3bee-4089-b97b-8450b204979d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251220T081345Z
+DTSTART:20251227T150000Z
+DTEND:20251227T170000Z
+SUMMARY:Copa Africana de Naciones - Senegal - R.D. Congo
+UID:d1554547-6ab2-4eb6-8e63-4e02b0db9d09
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

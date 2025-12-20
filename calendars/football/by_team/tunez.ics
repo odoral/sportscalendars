@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251218T081527Z
+DTSTAMP:20251220T081345Z
+DTSTART:20251223T200000Z
+DTEND:20251223T220000Z
+SUMMARY:Copa Africana de Naciones - Túnez - Uganda
+UID:e18c8a74-8fc3-4742-979d-f838497845ff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251220T081345Z
 DTSTART:20251227T200000Z
 DTEND:20251227T220000Z
 SUMMARY:Copa Africana de Naciones - Nigeria - Túnez
-UID:41c25bc6-d403-4e11-bb62-2a75bc4076ae
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:77b11e7d-0ea3-40cd-8345-b44c69ce840c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
