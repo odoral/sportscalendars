@@ -17,6 +17,7 @@ You can import the URL into your favourite calendar app to receive daily updates
 |Premier League| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/premier_league.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/premier_league.ics)|
 |Primera Federación| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/primera_federacion.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/primera_federacion.ics)|
 |Serie A Italia| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/serie_a_italia.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/serie_a_italia.ics)|
+|Supercoppa Italia| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/supercoppa_italia.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/football/supercoppa_italia.ics)|
 
 ### By Team
 |Name|Action #1|Action #2|
