@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251220T081345Z
+DTSTAMP:20251222T005304Z
 DTSTART:20251224T123000Z
 DTEND:20251224T143000Z
 SUMMARY:Copa Africana de Naciones - Burkina Faso - Guinea Ecuatorial
-UID:db8f6141-f52e-428f-a20c-d27c19c6ad17
+UID:f07577ed-5178-469c-a5f9-975e4ffc8cd7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251220T081345Z
+DTSTAMP:20251222T005304Z
 DTSTART:20251228T150000Z
 DTEND:20251228T170000Z
 SUMMARY:Copa Africana de Naciones - Guinea Ecuatorial - Sudán
-UID:a56489ef-f9a6-42f8-be02-ad3707b8e36f
+UID:7954c87c-e5f0-4ea7-a26e-b1058dca5976
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251222T005304Z
+DTSTART:20251231T160000Z
+DTEND:20251231T180000Z
+SUMMARY:Copa Africana de Naciones - Guinea Ecuatorial - Argelia
+UID:457fad18-cfb9-4a0e-afd8-4b3ffcb18b33
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
