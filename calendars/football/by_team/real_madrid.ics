@@ -16,15 +16,45 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251218T042442Z
-DTSTART:20251220T200000Z
-DTEND:20251220T220000Z
-SUMMARY:Liga EA Sports - Real Madrid - Sevilla
-UID:44ef04fd-0f8f-42e7-8b60-0380e3bd726d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
- >PPV: M+ LaLiga 2</li>\n<li>PPV: M+ Vamos 2</li>\n<li>PPV: Movistar Plus
- +</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2\n- PPV: M+ Vamos 2\n- PP
- V: Movistar Plus+\n- PPV: Orange Fútbol 1
+DTSTAMP:20251224T081558Z
+DTSTART:20251227T130000Z
+DTEND:20251227T150000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Benfica
+UID:b84df882-a419-43f7-a8c8-2ca4d9e2161e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
+ li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
+ PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: M+ LaLig
+ a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251224T081558Z
+DTSTART:20251227T190000Z
+DTEND:20251227T210000Z
+SUMMARY:LaLiga FC Futures - Juventus - Real Madrid
+UID:06029ffd-89a4-4c1b-bba5-adc79af606e4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
+ li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
+ PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: M+ LaLig
+ a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251224T081558Z
+DTSTART:20251228T130000Z
+DTEND:20251228T150000Z
+SUMMARY:LaLiga FC Futures - Athletic Club - Real Madrid
+UID:4dc35d90-9958-4586-a02c-0f7ddbef2487
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
+ li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
+ PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: M+ LaLig
+ a
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,45 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251217T081617Z
-DTSTART:20251220T200000Z
-DTEND:20251220T220000Z
-SUMMARY:Liga Hypermotion - Las Palmas - Cultural Leonesa
-UID:b482f413-537c-4b16-b0dd-898b598bf5c8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
- </html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
- ulti 2
+DTSTAMP:20251224T081558Z
+DTSTART:20251227T093000Z
+DTEND:20251227T113000Z
+SUMMARY:LaLiga FC Futures - Las Palmas - PSG
+UID:6c1ea429-608c-4d5c-a9d2-bff3efb763af
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
+ li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
+ PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: M+ LaLig
+ a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251224T081558Z
+DTSTART:20251227T160000Z
+DTEND:20251227T180000Z
+SUMMARY:LaLiga FC Futures - Betis - Las Palmas
+UID:9946a5ad-c7a3-4a47-8d27-c4055cc2acdd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
+ li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
+ PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: M+ LaLig
+ a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251224T081558Z
+DTSTART:20251228T120000Z
+DTEND:20251228T140000Z
+SUMMARY:LaLiga FC Futures - Atlético de Madrid - Las Palmas
+UID:c7053d91-b34c-4a57-93a5-e28b8195c014
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
+ li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
+ PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: M+ LaLig
+ a
 END:VEVENT
 END:VCALENDAR
