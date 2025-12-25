@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251215T005220Z
-DTSTART:20251221T150000Z
-DTEND:20251221T170000Z
-SUMMARY:Primera Federación - Barakaldo - Pontevedra
-UID:528b7b69-cf23-49a8-9149-25c35a14e23f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+DTSTAMP:20251225T042927Z
+DTSTART:20260103T153000Z
+DTEND:20260103T173000Z
+SUMMARY:Primera Federación - Pontevedra - Racing Ferrol
+UID:ad544e1c-6644-4e72-aeca-1dc3b01f3be5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251224T081558Z
+DTSTAMP:20251225T042927Z
 DTSTART:20251227T110000Z
 DTEND:20251227T130000Z
 SUMMARY:LaLiga FC Futures - Juventus - Athletic Club
-UID:17eb5e00-049d-426b-85af-bbb87ba7eb2f
+UID:a6642790-536f-4073-96b7-9fc52b23424f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
  li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
@@ -30,11 +30,11 @@ DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
  a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251224T081558Z
+DTSTAMP:20251225T042927Z
 DTSTART:20251227T190000Z
 DTEND:20251227T210000Z
 SUMMARY:LaLiga FC Futures - Juventus - Real Madrid
-UID:aa995ef1-1f30-43ec-b1ec-af61e299d46d
+UID:c17e2018-17b6-416e-a963-ba2faf3f3d03
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
  li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
@@ -44,21 +44,21 @@ DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
  a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251224T081558Z
+DTSTAMP:20251225T042927Z
 DTSTART:20251227T194500Z
 DTEND:20251227T214500Z
 SUMMARY:Serie A Italia - Pisa S.C. - Juventus
-UID:1c5b3a71-db51-45b0-a1f9-6963c16c5116
+UID:30a1927d-c424-4c9f-a3ca-8466b8ffe064
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251224T081558Z
+DTSTAMP:20251225T042927Z
 DTSTART:20251228T100000Z
 DTEND:20251228T120000Z
 SUMMARY:LaLiga FC Futures - Juventus - Benfica
-UID:1cb1cc68-8593-4678-b83d-adac12503e5b
+UID:091c5724-35e5-47ee-a8c3-071f23a4e694
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
  li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
@@ -66,5 +66,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
 DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
  PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: M+ LaLig
  a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251225T042927Z
+DTSTART:20260103T170000Z
+DTEND:20260103T190000Z
+SUMMARY:Serie A Italia - Juventus - U.S. Lecce
+UID:fd5d08ec-3d0a-42e9-9863-988eda06c93e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

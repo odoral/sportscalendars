@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251219T004928Z
-DTSTART:20251221T151500Z
-DTEND:20251221T171500Z
-SUMMARY:Primera Federación - Lugo - Ourense C.F.
-UID:9307a8ce-d906-40dc-bd80-fa85550c7b85
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
- V: FC Play</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li><
- /ul></body></html>
-DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PP
- V: LaLiga+
+DTSTAMP:20251225T042928Z
+DTSTART:20260103T174500Z
+DTEND:20260103T194500Z
+SUMMARY:Primera Federación - Ourense C.F. - Real Avilés
+UID:66115c30-9691-4c99-960e-db3fb0ab04df
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
