@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251224T081558Z
+DTSTAMP:20251226T004939Z
 DTSTART:20251227T120000Z
 DTEND:20251227T140000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Betis
-UID:bf292322-1445-4386-a1f8-a6df54ef4415
+UID:6aff281a-7d02-444a-bf7f-9140b1982ee2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
  li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
@@ -30,11 +30,11 @@ DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
  a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251224T081558Z
+DTSTAMP:20251226T004939Z
 DTSTART:20251227T180000Z
 DTEND:20251227T200000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - PSG
-UID:e59d0a00-c42b-4c81-bd04-26c8260e5285
+UID:ada5ab92-13aa-4b21-afa1-43054c9e4d82
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
  li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
@@ -44,11 +44,11 @@ DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
  a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251224T081558Z
+DTSTAMP:20251226T004939Z
 DTSTART:20251228T120000Z
 DTEND:20251228T140000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Las Palmas
-UID:353a4f40-fa56-4299-a460-156f191df35f
+UID:9aed2403-acff-4e1e-bff4-9eec3622e12a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
  li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
@@ -56,5 +56,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
 DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
  PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: M+ LaLig
  a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251226T004939Z
+DTSTART:20260104T200000Z
+DTEND:20260104T220000Z
+SUMMARY:Liga EA Sports - Real Sociedad - Atlético de Madrid
+UID:1d2b4234-7a84-4f56-874e-024be16dd27c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 END:VCALENDAR

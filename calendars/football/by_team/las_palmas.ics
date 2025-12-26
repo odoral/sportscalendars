@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251224T081558Z
+DTSTAMP:20251226T004939Z
 DTSTART:20251227T093000Z
 DTEND:20251227T113000Z
 SUMMARY:LaLiga FC Futures - Las Palmas - PSG
-UID:6c1ea429-608c-4d5c-a9d2-bff3efb763af
+UID:8842c39f-9f66-439c-b678-78b032b63a47
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
  li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
@@ -30,11 +30,11 @@ DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
  a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251224T081558Z
+DTSTAMP:20251226T004939Z
 DTSTART:20251227T160000Z
 DTEND:20251227T180000Z
 SUMMARY:LaLiga FC Futures - Betis - Las Palmas
-UID:9946a5ad-c7a3-4a47-8d27-c4055cc2acdd
+UID:ea794b2b-a1f6-4d90-a677-5a698c9a5693
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
  li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
@@ -44,11 +44,11 @@ DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
  a
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251224T081558Z
+DTSTAMP:20251226T004939Z
 DTSTART:20251228T120000Z
 DTEND:20251228T140000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Las Palmas
-UID:c7053d91-b34c-4a57-93a5-e28b8195c014
+UID:1f004997-42e5-47b4-91f4-ac1100c15d6e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
  li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: M+ 
@@ -56,5 +56,18 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
 DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
  PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: M+ LaLig
  a
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251226T004939Z
+DTSTART:20260104T173000Z
+DTEND:20260104T193000Z
+SUMMARY:Liga Hypermotion - Real Zaragoza - Las Palmas
+UID:0518699b-a0fe-44d9-971f-a2d32ae097bd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TEN TV</li>\n<li>Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>P
+ PV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TV Canaria\n- PPV: 
+ DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

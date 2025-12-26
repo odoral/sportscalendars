@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251221T005343Z
+DTSTAMP:20251226T004939Z
 DTSTART:20251227T173000Z
 DTEND:20251227T193000Z
 SUMMARY:Premier League - Chelsea - Aston Villa
-UID:91dd4b0f-7d9f-4d84-91bb-a13ac9dad0f9
+UID:87706fef-43a3-4676-9c4e-2592e480fd7e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
  html>
@@ -28,13 +28,25 @@ DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones 2\n- PPV: Movistar P
  lus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251221T005343Z
+DTSTAMP:20251226T004939Z
 DTSTART:20251230T193000Z
 DTEND:20251230T213000Z
 SUMMARY:Premier League - Chelsea - Bournemouth
-UID:eee0fb34-3c79-423f-a0ce-7ff421e6d34b
+UID:1a09ca48-cdb9-4f31-a3a6-0eb92c67c9fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251226T004939Z
+DTSTART:20260104T173000Z
+DTEND:20260104T193000Z
+SUMMARY:Premier League - Manchester City - Chelsea
+UID:9599beb5-6477-42e7-8ba8-2517dbfd7027
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR
