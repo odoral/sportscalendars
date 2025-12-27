@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251225T042928Z
+DTSTAMP:20251227T081413Z
 DTSTART:20251228T173000Z
 DTEND:20251228T193000Z
 SUMMARY:Copa Africana de Naciones - Argelia - Burkina Faso
-UID:cda8ca3c-828a-4941-a283-245b0be797ab
+UID:8a2eacbe-cdb4-4462-9f70-b14f063b648c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251225T042928Z
+DTSTAMP:20251227T081413Z
 DTSTART:20251231T160000Z
 DTEND:20251231T180000Z
 SUMMARY:Copa Africana de Naciones - Guinea Ecuatorial - Argelia
-UID:ef0a114f-9e93-487e-8505-5a3d5770ee18
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:9e67a91d-4749-4d88-8972-89bbdfb90a93
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

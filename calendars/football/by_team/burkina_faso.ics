@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251225T042927Z
+DTSTAMP:20251227T081413Z
 DTSTART:20251228T173000Z
 DTEND:20251228T193000Z
 SUMMARY:Copa Africana de Naciones - Argelia - Burkina Faso
-UID:f04a8c2f-bcd1-4bf1-9bce-0fbc295043c7
+UID:39be3967-6dd7-406a-aea9-9aacdf8fd34e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251227T081413Z
+DTSTART:20251231T160000Z
+DTEND:20251231T180000Z
+SUMMARY:Copa Africana de Naciones - Sudán - Burkina Faso
+UID:92015f8b-e960-434c-b105-68e4f84ff801
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 END:VCALENDAR
