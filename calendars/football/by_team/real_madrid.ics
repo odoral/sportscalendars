@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251229T081708Z
+DTSTAMP:20251229T201206Z
 DTSTART:20251229T104500Z
 DTEND:20251229T124500Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Real Madrid
-UID:185bbde9-9c2e-4824-9341-04db15a3789d
+UID:8defe998-4194-4eb8-9d8a-bf0ef88b7e0b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
  li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
@@ -30,11 +30,25 @@ DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
  n- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251229T081708Z
+DTSTAMP:20251229T201206Z
+DTSTART:20251229T173000Z
+DTEND:20251229T193000Z
+SUMMARY:LaLiga FC Futures - Valencia - Real Madrid
+UID:ec8a7f07-7f9b-405d-8a54-794536c70ef2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
+ li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
+ iga+</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
+ PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: LaLiga+\
+ n- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251229T201206Z
 DTSTART:20260104T151500Z
 DTEND:20260104T171500Z
 SUMMARY:Liga EA Sports - Real Madrid - Betis
-UID:a7adf512-d369-47cb-89bb-21a17ffaf051
+UID:d26a1a8a-073b-4c2d-a7c5-3bcc7dfa0453
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
