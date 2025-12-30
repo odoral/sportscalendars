@@ -16,41 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251229T201206Z
-DTSTART:20251229T104500Z
-DTEND:20251229T124500Z
-SUMMARY:LaLiga FC Futures - Atlético de Madrid - Real Madrid
-UID:8defe998-4194-4eb8-9d8a-bf0ef88b7e0b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
- li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga+</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
- PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: LaLiga+\
- n- PPV: M+ LaLiga
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251229T201206Z
-DTSTART:20251229T173000Z
-DTEND:20251229T193000Z
-SUMMARY:LaLiga FC Futures - Valencia - Real Madrid
-UID:ec8a7f07-7f9b-405d-8a54-794536c70ef2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
- li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaL
- iga+</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
- PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium\n- PPV: LaLiga+\
- n- PPV: M+ LaLiga
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251229T201206Z
+DTSTAMP:20251230T004950Z
 DTSTART:20260104T151500Z
 DTEND:20260104T171500Z
 SUMMARY:Liga EA Sports - Real Madrid - Betis
-UID:d26a1a8a-073b-4c2d-a7c5-3bcc7dfa0453
+UID:71ad04d3-a2d8-468e-8084-644ec0990f8e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251230T004950Z
+DTSTART:20260108T190000Z
+DTEND:20260108T210000Z
+SUMMARY:Supercopa de España - Real Madrid - Atlético de Madrid
+UID:edda923e-a05f-4142-aceb-9f646175c170
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
