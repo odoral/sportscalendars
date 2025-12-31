@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251226T004939Z
+DTSTAMP:20251231T005138Z
 DTSTART:20260104T130000Z
 DTEND:20260104T150000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Málaga
-UID:3e72494a-d51a-474e-a64b-d8f3bba815ad
+UID:36410cf6-05ce-420d-8e0d-743c7235dbd9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251231T005138Z
+DTSTART:20260109T193000Z
+DTEND:20260109T213000Z
+SUMMARY:Liga Hypermotion - Cádiz - Sporting de Gijón
+UID:f4ea458d-cdd1-433d-a5f8-e60b0ab7f5ee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
