@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251226T004939Z
+DTSTAMP:20251231T081556Z
 DTSTART:20260104T131500Z
 DTEND:20260104T151500Z
 SUMMARY:Primera Federación - Osasuna Promesas - Tenerife
-UID:0316d87d-72c2-4331-97bc-addfab548c36
+UID:07db4a4e-77b8-4373-ab5b-9a935b737db0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251231T081556Z
+DTSTART:20260109T211500Z
+DTEND:20260109T231500Z
+SUMMARY:Primera Federación - Tenerife - C.F. Talavera
+UID:383c0a70-9b95-45bb-8244-a37725762977
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
+  Federación</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ \n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

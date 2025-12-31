@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251226T004939Z
+DTSTAMP:20251231T081556Z
 DTSTART:20260104T110000Z
 DTEND:20260104T130000Z
 SUMMARY:Primera Federación - C.F. Talavera - Guadalajara
-UID:5b0fff11-c1bf-491a-bdf8-39c1076e5ae1
+UID:ed11e98a-5391-48b8-85c7-89c0e292dd3c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMM (Castilla-LM)<
  /li>\n<li>Open: CMMPlay (Castilla-LM)</li>\n<li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: CMM (Castilla-LM)\n- Open: CMMPlay (Castilla-LM)\n- P
  PV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251231T081556Z
+DTSTART:20260109T211500Z
+DTEND:20260109T231500Z
+SUMMARY:Primera Federación - Tenerife - C.F. Talavera
+UID:ad03caa5-fad6-4afe-806e-34cb92166962
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
+  Federación</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ \n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

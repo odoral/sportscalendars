@@ -16,43 +16,73 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251231T005138Z
+DTSTAMP:20251231T081556Z
 DTSTART:20251231T160000Z
 DTEND:20251231T180000Z
 SUMMARY:Copa Africana de Naciones - Guinea Ecuatorial - Argelia
-UID:10b4a48d-b165-4b5c-8c80-c2812410ff1a
+UID:5ff1a0dc-d40f-4fd7-8ab2-c44d23a5e4c7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T005138Z
+DTSTAMP:20251231T081556Z
 DTSTART:20251231T160000Z
 DTEND:20251231T180000Z
 SUMMARY:Copa Africana de Naciones - Sudán - Burkina Faso
-UID:44d61889-c5bb-4793-afa4-aa968d847dc1
+UID:78813f3e-7f4d-4f0e-82d9-b1c8dbed563d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T005138Z
+DTSTAMP:20251231T081556Z
 DTSTART:20251231T190000Z
 DTEND:20251231T210000Z
 SUMMARY:Copa Africana de Naciones - Gabón - Costa de Marfil
-UID:8162a4be-3f69-4c36-ba82-6846b8f0d182
+UID:2afbee90-02cb-40c6-bd81-4abc5f7475ef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T005138Z
+DTSTAMP:20251231T081556Z
 DTSTART:20251231T190000Z
 DTEND:20251231T210000Z
 SUMMARY:Copa Africana de Naciones - Mozambique - Camerún
-UID:8a9aa9cb-fc88-42cb-a27a-d6825f648beb
+UID:33bc5e90-c23b-44c8-80ce-b6d65eee7826
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251231T081556Z
+DTSTART:20260103T190000Z
+DTEND:20260103T210000Z
+SUMMARY:Copa Africana de Naciones - Mali - Túnez
+UID:004e31e5-25a5-4017-a316-fbc0cd1c5663
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251231T081556Z
+DTSTART:20260104T160000Z
+DTEND:20260104T180000Z
+SUMMARY:Copa Africana de Naciones - Marruecos - Tanzania
+UID:ead8f79c-45e0-4fd5-a91b-d8501c2a0883
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20251231T081556Z
+DTSTART:20260105T160000Z
+DTEND:20260105T180000Z
+SUMMARY:Copa Africana de Naciones - Egipto - Benín
+UID:ac323123-d4df-442c-afd4-21a39afebc64
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
