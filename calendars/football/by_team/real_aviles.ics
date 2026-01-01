@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251225T042927Z
+DTSTAMP:20260101T043937Z
 DTSTART:20260103T174500Z
 DTEND:20260103T194500Z
 SUMMARY:Primera Federación - Ourense C.F. - Real Avilés
-UID:fa5d6bf8-54f0-4cdb-a646-a31d84aa9480
+UID:075e5a2e-58a9-42cb-bd3e-aaf928fda638
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260101T043937Z
+DTSTART:20260110T173000Z
+DTEND:20260110T193000Z
+SUMMARY:Primera Federación - Real Avilés - Pontevedra
+UID:1c7867cf-11ed-4660-9555-195d8e2814c9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251225T042927Z
+DTSTAMP:20260101T043937Z
 DTSTART:20260103T153000Z
 DTEND:20260103T173000Z
 SUMMARY:Primera Federación - Pontevedra - Racing Ferrol
-UID:ad544e1c-6644-4e72-aeca-1dc3b01f3be5
+UID:d0e14406-57f5-4746-b20f-fa498c684c30
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
  </ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
   Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260101T043937Z
+DTSTART:20260110T173000Z
+DTEND:20260110T193000Z
+SUMMARY:Primera Federación - Real Avilés - Pontevedra
+UID:850edc6f-d7ae-4396-a996-7eea7e86ed6f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

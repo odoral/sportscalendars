@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251226T004939Z
+DTSTAMP:20260101T043937Z
 DTSTART:20260104T110000Z
 DTEND:20260104T130000Z
 SUMMARY:Primera Federación - R.M. Castilla - C.D. Arenteiro
-UID:8e6232cc-8eb7-4f56-baa8-11929d674d70
+UID:4228dba1-d8fc-4b46-8cc3-89fea2482214
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260101T043937Z
+DTSTART:20260110T151500Z
+DTEND:20260110T171500Z
+SUMMARY:Primera Federación - C.D. Arenteiro - Lugo
+UID:d0d3932a-4592-48a0-acbc-b266e7e31d54
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

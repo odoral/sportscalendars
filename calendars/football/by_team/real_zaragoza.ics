@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251226T004939Z
+DTSTAMP:20260101T043937Z
 DTSTART:20260104T173000Z
 DTEND:20260104T193000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Las Palmas
-UID:8ccb6046-8edc-44be-926d-8a2bd2b9dbee
+UID:7c8f4d79-a40b-45e7-988f-c769ffc5249e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>P
  PV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></b
  ody></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TV Canaria\n- PPV: 
  DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260101T043937Z
+DTSTART:20260110T200000Z
+DTEND:20260110T220000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Real Zaragoza
+UID:6b4efdb6-b78b-494a-8259-7697fb316aec
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

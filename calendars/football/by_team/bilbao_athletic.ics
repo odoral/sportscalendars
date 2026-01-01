@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251226T004939Z
+DTSTAMP:20260101T043937Z
 DTSTART:20260104T153000Z
 DTEND:20260104T173000Z
 SUMMARY:Primera Federación - Bilbao Athletic - Ponferradina
-UID:6004b813-e9b2-4f7b-afc7-ce7bf08f8151
+UID:faf5a809-867b-4f50-ac1a-e3ac32b5ad39
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260101T043937Z
+DTSTART:20260110T151500Z
+DTEND:20260110T171500Z
+SUMMARY:Primera Federación - Racing Ferrol - Bilbao Athletic
+UID:4a821170-d16e-4f54-ae4e-36702ffeebd3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación

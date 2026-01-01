@@ -16,38 +16,55 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251214T042810Z
-DTSTART:20251214T110000Z
-DTEND:20251214T130000Z
-SUMMARY:Liga F - UDG Tenerife - DUX Logroño Fem.
-UID:9ecf47bb-f93a-49ca-9e74-9ef35140aa60
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 3</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 3
+DTSTAMP:20260101T043936Z
+DTSTART:20260110T110000Z
+DTEND:20260110T130000Z
+SUMMARY:Liga F - Alhama C.F. - Eibar Fem.
+UID:2cb252e2-828d-45b6-97d6-8b7350e399a5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251214T042810Z
-DTSTART:20251214T110000Z
-DTEND:20251214T130000Z
-SUMMARY:Liga F - Eibar Fem. - At. Madrid Fem.
-UID:c903c235-c649-4c82-8d3e-4307654d6708
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li>\n<li>PPV: M+ Ellas Vamos</li>\n<li>PPV: M+ Vamos 2</li></ul
- ></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Ellas Vamos\n- PPV: M+ 
- Vamos 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251214T042810Z
-DTSTART:20251214T110000Z
-DTEND:20251214T130000Z
-SUMMARY:Liga F - Real Sociedad F. - Deportivo Abanca
-UID:1f56d0dc-fb09-4a6d-99b7-765fd1bae84d
+DTSTAMP:20260101T043936Z
+DTSTART:20260110T110000Z
+DTEND:20260110T130000Z
+SUMMARY:Liga F - At. Madrid Fem. - Real Sociedad F.
+UID:879fcc17-b4fc-4475-9502-14d349db43e0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
- n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>Open: TVG 2</li>\n<li>PPV: 
- DAZN</li>\n<li>PPV: DAZN 2</li>\n<li>PPV: GolStadium Premium</li></ul></
- body></html>
-DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TEN TV\n- Open: TVG 2
- \n- PPV: DAZN\n- PPV: DAZN 2\n- PPV: GolStadium Premium
+ n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: Go
+ lStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n
+ - PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260101T043936Z
+DTSTART:20260110T140000Z
+DTEND:20260110T160000Z
+SUMMARY:Liga F - Athletic Club Fem. - FC Badalona Women
+UID:b5a4a4b7-0e3e-4414-afbd-a334fe52afc4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260101T043936Z
+DTSTART:20260110T160000Z
+DTEND:20260110T180000Z
+SUMMARY:Liga F - Real Madrid Fem. - Sevilla FC Fem.
+UID:80fa2e05-91c4-421a-8cc9-755f22e98f40
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260101T043936Z
+DTSTART:20260110T180000Z
+DTEND:20260110T200000Z
+SUMMARY:Liga F - Barcelona Femenino - Madrid C.F.F.
+UID:2af5ee5b-1137-4093-a091-f7beaeae7fe9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
