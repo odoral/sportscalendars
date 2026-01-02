@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251225T042927Z
+DTSTAMP:20260102T005137Z
 DTSTART:20260103T200000Z
 DTEND:20260103T220000Z
 SUMMARY:Primera Federación - Hércules - Sabadell
-UID:14b8ab1d-e756-41ca-a2d4-f1a48187d26d
+UID:d26b811f-ee44-458e-8d1c-7441326751a0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260102T005137Z
+DTSTART:20260111T170000Z
+DTEND:20260111T190000Z
+SUMMARY:Primera Federación - Real Murcia - Hércules
+UID:d4af11cc-f7f3-498c-a94c-0b0f46b84d8d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>Open: À Punt (València)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga
+ +</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- Open: À Punt (València)\n- PPV: FC Pla
+ y\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251225T042928Z
+DTSTAMP:20260102T005137Z
 DTSTART:20260103T150000Z
 DTEND:20260103T170000Z
 SUMMARY:Primera Federación - At. Madrid B - Tarazona
-UID:629b0b81-945c-43ed-9448-052b44accd95
+UID:c8bdc41c-7f3d-429d-b237-37ab0bc23a0e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260102T005137Z
+DTSTART:20260111T130000Z
+DTEND:20260111T150000Z
+SUMMARY:Primera Federación - Antequera - At. Madrid B
+UID:01a90aea-ccf9-4a16-88df-728c4c4627dc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251225T042927Z
+DTSTAMP:20260102T005137Z
 DTSTART:20260103T150000Z
 DTEND:20260103T170000Z
 SUMMARY:Primera Federación - Juv. Torremolinos - Nàstic Tarragona
-UID:47e8ba92-36b1-41b5-83d3-597672fbac63
+UID:4aa74275-560f-436d-b5e7-0387c9533d04
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260102T005137Z
+DTSTART:20260111T110000Z
+DTEND:20260111T130000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Teruel
+UID:27f8961a-b6e1-4c32-898d-028923c03bbc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
+ li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prim
+ era Federación
 END:VEVENT
 END:VCALENDAR

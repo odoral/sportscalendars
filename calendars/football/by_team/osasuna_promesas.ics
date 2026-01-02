@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251226T004939Z
+DTSTAMP:20260102T005137Z
 DTSTART:20260104T131500Z
 DTEND:20260104T151500Z
 SUMMARY:Primera Federación - Osasuna Promesas - Tenerife
-UID:61c31bf2-5ec3-4f29-a8f2-5ff51ee83f58
+UID:fd17d569-6725-4aa2-8c3f-ca479948ff84
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260102T005137Z
+DTSTART:20260111T110000Z
+DTEND:20260111T130000Z
+SUMMARY:Primera Federación - Mérida - Osasuna Promesas
+UID:16a124e8-3615-444f-892b-1adf533d8d2e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
