@@ -16,25 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251231T081556Z
+DTSTAMP:20260103T081421Z
 DTSTART:20260103T173000Z
 DTEND:20260103T193000Z
 SUMMARY:Premier League - Bournemouth - Arsenal
-UID:42c82de6-4f79-4ee2-ac18-6d708a2cb106
+UID:e250125f-6dbb-4344-a611-4c8bd28e8462
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251231T081556Z
+DTSTAMP:20260103T081421Z
 DTSTART:20260108T200000Z
 DTEND:20260108T220000Z
 SUMMARY:Premier League - Arsenal - Liverpool
-UID:fb04e2cc-6710-4a5b-bf33-d119581a2a34
+UID:bd7508a4-81c0-4eb5-a6b1-3e0bb4dfafac
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
- ml>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
- s+
+  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
+ +</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
+ V: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
