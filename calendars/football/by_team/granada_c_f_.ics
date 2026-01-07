@@ -16,23 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260104T005700Z
-DTSTART:20260106T180000Z
-DTEND:20260106T200000Z
-SUMMARY:Copa del Rey - Granada C.F. - Rayo Vallecano
-UID:62a2e08c-00e2-4761-8bf9-217974b302ab
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
- </body></html>
-DESCRIPTION:- PPV: M+ LaLiga
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260104T005700Z
+DTSTAMP:20260107T043141Z
 DTSTART:20260111T151500Z
 DTEND:20260111T171500Z
 SUMMARY:Liga Hypermotion - Granada C.F. - C.D. Castellón
-UID:8fa73504-9d96-4bc3-a11e-440d7d8e9fdc
+UID:dbd2ef4a-968e-4283-9236-8dc357e18230
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 3
 END:VEVENT
 END:VCALENDAR
