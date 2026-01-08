@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260104T005659Z
+DTSTAMP:20260108T043040Z
 DTSTART:20260111T170000Z
 DTEND:20260111T190000Z
 SUMMARY:Primera Federación - Real Murcia - Hércules
-UID:bbc55019-03ba-4afe-a48f-fae7e0b9c61d
+UID:27a8220e-8683-4749-9bf5-2f281b417d9d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
  <li>Open: À Punt (València)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga
  +</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: La 7 Murcia\n- Open: À Punt (València)\n- PPV: FC Pla
  y\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260108T043040Z
+DTSTART:20260117T130000Z
+DTEND:20260117T150000Z
+SUMMARY:Primera Federación - Hércules - Sevilla At.
+UID:fe8a88b7-9f1a-4584-9dd9-733d9d1ad6f3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

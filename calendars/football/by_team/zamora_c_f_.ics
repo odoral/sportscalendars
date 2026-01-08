@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260105T005547Z
+DTSTAMP:20260108T043040Z
 DTSTART:20260111T150000Z
 DTEND:20260111T170000Z
 SUMMARY:Primera Federación - Unionistas - Zamora C.F.
-UID:efd033c0-4c90-470f-93e8-74750ec61406
+UID:fecbad0a-c06c-45e6-8479-49776ea13a75
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260108T043040Z
+DTSTART:20260117T173000Z
+DTEND:20260117T193000Z
+SUMMARY:Primera Federación - Zamora C.F. - Tenerife
+UID:96e2ac54-dc88-4895-9d55-52d36379bb57
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
+ </li></ul></body></html>
+DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
+ imera Federación
 END:VEVENT
 END:VCALENDAR

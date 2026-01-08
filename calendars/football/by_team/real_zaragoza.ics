@@ -16,15 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260107T043140Z
+DTSTAMP:20260108T043040Z
 DTSTART:20260110T200000Z
 DTEND:20260110T220000Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Real Zaragoza
-UID:fc328e23-0189-42bb-8089-f845650209f0
+UID:884d9305-5c19-4376-af46-46694dfa7ee1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260108T043040Z
+DTSTART:20260117T173000Z
+DTEND:20260117T193000Z
+SUMMARY:Liga Hypermotion - Real Zaragoza - Real Sociedad B
+UID:7d9db53d-896b-4151-9636-35dfd2a7cb76
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>PPV: DAZN</li>
+ \n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
+ - PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

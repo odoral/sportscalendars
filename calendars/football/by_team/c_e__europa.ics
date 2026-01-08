@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260105T005547Z
+DTSTAMP:20260108T043040Z
 DTSTART:20260110T130000Z
 DTEND:20260110T150000Z
 SUMMARY:Primera Federación - C.E. Europa - Alcorcón
-UID:ee0398f2-b541-42fa-93eb-74898306c1cb
+UID:b4d7632e-23f1-48d0-a944-8cab5e4c2b6b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260108T043040Z
+DTSTART:20260117T151500Z
+DTEND:20260117T171500Z
+SUMMARY:Primera Federación - C.E. Europa - At. Madrid B
+UID:aa21f473-bb04-4e52-b6ac-88c409eaf83f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
+ li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prim
+ era Federación
 END:VEVENT
 END:VCALENDAR

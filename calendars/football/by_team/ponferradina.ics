@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260105T005547Z
+DTSTAMP:20260108T043040Z
 DTSTART:20260110T200000Z
 DTEND:20260110T220000Z
 SUMMARY:Primera Federación - Ponferradina - Ourense C.F.
-UID:da963781-8ac5-4abb-9d6f-9623a9bd0bb8
+UID:85934618-8646-46ed-a6b3-636790e1df1e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260108T043040Z
+DTSTART:20260117T200000Z
+DTEND:20260117T220000Z
+SUMMARY:Primera Federación - Ponferradina - Racing Ferrol
+UID:6b7a0113-11ed-4bb8-bde9-706ebe1e971b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
