@@ -16,12 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260107T081611Z
+DTSTAMP:20260108T081600Z
+DTSTART:20260109T160000Z
+DTEND:20260109T180000Z
+SUMMARY:Copa Africana de Naciones - Mali - Senegal
+UID:bbc46924-612c-45ba-91db-a4438d7f2214
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260108T081600Z
 DTSTART:20260109T190000Z
 DTEND:20260109T210000Z
 SUMMARY:Copa Africana de Naciones - Camerún - Marruecos
-UID:d2ec6665-0a57-4bbe-8662-b86bc58bd167
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:961b3570-4214-4a97-bfbe-4aa76490b630
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260108T081600Z
+DTSTART:20260110T160000Z
+DTEND:20260110T180000Z
+SUMMARY:Copa Africana de Naciones - Argelia - Nigeria
+UID:9997fa16-2de9-4a63-886b-84cc4f379208
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260108T081600Z
+DTSTART:20260110T190000Z
+DTEND:20260110T210000Z
+SUMMARY:Copa Africana de Naciones - Egipto - Costa de Marfil
+UID:c84d8fb8-a8c9-48f0-b2bd-8d46ed85788a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

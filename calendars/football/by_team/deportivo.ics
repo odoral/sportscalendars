@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260108T043040Z
+DTSTAMP:20260108T081600Z
 DTSTART:20260110T173000Z
 DTEND:20260110T193000Z
 SUMMARY:Liga Hypermotion - Las Palmas - Deportivo
-UID:8a194b1c-1d01-444f-a92f-149d2e0d1a39
+UID:a2d2fbfb-018d-4d1e-a2a1-24bd09a04212
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV
   Multi 2</li></ul></body></html>
@@ -28,11 +28,20 @@ DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n
  - PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260108T043040Z
+DTSTAMP:20260108T081600Z
+DTSTART:20260114T170000Z
+DTEND:20260114T190000Z
+SUMMARY:Copa del Rey - Deportivo - Atlético de Madrid
+UID:a6014b4a-e01a-4209-8ebf-d5166753aa69
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260108T081600Z
 DTSTART:20260117T200000Z
 DTEND:20260117T220000Z
 SUMMARY:Liga Hypermotion - Almería - Deportivo
-UID:0326da27-8d56-485e-b651-06cc09bf83fa
+UID:01c7c3c0-5f47-42a4-8e46-046e78925f65
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
