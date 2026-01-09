@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260107T043140Z
+DTSTAMP:20260109T005136Z
 DTSTART:20260110T151500Z
 DTEND:20260110T171500Z
 SUMMARY:Primera Federación - C.D. Arenteiro - Lugo
-UID:b6556be4-6dfe-4a63-b4d8-3519a92d4104
+UID:f778fb01-2aa3-46e6-a6ab-647210c82ff8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li><
  /ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PP
  V: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260109T005136Z
+DTSTART:20260118T150000Z
+DTEND:20260118T170000Z
+SUMMARY:Primera Federación - Lugo - Unionistas
+UID:28f3f237-680f-48b3-9f33-2113679da3bc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

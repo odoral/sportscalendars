@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260108T081600Z
+DTSTAMP:20260109T005136Z
 DTSTART:20260110T200000Z
 DTEND:20260110T220000Z
 SUMMARY:Primera Federación - Ponferradina - Ourense C.F.
-UID:eb2787d7-4690-4ac3-aed8-a32d581c66bf
+UID:2040242d-ea63-4964-b1fa-80383d7e1268
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Web TVG</li>\n<li>
  PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</l
  i></ul></body></html>
 DESCRIPTION:- Open: Web TVG\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prime
  ra Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260109T005136Z
+DTSTART:20260118T110000Z
+DTEND:20260118T130000Z
+SUMMARY:Primera Federación - Ourense C.F. - Osasuna Promesas
+UID:cf9972dd-21e0-45b9-994d-d8f66b3ef507
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

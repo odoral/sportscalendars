@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260104T005659Z
+DTSTAMP:20260109T005136Z
 DTSTART:20260111T150000Z
 DTEND:20260111T170000Z
 SUMMARY:Primera Federación - Unionistas - Zamora C.F.
-UID:5cabaaa7-6858-4007-951e-df8d4fa9ffd3
+UID:ade94766-39bf-4051-a4c3-ab05da20f0ac
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260109T005136Z
+DTSTART:20260118T150000Z
+DTEND:20260118T170000Z
+SUMMARY:Primera Federación - Lugo - Unionistas
+UID:0eadd635-8fca-448a-b918-c3d4d767fb53
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
