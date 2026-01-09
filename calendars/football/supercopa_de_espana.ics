@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260108T043040Z
-DTSTART:20260108T190000Z
-DTEND:20260108T210000Z
-SUMMARY:Supercopa de España - Real Madrid - Atlético de Madrid
-UID:6ce0efc2-409b-4f89-8222-b6203c44029b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
- </body></html>
-DESCRIPTION:- PPV: M+ LaLiga
+DTSTAMP:20260109T081617Z
+DTSTART:20260111T190000Z
+DTEND:20260111T210000Z
+SUMMARY:Supercopa de España - Barcelona - Real Madrid
+UID:567ab862-4189-4ad1-a82b-f862f1a570e1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
