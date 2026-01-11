@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260109T005136Z
+DTSTAMP:20260111T081403Z
 DTSTART:20260111T153000Z
 DTEND:20260111T173000Z
 SUMMARY:Primera Federación - Sabadell - Marbella
-UID:247399c8-7911-415f-be2c-e2fe813e781c
+UID:7bfad954-8c88-465f-a2ef-c6de390da848
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260109T005136Z
+DTSTAMP:20260111T081403Z
+DTSTART:20260114T190000Z
+DTEND:20260114T210000Z
+SUMMARY:Copa Catalunya - Terrassa F.C. - Sabadell
+UID:bcf97294-ec37-45b2-978d-1885851ee452
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch RadioSabade
+ ll</li></ul></body></html>
+DESCRIPTION:- Open: Twitch RadioSabadell
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260111T081403Z
 DTSTART:20260118T110000Z
 DTEND:20260118T130000Z
 SUMMARY:Primera Federación - Teruel - Sabadell
-UID:8f6ee729-8caf-4169-baeb-1c10fd42e3bf
+UID:62042984-77eb-430e-8a46-b10c81ab70d0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
  >\n<li>PPV: Primera Federación</li></ul></body></html>

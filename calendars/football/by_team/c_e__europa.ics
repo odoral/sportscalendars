@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260111T005643Z
+DTSTAMP:20260111T081403Z
+DTSTART:20260114T190000Z
+DTEND:20260114T210000Z
+SUMMARY:Copa Catalunya - C.E. Europa - F.C. Andorra
+UID:79e6b43e-1613-462d-8d19-1ee815d667c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betevé (Bcn)</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Betevé (Bcn)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260111T081403Z
 DTSTART:20260117T151500Z
 DTEND:20260117T171500Z
 SUMMARY:Primera Federación - C.E. Europa - At. Madrid B
-UID:036baede-d549-43d8-ad0e-b6f8f0f1e3a0
+UID:37510f36-cbb8-4f5a-adaf-4d741c246f7a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
  li></ul></body></html>
