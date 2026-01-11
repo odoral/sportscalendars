@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250121T082933Z
+LAST-MODIFIED:20251211T094730Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,14 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250124T081154Z
-DTSTART:20250126T110000Z
-DTEND:20250126T130000Z
-SUMMARY:Supercopa España Femenina - Barcelona Femenino - Real Madrid Fem.
- 
-UID:b5716298-0080-408e-8a03-9684319338bc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
- n: TV3</li>\n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 2\n- Open: TV3\n- Open: rtve Play
+DTSTAMP:20260111T005642Z
+DTSTART:20260120T180000Z
+DTEND:20260120T200000Z
+SUMMARY:Supercopa España Femenina - Real Madrid Fem. - At. Madrid Fem.
+UID:9f90d4c7-4314-4cd2-8227-736e41b4fea8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
