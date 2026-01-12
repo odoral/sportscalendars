@@ -16,16 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251228T043610Z
-DTSTART:20251228T100000Z
-DTEND:20251228T120000Z
-SUMMARY:LaLiga FC Futures - Juventus - Benfica
-UID:d076cfd3-28e2-4444-85fd-8ef3da26ce8a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
- i>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLig
- a</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
-  LaLiga\n- PPV: GolStadium Premium\n- PPV: LaLiga+\n- PPV: M+ LaLiga
+DTSTAMP:20260112T005423Z
+DTSTART:20260121T200000Z
+DTEND:20260121T220000Z
+SUMMARY:Champions League - Juventus - Benfica
+UID:34c022fd-1454-4f1e-9bec-1cf9bac25f3c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260111T005642Z
+DTSTAMP:20260112T005423Z
 DTSTART:20260120T180000Z
 DTEND:20260120T200000Z
 SUMMARY:Supercopa España Femenina - Real Madrid Fem. - At. Madrid Fem.
-UID:9f90d4c7-4314-4cd2-8227-736e41b4fea8
+UID:8b123710-5908-4a98-aaf6-590b36ede868
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260112T005423Z
+DTSTART:20260121T180000Z
+DTEND:20260121T200000Z
+SUMMARY:Supercopa España Femenina - Barcelona Femenino - Athletic Club Fe
+ m.
+UID:66874138-9cc3-43e8-8b7d-c3a8ae2b0328
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

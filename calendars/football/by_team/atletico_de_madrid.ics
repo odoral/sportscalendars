@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260110T081344Z
+DTSTAMP:20260112T005423Z
 DTSTART:20260113T200000Z
 DTEND:20260113T220000Z
 SUMMARY:Copa del Rey - Deportivo - Atlético de Madrid
-UID:57f59779-2fd5-492a-83f0-38ca8f080bc0
+UID:ca26a010-af19-4ff8-88e9-53151ee7b4e5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
  </body></html>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260110T081344Z
+DTSTAMP:20260112T005423Z
 DTSTART:20260118T151500Z
 DTEND:20260118T171500Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Alavés
-UID:72cdb769-28de-4dca-9024-40672cb69cde
+UID:0b5ab49e-b95a-428a-884a-39e207e3d15e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260112T005423Z
+DTSTART:20260121T174500Z
+DTEND:20260121T194500Z
+SUMMARY:Champions League - Galatasaray - Atlético de Madrid
+UID:28ad42f2-3ac1-45e9-bb58-92de43d56925
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR
