@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260112T005423Z
+DTSTAMP:20260114T081555Z
 DTSTART:20260118T171500Z
 DTEND:20260118T191500Z
 SUMMARY:Primera Federación - R.M. Castilla - Mérida
-UID:cc3b2c6c-9cc2-490a-ba7b-be39d524f20c
+UID:e948d5de-3853-4628-8ae0-26993db34dc2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260114T081555Z
+DTSTART:20260123T201500Z
+DTEND:20260123T221500Z
+SUMMARY:Primera Federación - Mérida - Pontevedra
+UID:711b269f-b734-4a4c-a6d4-7642dfc64d19
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
