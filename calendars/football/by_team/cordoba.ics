@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260114T081555Z
+DTSTAMP:20260115T043214Z
 DTSTART:20260118T200000Z
 DTEND:20260118T220000Z
 SUMMARY:Liga Hypermotion - Córdoba - Málaga
-UID:3957d8f7-4f2d-406d-b182-07acaef24533
+UID:857f3f6c-8b7f-4221-a5ee-984cb6fdca65
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260115T043214Z
+DTSTART:20260124T173000Z
+DTEND:20260124T193000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Córdoba
+UID:c6095f97-47c1-4575-8bbd-a472b3113366
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium<
+ /li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- PPV: DAZN\n- PPV: Gol
+ Stadium Premium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

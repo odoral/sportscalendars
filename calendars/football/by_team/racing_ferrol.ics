@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260111T005643Z
+DTSTAMP:20260115T043215Z
 DTSTART:20260117T200000Z
 DTEND:20260117T220000Z
 SUMMARY:Primera Federación - Ponferradina - Racing Ferrol
-UID:db00b56d-615b-497f-a129-6c4be90e7a32
+UID:581ac7ac-7e48-4a30-b07a-0f26850699a8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260115T043215Z
+DTSTART:20260124T151500Z
+DTEND:20260124T171500Z
+SUMMARY:Primera Federación - Racing Ferrol - C.D. Arenteiro
+UID:3801a5da-6c0c-4d2d-af2f-4fbfd227a240
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
