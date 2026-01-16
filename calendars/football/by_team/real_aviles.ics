@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260111T005643Z
+DTSTAMP:20260116T005234Z
 DTSTART:20260116T201500Z
 DTEND:20260116T221500Z
 SUMMARY:Primera Federación - Bilbao Athletic - Real Avilés
-UID:c9a50538-1e5b-4f85-9840-d1a779c9ec01
+UID:f4d57416-e18e-439d-92e8-e990baf337bf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260116T005234Z
+DTSTART:20260125T171500Z
+DTEND:20260125T191500Z
+SUMMARY:Primera Federación - Real Avilés - Lugo
+UID:06fb61ee-cb91-417e-9ebf-73bd663e2b5c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

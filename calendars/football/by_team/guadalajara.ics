@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260111T005643Z
+DTSTAMP:20260116T005234Z
 DTSTART:20260118T171500Z
 DTEND:20260118T191500Z
 SUMMARY:Primera Federación - Barakaldo - Guadalajara
-UID:70382d21-aea7-4ebf-afd7-dadcff6adf87
+UID:a28052e9-55f3-495f-a780-aea0e72f3784
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
  >
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
  
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260116T005234Z
+DTSTART:20260125T110000Z
+DTEND:20260125T130000Z
+SUMMARY:Primera Federación - Guadalajara - Ponferradina
+UID:ef89bc21-d91f-4357-9cca-da080ebd671c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260111T005643Z
+DTSTAMP:20260116T005234Z
 DTSTART:20260118T150000Z
 DTEND:20260118T170000Z
 SUMMARY:Liga F - Sevilla FC Fem. - Real Sociedad F.
-UID:3641bbdd-26d0-4431-ba04-b0fe3209d1bc
+UID:ecce0add-bc67-44fa-8a8a-f2f61f0c2115
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Ellas Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Ellas Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260116T005234Z
+DTSTART:20260125T110000Z
+DTEND:20260125T130000Z
+SUMMARY:Liga F - Real Sociedad F. - Eibar Fem.
+UID:ef8f0293-c9ca-4180-bff1-2a692deb2ab6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li></
+ ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- PPV: DAZN\n- PPV: GolStadiu
+ m Premium
 END:VEVENT
 END:VCALENDAR
