@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260112T005423Z
+DTSTAMP:20260119T005513Z
 DTSTART:20260121T174500Z
 DTEND:20260121T194500Z
 SUMMARY:Champions League - Galatasaray - Atlético de Madrid
-UID:fcbb4591-fd6e-4a55-8e58-57cf702c28bf
+UID:a2c40793-ba44-4da5-b577-14ace5063c4e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
  ange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260119T005513Z
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+SUMMARY:Champions League - Manchester City - Galatasaray
+UID:0e69ba0f-ddb2-4188-9b5a-870ad07bb15d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

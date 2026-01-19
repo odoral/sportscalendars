@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260117T081332Z
+DTSTAMP:20260119T005513Z
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
 SUMMARY:Champions League - Juventus - Benfica
-UID:f2fedf02-0059-40a7-a340-7080baa24b5c
+UID:56d6773e-09b2-4cd6-9ddc-34797f7fdb4f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260119T005513Z
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+SUMMARY:Champions League - Benfica - Real Madrid
+UID:99d8b10a-96f7-42d0-821a-f83b6b8079a4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR

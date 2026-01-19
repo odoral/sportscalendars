@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260112T005423Z
+DTSTAMP:20260119T005513Z
 DTSTART:20260121T200000Z
 DTEND:20260121T220000Z
 SUMMARY:Champions League - FC Bayern - Union Saint-Gilloise
-UID:01ef1097-fe64-4297-a05a-f581825e208c
+UID:6cc9aaed-f3df-4062-957c-33e095e8959c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260119T005513Z
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+SUMMARY:Champions League - Union Saint-Gilloise - Atalanta
+UID:62c1c2df-94c7-452a-ac2f-fd78673fc9ef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones

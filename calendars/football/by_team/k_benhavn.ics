@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260111T005643Z
+DTSTAMP:20260119T005514Z
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
 SUMMARY:Champions League - København - Nápoles
-UID:1fc22420-2f6b-4a96-86fb-f707c08aec0f
+UID:fbd18b3d-99a9-4ce5-bed1-a2ef2ee784d6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260119T005514Z
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+SUMMARY:Champions League - Barcelona - København
+UID:5ded6c0f-001e-4e58-abf2-6eabd7076cbd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones

@@ -16,25 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260118T005559Z
+DTSTAMP:20260119T005513Z
 DTSTART:20260120T200000Z
 DTEND:20260120T220000Z
 SUMMARY:Champions League - Inter de Milan - Arsenal
-UID:8e88ad49-5006-4278-97a1-0f2fc5de0d54
+UID:5b46db0b-62aa-460f-8b01-5a7b1ba94489
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260118T005559Z
+DTSTAMP:20260119T005513Z
 DTSTART:20260125T163000Z
 DTEND:20260125T183000Z
 SUMMARY:Premier League - Arsenal - Manchester United
-UID:03613c7d-1fb5-417c-bbce-c8e8ebe28b13
+UID:357cac6d-1b73-494e-b525-b34a09873307
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
  s+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260119T005513Z
+DTSTART:20260128T200000Z
+DTEND:20260128T220000Z
+SUMMARY:Champions League - Arsenal - F.C. Kairat
+UID:b8d5341d-47cf-4e50-8f60-47548f5bdb92
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
