@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260119T005514Z
+DTSTAMP:20260120T043704Z
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
 SUMMARY:Europa League - Celta - Lille
-UID:c87129c4-d3f3-4a8f-9176-46e2b3629f0a
+UID:795a0885-9dd2-42be-96a1-3cd0dcfaee47
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260119T005514Z
+DTSTAMP:20260120T043704Z
 DTSTART:20260125T173000Z
 DTEND:20260125T193000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Celta
-UID:6dbba470-029e-4cb1-9b07-e95daaeea987
+UID:86f007de-951b-4922-aba9-bdf9ae9cfbf1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260120T043704Z
+DTSTART:20260129T200000Z
+DTEND:20260129T220000Z
+SUMMARY:Europa League - Crvena Zvezda - Celta
+UID:ee650ce6-9d74-4416-a857-7bde7c3c8e98
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

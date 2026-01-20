@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260117T081332Z
+DTSTAMP:20260120T043704Z
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
 SUMMARY:Europa League - Ferencvaros - Panathinaikos
-UID:1e89abdd-4d5f-40a7-a6e9-2f3a10178a17
+UID:dafa9d88-6350-48fb-8ee3-3a756709da3b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260120T043704Z
+DTSTART:20260129T200000Z
+DTEND:20260129T220000Z
+SUMMARY:Europa League - Nottingham Forest - Ferencvaros
+UID:419044a0-f9ba-475d-83cb-dd8510d41633
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

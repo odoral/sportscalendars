@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260117T081332Z
+DTSTAMP:20260120T043704Z
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
 SUMMARY:Europa League - Ferencvaros - Panathinaikos
-UID:a2d8ecdf-71b5-4c29-8a80-57035a2eb34c
+UID:415d4b1d-72fc-433b-b737-5cfd0e4630ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260120T043704Z
+DTSTART:20260129T200000Z
+DTEND:20260129T220000Z
+SUMMARY:Europa League - Panathinaikos - Roma
+UID:d40911ca-6f3c-41e6-8efc-817587c14693
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260117T081332Z
+DTSTAMP:20260120T043704Z
 DTSTART:20260122T200000Z
 DTEND:20260122T220000Z
 SUMMARY:Europa League - Utrecht - Genk
-UID:ae3d7c6c-e834-4d29-9eca-cc5b9a06c096
+UID:8402acb5-58fd-4f04-b710-b147f96bc444
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 9</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260120T043704Z
+DTSTART:20260129T200000Z
+DTEND:20260129T220000Z
+SUMMARY:Europa League - Celtic FC - Utrecht
+UID:e03dabc4-053b-4290-b557-bbdf6557d72f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
