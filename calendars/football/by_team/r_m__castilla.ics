@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260119T005514Z
+DTSTAMP:20260121T043640Z
 DTSTART:20260125T160000Z
 DTEND:20260125T180000Z
 SUMMARY:Primera Federación - Tenerife - R.M. Castilla
-UID:44cffd31-3329-4178-bbce-f667d96bda0b
+UID:815a2f8c-7463-4dfd-b22f-910f981944e2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260121T043640Z
+DTSTART:20260130T180000Z
+DTEND:20260130T200000Z
+SUMMARY:Primera Federación - R.M. Castilla - Osasuna Promesas
+UID:cf4bf932-8905-4b0f-9e20-23769267a541
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
