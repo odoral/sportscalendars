@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260121T081721Z
+DTSTAMP:20260122T005204Z
 DTSTART:20260124T151500Z
 DTEND:20260124T171500Z
 SUMMARY:Primera Federación - Racing Ferrol - C.D. Arenteiro
-UID:06dabd96-ad37-4584-aa9d-021dacdaa364
+UID:b33bc2e2-d265-403d-9954-9e1ba3615755
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li><
  /ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PP
  V: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260122T005204Z
+DTSTART:20260131T173000Z
+DTEND:20260131T193000Z
+SUMMARY:Primera Federación - Zamora C.F. - Racing Ferrol
+UID:8a97a2ce-61d3-4e6f-b104-96ab2cf5185a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
