@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260121T081721Z
+DTSTAMP:20260122T081657Z
 DTSTART:20260125T110000Z
 DTEND:20260125T130000Z
 SUMMARY:Primera Federación - Tarazona - Hércules
-UID:fa25c331-d2c7-405f-8b35-c26f039ce8d0
+UID:ce2dc5c6-5741-4549-bb83-1c9a408b84e1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260121T081721Z
+DTSTAMP:20260122T081657Z
 DTSTART:20260130T201500Z
 DTEND:20260130T221500Z
 SUMMARY:Primera Federación - Hércules - Cartagena
-UID:3c20cf45-f36d-4eae-aa3a-22011062fd64
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+UID:b5d39a41-14b7-413f-a951-ae08b86a66aa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n
+ <li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: FC Play\n- PPV
+ : LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
