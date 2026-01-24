@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260123T081603Z
+DTSTAMP:20260124T081409Z
 DTSTART:20260126T193000Z
 DTEND:20260126T213000Z
 SUMMARY:Liga Hypermotion - AD Ceuta - Cultural Leonesa
-UID:9c2ef20e-34ec-4889-afbf-a1b0332ae224
+UID:6fbe5a0f-7664-40f6-8434-122b56e72830
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -28,13 +28,15 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260123T081603Z
+DTSTAMP:20260124T081409Z
 DTSTART:20260201T170000Z
 DTEND:20260201T190000Z
 SUMMARY:Liga Hypermotion - Cultural Leonesa - Deportivo
-UID:57c53872-d817-49a7-aa8a-de0bff4b3841
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+UID:d972ea53-2b8f-49a8-9bca-59b7d7fb4354
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<
+ li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TVG\n- PPV: DAZN\n- PPV: GolStadium
+  Premium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

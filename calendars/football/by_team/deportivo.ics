@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260123T005242Z
+DTSTAMP:20260124T081409Z
 DTSTART:20260125T200000Z
 DTEND:20260125T220000Z
 SUMMARY:Liga Hypermotion - Deportivo - Racing de Santander
-UID:0af9c46b-76b1-4331-9570-52e8a39f6ddd
+UID:0ac1df26-4cf2-4eb9-a9c5-37ace4c23bae
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
@@ -28,13 +28,15 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260123T005242Z
+DTSTAMP:20260124T081409Z
 DTSTART:20260201T170000Z
 DTEND:20260201T190000Z
 SUMMARY:Liga Hypermotion - Cultural Leonesa - Deportivo
-UID:b0132585-dd0d-45ef-9af0-34f8e20c2962
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+UID:ed85b330-8fe7-4882-9953-7143972efb22
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<
+ li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TVG\n- PPV: DAZN\n- PPV: GolStadium
+  Premium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
