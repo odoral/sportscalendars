@@ -16,25 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260123T005242Z
-DTSTART:20260124T130000Z
-DTEND:20260124T150000Z
-SUMMARY:Liga Hypermotion - Valladolid - Albacete
-UID:404cccce-dffa-42f5-b529-5940936e0de0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
- </html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
- ulti 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260123T005242Z
+DTSTAMP:20260125T044350Z
 DTSTART:20260201T170000Z
 DTEND:20260201T190000Z
 SUMMARY:Liga Hypermotion - Albacete - Real Zaragoza
-UID:c3220753-e06e-47b3-942f-ee4146298faa
+UID:434ea0fd-2639-49b9-b988-0c60caf9bf91
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260125T044350Z
+DTSTART:20260203T200000Z
+DTEND:20260203T220000Z
+SUMMARY:Copa del Rey - Albacete - Barcelona
+UID:914aa5be-1708-4238-aa4e-a87bff55390b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

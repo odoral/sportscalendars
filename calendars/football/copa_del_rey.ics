@@ -16,23 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260115T043214Z
-DTSTART:20260115T200000Z
-DTEND:20260115T220000Z
-SUMMARY:Copa del Rey - Burgos C.F. - Valencia
-UID:20756839-125a-4fa8-8fb6-f756b942e907
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 2</li></u
- l></body></html>
-DESCRIPTION:- PPV: M+ LaLiga 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260115T043214Z
-DTSTART:20260115T200000Z
-DTEND:20260115T220000Z
-SUMMARY:Copa del Rey - Racing de Santander - Barcelona
-UID:1baab5f1-5232-45a6-985e-990cfdce18d2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
- >PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+
+DTSTAMP:20260125T044350Z
+DTSTART:20260203T200000Z
+DTEND:20260203T220000Z
+SUMMARY:Copa del Rey - Albacete - Barcelona
+UID:16927512-b536-487d-a9cd-b2b04e7eb918
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
