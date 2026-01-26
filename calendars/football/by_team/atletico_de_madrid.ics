@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260126T005636Z
+DTSTAMP:20260126T081756Z
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
 SUMMARY:Champions League - Atlético de Madrid - Bodø/Glimt
-UID:a5836c32-aeff-4a27-a566-dec62f395d66
+UID:35d2537e-a2c6-431c-8fc6-e209863affbe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260126T005636Z
+DTSTAMP:20260126T081756Z
 DTSTART:20260131T173000Z
 DTEND:20260131T193000Z
 SUMMARY:Liga EA Sports - Levante - Atlético de Madrid
-UID:59b1f1fe-63f8-4f90-9041-b8153534c319
+UID:5d085d63-7f08-40a4-acfa-52aa0c6b1f58
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 END:VCALENDAR
