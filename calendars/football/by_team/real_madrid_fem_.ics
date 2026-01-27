@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260125T044350Z
+DTSTAMP:20260127T005456Z
 DTSTART:20260201T110000Z
 DTEND:20260201T130000Z
 SUMMARY:Liga F - Deportivo Abanca - Real Madrid Fem.
-UID:3dbf1ed0-3887-43a5-8449-c1a61971a1f5
+UID:daedcef5-e3c9-4ba2-8534-ec9ac795d281
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260127T005456Z
+DTSTART:20260205T200000Z
+DTEND:20260205T220000Z
+SUMMARY:Copa de la Reina - Real Madrid Fem. - Barcelona Femenino
+UID:426c07a8-1382-4df0-8f73-b2d76463bf8d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

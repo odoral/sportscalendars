@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260126T081756Z
+DTSTAMP:20260127T005456Z
 DTSTART:20260128T200000Z
 DTEND:20260128T220000Z
 SUMMARY:Champions League - Atlético de Madrid - Bodø/Glimt
-UID:35d2537e-a2c6-431c-8fc6-e209863affbe
+UID:9366e7b9-1e47-46a4-a99e-39e35e07c715
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260126T081756Z
+DTSTAMP:20260127T005456Z
 DTSTART:20260131T173000Z
 DTEND:20260131T193000Z
 SUMMARY:Liga EA Sports - Levante - Atlético de Madrid
-UID:5d085d63-7f08-40a4-acfa-52aa0c6b1f58
+UID:5b4297e0-1e56-49dc-bc05-a86fecdb9261
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260127T005456Z
+DTSTART:20260205T200000Z
+DTEND:20260205T220000Z
+SUMMARY:Copa del Rey - Betis - Atlético de Madrid
+UID:f691a443-f7ff-47f3-972a-5bb588b9bd7e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR
