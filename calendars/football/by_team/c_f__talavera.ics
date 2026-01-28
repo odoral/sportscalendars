@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260125T044350Z
+DTSTAMP:20260128T043633Z
 DTSTART:20260131T151500Z
 DTEND:20260131T171500Z
 SUMMARY:Primera Federación - C.F. Talavera - Pontevedra
-UID:945e808f-476e-4f49-9af3-51f1c4bad66d
+UID:5e301709-7353-41a4-8c04-d1755584b63f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260128T043633Z
+DTSTART:20260206T180000Z
+DTEND:20260206T200000Z
+SUMMARY:Primera Federación - Barakaldo - C.F. Talavera
+UID:626df4d4-adef-40da-ae1e-31aa6ec357f7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
+  Federación</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ \n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
