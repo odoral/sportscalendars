@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260126T005636Z
+DTSTAMP:20260129T005944Z
 DTSTART:20260201T171500Z
 DTEND:20260201T191500Z
 SUMMARY:Primera Federación - Lugo - Ponferradina
-UID:e69de687-beab-4c01-b903-d8c24277069e
+UID:d960dbb3-d664-4994-89d7-e285a1839988
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260129T005944Z
+DTSTART:20260207T151500Z
+DTEND:20260207T171500Z
+SUMMARY:Primera Federación - Racing Ferrol - Lugo
+UID:4d58f6c7-e2d4-4b14-b189-23d4fb83d1a2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

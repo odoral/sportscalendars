@@ -16,15 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260128T081712Z
+DTSTAMP:20260129T005944Z
 DTSTART:20260131T151500Z
 DTEND:20260131T171500Z
 SUMMARY:Liga Hypermotion - Albacete - Real Zaragoza
-UID:c7ffc02b-7b61-4034-8309-fd827818c0c7
+UID:4063723f-1afe-4fe4-b86f-74cf83a4eceb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260129T005944Z
+DTSTART:20260207T173000Z
+DTEND:20260207T193000Z
+SUMMARY:Liga Hypermotion - Real Zaragoza - Eibar
+UID:1a6deae6-0397-4885-9b14-039b74ac42d4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>PPV: DAZN</li>
+ \n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
+ - PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

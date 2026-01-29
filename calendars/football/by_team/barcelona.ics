@@ -16,33 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260128T081712Z
-DTSTART:20260128T200000Z
-DTEND:20260128T220000Z
-SUMMARY:Champions League - Barcelona - København
-UID:52e76bcf-db35-4a23-9fd3-755716887db9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260128T081712Z
+DTSTAMP:20260129T005945Z
 DTSTART:20260131T200000Z
 DTEND:20260131T220000Z
 SUMMARY:Liga EA Sports - Elche - Barcelona
-UID:9842d493-989c-4a6e-98a3-669dcb610a92
+UID:51a6bf7e-1468-4ea1-9366-13db19b83f49
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260128T081712Z
+DTSTAMP:20260129T005945Z
 DTSTART:20260203T200000Z
 DTEND:20260203T220000Z
 SUMMARY:Copa del Rey - Albacete - Barcelona
-UID:efbddefb-afa3-499e-b723-4f44b583e665
+UID:ed75f897-50e8-4330-a754-48d7e3dc0bc8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260129T005945Z
+DTSTART:20260207T151500Z
+DTEND:20260207T171500Z
+SUMMARY:Liga EA Sports - Barcelona - Mallorca
+UID:6810261b-544e-4362-ac61-462c81c1979c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: M+ Vamos 2</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fút
+ bol 1</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ Vamos 2\n- PPV: Movistar Plus+\n-
+  PPV: Orange Fútbol 1
 END:VEVENT
 END:VCALENDAR

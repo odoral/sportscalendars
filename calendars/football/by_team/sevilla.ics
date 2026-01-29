@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260125T044350Z
+DTSTAMP:20260129T005945Z
 DTSTART:20260202T200000Z
 DTEND:20260202T220000Z
 SUMMARY:Liga EA Sports - Mallorca - Sevilla
-UID:54d6c516-8a0b-49fb-bc11-52a460cb695b
+UID:cd830a64-ad86-4e5e-a197-3f810de4a4fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260129T005945Z
+DTSTART:20260207T173000Z
+DTEND:20260207T193000Z
+SUMMARY:Liga EA Sports - Sevilla - Girona
+UID:95d6b3d4-7077-417d-9e62-9c7fc0a353cb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: D
+ AZN LaLiga
 END:VEVENT
 END:VCALENDAR
