@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260124T042621Z
+DTSTAMP:20260130T050254Z
 DTSTART:20260131T151500Z
 DTEND:20260131T171500Z
 SUMMARY:Primera Federación - C.F. Talavera - Pontevedra
-UID:3f65bc8f-e364-4688-8daf-784b320da3e5
+UID:010ef314-8375-4205-9cab-c03a609ecc0b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260130T050254Z
+DTSTART:20260208T110000Z
+DTEND:20260208T130000Z
+SUMMARY:Primera Federación - Pontevedra - R.M. Castilla
+UID:de5d102f-c253-4237-b60a-8ddc99a21801
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

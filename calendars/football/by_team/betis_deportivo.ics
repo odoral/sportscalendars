@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260128T081712Z
+DTSTAMP:20260130T050254Z
 DTSTART:20260131T173000Z
 DTEND:20260131T193000Z
 SUMMARY:Primera Federación - At. Sanluqueño - Betis Deportivo
-UID:78a33412-6db0-4e12-9aad-58e3f6a6e3b1
+UID:8ef4a8a4-0984-4ba5-a6a7-f4819fa2ee87
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260130T050254Z
+DTSTART:20260208T110000Z
+DTEND:20260208T130000Z
+SUMMARY:Primera Federación - Betis Deportivo - U.D. Ibiza
+UID:6c3a7170-ae7b-4ad1-abfb-9aa78167ed87
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li>\n<li>PPV:
+  FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: IB3\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

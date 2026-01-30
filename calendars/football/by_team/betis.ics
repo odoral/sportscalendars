@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260127T005456Z
-DTSTART:20260129T200000Z
-DTEND:20260129T220000Z
-SUMMARY:Europa League - Betis - Feyenoord
-UID:8f3d4cf1-de7e-431e-8175-8e941212f398
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260127T005456Z
+DTSTAMP:20260130T050254Z
 DTSTART:20260201T151500Z
 DTEND:20260201T171500Z
 SUMMARY:Liga EA Sports - Betis - Valencia
-UID:72d67237-879f-4bf5-a67b-ee72cf11dbe0
+UID:fba8f94a-d013-43af-a7b1-0219b5b5f2b1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
@@ -38,15 +28,25 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260127T005456Z
+DTSTAMP:20260130T050254Z
 DTSTART:20260205T200000Z
 DTEND:20260205T220000Z
 SUMMARY:Copa del Rey - Betis - Atlético de Madrid
-UID:8a3b96c1-7406-4f24-8b05-b970845c1107
+UID:f5630002-4c20-4d97-9653-88db570dd480
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260130T050254Z
+DTSTART:20260208T173000Z
+DTEND:20260208T193000Z
+SUMMARY:Liga EA Sports - Atlético de Madrid - Betis
+UID:de5c33ad-0ba3-4d12-b95d-f36555769528
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR

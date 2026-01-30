@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260129T050048Z
+DTSTAMP:20260130T050254Z
 DTSTART:20260131T151500Z
 DTEND:20260131T171500Z
 SUMMARY:Primera Federación - Tenerife - Guadalajara
-UID:17bbaa82-5ae2-4c83-a5f0-c46e80241b10
+UID:a5587194-5711-4fea-a998-ce4c498e6a58
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260130T050254Z
+DTSTART:20260208T150000Z
+DTEND:20260208T170000Z
+SUMMARY:Primera Federación - Guadalajara - Arenas Club
+UID:e21e3ad6-fc17-49ca-9dfc-01a182ea90d3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
