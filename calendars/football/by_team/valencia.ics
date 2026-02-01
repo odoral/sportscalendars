@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260130T050254Z
+DTSTAMP:20260201T011000Z
 DTSTART:20260201T151500Z
 DTEND:20260201T171500Z
 SUMMARY:Liga EA Sports - Betis - Valencia
-UID:c32ed00c-2cf7-447f-bc24-fa827c10a388
+UID:562a4440-2e0f-4bae-b0d0-f2f1cab88d65
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
@@ -28,21 +28,33 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260130T050254Z
+DTSTAMP:20260201T011000Z
+DTSTART:20260201T151500Z
+DTEND:20260201T171500Z
+SUMMARY:Liga EA Sports - Betis - Valencia
+UID:328ff607-ef1b-43fc-80e1-3600dac5e06a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260201T011000Z
 DTSTART:20260204T200000Z
 DTEND:20260204T220000Z
 SUMMARY:Copa del Rey - Valencia - Athletic Club
-UID:012c20f2-c9e1-4aeb-be44-5d031c7fc7ae
+UID:4c2a6585-fbc8-4a74-8ea5-fd48c39f0527
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260130T050254Z
+DTSTAMP:20260201T011000Z
 DTSTART:20260208T200000Z
 DTEND:20260208T220000Z
 SUMMARY:Liga EA Sports - Valencia - Real Madrid
-UID:81fd275c-c73a-4b30-a7d8-67ae9957a64a
+UID:5aeb6f5a-6a00-42a2-9ba4-3eae409ba424
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
