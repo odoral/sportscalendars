@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260203T082410Z
+DTSTAMP:20260205T010121Z
 DTSTART:20260207T130000Z
 DTEND:20260207T150000Z
 SUMMARY:Primera Federación - Bilbao Athletic - Tenerife
-UID:bba4681b-1ac9-4abd-855f-64449b555820
+UID:0504b89e-8fa2-409b-a56b-118e0cca04a5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n
  <li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: FC Play\n- PPV
  : LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260205T010121Z
+DTSTART:20260214T183000Z
+DTEND:20260214T203000Z
+SUMMARY:Primera Federación - Tenerife - Racing Ferrol
+UID:30711cc0-7be5-46d8-9d21-22ca26214549
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>Open: TVG 2</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>P
+ PV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: TV Canaria\n- Open: TVG 2\n- PPV: FC Play\n- PPV: LaL
+ iga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260204T082720Z
+DTSTAMP:20260205T010121Z
 DTSTART:20260207T151500Z
 DTEND:20260207T171500Z
 SUMMARY:Primera Federación - Tarazona - At. Sanluqueño
-UID:bbf306ac-6eff-4795-ba13-dd608f80689f
+UID:2c0534bd-ced8-45f3-a631-1b37789bf3c9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260205T010121Z
+DTSTART:20260214T173000Z
+DTEND:20260214T193000Z
+SUMMARY:Primera Federación - C.E. Europa - Tarazona
+UID:49e8a1f6-f051-4f77-b95f-b904dc701973
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

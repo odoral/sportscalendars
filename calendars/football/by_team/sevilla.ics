@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260203T010333Z
+DTSTAMP:20260205T010122Z
 DTSTART:20260207T173000Z
 DTEND:20260207T193000Z
 SUMMARY:Liga EA Sports - Sevilla - Girona
-UID:1a29230d-d420-4174-bd26-8397bbd443ae
+UID:fedcab97-c266-47bd-a0b8-13d0a437583b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li><
  /ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: D
  AZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260205T010122Z
+DTSTART:20260214T173000Z
+DTEND:20260214T193000Z
+SUMMARY:Liga EA Sports - Sevilla - Alavés
+UID:47d74140-05f4-4133-809c-2a9ea6c4db2d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ LaLiga</li></u
+ l></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + LaLiga
 END:VEVENT
 END:VCALENDAR

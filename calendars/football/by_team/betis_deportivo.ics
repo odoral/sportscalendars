@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260204T082720Z
+DTSTAMP:20260205T010121Z
 DTSTART:20260208T110000Z
 DTEND:20260208T130000Z
 SUMMARY:Primera Federación - Betis Deportivo - U.D. Ibiza
-UID:2a7c09a9-26a8-4d86-aeee-58c3045fa3bd
+UID:ee1f9e7d-0401-4e46-a702-c9aa2450ebfe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li>\n<li>PPV:
   FC Play</li>\n<li>PPV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></u
  l></body></html>
 DESCRIPTION:- Open: IB3\n- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV:
   LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260205T010121Z
+DTSTART:20260214T200000Z
+DTEND:20260214T220000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Betis Deportivo
+UID:49ae0369-caa9-4c3c-9dca-94b4ffd19ce8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

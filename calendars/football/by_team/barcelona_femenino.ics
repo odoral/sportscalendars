@@ -16,21 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260202T010318Z
-DTSTART:20260205T200000Z
-DTEND:20260205T220000Z
-SUMMARY:Copa de la Reina - Real Madrid Fem. - Barcelona Femenino
-UID:c48868c2-00b7-4eeb-84f5-daeaabec31f9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
- : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260202T010318Z
+DTSTAMP:20260205T010121Z
 DTSTART:20260208T170000Z
 DTEND:20260208T190000Z
 SUMMARY:Liga F - DUX Logroño Fem. - Barcelona Femenino
-UID:aeec8d06-fb3c-43eb-9030-9284df6ec030
+UID:c83d24f4-88e8-41cd-9c0d-d4eca8e96185
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260205T010121Z
+DTSTART:20260214T173000Z
+DTEND:20260214T193000Z
+SUMMARY:Liga F - Barcelona Femenino - Eibar Fem.
+UID:f9f73b42-6c7a-4a33-aa0e-df314b5b5714
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN

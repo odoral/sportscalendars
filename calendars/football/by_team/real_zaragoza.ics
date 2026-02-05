@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260204T082720Z
+DTSTAMP:20260205T010121Z
 DTSTART:20260207T173000Z
 DTEND:20260207T193000Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Eibar
-UID:cad2a845-6214-48cc-9a9c-741c0d4412ab
+UID:85d88a57-8c49-4b0d-9eac-8827e742dc30
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>PPV: DAZN</li>
  \n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li>\
@@ -28,5 +28,18 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
  - PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion\n- 
  PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260205T010121Z
+DTSTART:20260214T173000Z
+DTEND:20260214T193000Z
+SUMMARY:Liga Hypermotion - Cultural Leonesa - Real Zaragoza
+UID:c42b31b6-fd44-40fe-9cde-23da81e7f917
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>PPV: DAZN</li>
+ \n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
+ - PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
