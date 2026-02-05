@@ -16,33 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260203T082410Z
-DTSTART:20260204T174500Z
-DTEND:20260204T194500Z
-SUMMARY:Copa de la Reina - At. Madrid Fem. - Athletic Club Fem.
-UID:bfd6024a-51c6-4389-8d69-7054c9dc844d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260203T082410Z
+DTSTAMP:20260205T051220Z
 DTSTART:20260208T110000Z
 DTEND:20260208T130000Z
 SUMMARY:Liga F - Levante UD  Fem. - At. Madrid Fem.
-UID:2ac6f87c-34ad-409e-929c-f65ea7db0ce4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:c03509f2-e6ac-420a-87c8-b59c7b1be51a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Vamos 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260203T082410Z
+DTSTAMP:20260205T051220Z
 DTSTART:20260212T200000Z
 DTEND:20260212T220000Z
 SUMMARY:Women's Champions League - At. Madrid Fem. - Man Utd W.F.C.
-UID:4c361dad-a067-45b4-8298-204cb1dc4b34
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
- body></html>
-DESCRIPTION:- PPV: Disney+
+UID:2d0e46a4-6db7-4123-8e05-cd1098036704
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: Disney+</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: Disney+
 END:VEVENT
 END:VCALENDAR

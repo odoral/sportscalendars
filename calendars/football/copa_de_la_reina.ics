@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260205T010121Z
-DTSTART:20260204T174500Z
-DTEND:20260204T194500Z
-SUMMARY:Copa de la Reina - At. Madrid Fem. - Athletic Club Fem.
-UID:3624395e-805e-4a40-898e-bf3250a2d2e6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+DTSTAMP:20260205T051220Z
+DTSTART:20260205T180000Z
+DTEND:20260205T200000Z
+SUMMARY:Copa de la Reina - Real Sociedad F. - FC Badalona Women
+UID:e07c6918-7bd3-4834-81c4-7b9113d524f0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: RFEF TV YouTube</li>\n<li>PPV: RFEF TV</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: RFEF TV YouTube\n- PPV: RFEF TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260205T010121Z
-DTSTART:20260204T180000Z
-DTEND:20260204T200000Z
-SUMMARY:Copa de la Reina - Madrid C.F.F. - UDG Tenerife
-UID:2563b8dd-ec22-40df-a145-a3cd12bcf1bd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
- l></body></html>
-DESCRIPTION:- Open: TV Canaria
+DTSTAMP:20260205T051220Z
+DTSTART:20260205T200000Z
+DTEND:20260205T220000Z
+SUMMARY:Copa de la Reina - Real Madrid Fem. - Barcelona Femenino
+UID:3c9acc76-7392-4b98-a186-b240290a9da9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
