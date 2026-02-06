@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260202T010318Z
+DTSTAMP:20260206T050943Z
 DTSTART:20260206T180000Z
 DTEND:20260206T200000Z
 SUMMARY:Primera Federación - Barakaldo - C.F. Talavera
-UID:a5f52d26-6a65-457a-a0e5-aae87fc86ff5
+UID:27051d67-2a8c-4b10-830d-c36727efbce7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
   Federación</li></ul></body></html>
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
  \n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260206T050943Z
+DTSTART:20260215T110000Z
+DTEND:20260215T130000Z
+SUMMARY:Primera Federación - Zamora C.F. - Barakaldo
+UID:50aa7425-a3d7-4680-8c7b-e3e4d6e1fddb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

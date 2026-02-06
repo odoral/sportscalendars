@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260202T010318Z
+DTSTAMP:20260206T050943Z
 DTSTART:20260208T150000Z
 DTEND:20260208T170000Z
 SUMMARY:Primera Federación - Real Murcia - Marbella
-UID:5796f160-98d3-4401-bfc3-61ee865b13c2
+UID:0ddba467-a166-4732-b69d-9206ace32f1d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n
  <li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: FC Play\n- PPV
  : LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260206T050943Z
+DTSTART:20260215T171500Z
+DTEND:20260215T191500Z
+SUMMARY:Primera Federación - Cartagena - Marbella
+UID:3a5e26ed-4762-462f-ae8c-39c889a7a037
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

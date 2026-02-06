@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260204T082720Z
+DTSTAMP:20260206T050943Z
 DTSTART:20260208T150000Z
 DTEND:20260208T170000Z
 SUMMARY:Primera Federación - Guadalajara - Arenas Club
-UID:d965d8ea-26f7-4684-9382-777cdf96f750
+UID:848b1ebf-b4cb-482c-9b06-049fea1e0c1e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260206T050943Z
+DTSTART:20260215T150000Z
+DTEND:20260215T170000Z
+SUMMARY:Primera Federación - Lugo - Guadalajara
+UID:d445a41c-2656-4752-8f36-3591cbdfbbc8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
+ >
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ 
 END:VEVENT
 END:VCALENDAR
