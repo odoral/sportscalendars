@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260204T082720Z
+DTSTAMP:20260207T005836Z
 DTSTART:20260207T151500Z
 DTEND:20260207T171500Z
 SUMMARY:Liga EA Sports - Barcelona - Mallorca
-UID:374a13b0-f547-4434-a6b2-20d47590eec0
+UID:f4d4296d-e7be-4958-8bbb-eab92c7f8d8c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 2</li>\n<li>PPV: M+ Vamos 2</li>\n<li>PPV: Movistar Plus
  +</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2\n- PPV: M+ Vamos 2\n- PP
  V: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260207T005836Z
+DTSTART:20260216T200000Z
+DTEND:20260216T220000Z
+SUMMARY:Liga EA Sports - Girona - Barcelona
+UID:43288590-7c0c-4408-89da-b1b3d7cf1ffa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 END:VCALENDAR
