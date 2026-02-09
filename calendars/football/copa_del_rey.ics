@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260205T051220Z
-DTSTART:20260205T200000Z
-DTEND:20260205T220000Z
-SUMMARY:Copa del Rey - Betis - Atlético de Madrid
-UID:6dbcf70f-0c9c-4eab-a89e-0e71d62c639c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
- >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
- ml>
-DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
-  1
+DTSTAMP:20260209T083613Z
+DTSTART:20260211T200000Z
+DTEND:20260211T220000Z
+SUMMARY:Copa del Rey - Athletic Club - Real Sociedad
+UID:787f5a74-d2f5-424a-bdff-351b877e41d0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T083613Z
+DTSTART:20260212T200000Z
+DTEND:20260212T220000Z
+SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
+UID:ad9ac9b2-b332-4972-ba3f-97c300f6a0c0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: Movistar Plus+</li></ul>
+ </body></html>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: Movistar
+  Plus+
 END:VEVENT
 END:VCALENDAR

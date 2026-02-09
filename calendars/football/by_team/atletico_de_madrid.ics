@@ -16,21 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260209T010545Z
+DTSTAMP:20260209T083614Z
+DTSTART:20260212T200000Z
+DTEND:20260212T220000Z
+SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
+UID:e3635d55-a37b-4e9a-a4db-211ec5d2e359
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: Movistar Plus+</li></ul>
+ </body></html>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: Movistar
+  Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T083614Z
 DTSTART:20260215T151500Z
 DTEND:20260215T171500Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Atlético de Madrid
-UID:a758b1e8-7832-4889-93c8-5e1c3dba46b1
+UID:bd916e3f-71cd-4fbe-a84c-f61bb7ed752e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260209T010545Z
+DTSTAMP:20260209T083614Z
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
 SUMMARY:Champions League - Club Brugge - Atlético de Madrid
-UID:291bd399-5f88-4c23-b550-82daa2f56e6b
+UID:d3ea1af2-e1fa-4121-a77d-de3268f9e016
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
  </body></html>

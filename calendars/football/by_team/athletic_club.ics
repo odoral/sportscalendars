@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260209T010545Z
+DTSTAMP:20260209T083614Z
+DTSTART:20260211T200000Z
+DTEND:20260211T220000Z
+SUMMARY:Copa del Rey - Athletic Club - Real Sociedad
+UID:cb2431c0-3020-4006-99d0-3d2cad7b17d5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T083614Z
 DTSTART:20260215T130000Z
 DTEND:20260215T150000Z
 SUMMARY:Liga EA Sports - Real Oviedo - Athletic Club
-UID:fbee4e8b-04c7-499e-85df-67c7e8e29290
+UID:1497ee61-bc57-42e7-af99-76f64127fb7d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ LaLiga
