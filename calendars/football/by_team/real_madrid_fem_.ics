@@ -16,35 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260206T050943Z
-DTSTART:20260208T150000Z
-DTEND:20260208T170000Z
-SUMMARY:Liga F - Real Madrid Fem. - RCD Espanyol Fem.
-UID:3408f2a5-c3b8-4515-9127-ef05be6be0c7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
- li>PPV: DAZN 3</li>\n<li>PPV: M+ Ellas Vamos</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play\n- P
- PV: DAZN\n- PPV: DAZN 3\n- PPV: M+ Ellas Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260206T050943Z
+DTSTAMP:20260209T010545Z
 DTSTART:20260211T200000Z
 DTEND:20260211T220000Z
 SUMMARY:Women's Champions League - Paris FC Fem. - Real Madrid Fem.
-UID:e3732d41-94fa-4559-88b4-90ac7ec25707
+UID:a28cedad-a903-4072-b90e-429576345c0b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260206T050943Z
+DTSTAMP:20260209T010545Z
 DTSTART:20260215T110000Z
 DTEND:20260215T130000Z
 SUMMARY:Liga F - Alhama C.F. - Real Madrid Fem.
-UID:6a1a0f9f-2652-4dfb-b95a-4ec129bb8382
+UID:4b99d017-eed7-42e1-a42f-41b66208c4b9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
  i>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T010545Z
+DTSTART:20260218T174500Z
+DTEND:20260218T194500Z
+SUMMARY:Women's Champions League - Real Madrid Fem. - Paris FC Fem.
+UID:e7c6ec96-1b8e-48e7-bfed-e99d52ef6f09
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: Disney+
 END:VEVENT
 END:VCALENDAR
