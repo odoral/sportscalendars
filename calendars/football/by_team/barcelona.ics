@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260212T010407Z
+DTSTAMP:20260212T052024Z
+DTSTART:20260212T200000Z
+DTEND:20260212T220000Z
+SUMMARY:Copa del Rey - Atlético de Madrid - Barcelona
+UID:b83e85d6-0e9c-4762-8bed-e64851b919a3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ LaLiga</li>\n<li>PPV:
+  Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ LaLig
+ a\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T052024Z
 DTSTART:20260216T200000Z
 DTEND:20260216T220000Z
 SUMMARY:Liga EA Sports - Girona - Barcelona
-UID:2703312d-c06c-46bb-a3e3-d6f2d0728be7
+UID:c7568417-9600-402a-a228-1d72af8ecd04
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2

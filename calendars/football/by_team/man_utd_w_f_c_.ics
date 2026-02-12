@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260212T010407Z
+DTSTAMP:20260212T052024Z
+DTSTART:20260212T200000Z
+DTEND:20260212T220000Z
+SUMMARY:Women's Champions League - At. Madrid Fem. - Man Utd W.F.C.
+UID:fa0398e0-5a4a-42f0-be32-43af581c460b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: Disney+</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: Disney+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T052024Z
 DTSTART:20260219T200000Z
 DTEND:20260219T220000Z
 SUMMARY:Women's Champions League - Man Utd W.F.C. - At. Madrid Fem.
-UID:13854bbd-ceaa-48c6-946b-cdbccc258847
+UID:0cf16f3a-cc7e-42ae-83ce-6d1a82c513c7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
