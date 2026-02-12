@@ -16,23 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260111T081403Z
-DTSTART:20260114T190000Z
-DTEND:20260114T210000Z
-SUMMARY:Copa Catalunya - C.E. Europa - F.C. Andorra
-UID:a1de243c-2cda-4082-ad3e-3298a035b83d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betevé (Bcn)</li><
- /ul></body></html>
-DESCRIPTION:- Open: Betevé (Bcn)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260111T081403Z
-DTSTART:20260114T190000Z
-DTEND:20260114T210000Z
-SUMMARY:Copa Catalunya - Terrassa F.C. - Sabadell
-UID:aaf25943-5509-4ebe-960b-c107826511a8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch RadioSabade
- ll</li></ul></body></html>
-DESCRIPTION:- Open: Twitch RadioSabadell
+DTSTAMP:20260212T083206Z
+DTSTART:20260217T160000Z
+DTEND:20260217T180000Z
+SUMMARY:Copa Catalunya - Barcelona Atlètic - C.E. Europa
+UID:46bd4934-3936-4264-a846-b23f5e94b508
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
 END:VEVENT
 END:VCALENDAR

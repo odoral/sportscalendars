@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260211T083428Z
+DTSTAMP:20260212T083206Z
 DTSTART:20260214T173000Z
 DTEND:20260214T193000Z
 SUMMARY:Primera Federación - C.E. Europa - Tarazona
-UID:6a6a06f2-70a3-4097-9c07-cd6b92e24a4d
+UID:fa8b4e9e-6b7f-44c4-99bb-e07f16bfaf24
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</l
  i></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n-
   PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T083206Z
+DTSTART:20260217T160000Z
+DTEND:20260217T180000Z
+SUMMARY:Copa Catalunya - Barcelona Atlètic - C.E. Europa
+UID:f254d547-8b08-4c0c-9fd0-7167ff172ac9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
 END:VEVENT
 END:VCALENDAR
