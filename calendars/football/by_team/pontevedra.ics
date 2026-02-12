@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260209T010545Z
+DTSTAMP:20260212T010407Z
 DTSTART:20260214T130000Z
 DTEND:20260214T150000Z
 SUMMARY:Primera Federación - Cacereño - Pontevedra
-UID:545f5763-f097-4182-81a4-68169e7fa0e2
+UID:58602453-4a66-4be4-84fe-6706626149b7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260212T010407Z
+DTSTART:20260221T173000Z
+DTEND:20260221T193000Z
+SUMMARY:Primera Federación - Pontevedra - Lugo
+UID:07e4acb6-14a5-4049-8570-f6faed218110
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR
