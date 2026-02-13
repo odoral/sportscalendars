@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260211T083428Z
+DTSTAMP:20260213T010746Z
 DTSTART:20260214T173000Z
 DTEND:20260214T193000Z
 SUMMARY:Liga Hypermotion - Cultural Leonesa - Real Zaragoza
-UID:5adee535-e7ac-4223-8fcf-f30244dab915
+UID:a3e729ee-0bc8-4f10-9fc5-3a419e088c85
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>PPV: DAZN</li>
  \n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga TV Hypermotion</li>\
@@ -28,5 +28,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
  - PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hypermotion\n- 
  PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260213T010746Z
+DTSTART:20260222T151500Z
+DTEND:20260222T171500Z
+SUMMARY:Liga Hypermotion - F.C. Andorra - Real Zaragoza
+UID:5ea830be-6344-41c3-9bb7-3fe8b6ca097e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
