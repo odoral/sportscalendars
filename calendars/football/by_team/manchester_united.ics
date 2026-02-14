@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260210T083710Z
-DTSTART:20260210T201500Z
-DTEND:20260210T221500Z
-SUMMARY:Premier League - West Ham - Manchester United
-UID:e76e5140-deb3-456f-901f-26f293d93e7a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
- +</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
- V: Movistar Plus+
+DTSTAMP:20260214T010118Z
+DTSTART:20260223T200000Z
+DTEND:20260223T220000Z
+SUMMARY:Premier League - Everton - Manchester United
+UID:733a813e-a0fa-4994-992e-1a58077a5627
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
