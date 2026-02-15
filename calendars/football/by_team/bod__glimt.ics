@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260212T083206Z
+DTSTAMP:20260215T051508Z
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
 SUMMARY:Champions League - Bodø/Glimt - Inter de Milan
-UID:00c7c19d-81e8-40cc-b6b5-809d44c32540
+UID:687c9e53-ab5c-428e-b638-34102d3ed368
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260215T051508Z
+DTSTART:20260224T200000Z
+DTEND:20260224T220000Z
+SUMMARY:Champions League - Inter de Milan - Bodø/Glimt
+UID:291e60ab-06e5-4be5-9d38-9068bf827e1e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
