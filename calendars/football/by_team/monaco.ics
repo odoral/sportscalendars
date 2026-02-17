@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260217T010309Z
+DTSTAMP:20260217T051625Z
+DTSTART:20260217T200000Z
+DTEND:20260217T220000Z
+SUMMARY:Champions League - Mónaco - PSG
+UID:78fdc0ef-af6a-4f79-be95-9252f279a648
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T051625Z
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
 SUMMARY:Champions League - PSG - Mónaco
-UID:79385613-4fdf-41fb-bf84-90fc14a069ee
+UID:71571636-cae1-4c63-8de4-82742b159fd3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones

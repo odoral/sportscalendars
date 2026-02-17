@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260217T010309Z
+DTSTAMP:20260217T051625Z
+DTSTART:20260217T200000Z
+DTEND:20260217T220000Z
+SUMMARY:Champions League - Benfica - Real Madrid
+UID:e48738bd-c691-45bb-afbd-97116aa8471a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T051625Z
 DTSTART:20260221T173000Z
 DTEND:20260221T193000Z
 SUMMARY:Liga EA Sports - Osasuna - Real Madrid
-UID:1632b1e6-8f67-410f-98ca-544496c5874b
+UID:1d055564-8414-42d6-8251-47b88a27ca2b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260217T010309Z
+DTSTAMP:20260217T051625Z
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
 SUMMARY:Champions League - Real Madrid - Benfica
-UID:d7eca39b-1c2b-480c-b546-82ab138daf67
+UID:44d0ead3-9ae5-4681-b153-38cce712e9e0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
  </body></html>
