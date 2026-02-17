@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260215T051508Z
+DTSTAMP:20260217T010310Z
 DTSTART:20260219T174500Z
 DTEND:20260219T194500Z
 SUMMARY:Europa League - PAOK FC - Celta
-UID:16595bff-8e66-415a-9f99-c7e877c5e46b
+UID:56ca0b22-31f6-42db-9ea3-eef519163ba0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260215T051508Z
+DTSTAMP:20260217T010310Z
 DTSTART:20260222T173000Z
 DTEND:20260222T193000Z
 SUMMARY:Liga EA Sports - Celta - Mallorca
-UID:335c7a0f-36ec-4679-80ff-456a8ceef585
+UID:c14cdf48-cbb4-43dc-978f-9f4d11b19bda
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260217T010310Z
+DTSTART:20260226T200000Z
+DTEND:20260226T220000Z
+SUMMARY:Europa League - Celta - PAOK FC
+UID:9e209c7e-c4e3-460a-9b50-51833ad7cc7c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR
