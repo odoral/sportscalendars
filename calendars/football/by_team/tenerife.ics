@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260215T051508Z
+DTSTAMP:20260218T010526Z
 DTSTART:20260221T173000Z
 DTEND:20260221T193000Z
 SUMMARY:Primera Federación - C.D. Arenteiro - Tenerife
-UID:7b46f7be-3210-4c56-bdd6-3c0afdbeb6f9
+UID:6666e5d3-6912-4bd5-bb80-a52ee6d2a0cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T010526Z
+DTSTART:20260227T211500Z
+DTEND:20260227T231500Z
+SUMMARY:Primera Federación - Tenerife - Real Avilés
+UID:c0d5e495-aeb5-4ff2-b69e-f6a127dd7fea
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

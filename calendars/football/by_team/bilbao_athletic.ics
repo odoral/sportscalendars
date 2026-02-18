@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260214T010118Z
+DTSTAMP:20260218T010526Z
 DTSTART:20260221T130000Z
 DTEND:20260221T150000Z
 SUMMARY:Primera Federación - Bilbao Athletic - Zamora C.F.
-UID:2d01df34-764c-42d7-a3a9-f7b1eecacd38
+UID:50c1be2a-5102-466d-b5b7-45189f2553d8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T010526Z
+DTSTART:20260227T180000Z
+DTEND:20260227T200000Z
+SUMMARY:Primera Federación - Lugo - Bilbao Athletic
+UID:cdc3ec26-5f22-4284-ae8a-8fd5fa5613ea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
