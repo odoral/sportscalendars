@@ -16,21 +16,41 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
+DTSTAMP:20260218T083150Z
 DTSTART:20260218T174500Z
 DTEND:20260218T194500Z
 SUMMARY:Champions League - Qarabag FK - Newcastle
-UID:6cd00989-781c-46f5-a5fb-07ef3690e6af
+UID:692f8928-7457-47d5-91ac-e48306c785a9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
+DTSTAMP:20260218T083150Z
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+SUMMARY:Champions League - Olympiacos - Bayer Leverkusen
+UID:92a7632d-ea72-4283-b241-5c2c60174526
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T083150Z
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+SUMMARY:Champions League - Bodø/Glimt - Inter de Milan
+UID:fb6515e0-767e-4fe9-a580-dfa49d6c94d8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T083150Z
 DTSTART:20260218T200000Z
 DTEND:20260218T220000Z
 SUMMARY:Champions League - Club Brugge - Atlético de Madrid
-UID:58ff7960-ca71-45ac-b73f-83539e601655
+UID:6ff515f1-0dfd-40ba-9ae5-65fab3bc44cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
@@ -38,101 +58,81 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
   PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
-DTSTART:20260218T200000Z
-DTEND:20260218T220000Z
-SUMMARY:Champions League - Olympiacos - Bayer Leverkusen
-UID:8c5cb70f-db69-4e80-9179-244cf22d9482
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
-DTSTART:20260218T200000Z
-DTEND:20260218T220000Z
-SUMMARY:Champions League - Bodø/Glimt - Inter de Milan
-UID:06b05374-7745-40cb-ba1e-f2b047418186
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
+DTSTAMP:20260218T083150Z
 DTSTART:20260224T174500Z
 DTEND:20260224T194500Z
 SUMMARY:Champions League - Atlético de Madrid - Club Brugge
-UID:af53296e-ab5e-4141-b455-419420bf2058
+UID:eb25763d-b354-4cda-a3a8-8962a4fc5415
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
+DTSTAMP:20260218T083150Z
 DTSTART:20260224T200000Z
 DTEND:20260224T220000Z
 SUMMARY:Champions League - Inter de Milan - Bodø/Glimt
-UID:01b6b995-e7f9-4ba8-8c87-b19135581971
+UID:73108d45-6f81-4575-a295-9288164af8d8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
+DTSTAMP:20260218T083150Z
 DTSTART:20260224T200000Z
 DTEND:20260224T220000Z
 SUMMARY:Champions League - Newcastle - Qarabag FK
-UID:9742ce14-0568-48df-9b5c-ea074641bae2
+UID:106eadbb-3719-497f-9424-73090a846135
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
+DTSTAMP:20260218T083150Z
 DTSTART:20260224T200000Z
 DTEND:20260224T220000Z
 SUMMARY:Champions League - Bayer Leverkusen - Olympiacos
-UID:4e8f03fc-96e4-416a-b26d-be387717d433
+UID:4b6b2a90-d7e5-41da-a401-2aa33b6734d7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
+DTSTAMP:20260218T083150Z
 DTSTART:20260225T174500Z
 DTEND:20260225T194500Z
 SUMMARY:Champions League - Atalanta - Borussia Dortmund
-UID:89d3bc18-22c4-4316-bd0e-ac7d22b16cd0
+UID:fee57441-553f-40db-a211-4f7ccf8a3964
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
+DTSTAMP:20260218T083150Z
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
 SUMMARY:Champions League - Juventus - Galatasaray
-UID:0e148c5a-4fa7-42ab-a6c9-8a9d7339e894
+UID:893cd954-d3f3-412c-9289-e9856f8d1d48
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
+DTSTAMP:20260218T083150Z
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
 SUMMARY:Champions League - PSG - Mónaco
-UID:616cbf32-4b56-4955-9496-1ef9cc4e5d13
+UID:33c19e25-70e6-4951-b765-af104a1d3100
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260218T051813Z
+DTSTAMP:20260218T083150Z
 DTSTART:20260225T200000Z
 DTEND:20260225T220000Z
 SUMMARY:Champions League - Real Madrid - Benfica
-UID:bf26fa27-22f4-43f1-a5b1-36099ca1a7ac
+UID:4cddf41d-a4eb-4fcf-851a-41e5931eb34a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
  </body></html>
