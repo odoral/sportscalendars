@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260218T010526Z
+DTSTAMP:20260218T051813Z
+DTSTART:20260218T200000Z
+DTEND:20260218T220000Z
+SUMMARY:Champions League - Olympiacos - Bayer Leverkusen
+UID:347bbdc4-2bec-4655-9d37-ea0b2dea20e1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260218T051813Z
 DTSTART:20260224T200000Z
 DTEND:20260224T220000Z
 SUMMARY:Champions League - Bayer Leverkusen - Olympiacos
-UID:7584be61-580b-4706-9c8d-520186960303
+UID:bc97a768-055c-46c1-ad25-40e20ca136a5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
