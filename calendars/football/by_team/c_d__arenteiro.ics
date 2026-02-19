@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260218T083150Z
+DTSTAMP:20260219T051638Z
 DTSTART:20260221T173000Z
 DTEND:20260221T193000Z
 SUMMARY:Primera Federación - C.D. Arenteiro - Tenerife
-UID:8e9a5899-8568-470d-9361-b205207a6179
+UID:e990819c-f243-46e7-965a-7392dfd8ce4d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+<
  /li></ul></body></html>
 DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga TV Multi 3\
  n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260219T051638Z
+DTSTART:20260228T151500Z
+DTEND:20260228T171500Z
+SUMMARY:Primera Federación - Ourense C.F. - C.D. Arenteiro
+UID:51de6e59-152e-4e30-9df2-0cfd30a3be79
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
