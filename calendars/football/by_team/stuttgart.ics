@@ -16,35 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260217T010310Z
-DTSTART:20260219T200000Z
-DTEND:20260219T220000Z
-SUMMARY:Europa League - Celtic FC - Stuttgart
-UID:98877a0d-c8ff-46ff-accb-ef537d6d4819
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
- i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
-  PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260217T010310Z
+DTSTAMP:20260220T010033Z
 DTSTART:20260222T183000Z
 DTEND:20260222T203000Z
 SUMMARY:Bundesliga - Heidenheim - Stuttgart
-UID:a3789c54-3292-46d4-b8dc-2a4e73180b84
+UID:ee383e3a-8b50-4e6b-96ec-f7458e890b58
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260217T010310Z
+DTSTAMP:20260220T010033Z
 DTSTART:20260226T174500Z
 DTEND:20260226T194500Z
 SUMMARY:Europa League - Stuttgart - Celtic FC
-UID:99319a1a-1e7c-4458-bc56-88dabb7e5e72
+UID:71ab43a6-4348-414e-bf94-a2ccf3435cfc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T010033Z
+DTSTART:20260301T143000Z
+DTEND:20260301T163000Z
+SUMMARY:Bundesliga - Stuttgart - VfL Wolfsburg
+UID:ac3cb66c-30b7-490c-adfa-a4b87f349224
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

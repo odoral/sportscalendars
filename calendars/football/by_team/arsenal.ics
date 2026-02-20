@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260219T051638Z
+DTSTAMP:20260220T010033Z
 DTSTART:20260222T163000Z
 DTEND:20260222T183000Z
 SUMMARY:Premier League - Tottenham - Arsenal
-UID:2b516b29-b318-4a43-ae42-6b1d53ca6704
+UID:154d4261-d4cf-4f24-bdac-c1a1a8fb1767
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T010033Z
+DTSTART:20260301T163000Z
+DTEND:20260301T183000Z
+SUMMARY:Premier League - Arsenal - Chelsea
+UID:50f887ff-8b6f-4e67-8742-55c3a9752c27
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>

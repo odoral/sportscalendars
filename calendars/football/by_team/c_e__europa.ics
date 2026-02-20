@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260218T083150Z
+DTSTAMP:20260220T010033Z
 DTSTART:20260222T181500Z
 DTEND:20260222T201500Z
 SUMMARY:Primera Federación - Antequera - C.E. Europa
-UID:994afd69-17d5-429a-96d8-11b867c21b4d
+UID:d670558c-5efe-4737-95b4-847e50d3ec24
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</l
  i></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n-
   PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260220T010033Z
+DTSTART:20260301T110000Z
+DTEND:20260301T130000Z
+SUMMARY:Primera Federación - C.E. Europa - Juv. Torremolinos
+UID:a857c1f1-25d7-441b-8214-a60cd2f735d8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
