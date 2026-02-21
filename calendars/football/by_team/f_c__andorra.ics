@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260218T083150Z
+DTSTAMP:20260221T005925Z
 DTSTART:20260222T151500Z
 DTEND:20260222T171500Z
 SUMMARY:Liga Hypermotion - F.C. Andorra - Real Zaragoza
-UID:19bdaa71-d6b3-47ac-983e-75d7c555d7d3
+UID:f7a1cfd4-7227-490a-a773-598d3c4bff53
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260221T005925Z
+DTSTART:20260302T193000Z
+DTEND:20260302T213000Z
+SUMMARY:Liga Hypermotion - Córdoba - F.C. Andorra
+UID:68a6c12f-35d6-4b3e-a46e-bb368cb46919
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
