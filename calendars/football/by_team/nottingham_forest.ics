@@ -16,31 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260220T010033Z
+DTSTAMP:20260221T081654Z
 DTSTART:20260222T140000Z
 DTEND:20260222T160000Z
 SUMMARY:Premier League - Nottingham Forest - Liverpool
-UID:0debb752-504d-4523-b711-ccb6b63fd520
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:b0e0007a-f32a-45a2-9edc-02baaee6a8cf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260220T010033Z
+DTSTAMP:20260221T081654Z
 DTSTART:20260226T200000Z
 DTEND:20260226T220000Z
 SUMMARY:Europa League - Nottingham Forest - Fenerbahçe
-UID:6b975821-6dd9-484c-b77a-59601a77819a
+UID:94912b2d-0b4d-45f7-aa1a-2e07ef96d605
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s 12</li>\n<li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Liga de Cam
+ peones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 12\n- PPV: M+ Liga de Campeones 2
+ \n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260220T010033Z
+DTSTAMP:20260221T081654Z
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
 SUMMARY:Premier League - Brighton - Nottingham Forest
-UID:30e7a8d8-5680-4e3d-801d-f488fe2f9113
+UID:c4ba463c-ca78-4f9a-83c0-10af477b0686
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
