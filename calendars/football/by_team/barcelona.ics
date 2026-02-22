@@ -16,31 +16,41 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260222T051111Z
+DTSTAMP:20260222T081822Z
 DTSTART:20260222T151500Z
 DTEND:20260222T171500Z
 SUMMARY:Liga EA Sports - Barcelona - Levante
-UID:326e6f68-25b2-4e0a-89eb-a7d85476692f
+UID:fe12960e-74fd-428c-96f0-d6fe94264f59
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ LaLiga</li>\n<li>PPV: M+ LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260222T051111Z
+DTSTAMP:20260222T081822Z
+DTSTART:20260222T220000Z
+DTEND:20260223T000000Z
+SUMMARY:Otras competiciones - Barcelona - Real Madrid
+UID:b7807972-9a28-4804-8cd8-6ae2dc029665
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Barcelona Youtub
+ e (Members)</li></ul></body></html>
+DESCRIPTION:- PPV: FC Barcelona Youtube (Members)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T081822Z
 DTSTART:20260228T151500Z
 DTEND:20260228T171500Z
 SUMMARY:Liga EA Sports - Barcelona - Villarreal
-UID:04660d3a-64c3-4df1-b554-f0ee557b0422
+UID:7cd2eb5a-9715-4ae3-9512-49a683646865
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260222T051111Z
+DTSTAMP:20260222T081822Z
 DTSTART:20260303T200000Z
 DTEND:20260303T220000Z
 SUMMARY:Copa del Rey - Barcelona - Atlético de Madrid
-UID:3532f9b4-7671-47fe-83c3-9cc93a83bd09
+UID:d3ea68da-49e0-4d1e-ad31-c27357168965
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ LaLiga</li>\n<li>PPV:
   Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
