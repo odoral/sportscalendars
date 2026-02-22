@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260222T010323Z
+DTSTAMP:20260222T051111Z
+DTSTART:20260222T173000Z
+DTEND:20260222T193000Z
+SUMMARY:Primera Federación - Barakaldo - Osasuna Promesas
+UID:87e39326-f1d9-4c67-9ea4-ab5d71a17922
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260222T051111Z
 DTSTART:20260301T110000Z
 DTEND:20260301T130000Z
 SUMMARY:Primera Federación - Arenas Club - Barakaldo
-UID:cd474188-08cf-4270-bca9-d3496d07f8fd
+UID:f5844c82-1a7b-4f99-8d83-3abaae6653fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
