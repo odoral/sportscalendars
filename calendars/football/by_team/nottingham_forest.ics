@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260223T010337Z
+DTSTAMP:20260225T083434Z
 DTSTART:20260226T200000Z
 DTEND:20260226T220000Z
 SUMMARY:Europa League - Nottingham Forest - Fenerbahçe
-UID:fb79dd38-2284-4630-a70f-340b2cad6b3a
+UID:b27b5cef-43f9-4807-b089-5b671c25405b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 12</li>\n<li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Liga de Cam
  peones 3</li></ul></body></html>
@@ -28,23 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones 12\n- PPV: M+ Liga de Campeones 2
  \n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T010337Z
+DTSTAMP:20260225T083434Z
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
 SUMMARY:Premier League - Brighton - Nottingham Forest
-UID:82c42e9e-a9ba-429c-9339-76f4ac07fd65
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:f149809e-f940-48a1-bdc0-efea761bcc5c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 3</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260223T010337Z
+DTSTAMP:20260225T083434Z
 DTSTART:20260304T193000Z
 DTEND:20260304T213000Z
 SUMMARY:Premier League - Manchester City - Nottingham Forest
-UID:40fdeea6-f3b5-4821-bb7a-3c398e66f2d4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:99f2f409-f133-43d2-800e-e6240d2a8a0d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
