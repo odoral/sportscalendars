@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260224T051635Z
+DTSTAMP:20260225T010652Z
 DTSTART:20260301T200000Z
 DTEND:20260301T220000Z
 SUMMARY:Liga Hypermotion - Eibar - Cádiz
-UID:3edb4d07-06ba-4b78-bb43-e4c19447d43e
+UID:00e357e5-3ca6-4768-9a36-b3e28361a1f0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T010652Z
+DTSTART:20260306T193000Z
+DTEND:20260306T213000Z
+SUMMARY:Liga Hypermotion - Cádiz - Real Zaragoza
+UID:611892f6-d846-45e9-89fd-de1236345665
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Canal Sur</li>\n<li>Open: Gol Pla
+ y</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: L
+ aLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Canal Sur\
+ n- Open: Gol Play\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga
+  TV Hypermotion
 END:VEVENT
 END:VCALENDAR

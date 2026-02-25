@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260223T010337Z
+DTSTAMP:20260225T010652Z
 DTSTART:20260228T151500Z
 DTEND:20260228T171500Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Burgos C.F.
-UID:170d3f82-199e-4548-ab88-869b968b2367
+UID:f256f0a8-8f14-430a-a1a5-0ceea587c830
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260225T010652Z
+DTSTART:20260306T193000Z
+DTEND:20260306T213000Z
+SUMMARY:Liga Hypermotion - Cádiz - Real Zaragoza
+UID:3ef8ca58-06f2-40a8-98fc-4d9527518466
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Canal Sur</li>\n<li>Open: Gol Pla
+ y</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: L
+ aLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Canal Sur\
+ n- Open: Gol Play\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga
+  TV Hypermotion
 END:VEVENT
 END:VCALENDAR
