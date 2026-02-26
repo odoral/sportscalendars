@@ -16,27 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260223T010337Z
-DTSTART:20260225T200000Z
-DTEND:20260225T220000Z
-SUMMARY:Champions League - Real Madrid - Benfica
-UID:e9d2be8a-eeeb-43b8-a079-873553b560d4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: M+ Liga de Campeo
- nes 4</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li><
- /ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
-  PPV: M+ Liga de Campeones 4\n- PPV: Movistar Plus+\n- PPV: Orange Fútbo
- l 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260223T010337Z
+DTSTAMP:20260226T010031Z
 DTSTART:20260302T200000Z
 DTEND:20260302T220000Z
 SUMMARY:Liga EA Sports - Real Madrid - Getafe
-UID:dca09d07-a0a3-49a0-84df-e441ceca743f
+UID:3d854bfe-316c-4e8f-89f2-773933b5344a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T010031Z
+DTSTART:20260307T200000Z
+DTEND:20260307T220000Z
+SUMMARY:Liga EA Sports - Celta - Real Madrid
+UID:c2ac1836-fcbc-4a51-b545-e82bd5f26d4e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR

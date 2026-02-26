@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260225T083434Z
+DTSTAMP:20260226T010031Z
 DTSTART:20260228T150000Z
 DTEND:20260228T170000Z
 SUMMARY:Primera Federación - Celta B - Mérida
-UID:136f4985-04fa-47d2-bb30-e4b45dd1eda0
+UID:0de9f685-f543-42ef-8808-9fe3df629ea4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260226T010031Z
+DTSTART:20260307T200000Z
+DTEND:20260307T220000Z
+SUMMARY:Primera Federación - Mérida - C.F. Talavera
+UID:aa0d4e93-230a-4145-81f0-7a556f4fb632
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
+  Federación</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ \n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
