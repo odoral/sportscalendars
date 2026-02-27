@@ -16,25 +16,37 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260225T083434Z
+DTSTAMP:20260227T010129Z
 DTSTART:20260228T151500Z
 DTEND:20260228T171500Z
 SUMMARY:Liga EA Sports - Barcelona - Villarreal
-UID:d4435122-51fe-4d7a-9897-e3cf8f06abc2
+UID:70841595-2cc9-45a0-b000-454242c65076
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260225T083434Z
+DTSTAMP:20260227T010129Z
 DTSTART:20260303T200000Z
 DTEND:20260303T220000Z
 SUMMARY:Copa del Rey - Barcelona - Atlético de Madrid
-UID:3be9f9c4-cdd5-45d1-ab5d-5bb2d5f4d40c
+UID:fe87fa56-9046-4132-bd82-0ca25580a961
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ LaLiga</li>\n<li>PPV:
   Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ LaLig
  a\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T010129Z
+DTSTART:20260308T151500Z
+DTEND:20260308T171500Z
+SUMMARY:Liga EA Sports - Athletic Club - Barcelona
+UID:fb323e7e-3b76-48b4-a161-9cb6b8749121
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR

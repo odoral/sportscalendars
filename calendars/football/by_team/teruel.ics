@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260226T010031Z
+DTSTAMP:20260227T010129Z
 DTSTART:20260301T171500Z
 DTEND:20260301T191500Z
 SUMMARY:Primera Federación - Algeciras - Teruel
-UID:b6f2d6c6-87da-4588-a541-40400b7059fa
+UID:9db55108-ef78-457d-827e-356a404e0b8d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T010129Z
+DTSTART:20260308T110000Z
+DTEND:20260308T130000Z
+SUMMARY:Primera Federación - Teruel - Villarreal B
+UID:e6ae62a4-bdf3-4eb9-aea4-62407824d600
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
+ PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

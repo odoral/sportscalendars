@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260225T083434Z
+DTSTAMP:20260227T010129Z
 DTSTART:20260228T151500Z
 DTEND:20260228T171500Z
 SUMMARY:Liga EA Sports - Barcelona - Villarreal
-UID:f031c8d5-ba0a-423b-932d-4f5a17c41990
+UID:fdc1a2af-f769-4571-96bc-4eb37728ecd3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T010129Z
+DTSTART:20260308T130000Z
+DTEND:20260308T150000Z
+SUMMARY:Liga EA Sports - Villarreal - Elche
+UID:753ce996-8907-4d80-a664-4d670a381434
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ LaLiga</li></u
+ l></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + LaLiga
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260226T010031Z
+DTSTAMP:20260227T010129Z
 DTSTART:20260302T193000Z
 DTEND:20260302T213000Z
 SUMMARY:Liga Hypermotion - Córdoba - F.C. Andorra
-UID:9b418cf0-b23e-4a6e-9606-f77f8168d9e6
+UID:c04fc86d-5ec7-4c9c-b408-98c4dc1145ac
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T010129Z
+DTSTART:20260308T173000Z
+DTEND:20260308T193000Z
+SUMMARY:Liga Hypermotion - Racing de Santander - Córdoba
+UID:bf8d6641-78b2-4944-8e04-574d462561ed
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
