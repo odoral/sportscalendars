@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260227T010129Z
+DTSTAMP:20260227T050925Z
+DTSTART:20260227T193000Z
+DTEND:20260227T213000Z
+SUMMARY:Liga Hypermotion - Albacete - Almería
+UID:81a8b187-e01f-4e77-9897-17bad8759e9a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260227T050925Z
 DTSTART:20260307T151500Z
 DTEND:20260307T171500Z
 SUMMARY:Liga Hypermotion - Huesca - Albacete
-UID:e5305ea0-b744-4233-972b-cfe88ab7ad51
+UID:ad68d2ef-8945-4509-a071-a9f86bc49afe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
