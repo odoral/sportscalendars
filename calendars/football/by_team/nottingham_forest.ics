@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260227T050925Z
+DTSTAMP:20260228T081535Z
 DTSTART:20260301T140000Z
 DTEND:20260301T160000Z
 SUMMARY:Premier League - Brighton - Nottingham Forest
-UID:6fdcddd5-8a49-4cb8-9991-be31377ffe07
+UID:1c3f297e-308d-4b4d-b962-668fb604484f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 3</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260227T050925Z
+DTSTAMP:20260228T081535Z
 DTSTART:20260304T193000Z
 DTEND:20260304T213000Z
 SUMMARY:Premier League - Manchester City - Nottingham Forest
-UID:302a869b-8edb-40ec-87fe-1b4eddc9e0f9
+UID:e786c0ab-d0b4-41c2-9fba-b9263ef1f4e8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+  DAZN 2</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Liga de Campeones\n- PP
+ V: M+ Vamos
 END:VEVENT
 END:VCALENDAR
