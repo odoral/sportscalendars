@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260301T010910Z
+DTSTAMP:20260301T122219Z
 DTSTART:20260303T200000Z
 DTEND:20260303T220000Z
 SUMMARY:Copa del Rey - Barcelona - Atlético de Madrid
-UID:dae1d22c-4543-40d6-bd70-c1107cd59dd6
+UID:96abc1cb-00ae-4856-92a5-1c6f083e6166
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ LaLiga</li>\n<li>PPV:
   Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
@@ -28,11 +28,21 @@ DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: M+ LaLig
  a\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260301T010910Z
+DTSTAMP:20260301T122219Z
+DTSTART:20260304T020000Z
+DTEND:20260304T040000Z
+SUMMARY:Otras competiciones - Barcelona - Real Madrid
+UID:0ca9305f-4144-43d9-b8af-f5aa99b17eb2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Barcelona Youtub
+ e (Members)</li></ul></body></html>
+DESCRIPTION:- PPV: FC Barcelona Youtube (Members)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260301T122219Z
 DTSTART:20260307T200000Z
 DTEND:20260307T220000Z
 SUMMARY:Liga EA Sports - Athletic Club - Barcelona
-UID:368eb593-6b14-483c-af1f-73391ea22b07
+UID:d288516f-d199-46ee-bb8c-40c0c7e98806
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
@@ -40,11 +50,11 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260301T010910Z
+DTSTAMP:20260301T122219Z
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
 SUMMARY:Champions League - Newcastle - Barcelona
-UID:b90a168e-8fcf-4279-9c02-a5d1a878569f
+UID:6a77ddb1-0e6c-409f-9225-c0275a0c4025
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
