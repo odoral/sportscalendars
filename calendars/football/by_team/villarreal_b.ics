@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260302T010217Z
+DTSTAMP:20260302T083023Z
+DTSTART:20260304T173000Z
+DTEND:20260304T193000Z
+SUMMARY:Primera Federación - Villarreal B - C.D. Eldense
+UID:0caa55d5-13f9-4838-8b08-676f2ea510c7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T083023Z
 DTSTART:20260308T110000Z
 DTEND:20260308T130000Z
 SUMMARY:Primera Federación - Teruel - Villarreal B
-UID:e3e0d01b-6735-405b-9d56-782147c0fc90
+UID:e0c0f8b1-20d7-42ce-a9ed-dff7e00bfffa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
  ></ul></body></html>
