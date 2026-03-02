@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260301T010910Z
+DTSTAMP:20260302T010217Z
 DTSTART:20260304T193000Z
 DTEND:20260304T213000Z
 SUMMARY:Premier League - Manchester City - Nottingham Forest
-UID:027ea4ca-1b58-4f65-adf0-0aa00e16314a
+UID:7ca697d5-31b3-4a5c-962b-e09fb94b8a15
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 2</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li>
  </ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Liga de Campeones\n- PP
  V: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260302T010217Z
+DTSTART:20260311T200000Z
+DTEND:20260311T220000Z
+SUMMARY:Champions League - Real Madrid - Manchester City
+UID:0498af70-5327-48e8-9b12-65a568bc947d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
