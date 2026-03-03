@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260302T010217Z
+DTSTAMP:20260303T050957Z
 DTSTART:20260311T180000Z
 DTEND:20260311T200000Z
 SUMMARY:Copa de la Reina - At. Madrid Fem. - UDG Tenerife
-UID:819f6b04-2fc3-4b6c-b337-cfd8638059f6
+UID:b42cf67e-4e4c-47e2-ad76-e851f4268bc1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260303T050957Z
+DTSTART:20260312T200000Z
+DTEND:20260312T220000Z
+SUMMARY:Copa de la Reina - FC Badalona Women - Barcelona Femenino
+UID:a920b38d-f55f-4072-9ecc-c6bcc94be629
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
