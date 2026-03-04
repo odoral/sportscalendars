@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260304T010029Z
+DTSTAMP:20260304T050342Z
+DTSTART:20260304T200000Z
+DTEND:20260304T220000Z
+SUMMARY:Copa del Rey - Real Sociedad - Athletic Club
+UID:3fb972d2-37bd-46fa-9809-d1d2aeedffba
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: La 1</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ LaLiga</li>\n<li>PPV
+ : Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: rtve Play\n- PPV: M+ LaLi
+ ga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T050342Z
 DTSTART:20260307T200000Z
 DTEND:20260307T220000Z
 SUMMARY:Liga EA Sports - Athletic Club - Barcelona
-UID:3d581a43-4b78-4c1e-871b-2dd063ac8c52
+UID:dfcae7d4-23dc-4f2f-ba45-b961c7f8aefd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
- >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
- ml>
-DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
-  1
+ >PPV: M+ LaLiga 3</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fú
+ tbol 1</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 3\n- PPV: Movistar Plus+\n
+ - PPV: Orange Fútbol 1
 END:VEVENT
 END:VCALENDAR

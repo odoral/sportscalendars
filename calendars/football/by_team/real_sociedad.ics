@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260304T010029Z
+DTSTAMP:20260304T050342Z
+DTSTART:20260304T200000Z
+DTEND:20260304T220000Z
+SUMMARY:Copa del Rey - Real Sociedad - Athletic Club
+UID:ec6722be-3f40-4b93-9724-e721dc277fb7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: La 1</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ LaLiga</li>\n<li>PPV
+ : Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: rtve Play\n- PPV: M+ LaLi
+ ga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T050342Z
 DTSTART:20260307T173000Z
 DTEND:20260307T193000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Real Sociedad
-UID:557fde47-e60c-4deb-a78e-7d0a24016235
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
- </body></html>
-DESCRIPTION:- PPV: M+ LaLiga
+UID:19d49653-72d9-446d-8a30-28f8824cf6ab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: M+ LaLiga 2</li>\n<li>PPV: M+ LaLiga 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2\n- PPV: M+ LaLiga 3
 END:VEVENT
 END:VCALENDAR

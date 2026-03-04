@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260304T010029Z
+DTSTAMP:20260304T050342Z
+DTSTART:20260304T020000Z
+DTEND:20260304T040000Z
+SUMMARY:Otras competiciones - Barcelona - Real Madrid
+UID:48336857-37f9-47ab-b1ff-cc52b1b3a8fd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Barcelona Youtub
+ e (Members)</li></ul></body></html>
+DESCRIPTION:- PPV: FC Barcelona Youtube (Members)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T050342Z
 DTSTART:20260306T200000Z
 DTEND:20260306T220000Z
 SUMMARY:Liga EA Sports - Celta - Real Madrid
-UID:1be87802-b7ec-4c09-8283-9c70e5ffd970
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
- </body></html>
-DESCRIPTION:- PPV: M+ LaLiga
+UID:4a1cf189-6b79-4988-8e4a-dc22e8781a56
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: M+ LaLiga 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260304T010029Z
+DTSTAMP:20260304T050342Z
 DTSTART:20260311T200000Z
 DTEND:20260311T220000Z
 SUMMARY:Champions League - Real Madrid - Manchester City
-UID:3993568f-6474-4300-a716-8f39649f3e28
+UID:6542029d-e6e5-46f2-b824-8216187dbefa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
