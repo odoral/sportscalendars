@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260302T010217Z
+DTSTAMP:20260304T010029Z
 DTSTART:20260307T173000Z
 DTEND:20260307T193000Z
 SUMMARY:Primera Federación - C.D. Eldense - Nàstic Tarragona
-UID:fcf85a37-4869-4940-8320-c668a7ba6fb4
+UID:73c73ca1-1f33-4a36-9d34-7d16f1e84914
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</
  li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Prim
  era Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T010029Z
+DTSTART:20260313T193000Z
+DTEND:20260313T213000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Sabadell
+UID:fc4e32bd-b079-459d-a28b-7b106a47783a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

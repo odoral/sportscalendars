@@ -16,15 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260228T044638Z
+DTSTAMP:20260304T010029Z
 DTSTART:20260307T151500Z
 DTEND:20260307T171500Z
 SUMMARY:Primera Federación - Tenerife - Lugo
-UID:b0e0bf54-d99b-4467-a823-d68151ffe6a3
+UID:3469d1d8-c300-4ce5-854a-8cd757f18d56
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
  </ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
   Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260304T010029Z
+DTSTART:20260313T201500Z
+DTEND:20260313T221500Z
+SUMMARY:Primera Federación - Celta B - Tenerife
+UID:2900165c-1cc2-4a52-aacc-fa7cbbc63dd6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: FC Play</l
+ i>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body><
+ /html>
+DESCRIPTION:- Open: TV Canaria\n- Open: Teledeporte\n- Open: rtve Play\n-
+  PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
