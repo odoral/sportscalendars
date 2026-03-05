@@ -16,45 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260222T051111Z
-DTSTART:20260222T110000Z
-DTEND:20260222T130000Z
-SUMMARY:Liga F - Eibar Fem. - Athletic Club Fem.
-UID:c5b18191-8f4f-4453-a56c-f5790b2625ac
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB2</li>\n<li>Ope
- n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: DA
- ZN 2</li>\n<li>PPV: GolStadium Premium</li></ul></body></html>
-DESCRIPTION:- Open: ETB2\n- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n
- - PPV: DAZN 2\n- PPV: GolStadium Premium
+DTSTAMP:20260305T010300Z
+DTSTART:20260314T110000Z
+DTEND:20260314T130000Z
+SUMMARY:Liga F - At. Madrid Fem. - DUX Logroño Fem.
+UID:f80c23f0-67c6-4436-9905-3a5eba492c72
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260222T051111Z
-DTSTART:20260222T110000Z
-DTEND:20260222T130000Z
-SUMMARY:Liga F - Real Madrid Fem. - UDG Tenerife
-UID:f9fd8616-0577-4aa6-9fe6-59b2fc0a0e13
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
+DTSTAMP:20260305T010300Z
+DTSTART:20260314T120000Z
+DTEND:20260314T140000Z
+SUMMARY:Liga F - UDG Tenerife - Levante UD  Fem.
+UID:43ccc26d-ec3f-4b34-8927-d1fa575acb54
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260222T051111Z
-DTSTART:20260222T150000Z
-DTEND:20260222T170000Z
-SUMMARY:Liga F - Real Sociedad F. - RCD Espanyol Fem.
-UID:64304b20-29c2-49f1-a395-23c326994cf8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 3</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260222T051111Z
-DTSTART:20260222T170000Z
-DTEND:20260222T190000Z
-SUMMARY:Liga F - Sevilla FC Fem. - At. Madrid Fem.
-UID:7f35321d-4913-4a80-80e6-397b3e692d27
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
- i>PPV: DAZN</li>\n<li>PPV: DAZN 2</li></ul></body></html>
-DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN 2
+DTSTAMP:20260305T010300Z
+DTSTART:20260314T173000Z
+DTEND:20260314T193000Z
+SUMMARY:Liga F - Real Sociedad F. - Real Madrid Fem.
+UID:61577d6e-4ea9-450d-81e9-fb79f95e09b9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

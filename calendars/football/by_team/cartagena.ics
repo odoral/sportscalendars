@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260304T050342Z
+DTSTAMP:20260305T010300Z
 DTSTART:20260308T150000Z
 DTEND:20260308T170000Z
 SUMMARY:Primera Federación - Tarazona - Cartagena
-UID:5f90caff-95bf-4c24-8f07-a07f1adc7514
+UID:5915f83b-c8bd-4584-ac38-7aad238b6498
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T010300Z
+DTSTART:20260314T173000Z
+DTEND:20260314T193000Z
+SUMMARY:Primera Federación - Cartagena - Teruel
+UID:3fcc4e50-2a93-4255-aac7-1e44fe1ad7d9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

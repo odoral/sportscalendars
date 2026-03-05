@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260301T010910Z
+DTSTAMP:20260305T010300Z
 DTSTART:20260306T201500Z
 DTEND:20260306T221500Z
 SUMMARY:Primera Federación - Betis Deportivo - Sevilla At.
-UID:d834fd86-11e0-4cbf-b5c7-723a1a8926bc
+UID:8ef6d980-fed8-4b8f-bcce-87832d8111ba
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T010300Z
+DTSTART:20260314T130000Z
+DTEND:20260314T150000Z
+SUMMARY:Primera Federación - C.E. Europa - Betis Deportivo
+UID:eab36b4b-140e-418e-95f1-2285cdbdd979
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación

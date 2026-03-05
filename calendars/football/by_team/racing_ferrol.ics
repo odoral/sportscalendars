@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260301T010910Z
+DTSTAMP:20260305T010300Z
 DTSTART:20260308T193000Z
 DTEND:20260308T213000Z
 SUMMARY:Primera Federación - Racing Ferrol - Cacereño
-UID:9cfb4fdb-7e38-402c-8c73-9700bb4dd250
+UID:8893eb37-f93f-4a76-818d-a13c469951e0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260305T010300Z
+DTSTART:20260314T151500Z
+DTEND:20260314T171500Z
+SUMMARY:Primera Federación - Ourense C.F. - Racing Ferrol
+UID:d24c5f52-78de-448c-82ce-c97e0d16c37c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR
