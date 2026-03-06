@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260304T050342Z
+DTSTAMP:20260306T010650Z
 DTSTART:20260308T173000Z
 DTEND:20260308T193000Z
 SUMMARY:Liga Hypermotion - Racing de Santander - Córdoba
-UID:bf8fdccc-bb16-4b92-9d6f-05c2a5d785c0
+UID:299f6fa9-c240-41a0-8050-f1f19a377172
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260306T010650Z
+DTSTART:20260315T130000Z
+DTEND:20260315T150000Z
+SUMMARY:Liga Hypermotion - Córdoba - Real Sociedad B
+UID:83e6851a-df36-4f10-a8fa-ad1204f01833
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

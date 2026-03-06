@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260221T081654Z
-DTSTART:20260221T171500Z
-DTEND:20260221T191500Z
-SUMMARY:Liga F - Granada Fem. - Barcelona Femenino
-UID:e88125bd-9e1f-4d23-9705-ee1d30794093
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
- : Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PP
- V: DAZN 1</li></ul></body></html>
-DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: D
- AZN\n- PPV: DAZN 1
+DTSTAMP:20260306T010651Z
+DTSTART:20260315T130000Z
+DTEND:20260315T150000Z
+SUMMARY:Liga F - FC Badalona Women - Granada Fem.
+UID:efd9acf9-cff2-4f28-8320-e4a339b3ba42
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
+ \n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Esport3 (Web)\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
