@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20251211T094730Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260220T082824Z
-DTSTART:20260222T150000Z
-DTEND:20260222T170000Z
-SUMMARY:Liga F - Real Sociedad F. - RCD Espanyol Fem.
-UID:71c4ecf2-5e0a-4662-9e9e-0d8e9390ef7a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 3</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 3
+DTSTAMP:20260307T045401Z
+DTSTART:20260316T190000Z
+DTEND:20260316T210000Z
+SUMMARY:Liga F - RCD Espanyol Fem. - Eibar Fem.
+UID:bbcb0d3b-264d-4332-b31a-12dd114c1b3a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li></u
+ l></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play\n- P
+ PV: DAZN
 END:VEVENT
 END:VCALENDAR
