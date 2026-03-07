@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20251211T094730Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260305T082723Z
+DTSTAMP:20260307T005837Z
 DTSTART:20260307T200000Z
 DTEND:20260307T220000Z
 SUMMARY:Liga EA Sports - Athletic Club - Barcelona
-UID:a9e76d9d-fefc-4bde-9532-53e9dca9b20d
+UID:0ca750cf-69db-4bc1-a989-a47c1dd7ca30
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 3</li>\n<li>PPV: M+ Vamos 2</li>\n<li>PPV: Movistar Plus
  +</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
@@ -28,11 +28,11 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 3\n- PPV: M+ Vamos 2\n- PP
  V: Movistar Plus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260305T082723Z
+DTSTAMP:20260307T005837Z
 DTSTART:20260314T130000Z
 DTEND:20260314T150000Z
 SUMMARY:Liga EA Sports - Girona - Athletic Club
-UID:bc0236cd-c528-4958-b1b6-3864502d4bed
+UID:28063abc-7661-4427-902e-5419b0f8939c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li><
  /ul></body></html>
