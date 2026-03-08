@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260308T010249Z
 DTSTART:20260311T200000Z
 DTEND:20260311T220000Z
 SUMMARY:Champions League - Bodø/Glimt - Sporting Portugal
-UID:88ec518b-c8e2-4522-8d08-84e928b28e9e
+UID:cdf1386e-88b1-4e85-9560-ca210da3dabd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T010249Z
+DTSTART:20260317T174500Z
+DTEND:20260317T194500Z
+SUMMARY:Champions League - Sporting Portugal - Bodø/Glimt
+UID:5f7d701d-6e4f-415a-92f9-cef4db2607fb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260307T045401Z
+DTSTAMP:20260308T010249Z
 DTSTART:20260311T200000Z
 DTEND:20260311T220000Z
 SUMMARY:Champions League - Real Madrid - Manchester City
-UID:0d9e9809-f104-4eab-bb2f-c4c9526355ef
+UID:697f94a9-9615-4840-ad13-6d5e4fe2e4df
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T045401Z
+DTSTAMP:20260308T010249Z
 DTSTART:20260314T200000Z
 DTEND:20260314T220000Z
 SUMMARY:Liga EA Sports - Real Madrid - Elche
-UID:8496b2ce-ebd5-49d4-965b-a312e6cc9296
+UID:f9a372d1-9038-4d3e-81fc-08001ba92be6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260308T010249Z
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+SUMMARY:Champions League - Manchester City - Real Madrid
+UID:45448c90-4b1d-484a-885d-3cc01b28cf18
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
