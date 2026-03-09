@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260308T010249Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260310T200000Z
 DTEND:20260310T220000Z
 SUMMARY:Champions League - Atlético de Madrid - Tottenham
-UID:8d16e182-3133-4b44-b5c8-68bdaea208fe
+UID:99a6d5bd-4bad-460e-adb2-7fa46add3fcf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260308T010249Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260314T151500Z
 DTEND:20260314T171500Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Getafe
-UID:3bd19438-3d59-4ed4-846f-d7982bd9fd6c
+UID:31a813b6-58f4-40a8-9cd2-49427138cd57
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T010302Z
+DTSTART:20260318T200000Z
+DTEND:20260318T220000Z
+SUMMARY:Champions League - Tottenham - Atlético de Madrid
+UID:c362f82b-e3ef-4427-82cf-69daa1184103
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

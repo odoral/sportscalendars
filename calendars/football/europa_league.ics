@@ -16,41 +16,41 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260312T174500Z
 DTEND:20260312T194500Z
 SUMMARY:Europa League - Stuttgart - Porto
-UID:1eb26636-cbfb-4d65-8857-5dde009b6e9a
+UID:df277069-a5d7-486d-8ded-2874ded024f2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260312T174500Z
 DTEND:20260312T194500Z
 SUMMARY:Europa League - Lille - Aston Villa
-UID:f2d628f8-9096-4a04-b5dc-d69c4782a58d
+UID:f62d335a-9e2c-4161-a233-1fb9f9a2820c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260312T174500Z
 DTEND:20260312T194500Z
 SUMMARY:Europa League - Bologna - Roma
-UID:b9800508-92eb-4085-9fdb-31e18f7195ea
+UID:9166129d-1050-4577-878b-90569534c8e4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260312T174500Z
 DTEND:20260312T194500Z
 SUMMARY:Europa League - Panathinaikos - Betis
-UID:89fa26f5-8ace-4061-bb52-4c301f0dba18
+UID:ffcc6eda-906d-48e3-b993-38c54eb24273
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -58,43 +58,53 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260312T200000Z
 DTEND:20260312T220000Z
 SUMMARY:Europa League - Genk - Friburgo
-UID:6eadaa4d-1954-4258-8794-f75e2f84b570
+UID:13e50af7-14fc-44c1-9b9f-0fd3eaebabe5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260312T200000Z
 DTEND:20260312T220000Z
 SUMMARY:Europa League - Nottingham Forest - FC Midtjylland
-UID:1356d149-dcd7-43c7-98f2-b378d857568f
+UID:3d4907cb-7260-41c0-b5cb-964dd7dc802b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260312T200000Z
 DTEND:20260312T220000Z
 SUMMARY:Europa League - Celta - Olympique Lyon
-UID:43e8eb59-21aa-4e14-8f6f-449cfd920bcb
+UID:034ec01c-bd7a-4f16-a780-d1ef1ec6fe42
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260312T200000Z
 DTEND:20260312T220000Z
 SUMMARY:Europa League - Ferencvaros - Braga
-UID:59e976eb-2418-4a84-810b-71739dc3a7a0
+UID:85b8ade4-300d-4094-afb4-9ce9a7a7de61
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T010302Z
+DTSTART:20260318T153000Z
+DTEND:20260318T173000Z
+SUMMARY:Europa League - Braga - Ferencvaros
+UID:c579be81-417f-4136-82f5-bda2f61312d6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260312T200000Z
 DTEND:20260312T220000Z
 SUMMARY:Copa de la Reina - FC Badalona Women - Barcelona Femenino
-UID:55cefae6-ad4f-47c8-9708-058300f78c22
+UID:93e45404-2e07-4da1-a170-c8a8a76ce645
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260309T010302Z
 DTSTART:20260315T130000Z
 DTEND:20260315T150000Z
 SUMMARY:Liga F - FC Badalona Women - Granada Fem.
-UID:95e70336-3ea4-49c5-89ad-9e85ce0b6065
+UID:a918eb6b-7ea3-4cb6-a1fd-258f9ee38987
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
  \n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Esport3 (Web)\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260309T010302Z
+DTSTART:20260318T200000Z
+DTEND:20260318T220000Z
+SUMMARY:Copa de la Reina - Barcelona Femenino - FC Badalona Women
+UID:46809d87-f7c8-4fab-b815-b5bf38820393
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
