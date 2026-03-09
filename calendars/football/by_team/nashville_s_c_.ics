@@ -17,14 +17,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20260309T083112Z
-DTSTART:20260313T193000Z
-DTEND:20260313T213000Z
-SUMMARY:Liga Hypermotion - Mirandés - Cádiz
-UID:3dd48d38-62ca-41e6-81a0-898abe0b2b0c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
- </html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
- ulti 2
+DTSTART:20260311T233000Z
+DTEND:20260312T013000Z
+SUMMARY:CONCACAF Champions Cup - Nashville S.C. - Inter Miami C.F.
+UID:e8207792-7ba4-42c1-841a-5a57187e78a8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
