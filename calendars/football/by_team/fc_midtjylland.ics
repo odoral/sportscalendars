@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260310T050442Z
 DTSTART:20260312T200000Z
 DTEND:20260312T220000Z
 SUMMARY:Europa League - Nottingham Forest - FC Midtjylland
-UID:8feb0b75-830a-450b-a10f-0fd9a68f2962
+UID:4ecbee67-05c5-4c29-ba06-6e4aba3e35bb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T050442Z
+DTSTART:20260319T174500Z
+DTEND:20260319T194500Z
+SUMMARY:Europa League - FC Midtjylland - Nottingham Forest
+UID:f073f478-d80b-4bef-a88f-bc0df0f30150
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

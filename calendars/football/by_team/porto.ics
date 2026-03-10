@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260310T050442Z
 DTSTART:20260312T174500Z
 DTEND:20260312T194500Z
 SUMMARY:Europa League - Stuttgart - Porto
-UID:31adad23-c59f-4f90-be89-271b9466f2d9
+UID:4e0ae5de-0fe8-4ded-a4bc-c3994ee5b563
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T050442Z
+DTSTART:20260319T200000Z
+DTEND:20260319T220000Z
+SUMMARY:Europa League - Porto - Stuttgart
+UID:05324c34-ea6d-44de-8a06-16e1720fe550
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

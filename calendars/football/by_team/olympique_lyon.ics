@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260307T005837Z
+DTSTAMP:20260310T050442Z
 DTSTART:20260312T200000Z
 DTEND:20260312T220000Z
 SUMMARY:Europa League - Celta - Olympique Lyon
-UID:faaa08ca-a2fe-4a06-a500-3ac035c0b140
+UID:834d6cdd-ca58-43da-9a2d-5281b3a2ab57
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260310T050442Z
+DTSTART:20260319T174500Z
+DTEND:20260319T194500Z
+SUMMARY:Europa League - Olympique Lyon - Celta
+UID:5d85de47-d9ae-4a3d-884a-eebca5a29b1d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
