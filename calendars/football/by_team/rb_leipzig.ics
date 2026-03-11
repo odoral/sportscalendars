@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260311T050614Z
+DTSTAMP:20260311T082715Z
 DTSTART:20260315T183000Z
 DTEND:20260315T203000Z
 SUMMARY:Bundesliga - Stuttgart - RB Leipzig
-UID:a235e4a0-c21e-4096-9eeb-da84ecf9c50a
+UID:6dabed2b-c07c-4d5d-91a8-3da36fd675a5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Liga de Campeones 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones 2
+  M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos 2</li></ul></body></html
+ >
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos 2
+ 
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260311T050614Z
+DTSTAMP:20260311T082715Z
 DTSTART:20260320T193000Z
 DTEND:20260320T213000Z
 SUMMARY:Bundesliga - RB Leipzig - Hoffenheim
-UID:b213fa3a-1e68-462d-9d70-9d2eec2eade5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:af17904c-51d1-41ea-a742-20588180f06a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 2
 END:VEVENT
 END:VCALENDAR
