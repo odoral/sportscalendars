@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260311T082715Z
+DTSTAMP:20260312T005552Z
 DTSTART:20260315T150000Z
 DTEND:20260315T170000Z
 SUMMARY:Primera Federación - Tarazona - At. Madrid B
-UID:63ad57a4-1131-4526-847f-d124535cc134
+UID:07daa445-dc9c-4195-92b6-c1178aec844d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260312T005552Z
+DTSTART:20260321T173000Z
+DTEND:20260321T193000Z
+SUMMARY:Primera Federación - At. Madrid B - Cartagena
+UID:ab105291-bb98-4cd4-81df-392df2866259
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
+ n</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
+ rimera Federación
 END:VEVENT
 END:VCALENDAR
