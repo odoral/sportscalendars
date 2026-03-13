@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260308T010249Z
+DTSTAMP:20260313T010127Z
 DTSTART:20260314T200000Z
 DTEND:20260314T220000Z
 SUMMARY:Primera Federación - C.F. Talavera - Real Avilés
-UID:341fbd63-ca1a-4627-876b-415b29ab016d
+UID:ca519971-80cf-4518-86c1-6bc47bd755f8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T010127Z
+DTSTART:20260322T110000Z
+DTEND:20260322T130000Z
+SUMMARY:Primera Federación - Guadalajara - C.F. Talavera
+UID:508119bb-951f-4381-9826-4e6db8e04422
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMM (Castilla-LM)<
+ /li>\n<li>Open: CMMPlay (Castilla-LM)</li>\n<li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: CMM (Castilla-LM)\n- Open: CMMPlay (Castilla-LM)\n- P
+ PV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

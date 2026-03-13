@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260308T010249Z
+DTSTAMP:20260313T010127Z
 DTSTART:20260313T201500Z
 DTEND:20260313T221500Z
 SUMMARY:Primera Federación - Celta B - Tenerife
-UID:dfa0f1ae-f9a9-4cef-8c98-006cf00975b9
+UID:b8199583-4de5-4e51-b9e2-cd444be8b8f5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: FC Play</l
  i>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body><
  /html>
 DESCRIPTION:- Open: TV Canaria\n- Open: Teledeporte\n- Open: rtve Play\n-
   PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T010127Z
+DTSTART:20260322T160000Z
+DTEND:20260322T180000Z
+SUMMARY:Primera Federación - Tenerife - Osasuna Promesas
+UID:5159316a-eec7-4318-adb5-3f2c991083f6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

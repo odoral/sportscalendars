@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260311T082715Z
-DTSTART:20260312T174500Z
-DTEND:20260312T194500Z
-SUMMARY:Europa League - Stuttgart - Porto
-UID:226f763b-f72d-461b-a2fe-e5f40cbccdf7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260311T082715Z
+DTSTAMP:20260313T010127Z
 DTSTART:20260315T183000Z
 DTEND:20260315T203000Z
 SUMMARY:Bundesliga - Stuttgart - RB Leipzig
-UID:0014f0de-43f6-4fd9-a6ad-ea07f11bfcb1
+UID:38e6ac7e-280e-4738-a328-9d35a1f83429
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos 2</li></ul></body></html
  >
@@ -38,13 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos 2
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260311T082715Z
+DTSTAMP:20260313T010127Z
 DTSTART:20260319T200000Z
 DTEND:20260319T220000Z
 SUMMARY:Europa League - Porto - Stuttgart
-UID:4ff1e37b-4cfb-40f6-9803-f447198835ef
+UID:c1072f62-4779-415b-90ab-57ded6142c64
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260313T010127Z
+DTSTART:20260322T183000Z
+DTEND:20260322T203000Z
+SUMMARY:Bundesliga - Augsburgo - Stuttgart
+UID:e0d45662-b09a-4735-8fb5-5e50ea28d284
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
