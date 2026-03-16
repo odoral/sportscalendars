@@ -16,36 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260313T082644Z
-DTSTART:20260315T110000Z
-DTEND:20260315T130000Z
-SUMMARY:Liga F - Deportivo Abanca - Barcelona Femenino
-UID:689d8e63-6132-4ac3-8327-e4460d94cd88
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: TEN TV</li>\n<li>Open: TV3</li>\n<li>Open: TVG 2</li>\n<li>PPV: D
- AZN</li>\n<li>PPV: DAZN 1</li>\n<li>PPV: GolStadium Premium</li></ul></b
- ody></html>
-DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TV3\n- Open: TVG 2\
- n- PPV: DAZN\n- PPV: DAZN 1\n- PPV: GolStadium Premium
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260313T082644Z
+DTSTAMP:20260316T054509Z
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
 SUMMARY:Copa de la Reina - Barcelona Femenino - FC Badalona Women
-UID:28845d38-d7d0-4e23-b64c-78771f1c5eec
+UID:f3b8c378-7b07-4c89-ac05-aae63fadaa4b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260313T082644Z
+DTSTAMP:20260316T054509Z
 DTSTART:20260321T180000Z
 DTEND:20260321T200000Z
 SUMMARY:Liga F - Barcelona Femenino - Athletic Club Fem.
-UID:c2b01a4e-213b-4d65-b335-274495617165
+UID:4f5963de-0ac2-4160-a20f-4a5812167c74
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260316T054509Z
+DTSTART:20260325T174500Z
+DTEND:20260325T194500Z
+SUMMARY:Women's Champions League - Real Madrid Fem. - Barcelona Femenino
+UID:b10e684c-3365-49e3-b304-3536a753a5dd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: Disney+</li></ul>
+ </body></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: D
+ isney+
 END:VEVENT
 END:VCALENDAR
