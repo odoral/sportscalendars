@@ -16,41 +16,83 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260317T010318Z
+DTSTAMP:20260317T051654Z
+DTSTART:20260317T174500Z
+DTEND:20260317T194500Z
+SUMMARY:Champions League - Sporting Portugal - Bodø/Glimt
+UID:0e28d051-104a-426b-ace1-e71fdc61651d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T051654Z
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+SUMMARY:Champions League - Arsenal - Bayer Leverkusen
+UID:d339d376-6fd2-45b0-8b2a-4f9c6460b00c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T051654Z
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+SUMMARY:Champions League - Chelsea - PSG
+UID:e9bff1dc-65dc-45f2-abf2-a98f2817aa58
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T051654Z
+DTSTART:20260317T200000Z
+DTEND:20260317T220000Z
+SUMMARY:Champions League - Manchester City - Real Madrid
+UID:dbbc2f8f-3e54-46e9-8a2f-d23e5f730702
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
+ i></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
+  PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260317T051654Z
 DTSTART:20260318T174500Z
 DTEND:20260318T194500Z
 SUMMARY:Champions League - Barcelona - Newcastle
-UID:c0de5b33-0898-4014-9784-9677ddfef188
+UID:7d10ad1a-6453-45c4-9b30-fd9c645893d6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260317T010318Z
+DTSTAMP:20260317T051654Z
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
 SUMMARY:Champions League - Tottenham - Atlético de Madrid
-UID:69b30fb6-05d2-4ed2-9cd2-fa948dee9742
+UID:012d4045-32f7-4910-8bc4-bde5c13c6222
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260317T010318Z
+DTSTAMP:20260317T051654Z
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
 SUMMARY:Champions League - FC Bayern - Atalanta
-UID:fb22bd5f-3a1a-4e48-bb4f-af414d409af8
+UID:11e599f1-1169-4d55-818d-6e67ae7f8546
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260317T010318Z
+DTSTAMP:20260317T051654Z
 DTSTART:20260318T200000Z
 DTEND:20260318T220000Z
 SUMMARY:Champions League - Liverpool - Galatasaray
-UID:d5419eae-e5dc-451f-8257-2dda0f74064f
+UID:aae070e2-db9b-4d46-86f7-088c018523ea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
