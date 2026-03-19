@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260315T011058Z
+DTSTAMP:20260319T010621Z
 DTSTART:20260321T130000Z
 DTEND:20260321T150000Z
 SUMMARY:Primera Federación - R.M. Castilla - Zamora C.F.
-UID:75ec16b1-f197-4c13-abe3-d596a04ff042
+UID:096edbf0-ffa9-4011-9e5a-6c0afa7161ed
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260319T010621Z
+DTSTART:20260328T151500Z
+DTEND:20260328T171500Z
+SUMMARY:Primera Federación - Zamora C.F. - Pontevedra
+UID:afc1293e-bd8e-4144-82ed-54c14d551372
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
