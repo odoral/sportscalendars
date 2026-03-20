@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260318T083442Z
+DTSTAMP:20260320T010254Z
 DTSTART:20260322T110000Z
 DTEND:20260322T130000Z
 SUMMARY:Primera Federación - Guadalajara - C.F. Talavera
-UID:4df60e33-1675-486e-9da2-fc0c4c800143
+UID:79ef2aaf-1212-47d2-9f92-875ac0fd3f35
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMM (Castilla-LM)<
  /li>\n<li>Open: CMMPlay (Castilla-LM)</li>\n<li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: CMM (Castilla-LM)\n- Open: CMMPlay (Castilla-LM)\n- P
  PV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260320T010254Z
+DTSTART:20260329T100000Z
+DTEND:20260329T120000Z
+SUMMARY:Primera Federación - Osasuna Promesas - Guadalajara
+UID:bac9fae1-f640-403b-8629-eeeecd0e4da6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
+ >
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ 
 END:VEVENT
 END:VCALENDAR
