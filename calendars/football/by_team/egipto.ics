@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20251211T094730Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260115T081633Z
-DTSTART:20260117T160000Z
-DTEND:20260117T180000Z
-SUMMARY:Copa Africana de Naciones - Egipto - Nigeria
-UID:257d544a-ea5e-41ad-a6d5-e917910c0803
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos 2
+DTSTAMP:20260322T082048Z
+DTSTART:20260330T170000Z
+DTEND:20260330T190000Z
+SUMMARY:Amistoso - España - Egipto
+UID:45d571dd-e1ca-44d8-a26d-16a9eb9ba9e4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
