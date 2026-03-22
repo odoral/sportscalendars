@@ -16,27 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260319T010621Z
-DTSTART:20260321T200000Z
-DTEND:20260321T220000Z
-SUMMARY:Liga Hypermotion - Deportivo - Real Zaragoza
-UID:bc241824-7a4d-4371-a3e2-4a19bd107bd7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
- range Fútbol 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
- ulti 2\n- PPV: Orange Fútbol 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260319T010621Z
+DTSTAMP:20260322T010615Z
 DTSTART:20260328T200000Z
 DTEND:20260328T220000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Deportivo
-UID:f0e34924-754d-4fdb-aef1-db2e3441141d
+UID:a3d42585-2969-4744-9516-24cfe1be4d72
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\
  n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TVG 2\n- PPV: DAZN\n- PPV: GolStadi
  um Premium\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260322T010615Z
+DTSTART:20260331T180000Z
+DTEND:20260331T200000Z
+SUMMARY:Liga Hypermotion - Deportivo - Córdoba
+UID:cb4668f3-84a4-42d1-89a1-7b311086bf97
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
