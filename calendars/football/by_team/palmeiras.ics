@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250410T142246Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,14 +16,51 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251127T081546Z
-DTSTART:20251129T200000Z
-DTEND:20251129T220000Z
-SUMMARY:Copa Libertadores - Palmeiras - C.R. Flamengo
-UID:14217f9c-b24b-4230-ac36-835bfefc72de
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
- PV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
- 
-DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+DTSTAMP:20260323T084137Z
+DTSTART:20260325T100000Z
+DTEND:20260325T120000Z
+SUMMARY:LaLiga FC Futures - Palmeiras - Boca Juniors
+UID:bd4e945f-39c8-44f0-adc9-b9321094f06e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
+ i>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
+  LaLiga\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T084137Z
+DTSTART:20260326T110000Z
+DTEND:20260326T130000Z
+SUMMARY:LaLiga FC Futures - River Plate - Palmeiras
+UID:78250567-c604-4f18-a09d-d7e43fddf9e0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
+ i>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
+  LaLiga\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T084137Z
+DTSTART:20260326T180000Z
+DTEND:20260326T200000Z
+SUMMARY:LaLiga FC Futures - C.R. Flamengo - Palmeiras
+UID:0b684c4f-eeb5-40cf-8bc2-46c4c4f2ec7f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
+ i>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
+  LaLiga\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260323T084137Z
+DTSTART:20260327T110000Z
+DTEND:20260327T130000Z
+SUMMARY:LaLiga FC Futures - Palmeiras - Inter Miami C.F.
+UID:2ed7b728-a0a8-48f5-b3e6-baa2fea415c0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
+ i>PPV: GolStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
+  LaLiga\n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR
