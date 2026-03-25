@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260322T010615Z
+DTSTAMP:20260325T051859Z
 DTSTART:20260327T180000Z
 DTEND:20260327T200000Z
 SUMMARY:Primera Federación - Barakaldo - R.M. Castilla
-UID:bf750acb-5600-4dbe-9a21-faecbb0dde59
+UID:f3adbb94-efb5-491e-9d6b-e80a5211a2c8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T051859Z
+DTSTART:20260403T191500Z
+DTEND:20260403T211500Z
+SUMMARY:Primera Federación - R.M. Castilla - Celta B
+UID:c586c523-a416-4f96-8f05-f4c5f1d8579d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n
+ <li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: FC Play\n- PPV
+ : LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

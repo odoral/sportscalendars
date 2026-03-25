@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260321T050037Z
+DTSTAMP:20260325T051859Z
 DTSTART:20260329T100000Z
 DTEND:20260329T120000Z
 SUMMARY:Primera Federación - Celta B - Bilbao Athletic
-UID:5eeb3225-4e3b-4fcd-a3dc-7e1fda46ba8f
+UID:206a989c-08e0-4927-ac55-3633b2ffd171
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260325T051859Z
+DTSTART:20260403T191500Z
+DTEND:20260403T211500Z
+SUMMARY:Primera Federación - R.M. Castilla - Celta B
+UID:63e80bcd-5669-4640-bbde-8f29c3f26c24
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n
+ <li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: FC Play\n- PPV
+ : LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
