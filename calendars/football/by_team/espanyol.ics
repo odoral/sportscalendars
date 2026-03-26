@@ -16,37 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260325T083602Z
-DTSTART:20260325T110000Z
-DTEND:20260325T130000Z
-SUMMARY:LaLiga FC Futures - Espanyol - Valencia
-UID:3726eca7-79db-4452-8063-9702364cae98
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
- li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li></ul></body></
- html>
-DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
- PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260325T083602Z
-DTSTART:20260325T170000Z
-DTEND:20260325T190000Z
-SUMMARY:LaLiga FC Futures - Espanyol - Villarreal
-UID:b3fd3cc6-7369-4e08-a5c7-155d20a5f864
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
- li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li></ul></body></
- html>
-DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
- PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260325T083602Z
+DTSTAMP:20260326T011046Z
 DTSTART:20260326T170000Z
 DTEND:20260326T190000Z
 SUMMARY:LaLiga FC Futures - Barcelona - Espanyol
-UID:b01874df-83fb-4d26-b79f-15313fafada0
+UID:da9776a8-cead-4eae-9ef6-70003a09a344
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
  i>PPV: GolStadium Premium</li></ul></body></html>
@@ -54,15 +28,25 @@ DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
   LaLiga\n- PPV: GolStadium Premium
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260325T083602Z
+DTSTAMP:20260326T011046Z
 DTSTART:20260327T100000Z
 DTEND:20260327T120000Z
 SUMMARY:LaLiga FC Futures - Espanyol - Shanghai Port
-UID:05c90b2a-89af-4c39-b84b-30995ff987a8
+UID:5a0beda2-c422-4013-a66f-30a1874bf707
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
  i>PPV: GolStadium Premium</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
   LaLiga\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T011046Z
+DTSTART:20260404T163000Z
+DTEND:20260404T183000Z
+SUMMARY:Liga EA Sports - Betis - Espanyol
+UID:8f9c75bc-9916-421a-9ffb-e9fc8dd7253b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR

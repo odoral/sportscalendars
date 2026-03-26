@@ -16,36 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260325T083602Z
-DTSTART:20260325T083000Z
-DTEND:20260325T103000Z
-SUMMARY:LaLiga FC Futures - Atlético de Madrid - Betis
-UID:94daf1d5-d9fc-4433-9cd6-56236577dc61
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
- i>PPV: GolStadium Premium</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
-  LaLiga\n- PPV: GolStadium Premium
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260325T083602Z
-DTSTART:20260325T173000Z
-DTEND:20260325T193000Z
-SUMMARY:LaLiga FC Futures - Sevilla - Atlético de Madrid
-UID:22618c22-afc2-4f5d-b7c9-421998b1bf5a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<
- li>PPV: DAZN LaLiga</li>\n<li>PPV: GolStadium Premium</li></ul></body></
- html>
-DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play\n- P
- PV: DAZN\n- PPV: DAZN LaLiga\n- PPV: GolStadium Premium
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260325T083602Z
+DTSTAMP:20260326T011046Z
 DTSTART:20260326T100000Z
 DTEND:20260326T120000Z
 SUMMARY:LaLiga FC Futures - Atlético de Madrid - Wydad A.C.
-UID:2f336501-c74e-48b7-8ffe-6507adcecf74
+UID:b953a972-062c-474f-b75b-4962058e53d3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
  i>PPV: GolStadium Premium</li></ul></body></html>
@@ -53,15 +28,25 @@ DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
   LaLiga\n- PPV: GolStadium Premium
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260325T083602Z
+DTSTAMP:20260326T011046Z
 DTSTART:20260326T173000Z
 DTEND:20260326T193000Z
 SUMMARY:LaLiga FC Futures - Real Madrid - Atlético de Madrid
-UID:e35856c2-739d-4152-b85c-08e3231b4bac
+UID:840ab592-1da6-486e-a3b7-ceb5177bc1dd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
  i>PPV: GolStadium Premium</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
   LaLiga\n- PPV: GolStadium Premium
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260326T011046Z
+DTSTART:20260404T190000Z
+DTEND:20260404T210000Z
+SUMMARY:Liga EA Sports - Atlético de Madrid - Barcelona
+UID:9c732234-adfa-433f-8fc5-6d1d5dd5d27e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 END:VCALENDAR
