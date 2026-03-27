@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260326T052737Z
+DTSTAMP:20260327T011020Z
 DTSTART:20260328T151500Z
 DTEND:20260328T171500Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Huesca
-UID:36138949-5302-4b92-9177-ed0db7b1d3f3
+UID:05ec96d3-bf57-4a41-b0fc-12c71ec3fbcb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></bod
  y></html>
@@ -28,13 +28,27 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV
   Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260326T052737Z
+DTSTAMP:20260327T011020Z
 DTSTART:20260401T180000Z
 DTEND:20260401T200000Z
 SUMMARY:Liga Hypermotion - Huesca - Cultural Leonesa
-UID:d49c7908-cee9-41a4-bcc5-602860fb4d76
+UID:044ea3af-07f6-4106-b66b-659c5220c9a7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T011020Z
+DTSTART:20260405T163000Z
+DTEND:20260405T183000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Huesca
+UID:ab9bdb6d-e4a4-4acc-bc26-615069dec3da
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TV Canar
+ ia</li>\n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: 
+ LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
+ - Open: TV Canaria\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLig
+ a TV Hypermotion
 END:VEVENT
 END:VCALENDAR

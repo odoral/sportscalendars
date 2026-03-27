@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260326T052737Z
+DTSTAMP:20260327T011020Z
 DTSTART:20260329T150000Z
 DTEND:20260329T170000Z
 SUMMARY:Liga F - Athletic Club Fem. - At. Madrid Fem.
-UID:3ca0c9e9-4fd5-4189-ab87-e4656ea48ba9
+UID:f8d7496c-1e65-4306-bcd6-e6a5b195723f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260327T011020Z
+DTSTART:20260405T100000Z
+DTEND:20260405T120000Z
+SUMMARY:Liga F - At. Madrid Fem. - Deportivo Abanca
+UID:4226803c-dc8d-4337-8a23-a044bb7c01cb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TEN TV</li>\n<li>Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: G
+ olStadium Premium</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TVG 2\n- PPV: DAZN\
+ n- PPV: GolStadium Premium
 END:VEVENT
 END:VCALENDAR
