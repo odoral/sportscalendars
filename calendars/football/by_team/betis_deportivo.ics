@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260328T010416Z
+DTSTAMP:20260328T051703Z
+DTSTART:20260328T151500Z
+DTEND:20260328T171500Z
+SUMMARY:Primera Federación - Betis Deportivo - Teruel
+UID:b1819125-50f6-4226-ac80-41d1f4b70a67
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260328T051703Z
 DTSTART:20260405T161500Z
 DTEND:20260405T181500Z
 SUMMARY:Primera Federación - Sabadell - Betis Deportivo
-UID:70a77e30-761a-4374-8797-e9909429b906
+UID:fd553c79-669f-4f02-8e9d-4dddfcf25a56
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
