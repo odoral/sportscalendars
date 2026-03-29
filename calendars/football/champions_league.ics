@@ -16,43 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260318T052106Z
-DTSTART:20260318T174500Z
-DTEND:20260318T194500Z
-SUMMARY:Champions League - Barcelona - Newcastle
-UID:fb0035ea-b7e7-43cc-98db-e24ef0d50b26
+DTSTAMP:20260329T053019Z
+DTSTART:20260407T190000Z
+DTEND:20260407T210000Z
+SUMMARY:Champions League - Real Madrid - FC Bayern
+UID:e5a5ae14-a5ea-4282-9510-38f20ef021e9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260318T052106Z
-DTSTART:20260318T200000Z
-DTEND:20260318T220000Z
-SUMMARY:Champions League - Tottenham - Atlético de Madrid
-UID:1aa44618-2365-4c91-bdbc-f002a434f6ff
+DTSTAMP:20260329T053019Z
+DTSTART:20260407T190000Z
+DTEND:20260407T210000Z
+SUMMARY:Champions League - Sporting Portugal - Arsenal
+UID:f54eeb57-47d8-4524-9ea2-bd8dc4615534
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260318T052106Z
-DTSTART:20260318T200000Z
-DTEND:20260318T220000Z
-SUMMARY:Champions League - FC Bayern - Atalanta
-UID:11773f56-65fb-45c1-95cf-81e62030f624
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260318T052106Z
-DTSTART:20260318T200000Z
-DTEND:20260318T220000Z
-SUMMARY:Champions League - Liverpool - Galatasaray
-UID:6cd62cd4-4d79-4f03-a46b-a547a8d30ec3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 END:VCALENDAR
