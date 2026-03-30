@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260329T053019Z
+DTSTAMP:20260330T011433Z
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
 SUMMARY:Champions League - Real Madrid - FC Bayern
-UID:e5a5ae14-a5ea-4282-9510-38f20ef021e9
+UID:e63885c8-3027-41ac-bfe4-bb61fc3461d8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
  </body></html>
@@ -28,11 +28,31 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
  ange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260329T053019Z
+DTSTAMP:20260330T011433Z
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
 SUMMARY:Champions League - Sporting Portugal - Arsenal
-UID:f54eeb57-47d8-4524-9ea2-bd8dc4615534
+UID:836c51c9-7ef1-47c5-bf88-ea454ced0af8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T011433Z
+DTSTART:20260408T190000Z
+DTEND:20260408T210000Z
+SUMMARY:Champions League - Barcelona - Atlético de Madrid
+UID:c22ab350-44a5-4a5b-bc47-904c8198c61a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260330T011433Z
+DTSTART:20260408T190000Z
+DTEND:20260408T210000Z
+SUMMARY:Champions League - PSG - Liverpool
+UID:d067f6b6-f49a-4602-9f26-1dff2837324d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2
