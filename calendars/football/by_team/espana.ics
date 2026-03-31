@@ -16,32 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260330T055358Z
-DTSTART:20260331T000000Z
-DTEND:20260331T020000Z
-SUMMARY:Amistoso - España - Egipto
-UID:c3937663-fadb-4fda-9ebe-6a3e1ea91799
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260330T055358Z
+DTSTAMP:20260331T053037Z
 DTSTART:20260331T160000Z
 DTEND:20260331T180000Z
 SUMMARY:Europeo Sub-19 - Holanda - España
-UID:126e9c31-184f-43dd-813a-f71824f5d85e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:bce0a266-2a9e-4d5d-9f0f-d8c5910a95d7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
+ li></ul></body></html>
+DESCRIPTION:- Open: SEFutbol Youtube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260330T055358Z
+DTSTAMP:20260331T053037Z
 DTSTART:20260331T170000Z
 DTEND:20260331T190000Z
 SUMMARY:Europeo Sub-21 - España - Kosovo
-UID:b16bcc84-1263-4ba7-a533-76fa1671bad4
+UID:63166e48-d25a-42eb-86d6-12c9d06070ba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260331T053037Z
+DTSTART:20260331T190000Z
+DTEND:20260331T210000Z
+SUMMARY:Amistoso - España - Egipto
+UID:470beacb-eb07-4590-afcd-84413b6cc9ca
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
