@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260331T053037Z
+DTSTAMP:20260401T055002Z
 DTSTART:20260401T180000Z
 DTEND:20260401T200000Z
 SUMMARY:Liga Hypermotion - Huesca - Cultural Leonesa
-UID:e38e0dff-a8ec-4ca5-897b-74a88acea7c6
+UID:016dc6a7-c175-4337-823e-89fc52d47c54
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></bod
  y></html>
@@ -28,13 +28,15 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV
   Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260331T053037Z
+DTSTAMP:20260401T055002Z
 DTSTART:20260404T163000Z
 DTEND:20260404T183000Z
 SUMMARY:Liga Hypermotion - Cultural Leonesa - Valladolid
-UID:0a141168-15ba-4107-909a-3eb3c82e2a93
+UID:81fcee2c-e8ad-4d21-a0a7-749f3e67240c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 3
 END:VEVENT
 END:VCALENDAR
