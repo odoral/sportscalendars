@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260329T053019Z
+DTSTAMP:20260401T011844Z
 DTSTART:20260404T141500Z
 DTEND:20260404T161500Z
 SUMMARY:Liga EA Sports - Mallorca - Real Madrid
-UID:4c5b2aa7-48d4-4c01-a11c-6162ff202a83
+UID:f5180e8d-3dfe-4905-a5dc-0ce87efc58c5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
@@ -28,15 +28,25 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260329T053019Z
+DTSTAMP:20260401T011844Z
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
 SUMMARY:Champions League - Real Madrid - FC Bayern
-UID:16ccbb7a-f339-4e9f-8f31-03821d90b792
+UID:1517c345-0c0f-42e5-93ed-f84fcec17cb9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
  ange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260401T011844Z
+DTSTART:20260410T190000Z
+DTEND:20260410T210000Z
+SUMMARY:Liga EA Sports - Real Madrid - Girona
+UID:eb7fd04c-91e5-44d6-b90b-48520ac70f27
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR
