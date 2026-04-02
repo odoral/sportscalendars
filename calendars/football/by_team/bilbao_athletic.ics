@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260401T011844Z
+DTSTAMP:20260402T052712Z
 DTSTART:20260404T163000Z
 DTEND:20260404T183000Z
 SUMMARY:Primera Federación - Bilbao Athletic - C.F. Talavera
-UID:b3819d0b-b343-4b81-8036-dcf526076f14
+UID:6303ba63-b558-4aa4-8ee6-7f6351552e5d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
  >
@@ -28,13 +28,15 @@ DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
  
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260401T011844Z
+DTSTAMP:20260402T052712Z
 DTSTART:20260410T191500Z
 DTEND:20260410T211500Z
 SUMMARY:Primera Federación - Cacereño - Bilbao Athletic
-UID:170fcda5-6012-4d2b-bb38-f00a99bff77b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+UID:6be44c93-480b-4e30-8305-b3b16d846a82
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n
+ <li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: FC Play\n- PPV
+ : LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
