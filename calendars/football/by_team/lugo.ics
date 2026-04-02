@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260330T011433Z
+DTSTAMP:20260402T010900Z
 DTSTART:20260405T161500Z
 DTEND:20260405T181500Z
 SUMMARY:Primera Federación - Lugo - Osasuna Promesas
-UID:2c7d4e1c-7e7b-4a3a-ac50-25a0072bbd90
+UID:3d25d4a3-7f4d-4807-880f-7aff737bb717
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T010900Z
+DTSTART:20260411T141500Z
+DTEND:20260411T161500Z
+SUMMARY:Primera Federación - Ourense C.F. - Lugo
+UID:bc3817a3-5a00-4edf-b87a-9c0b3e3e18f7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR

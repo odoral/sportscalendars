@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260330T011433Z
+DTSTAMP:20260402T010900Z
 DTSTART:20260405T100000Z
 DTEND:20260405T120000Z
 SUMMARY:Primera Federación - Alcorcón - Hércules
-UID:c0d24535-6f6c-41c8-99f3-5556cef8911a
+UID:fc73f5fb-0b79-48c2-b975-2a11fec7e039
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T010900Z
+DTSTART:20260411T141500Z
+DTEND:20260411T161500Z
+SUMMARY:Primera Federación - Tarazona - Alcorcón
+UID:92eeec4a-5ce8-4773-a508-10f7aec74cd7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
+ PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

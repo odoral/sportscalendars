@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260329T053019Z
+DTSTAMP:20260402T010900Z
 DTSTART:20260403T140000Z
 DTEND:20260403T160000Z
 SUMMARY:Primera Federación - Guadalajara - Racing Ferrol
-UID:0c12ab9b-3659-4ed5-a49f-05216fd58935
+UID:ccc08b26-3017-4ddf-911b-211574a49a07
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T010900Z
+DTSTART:20260411T190000Z
+DTEND:20260411T210000Z
+SUMMARY:Primera Federación - Racing Ferrol - R.M. Castilla
+UID:069fac50-ab59-41dc-9885-4f20310d2e69
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n
+ <li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: FC Play\n- PPV
+ : LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

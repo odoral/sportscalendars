@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260330T011433Z
+DTSTAMP:20260402T010900Z
 DTSTART:20260405T161500Z
 DTEND:20260405T181500Z
 SUMMARY:Primera Federación - Real Murcia - At. Madrid B
-UID:cd3b7ed9-af5f-4fb7-a4c3-cf59cbde4786
+UID:949357f0-16db-4fb1-bc81-cb59d676ec76
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260402T010900Z
+DTSTART:20260411T163000Z
+DTEND:20260411T183000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Real Murcia
+UID:8f138500-3c01-4351-b562-b3baed89acc0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
+ n</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
+ rimera Federación
 END:VEVENT
 END:VCALENDAR
