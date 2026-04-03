@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260329T053019Z
+DTSTAMP:20260403T011138Z
 DTSTART:20260404T173000Z
 DTEND:20260404T193000Z
 SUMMARY:Primera Federación - Tenerife - Cacereño
-UID:b037bbbb-1981-48dc-9f13-9bbf18f01436
+UID:9b768e81-ffe9-4e01-a624-130d7030ee93
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T011138Z
+DTSTART:20260412T161500Z
+DTEND:20260412T181500Z
+SUMMARY:Primera Federación - Mérida - Tenerife
+UID:8792755d-0b54-495c-9a88-f44eb8c6a30f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
+ </li></ul></body></html>
+DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
+ imera Federación
 END:VEVENT
 END:VCALENDAR

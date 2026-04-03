@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260330T011433Z
+DTSTAMP:20260403T011138Z
 DTSTART:20260403T191500Z
 DTEND:20260403T211500Z
 SUMMARY:Primera Federación - R.M. Castilla - Celta B
-UID:f3f0515e-cfa1-43d2-a0d0-a867bd5a70d3
+UID:218e9c3e-f321-41da-a258-b5bfb3d527fd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n
  <li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: FC Play\n- PPV
  : LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260403T011138Z
+DTSTART:20260412T140000Z
+DTEND:20260412T160000Z
+SUMMARY:Primera Federación - Arenas Club - Celta B
+UID:87ac2aaf-c8c2-4d26-b93c-c9db5031723a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
