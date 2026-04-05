@@ -16,33 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260403T083933Z
-DTSTART:20260404T190000Z
-DTEND:20260404T210000Z
-SUMMARY:Liga EA Sports - Atlético de Madrid - Barcelona
-UID:c909e3ab-85ba-4b04-8caf-644c1286088e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260403T083933Z
+DTSTAMP:20260405T011445Z
 DTSTART:20260408T190000Z
 DTEND:20260408T210000Z
 SUMMARY:Champions League - Barcelona - Atlético de Madrid
-UID:3b425242-94b6-4388-a645-e1bc46b7ade7
+UID:993081e9-f667-4bc3-9fcc-2acc7eb30e70
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260403T083933Z
+DTSTAMP:20260405T011445Z
 DTSTART:20260411T163000Z
 DTEND:20260411T183000Z
 SUMMARY:Liga EA Sports - Barcelona - Espanyol
-UID:e18c4682-0c94-4212-a460-42e10271df45
+UID:47d3df7c-7cdf-4022-8f3e-5fe5c858ba1a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260405T011445Z
+DTSTART:20260414T190000Z
+DTEND:20260414T210000Z
+SUMMARY:Champions League - Atlético de Madrid - Barcelona
+UID:d8065e36-6edf-4df1-95ce-399e3da86e4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR
