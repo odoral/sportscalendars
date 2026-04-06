@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260403T083933Z
+DTSTAMP:20260406T011452Z
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
 SUMMARY:Champions League - Sporting Portugal - Arsenal
-UID:715ad670-d6a7-4a93-a88f-5ea171866c41
+UID:b6dcdd2c-c0c6-4337-8a14-8053aa8e877b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T011452Z
+DTSTART:20260415T190000Z
+DTEND:20260415T210000Z
+SUMMARY:Champions League - Arsenal - Sporting Portugal
+UID:2b9a7d75-6b66-45dd-9674-0c7f7e2ad514
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 END:VCALENDAR

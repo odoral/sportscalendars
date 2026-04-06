@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260405T011445Z
+DTSTAMP:20260406T011452Z
 DTSTART:20260407T190000Z
 DTEND:20260407T210000Z
 SUMMARY:Champions League - Real Madrid - FC Bayern
-UID:264a23a6-62a2-4dd1-bff3-bf90cf4cd665
+UID:db49d5da-ae39-4548-a298-b2f7d6d40d46
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260405T011445Z
+DTSTAMP:20260406T011452Z
 DTSTART:20260411T163000Z
 DTEND:20260411T183000Z
 SUMMARY:Bundesliga - St. Pauli - FC Bayern
-UID:7267f073-d9f1-41ad-bb95-cc3583f195d3
+UID:ece327b7-bcc1-4a42-815b-56f5c1abed15
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260406T011452Z
+DTSTART:20260415T190000Z
+DTEND:20260415T210000Z
+SUMMARY:Champions League - FC Bayern - Real Madrid
+UID:c77de849-eda9-4fd2-93e5-3ae05c9be88e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
