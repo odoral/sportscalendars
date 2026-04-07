@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260405T011445Z
+DTSTAMP:20260407T011236Z
 DTSTART:20260409T190000Z
 DTEND:20260409T210000Z
 SUMMARY:Europa League - Friburgo - Celta
-UID:adc16866-cc5a-4fe1-a53e-36ac58b4a0b6
+UID:d71caeda-8318-4c0a-960b-cc07cb4f9e29
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260405T011445Z
+DTSTAMP:20260407T011236Z
 DTSTART:20260412T173000Z
 DTEND:20260412T193000Z
 SUMMARY:Bundesliga - Mainz 05 - Friburgo
-UID:6b37d537-6253-41da-879f-5ded15467a52
+UID:b89a8a88-d48d-49d7-8fe7-ae6cc9cead4b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T011236Z
+DTSTART:20260416T164500Z
+DTEND:20260416T184500Z
+SUMMARY:Europa League - Celta - Friburgo
+UID:48426ad9-4eaf-4174-9db5-f06c81c0de38
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

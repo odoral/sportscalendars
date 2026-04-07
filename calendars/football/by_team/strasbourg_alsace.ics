@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260403T083933Z
+DTSTAMP:20260407T011236Z
 DTSTART:20260409T190000Z
 DTEND:20260409T210000Z
 SUMMARY:Conference League - Mainz 05 - Strasbourg Alsace
-UID:97b5ea91-0004-45b5-b0f8-ec400ab31e39
+UID:3df5b2c1-44ed-4024-b41c-6d11b0b5ef61
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T011236Z
+DTSTART:20260416T190000Z
+DTEND:20260416T210000Z
+SUMMARY:Conference League - Strasbourg Alsace - Mainz 05
+UID:33df8ccb-19eb-4033-8cc8-b0b5f5f5f97c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

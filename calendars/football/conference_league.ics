@@ -16,43 +16,83 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260403T083933Z
+DTSTAMP:20260407T011236Z
 DTSTART:20260409T164500Z
 DTEND:20260409T184500Z
 SUMMARY:Conference League - Rayo Vallecano - AEK F.C.
-UID:cecf35d8-5754-41f2-ad1f-da24e1d35848
+UID:04723bb6-cfd8-49be-a253-dfd2346728ba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260403T083933Z
+DTSTAMP:20260407T011236Z
 DTSTART:20260409T190000Z
 DTEND:20260409T210000Z
 SUMMARY:Conference League - Mainz 05 - Strasbourg Alsace
-UID:17e0d3df-2583-4bfd-98e3-5d23ca77f364
+UID:6a22f362-70db-432b-a2a7-66073dcf51af
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260403T083933Z
+DTSTAMP:20260407T011236Z
 DTSTART:20260409T190000Z
 DTEND:20260409T210000Z
 SUMMARY:Conference League - Shaktar Donetsk - AZ Alkmaar
-UID:52ae936a-7d42-4d88-94f1-8da8033dc9d5
+UID:75ee4a42-d0b0-4c1b-b149-48c5c2fdc4bf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260403T083933Z
+DTSTAMP:20260407T011236Z
 DTSTART:20260409T190000Z
 DTEND:20260409T210000Z
 SUMMARY:Conference League - Crystal Palace - Fiorentina
-UID:06c90661-47a6-4a7f-ba4f-4cf716d9db9c
+UID:5eeeda09-0feb-45e3-ab84-99ac94a67b66
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T011236Z
+DTSTART:20260416T164500Z
+DTEND:20260416T184500Z
+SUMMARY:Conference League - AZ Alkmaar - Shaktar Donetsk
+UID:abb070fa-c0c9-4747-aaa4-496e3681baa3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T011236Z
+DTSTART:20260416T190000Z
+DTEND:20260416T210000Z
+SUMMARY:Conference League - AEK F.C. - Rayo Vallecano
+UID:b6129885-3406-4cb0-be81-b5e190d36d59
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T011236Z
+DTSTART:20260416T190000Z
+DTEND:20260416T210000Z
+SUMMARY:Conference League - Fiorentina - Crystal Palace
+UID:3a2ec1b2-9968-42a9-b460-ac556288af84
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T011236Z
+DTSTART:20260416T190000Z
+DTEND:20260416T210000Z
+SUMMARY:Conference League - Strasbourg Alsace - Mainz 05
+UID:48125c82-e44c-42bd-a1b3-a48adbccceb2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260403T083933Z
+DTSTAMP:20260407T011236Z
 DTSTART:20260409T190000Z
 DTEND:20260409T210000Z
 SUMMARY:Conference League - Shaktar Donetsk - AZ Alkmaar
-UID:e5d0a6aa-88fc-49a4-becf-b6c5622e8c56
+UID:fc86cfde-d085-4086-9bca-1ea323f5037f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T011236Z
+DTSTART:20260416T164500Z
+DTEND:20260416T184500Z
+SUMMARY:Conference League - AZ Alkmaar - Shaktar Donetsk
+UID:db1e297e-8065-4afa-94af-f32666739d2e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

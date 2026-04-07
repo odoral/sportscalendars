@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260406T011452Z
+DTSTAMP:20260407T011236Z
 DTSTART:20260409T190000Z
 DTEND:20260409T210000Z
 SUMMARY:Europa League - Friburgo - Celta
-UID:bdc5f79c-1ede-4f06-aae4-5beeaffbefca
+UID:da1621e1-82b9-442a-96d4-2801d26a61d4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260406T011452Z
+DTSTAMP:20260407T011236Z
 DTSTART:20260412T163000Z
 DTEND:20260412T183000Z
 SUMMARY:Liga EA Sports - Celta - Real Oviedo
-UID:e92e66c5-751d-4b1a-9726-aa45822099db
+UID:4b06f4fb-f6f1-4a37-97e6-c80ed3ab16f4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260407T011236Z
+DTSTART:20260416T164500Z
+DTEND:20260416T184500Z
+SUMMARY:Europa League - Celta - Friburgo
+UID:9f98d0dc-07dd-4c84-914b-a01874f17102
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
