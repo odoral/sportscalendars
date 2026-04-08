@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260406T011452Z
+DTSTAMP:20260408T011349Z
 DTSTART:20260411T163000Z
 DTEND:20260411T183000Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Real Murcia
-UID:52b84723-abaa-4032-bf51-843c47094195
+UID:a51a416b-377b-400c-9973-4771cf03df51
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
  <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
  n</li></ul></body></html>
 DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
  rimera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260408T011349Z
+DTSTART:20260417T191500Z
+DTEND:20260417T211500Z
+SUMMARY:Primera Federación - Real Murcia - Antequera
+UID:a5b7ce38-3616-4e5b-af10-f3845bd633d1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
