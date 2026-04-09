@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260405T011445Z
+DTSTAMP:20260409T010331Z
 DTSTART:20260411T120000Z
 DTEND:20260411T140000Z
 SUMMARY:Liga EA Sports - Real Sociedad - Alavés
-UID:1564c025-ffce-43bf-b101-b9c039c5fe45
+UID:9a51d335-81d1-4cb7-a229-36d36c2eb376
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T010331Z
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+SUMMARY:Copa del Rey - Atlético de Madrid - Real Sociedad
+UID:85793bde-cde9-4abf-8b98-50cdeeab17f6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: La 1</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ LaLiga</li>\n<li>PPV
+ : Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: rtve Play\n- PPV: M+ LaLi
+ ga\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

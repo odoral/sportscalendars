@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260405T011445Z
+DTSTAMP:20260409T010331Z
 DTSTART:20260414T180000Z
 DTEND:20260414T200000Z
 SUMMARY:Copa Mundial Femenina - Inglaterra - España
-UID:3df987ad-964a-457e-8f57-9736ccb134b9
+UID:44016807-194e-4142-971a-21bc9dd6dddb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T010331Z
+DTSTART:20260418T160000Z
+DTEND:20260418T180000Z
+SUMMARY:Copa Mundial Femenina - España - Ucrania
+UID:dade5b3f-a1c6-4da9-9171-5df53399617d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play

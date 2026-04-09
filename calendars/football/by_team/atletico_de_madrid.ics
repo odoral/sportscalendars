@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260408T054222Z
-DTSTART:20260408T190000Z
-DTEND:20260408T210000Z
-SUMMARY:Champions League - Barcelona - Atlético de Madrid
-UID:e6f37d64-f992-4df9-bbce-388db1c6ab13
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260408T054222Z
+DTSTAMP:20260409T010331Z
 DTSTART:20260411T190000Z
 DTEND:20260411T210000Z
 SUMMARY:Liga EA Sports - Sevilla - Atlético de Madrid
-UID:1bb3e766-e8ab-4328-8eb1-6a23ad81c1f5
+UID:267ca716-bf9c-4fdc-99ca-9c7aed3146f8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 2</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fú
  tbol 1</li></ul></body></html>
@@ -38,15 +28,27 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2\n- PPV: Movistar Plus+\n
  - PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260408T054222Z
+DTSTAMP:20260409T010331Z
 DTSTART:20260414T190000Z
 DTEND:20260414T210000Z
 SUMMARY:Champions League - Atlético de Madrid - Barcelona
-UID:4230053c-6586-497d-9d14-71dd53c3ca72
+UID:e37f8cd7-9e16-4c03-a7bc-17a941b6b969
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260409T010331Z
+DTSTART:20260418T190000Z
+DTEND:20260418T210000Z
+SUMMARY:Copa del Rey - Atlético de Madrid - Real Sociedad
+UID:6f6eed0f-cde7-4500-adb7-f259f5d1bef5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: La 1</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ LaLiga</li>\n<li>PPV
+ : Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: rtve Play\n- PPV: M+ LaLi
+ ga\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
