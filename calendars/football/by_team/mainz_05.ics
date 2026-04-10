@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260407T054215Z
-DTSTART:20260409T190000Z
-DTEND:20260409T210000Z
-SUMMARY:Conference League - Mainz 05 - Strasbourg Alsace
-UID:9fd6ad30-fa5c-4ec7-a64c-ea2beb012f77
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260407T054215Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260412T173000Z
 DTEND:20260412T193000Z
 SUMMARY:Bundesliga - Mainz 05 - Friburgo
-UID:0d1782ba-b3d6-413c-8cce-af15bde62bfe
+UID:d9357d38-2608-4fed-a4d8-45fda9e8f79d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T054215Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260416T190000Z
 DTEND:20260416T210000Z
 SUMMARY:Conference League - Strasbourg Alsace - Mainz 05
-UID:90b0fede-a270-47a6-ab2f-ba02d59f91ac
+UID:6c35f7f3-d72d-404c-b0bf-036a7e452654
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 9</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T011358Z
+DTSTART:20260419T173000Z
+DTEND:20260419T193000Z
+SUMMARY:Bundesliga - Borussia Mönchengladbach - Mainz 05
+UID:b71bc053-0417-4469-9931-5899781bfc6f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

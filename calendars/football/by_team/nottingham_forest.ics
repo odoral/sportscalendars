@@ -16,35 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260407T054215Z
-DTSTART:20260409T190000Z
-DTEND:20260409T210000Z
-SUMMARY:Europa League - Porto - Nottingham Forest
-UID:8afd252b-5be1-4983-afc4-c286ca570218
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260407T054215Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260412T130000Z
 DTEND:20260412T150000Z
 SUMMARY:Premier League - Nottingham Forest - Aston Villa
-UID:645d9ac7-af2f-4d78-8219-bac920474566
+UID:c9d72feb-0230-48a1-843a-9a093bc58620
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260407T054215Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260416T190000Z
 DTEND:20260416T210000Z
 SUMMARY:Europa League - Nottingham Forest - Porto
-UID:58e5914a-b79c-40b3-8375-25aacd20b199
+UID:106f22df-c276-4a64-b4ca-69ea3132203e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li>\n<li>PPV: M+ Liga de Camp
  eones 6</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5\
  n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T011358Z
+DTSTART:20260419T130000Z
+DTEND:20260419T150000Z
+SUMMARY:Premier League - Nottingham Forest - Burnley
+UID:dc20510a-7d1f-4310-b37d-d5644f04396b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

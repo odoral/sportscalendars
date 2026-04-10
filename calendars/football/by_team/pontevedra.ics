@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260405T011444Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260412T140000Z
 DTEND:20260412T160000Z
 SUMMARY:Primera Federación - Pontevedra - Ponferradina
-UID:6797a7f1-371a-41af-8c91-775044843e52
+UID:c35f0ee0-03f0-4eed-be8d-0fe08b6699da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T011358Z
+DTSTART:20260419T161500Z
+DTEND:20260419T181500Z
+SUMMARY:Primera Federación - Guadalajara - Pontevedra
+UID:3104b401-7da0-409f-bd91-2c90529e1984
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

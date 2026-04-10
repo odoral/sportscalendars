@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260408T054222Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260412T161500Z
 DTEND:20260412T181500Z
 SUMMARY:Primera Federación - C.E. Europa - Teruel
-UID:563f0183-b83f-43be-b1d8-3839f6324ff7
+UID:f4e75aa2-d985-434f-af72-809f4dd0c2a8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</l
  i></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n-
   PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T011358Z
+DTSTART:20260419T100000Z
+DTEND:20260419T120000Z
+SUMMARY:Primera Federación - Teruel - At. Madrid B
+UID:1a33607c-47a4-4dc9-83bf-cfa095753dbe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
+ PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

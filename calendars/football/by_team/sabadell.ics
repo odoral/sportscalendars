@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260406T011452Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260411T120000Z
 DTEND:20260411T140000Z
 SUMMARY:Primera Federación - Sevilla At. - Sabadell
-UID:dabd528f-f976-4e14-a243-de9b99164c46
+UID:60f769ad-fd05-4d23-93e2-a4747e237824
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T011358Z
+DTSTART:20260419T161500Z
+DTEND:20260419T181500Z
+SUMMARY:Primera Federación - Sabadell - Hércules
+UID:852403cb-9750-4b40-92ab-fe5f5fb0656a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
+ /li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Fed
+ eración</li></ul></body></html>
+DESCRIPTION:- Open: À Punt (València)\n- PPV: FC Play\n- PPV: LaLiga+\n- 
+ PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

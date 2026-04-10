@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260405T011445Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260410T170000Z
 DTEND:20260410T190000Z
 SUMMARY:Primera Federación - At. Madrid B - Marbella
-UID:0404871b-9c4d-46b0-b820-b8f90533ab79
+UID:a599b3da-9e13-462f-a075-b1060e26e731
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T011358Z
+DTSTART:20260419T100000Z
+DTEND:20260419T120000Z
+SUMMARY:Primera Federación - Marbella - Nàstic Tarragona
+UID:e8b11ac7-5c8d-4294-a4ea-f5aa2c4d72c2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

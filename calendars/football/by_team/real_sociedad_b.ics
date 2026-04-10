@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260407T011236Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260410T183000Z
 DTEND:20260410T203000Z
 SUMMARY:Liga Hypermotion - AD Ceuta - Real Sociedad B
-UID:db63e3d6-673e-4c18-950d-633524b1fd57
+UID:069b5a2f-d38c-44d6-b9e2-59f685a46cc8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T011358Z
+DTSTART:20260419T160000Z
+DTEND:20260419T180000Z
+SUMMARY:Liga Hypermotion - Real Sociedad B - Racing de Santander
+UID:1fdd7dbb-6c54-470e-8276-f66228133e74
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

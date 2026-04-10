@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260406T011452Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260412T183000Z
 DTEND:20260412T203000Z
 SUMMARY:Primera Federación - Hércules - At. Sanluqueño
-UID:f92c92e2-d5a7-4dc0-8d68-0fe36e4cfd81
+UID:f2371348-52a3-449d-b088-c735f79bb307
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T011358Z
+DTSTART:20260419T161500Z
+DTEND:20260419T181500Z
+SUMMARY:Primera Federación - Sabadell - Hércules
+UID:b8ccb3c9-dad0-4627-9f8d-89266392d0d9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
+ /li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Fed
+ eración</li></ul></body></html>
+DESCRIPTION:- Open: À Punt (València)\n- PPV: FC Play\n- PPV: LaLiga+\n- 
+ PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

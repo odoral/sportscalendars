@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260408T054222Z
+DTSTAMP:20260410T011358Z
 DTSTART:20260412T100000Z
 DTEND:20260412T120000Z
 SUMMARY:Primera Federación - U.D. Ibiza - Juv. Torremolinos
-UID:a11d4ea1-b5e5-4d9e-96fc-f1201b256b27
+UID:d0a95d0c-98f4-4fba-a9f3-c046dd7b7c46
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260410T011358Z
+DTSTART:20260419T140000Z
+DTEND:20260419T160000Z
+SUMMARY:Primera Federación - Juv. Torremolinos - Betis Deportivo
+UID:5eaeeb01-a3f8-4539-8dc1-00c3ae7a3557
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
