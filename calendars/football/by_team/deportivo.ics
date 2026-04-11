@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260410T055203Z
+DTSTAMP:20260411T010944Z
 DTSTART:20260412T141500Z
 DTEND:20260412T161500Z
 SUMMARY:Liga Hypermotion - Huesca - Deportivo
-UID:8b750d11-b252-4ae5-8ed8-b7524f9d5561
+UID:d17b429f-3ba7-45b1-8929-71dd3effc4fb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TVG</li>
  \n<li>PPV: DAZN</li>\n<li>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga 
@@ -28,5 +28,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
  - Open: TVG\n- PPV: DAZN\n- PPV: GolStadium Premium\n- PPV: LaLiga TV Hy
  permotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260411T010944Z
+DTSTART:20260420T183000Z
+DTEND:20260420T203000Z
+SUMMARY:Liga Hypermotion - Deportivo - Mirandés
+UID:fdce51ac-b186-40a3-9ed3-521d051896ec
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
