@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260412T011745Z
+DTSTAMP:20260413T012010Z
 DTSTART:20260414T190000Z
 DTEND:20260414T210000Z
 SUMMARY:Champions League - Atlético de Madrid - Barcelona
-UID:5bb1d903-8f31-4cd6-8cc2-f6e5643007d6
+UID:610249ae-1550-47af-8031-8eeb90a56962
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260413T012010Z
+DTSTART:20260422T193000Z
+DTEND:20260422T213000Z
+SUMMARY:Liga EA Sports - Barcelona - Celta
+UID:4f5a0664-20ab-4397-a08b-4fc9a06801ce
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR
