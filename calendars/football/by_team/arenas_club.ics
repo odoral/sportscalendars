@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260413T012010Z
+DTSTAMP:20260415T011608Z
 DTSTART:20260418T163000Z
 DTEND:20260418T183000Z
 SUMMARY:Primera Federación - Tenerife - Arenas Club
-UID:a8d0d659-5b1c-4692-bc0c-39c82ded5d6e
+UID:575ad27f-33d4-4a46-941a-a1ed43616855
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
  </li></ul></body></html>
 DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
  imera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T011608Z
+DTSTART:20260424T183000Z
+DTEND:20260424T203000Z
+SUMMARY:Primera Federación - Arenas Club - Mérida
+UID:fa75473b-d49c-468d-a192-951b232c7753
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

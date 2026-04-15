@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260411T010944Z
+DTSTAMP:20260415T011608Z
 DTSTART:20260417T170000Z
 DTEND:20260417T190000Z
 SUMMARY:Primera Federación - Celta B - Cacereño
-UID:167b79c8-5252-4ede-95ab-c658a202ec39
+UID:3b81bfe7-17df-4886-80dc-85a2793b2a6e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T011608Z
+DTSTART:20260424T191500Z
+DTEND:20260424T211500Z
+SUMMARY:Primera Federación - Cacereño - Guadalajara
+UID:a52b77c9-c3ac-4576-939c-a04527ff2f65
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
+  Federación</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ \n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

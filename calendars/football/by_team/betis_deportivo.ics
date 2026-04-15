@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260412T011745Z
+DTSTAMP:20260415T011608Z
 DTSTART:20260419T140000Z
 DTEND:20260419T160000Z
 SUMMARY:Primera Federación - Juv. Torremolinos - Betis Deportivo
-UID:0b2313e0-e87c-4096-86ae-832f3955ce75
+UID:9fe7a61e-8fb7-4b18-af9d-b0b070305af5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T011608Z
+DTSTART:20260424T170000Z
+DTEND:20260424T190000Z
+SUMMARY:Primera Federación - At. Madrid B - Betis Deportivo
+UID:823ca278-396d-423e-acdc-63e209415ff1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

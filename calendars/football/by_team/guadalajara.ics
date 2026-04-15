@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260413T012010Z
+DTSTAMP:20260415T011608Z
 DTSTART:20260419T161500Z
 DTEND:20260419T181500Z
 SUMMARY:Primera Federación - Guadalajara - Pontevedra
-UID:58a1377a-b408-48fd-b52e-a6573aa6c315
+UID:1cfb924e-955a-42ef-86a7-d14be17524d4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260415T011608Z
+DTSTART:20260424T191500Z
+DTEND:20260424T211500Z
+SUMMARY:Primera Federación - Cacereño - Guadalajara
+UID:95c0d1f6-6d53-4cae-8188-717535e0cbe6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
+  Federación</li></ul></body></html>
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ \n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
