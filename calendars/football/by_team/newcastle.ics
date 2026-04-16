@@ -16,25 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260416T012038Z
+DTSTAMP:20260416T055457Z
 DTSTART:20260418T140000Z
 DTEND:20260418T160000Z
 SUMMARY:Premier League - Newcastle - Bournemouth
-UID:57c32b0f-4d3c-4e0b-ac33-c24cd4e52dcb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:b814c477-cdb7-4179-bd97-1e836586237f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: DAZN 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: DAZN 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260416T012038Z
+DTSTAMP:20260416T055457Z
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
 SUMMARY:Premier League - Arsenal - Newcastle
-UID:c0d15afd-0b48-4116-8e66-36f3eff2de44
+UID:14089f02-bb25-48e2-9618-bb3476844a2c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
- ml>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
- s+
+  M+ Liga de Campeones 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones 2\n- PPV: Movistar P
+ lus+
 END:VEVENT
 END:VCALENDAR

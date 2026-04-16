@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260416T012038Z
+DTSTAMP:20260416T055457Z
 DTSTART:20260418T190000Z
 DTEND:20260418T210000Z
 SUMMARY:Copa del Rey - Atlético de Madrid - Real Sociedad
-UID:49e31ad1-e87f-434a-9cee-e872382bb3db
+UID:1dacb8e0-9a2d-4608-8164-71d3f100be3a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: La 1</li>\n<li>Open: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ 
  LaLiga</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
@@ -28,23 +28,23 @@ DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: TV3\n- Open: rtve Play\n-
   PPV: M+ LaLiga\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260416T012038Z
+DTSTAMP:20260416T055457Z
 DTSTART:20260422T170000Z
 DTEND:20260422T190000Z
 SUMMARY:Liga EA Sports - Elche - Atlético de Madrid
-UID:86f301e0-888f-487e-a12e-2e86a530ec7a
+UID:275cb99e-7101-49d0-aa4e-58ece7390685
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260416T012038Z
+DTSTAMP:20260416T055457Z
 DTSTART:20260425T190000Z
 DTEND:20260425T210000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Athletic Club
-UID:74468b24-7b9c-4d98-8d16-9e9e1a9151ce
+UID:cb8bb3d8-f5af-454f-b1f6-45989714f53c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+  DAZN LaLiga</li>\n<li>PPV: DAZN LaLiga 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: DAZN LaLiga 2
 END:VEVENT
 END:VCALENDAR
