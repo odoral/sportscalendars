@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260415T055415Z
+DTSTAMP:20260416T012038Z
 DTSTART:20260419T140000Z
 DTEND:20260419T160000Z
 SUMMARY:Primera Federación - C.D. Arenteiro - Mérida
-UID:375d5ca3-a9f6-4caa-a870-1da8874abf3e
+UID:748a4a38-a58d-4c5e-bf8b-1d3fa49813ee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 2</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 2\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T012038Z
+DTSTART:20260425T141500Z
+DTEND:20260425T161500Z
+SUMMARY:Primera Federación - Osasuna Promesas - C.D. Arenteiro
+UID:a6b9c3aa-9d87-4b51-ac6e-5f0ac1fb0f6d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

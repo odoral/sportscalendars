@@ -16,21 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260414T055406Z
-DTSTART:20260415T190000Z
-DTEND:20260415T210000Z
-SUMMARY:Champions League - Arsenal - Sporting Portugal
-UID:a4dffd19-b8ed-4851-bdab-cc521b6171aa
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260414T055406Z
+DTSTAMP:20260416T012038Z
 DTSTART:20260419T153000Z
 DTEND:20260419T173000Z
 SUMMARY:Premier League - Manchester City - Arsenal
-UID:1c82ddb4-4004-48af-9a61-4b3dbea9b002
+UID:b88a4aa4-84ae-4410-b571-17029c1312e1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260416T012038Z
+DTSTART:20260425T163000Z
+DTEND:20260425T183000Z
+SUMMARY:Premier League - Arsenal - Newcastle
+UID:97ae11f0-dc4a-4445-b666-5efcbfeeb1ba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
