@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260413T012010Z
+DTSTAMP:20260417T011833Z
 DTSTART:20260418T120000Z
 DTEND:20260418T140000Z
 SUMMARY:Primera Federación - At. Sanluqueño - C.E. Europa
-UID:8a0f1567-b0c4-4487-bdc1-2fa7718c4f77
+UID:d3140719-f762-4fd5-b997-ab5db6235e39
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T011833Z
+DTSTART:20260426T100000Z
+DTEND:20260426T120000Z
+SUMMARY:Primera Federación - C.E. Europa - Real Murcia
+UID:31a697d0-1eb2-410a-b635-bee46a34df21
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
+ n</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
+ rimera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260412T011745Z
+DTSTAMP:20260417T011833Z
 DTSTART:20260418T141500Z
 DTEND:20260418T161500Z
 SUMMARY:Primera Federación - Real Avilés - Unionistas
-UID:3b6c2fc5-e058-429a-8732-1007b2ca01a9
+UID:c1fd1d04-8a80-4387-9b4f-73ac4e345906
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T011833Z
+DTSTART:20260426T183000Z
+DTEND:20260426T203000Z
+SUMMARY:Primera Federación - Racing Ferrol - Real Avilés
+UID:74283ee7-5c48-40a4-93ae-23d18372855c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260412T011745Z
+DTSTAMP:20260417T011833Z
 DTSTART:20260419T100000Z
 DTEND:20260419T120000Z
 SUMMARY:Primera Federación - Bilbao Athletic - Racing Ferrol
-UID:26510d77-5bbe-4f73-93a5-b2746195676e
+UID:db97cb60-8da9-419f-bd18-340da81fd66b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
  </ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
   Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T011833Z
+DTSTART:20260426T183000Z
+DTEND:20260426T203000Z
+SUMMARY:Primera Federación - Racing Ferrol - Real Avilés
+UID:14093d3d-927b-476c-b255-165106f3712a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

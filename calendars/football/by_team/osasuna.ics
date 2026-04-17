@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260413T012010Z
+DTSTAMP:20260417T011833Z
 DTSTART:20260421T170000Z
 DTEND:20260421T190000Z
 SUMMARY:Liga EA Sports - Athletic Club - Osasuna
-UID:f922d282-d564-44b5-8cff-cb633e61ecc8
+UID:5db101cb-1fe1-4c9b-a276-0e0f5e0853af
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ LaLiga</li></u
  l></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
  + LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T011833Z
+DTSTART:20260426T163000Z
+DTEND:20260426T183000Z
+SUMMARY:Liga EA Sports - Osasuna - Sevilla
+UID:4407362a-f341-4835-ad49-c49dda0e71f0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: D
+ AZN LaLiga
 END:VEVENT
 END:VCALENDAR

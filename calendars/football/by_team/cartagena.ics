@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260415T055415Z
+DTSTAMP:20260417T011833Z
 DTSTART:20260419T161500Z
 DTEND:20260419T181500Z
 SUMMARY:Primera Federación - C.D. Eldense - Cartagena
-UID:de99392f-cb46-4c32-a7d5-d3722ee578ab
+UID:f751d7ef-54df-41de-8a50-ba8f29820479
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
  <li>PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+
  </li></ul></body></html>
 DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga TV Multi 3
  \n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T011833Z
+DTSTART:20260426T161500Z
+DTEND:20260426T181500Z
+SUMMARY:Primera Federación - Cartagena - Nàstic Tarragona
+UID:3e44f1e6-fb80-4a04-baaa-ede54eabaa6e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
+ n</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
+ rimera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260412T011745Z
+DTSTAMP:20260417T011833Z
 DTSTART:20260417T191500Z
 DTEND:20260417T211500Z
 SUMMARY:Primera Federación - Real Murcia - Antequera
-UID:2e690dc0-f09c-43f0-b7eb-d1886ca64b77
+UID:f113bc1d-5acc-47eb-af6d-b0276444be87
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T011833Z
+DTSTART:20260426T100000Z
+DTEND:20260426T120000Z
+SUMMARY:Primera Federación - C.E. Europa - Real Murcia
+UID:5e406a55-2812-4308-b145-44e7853fede4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
+ n</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
+ rimera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260402T052712Z
-DTSTART:20260403T100000Z
-DTEND:20260403T120000Z
-SUMMARY:Liga F - Eibar Fem. - UDG Tenerife
-UID:e550372b-92da-4771-ba06-0bb075ecac39
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li></ul><
- /body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: D
- AZN 1
+DTSTAMP:20260417T011833Z
+DTSTART:20260426T110000Z
+DTEND:20260426T130000Z
+SUMMARY:Liga F - UDG Tenerife - Sevilla FC Fem.
+UID:ebf0797f-985f-40db-9019-d3fdecaf7797
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
+ i>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

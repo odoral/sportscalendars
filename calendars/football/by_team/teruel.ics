@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260415T055415Z
+DTSTAMP:20260417T011833Z
 DTSTART:20260419T100000Z
 DTEND:20260419T120000Z
 SUMMARY:Primera Federación - Teruel - At. Madrid B
-UID:2a4d2644-6102-4660-a530-860f0dcbcccd
+UID:2284cca0-a392-4d22-ad21-f4041092184f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga TV M
  ulti 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
  PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260417T011833Z
+DTSTART:20260426T140000Z
+DTEND:20260426T160000Z
+SUMMARY:Primera Federación - Hércules - Teruel
+UID:263af04b-aa52-4ec6-94db-2936602bcd11
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
