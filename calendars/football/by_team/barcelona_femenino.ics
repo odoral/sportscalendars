@@ -16,14 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260413T012010Z
+DTSTAMP:20260418T083538Z
 DTSTART:20260422T170000Z
 DTEND:20260422T190000Z
 SUMMARY:Liga F - RCD Espanyol Fem. - Barcelona Femenino
-UID:4af7daa8-9c28-412a-ad5c-1269ed5fc284
+UID:98baf88f-bf01-40fa-91ca-7bcfeb6358e2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: TEN TV</li>\n<li>Open: TV3</li>\n<li>PPV: DAZN</li></ul></body></
- html>
-DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TV3\n- PPV: DAZN
+ >Open: TEN TV</li>\n<li>Open: TV3</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZ
+ N 2</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TV3\n- PPV: DAZN\n-
+  PPV: DAZN 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260418T083538Z
+DTSTART:20260425T161500Z
+DTEND:20260425T181500Z
+SUMMARY:Women's Champions League - FC Bayern Fem. - Barcelona Femenino
+UID:962dc190-5507-4dfc-bc80-7baf1fe9a426
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  Disney+</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: Disney+
 END:VEVENT
 END:VCALENDAR
