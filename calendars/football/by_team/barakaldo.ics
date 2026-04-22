@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260420T012046Z
+DTSTAMP:20260422T011651Z
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
 SUMMARY:Primera Federación - Barakaldo - Lugo
-UID:aee55ce2-3c74-4a39-ae2a-e45bcb3d4bf0
+UID:3011b57f-4693-4a10-b9c6-08637a2c8476
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T011651Z
+DTSTART:20260501T170000Z
+DTEND:20260501T190000Z
+SUMMARY:Primera Federación - Tenerife - Barakaldo
+UID:0179af88-2bef-4e8b-b59e-1eafbc127348
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
+ </li></ul></body></html>
+DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
+ imera Federación
 END:VEVENT
 END:VCALENDAR

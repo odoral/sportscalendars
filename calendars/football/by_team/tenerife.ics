@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260419T012108Z
+DTSTAMP:20260422T011651Z
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
 SUMMARY:Primera Federación - Ponferradina - Tenerife
-UID:7d8c434f-76ed-4676-b22e-2dc895bc5517
+UID:4ef189f3-399f-4cfe-aad1-196674d75b43
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
+ </li></ul></body></html>
+DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
+ imera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T011651Z
+DTSTART:20260501T170000Z
+DTEND:20260501T190000Z
+SUMMARY:Primera Federación - Tenerife - Barakaldo
+UID:eda8e361-b116-419d-80dd-24ba178eb2c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
  </li></ul></body></html>

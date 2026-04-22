@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260420T012046Z
+DTSTAMP:20260422T011651Z
 DTSTART:20260426T161500Z
 DTEND:20260426T181500Z
 SUMMARY:Primera Federación - Cartagena - Nàstic Tarragona
-UID:80816a2a-40d3-4195-8d0a-bc88b984addb
+UID:9697433a-7e8a-46c4-8699-690d3b33a985
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
  <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
  n</li></ul></body></html>
 DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
  rimera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260422T011651Z
+DTSTART:20260501T191500Z
+DTEND:20260501T211500Z
+SUMMARY:Primera Federación - Algeciras - Cartagena
+UID:88199c88-5f89-4faf-a1dc-26bd70ea46fe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
