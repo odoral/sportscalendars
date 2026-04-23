@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260420T012046Z
+DTSTAMP:20260423T012147Z
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
 SUMMARY:Primera Federación - Ponferradina - Tenerife
-UID:7237c0d3-add1-463d-a072-1c8eb29904d1
+UID:d0abc66d-c8f8-4cb2-872c-6986b42285ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación
  </li></ul></body></html>
 DESCRIPTION:- Open: TV Canaria\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Pr
  imera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T012147Z
+DTSTART:20260502T163000Z
+DTEND:20260502T183000Z
+SUMMARY:Primera Federación - Zamora C.F. - Ponferradina
+UID:1bc0eb07-2aaf-47c3-9f21-a0403d4e8501
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

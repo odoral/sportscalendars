@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260420T012046Z
+DTSTAMP:20260423T012147Z
 DTSTART:20260426T183000Z
 DTEND:20260426T203000Z
 SUMMARY:Primera Federación - Racing Ferrol - Real Avilés
-UID:6ef09cb2-4209-47ac-8041-e4a3de68a072
+UID:a5197f63-4e77-4553-a47c-1e82f103bf06
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260423T012147Z
+DTSTART:20260502T141500Z
+DTEND:20260502T161500Z
+SUMMARY:Primera Federación - Racing Ferrol - Pontevedra
+UID:b3881734-8e67-4f21-83fd-80e7859e02cc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR
