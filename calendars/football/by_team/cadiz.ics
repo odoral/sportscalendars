@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260420T012046Z
+DTSTAMP:20260424T012130Z
 DTSTART:20260427T183000Z
 DTEND:20260427T203000Z
 SUMMARY:Liga Hypermotion - Cádiz - Las Palmas
-UID:6e28d104-f585-4ed8-b79b-5cd45aacf715
+UID:01f480e4-4e81-4c9c-aeca-a41d478f4bb8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li>\n<l
  i>Open: Gol Play</li>\n<li>Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<l
  i>PPV: LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- Open: Canal Sur\n- Open: Gol Play\n- Open: TV Canaria\n- PP
  V: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T012130Z
+DTSTART:20260503T160000Z
+DTEND:20260503T180000Z
+SUMMARY:Liga Hypermotion - Cultural Leonesa - Cádiz
+UID:37f46e02-b371-4362-96b9-03b7e8762e8f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260421T055640Z
+DTSTAMP:20260424T012130Z
 DTSTART:20260425T161500Z
 DTEND:20260425T181500Z
 SUMMARY:Women's Champions League - FC Bayern Fem. - Barcelona Femenino
-UID:1ea394ba-2151-4cd3-b7d6-4520d65bc416
+UID:7dbadbf1-bbe4-41db-b984-92f7f43a5745
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : rtve Play</li>\n<li>PPV: Disney+</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: Disney+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T012130Z
+DTSTART:20260503T143000Z
+DTEND:20260503T163000Z
+SUMMARY:Women's Champions League - Barcelona Femenino - FC Bayern Fem.
+UID:1661aade-c595-4a8c-be32-c54b096e126d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : rtve Play</li>\n<li>PPV: Disney+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: Disney+

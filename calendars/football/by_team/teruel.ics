@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260420T012046Z
+DTSTAMP:20260424T012130Z
 DTSTART:20260426T140000Z
 DTEND:20260426T160000Z
 SUMMARY:Primera Federación - Hércules - Teruel
-UID:d8533922-e9ac-4af9-a292-ab55bef13585
+UID:eda78776-ac20-49cb-902c-12d5e113e2ed
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T012130Z
+DTSTART:20260503T100000Z
+DTEND:20260503T120000Z
+SUMMARY:Primera Federación - Teruel - Tarazona
+UID:14a27086-eea3-4536-a4c9-043fbe8117f1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
+ PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

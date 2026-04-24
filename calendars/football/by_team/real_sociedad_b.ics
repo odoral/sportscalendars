@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260422T091001Z
+DTSTAMP:20260424T012130Z
 DTSTART:20260425T141500Z
 DTEND:20260425T161500Z
 SUMMARY:Liga Hypermotion - Valladolid - Real Sociedad B
-UID:e3997a61-1afa-4e45-bf61-819692b3c917
+UID:26ec2fc7-1c6c-4f93-8fa7-079b5f69aec8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T012130Z
+DTSTART:20260503T160000Z
+DTEND:20260503T180000Z
+SUMMARY:Liga Hypermotion - Real Sociedad B - Burgos C.F.
+UID:227f05eb-859d-48fb-bfb3-c741fd2db4ea
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

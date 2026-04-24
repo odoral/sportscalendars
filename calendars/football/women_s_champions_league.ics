@@ -16,33 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260423T012147Z
+DTSTAMP:20260424T012130Z
 DTSTART:20260425T161500Z
 DTEND:20260425T181500Z
 SUMMARY:Women's Champions League - FC Bayern Fem. - Barcelona Femenino
-UID:48a8ed54-d697-4b81-9388-778e8e506b4e
+UID:2e0cf2c3-99ac-407c-add0-109f2d6327d4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : rtve Play</li>\n<li>PPV: Disney+</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T012147Z
+DTSTAMP:20260424T012130Z
 DTSTART:20260426T143000Z
 DTEND:20260426T163000Z
 SUMMARY:Women's Champions League - Arsenal Fem. - Olympique Lyon (Fem.)
-UID:91df6b33-5684-4abd-9168-318d093d2eb6
+UID:9d8e0788-0716-4111-a69c-27ce16df541d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260423T012147Z
+DTSTAMP:20260424T012130Z
 DTSTART:20260502T130000Z
 DTEND:20260502T150000Z
 SUMMARY:Women's Champions League - Olympique Lyon (Fem.) - Arsenal Fem.
-UID:eda38d12-2055-42ab-a638-15ee88214b13
+UID:e8986ea4-bbc0-4937-82a7-6a33e2258834
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T012130Z
+DTSTART:20260503T143000Z
+DTEND:20260503T163000Z
+SUMMARY:Women's Champions League - Barcelona Femenino - FC Bayern Fem.
+UID:268dd4bd-0450-4492-b810-9e806995824d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : rtve Play</li>\n<li>PPV: Disney+</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: Disney+
 END:VEVENT
 END:VCALENDAR

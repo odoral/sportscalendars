@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260422T091001Z
+DTSTAMP:20260424T012130Z
 DTSTART:20260425T163000Z
 DTEND:20260425T183000Z
 SUMMARY:Primera Federación - Barakaldo - Lugo
-UID:829e4e29-b2cc-49ea-ab72-23a8cb202d3a
+UID:405ea3eb-89cc-4aa0-83a8-6a4f4943ee39
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T012130Z
+DTSTART:20260503T140000Z
+DTEND:20260503T160000Z
+SUMMARY:Primera Federación - Mérida - Lugo
+UID:c9616323-70e7-465b-8eeb-d6483e78aadc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR
