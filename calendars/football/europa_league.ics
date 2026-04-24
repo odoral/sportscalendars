@@ -16,47 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260410T011358Z
-DTSTART:20260416T164500Z
-DTEND:20260416T184500Z
-SUMMARY:Europa League - Celta - Friburgo
-UID:b34afddb-dc33-49e6-97ed-8975ec0c0916
+DTSTAMP:20260424T060218Z
+DTSTART:20260430T190000Z
+DTEND:20260430T210000Z
+SUMMARY:Europa League - Braga - Friburgo
+UID:9d1a70fa-d364-46b9-b87b-b0f1db54bf11
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260410T011358Z
-DTSTART:20260416T190000Z
-DTEND:20260416T210000Z
-SUMMARY:Europa League - Aston Villa - Bologna
-UID:42360234-1027-4f93-a0c9-c465636b56b9
+DTSTAMP:20260424T060218Z
+DTSTART:20260430T190000Z
+DTEND:20260430T210000Z
+SUMMARY:Europa League - Nottingham Forest - Aston Villa
+UID:875bbf64-9471-4dac-9f9e-dbbebe4ad5ea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260410T011358Z
-DTSTART:20260416T190000Z
-DTEND:20260416T210000Z
-SUMMARY:Europa League - Nottingham Forest - Porto
-UID:77630b8a-a436-4b62-8f52-10dbaf12912f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li>\n<li>PPV: M+ Liga de Camp
- eones 6</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5\
- n- PPV: M+ Liga de Campeones 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260410T011358Z
-DTSTART:20260416T190000Z
-DTEND:20260416T210000Z
-SUMMARY:Europa League - Betis - Braga
-UID:c0275a38-67fb-427d-8bce-b56e68cbdbb3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+<
- /li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
- n- PPV: Movistar Plus+
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 END:VCALENDAR

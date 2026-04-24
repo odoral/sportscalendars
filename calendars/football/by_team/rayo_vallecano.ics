@@ -16,21 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260424T012130Z
+DTSTAMP:20260424T060218Z
 DTSTART:20260426T120000Z
 DTEND:20260426T140000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Real Sociedad
-UID:5468e6ae-157b-4c5c-a2ce-13d0dd61bc61
+UID:51d2ed06-4947-470e-8949-44aa9660532d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260424T012130Z
+DTSTAMP:20260424T060218Z
+DTSTART:20260430T190000Z
+DTEND:20260430T210000Z
+SUMMARY:Conference League - Rayo Vallecano - Strasbourg Alsace
+UID:e32275f3-f95c-444a-a27d-798f649e34b9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
+ i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
+  PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260424T060218Z
 DTSTART:20260503T141500Z
 DTEND:20260503T161500Z
 SUMMARY:Liga EA Sports - Getafe - Rayo Vallecano
-UID:92299c65-e1ef-4e64-b663-2b4ab8547d94
+UID:24c79997-ac08-4334-ab78-3ebffd414456
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 2
