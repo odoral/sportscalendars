@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260423T012147Z
+DTSTAMP:20260425T011451Z
 DTSTART:20260426T120000Z
 DTEND:20260426T140000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Real Sociedad
-UID:27d3ffd3-fe51-4266-bea3-3d431f65c8f3
+UID:ba1093e5-31e2-47be-bf19-659692ce99d4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260425T011451Z
+DTSTART:20260504T190000Z
+DTEND:20260504T210000Z
+SUMMARY:Liga EA Sports - Sevilla - Real Sociedad
+UID:a3713e1f-6ac3-4365-ac7c-8ff166a341dd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: D
+ AZN LaLiga
 END:VEVENT
 END:VCALENDAR
