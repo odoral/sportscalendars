@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260426T012337Z
+DTSTAMP:20260427T012444Z
 DTSTART:20260428T190000Z
 DTEND:20260428T210000Z
 SUMMARY:Champions League - PSG - FC Bayern
-UID:737d03c9-58a7-4353-8857-ea6e9638a9a8
+UID:73da2e0e-37f0-454e-8729-2e0aee2f7e26
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
  </body></html>
@@ -28,23 +28,35 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
  ange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T012337Z
+DTSTAMP:20260427T012444Z
 DTSTART:20260429T190000Z
 DTEND:20260429T210000Z
 SUMMARY:Champions League - Atlético de Madrid - Arsenal
-UID:6b466b55-fda8-4c9b-aeb2-e1c97f8085fe
+UID:115be513-a03d-4d37-bb66-42eb59b196bf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T012337Z
+DTSTAMP:20260427T012444Z
 DTSTART:20260505T190000Z
 DTEND:20260505T210000Z
 SUMMARY:Champions League - Arsenal - Atlético de Madrid
-UID:911e4a8d-4fd9-4552-8dd2-eedc147c13db
+UID:8fab9f21-3a30-43a7-a1a4-455d48a34994
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260427T012444Z
+DTSTART:20260506T190000Z
+DTEND:20260506T210000Z
+SUMMARY:Champions League - FC Bayern - PSG
+UID:476b421c-e761-4870-aef2-cfd798002601
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR
