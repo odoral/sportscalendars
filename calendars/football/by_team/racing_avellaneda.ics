@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250410T142246Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251030T081346Z
-DTSTART:20251030T005000Z
-DTEND:20251030T025000Z
-SUMMARY:Copa Libertadores - Racing Avellaneda - C.R. Flamengo
-UID:b0ad68cd-dfb9-475c-b7e6-b1f7751ac0d6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
- PV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body><
- /html>
-DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones\n- PPV: Movistar 
- Plus+
+DTSTAMP:20260427T062103Z
+DTSTART:20260429T220000Z
+DTEND:20260430T000000Z
+SUMMARY:Copa Sudamericana - Caracas FC - Racing Avellaneda
+UID:b77199c5-965e-4742-9948-11a9f4f438bb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

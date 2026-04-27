@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20251211T094730Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,14 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251220T081345Z
-DTSTART:20251220T210000Z
-DTEND:20251220T230000Z
-SUMMARY:Otras competiciones - Estudiantes L.P. - Platense
-UID:23fb17e5-bdaf-4f6b-9e08-5d4c307381c7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Fanatiz</li>\n<li>P
- PV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
- 
-DESCRIPTION:- PPV: Fanatiz\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+DTSTAMP:20260427T062103Z
+DTSTART:20260430T003000Z
+DTEND:20260430T023000Z
+SUMMARY:Copa Libertadores - Estudiantes L.P. - C.R. Flamengo
+UID:5d444541-0f79-4fc1-8a1e-7264e212f503
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

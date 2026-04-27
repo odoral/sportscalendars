@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250410T142246Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251029T081415Z
-DTSTART:20251031T003000Z
-DTEND:20251031T023000Z
-SUMMARY:Copa Libertadores - Palmeiras - LDU Quito
-UID:a01f2719-a744-4f1e-ae32-4241aacee39f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
- PV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body><
- /html>
-DESCRIPTION:- PPV: LaLiga+\n- PPV: M+ Liga de Campeones\n- PPV: Movistar 
- Plus+
+DTSTAMP:20260427T062103Z
+DTSTART:20260428T220000Z
+DTEND:20260429T000000Z
+SUMMARY:Copa Libertadores - Lanús - LDU Quito
+UID:23787ceb-9cf5-4e99-af91-84685bec20a5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
