@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260426T012337Z
+DTSTAMP:20260428T013100Z
 DTSTART:20260430T190000Z
 DTEND:20260430T210000Z
 SUMMARY:Conference League - Shaktar Donetsk - Crystal Palace
-UID:6fddb04c-408e-482d-84bb-1955d5ae976a
+UID:49fde6bd-aafe-4403-84a6-bb7db1f4b14b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260426T012337Z
+DTSTAMP:20260428T013100Z
 DTSTART:20260503T130000Z
 DTEND:20260503T150000Z
 SUMMARY:Premier League - Bournemouth - Crystal Palace
-UID:544fb191-e985-41cc-bf2d-2f7cc00d8620
+UID:8a228885-9c02-4eb3-bfaf-e40774135a67
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T013100Z
+DTSTART:20260507T190000Z
+DTEND:20260507T210000Z
+SUMMARY:Conference League - Crystal Palace - Shaktar Donetsk
+UID:e381bb99-e7f9-4e1b-bf60-274994e2812a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

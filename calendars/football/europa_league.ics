@@ -16,23 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260424T060218Z
+DTSTAMP:20260428T013100Z
 DTSTART:20260430T190000Z
 DTEND:20260430T210000Z
 SUMMARY:Europa League - Braga - Friburgo
-UID:9d1a70fa-d364-46b9-b87b-b0f1db54bf11
+UID:d6906baf-8f0f-4adb-892f-8d9f1e1281cf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260424T060218Z
+DTSTAMP:20260428T013100Z
 DTSTART:20260430T190000Z
 DTEND:20260430T210000Z
 SUMMARY:Europa League - Nottingham Forest - Aston Villa
-UID:875bbf64-9471-4dac-9f9e-dbbebe4ad5ea
+UID:4334a594-89e5-46e1-8545-e88e6996b0a8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T013100Z
+DTSTART:20260507T190000Z
+DTEND:20260507T210000Z
+SUMMARY:Europa League - Friburgo - Braga
+UID:2e6fbbe6-f3f6-4f15-9fb9-2c5dcfcd6abd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260428T013100Z
+DTSTART:20260507T190000Z
+DTEND:20260507T210000Z
+SUMMARY:Europa League - Aston Villa - Nottingham Forest
+UID:bbbc5a69-8135-4bdf-982e-d04cf26c37ae
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
