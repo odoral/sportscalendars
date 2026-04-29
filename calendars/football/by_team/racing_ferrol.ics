@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260427T012444Z
+DTSTAMP:20260429T014647Z
 DTSTART:20260502T141500Z
 DTEND:20260502T161500Z
 SUMMARY:Primera Federación - Racing Ferrol - Pontevedra
-UID:9837766c-5290-4792-a314-4c13ade42c9f
+UID:77b095a6-445a-4bb9-b0d3-ac81c1524e14
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
  </ul></body></html>
 DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
   Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T014647Z
+DTSTART:20260508T183000Z
+DTEND:20260508T203000Z
+SUMMARY:Primera Federación - Arenas Club - Racing Ferrol
+UID:2b8cbd06-321d-4f51-a13b-de04075045b3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
