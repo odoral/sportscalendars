@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260427T062103Z
+DTSTAMP:20260429T061523Z
 DTSTART:20260429T220000Z
 DTEND:20260430T000000Z
 SUMMARY:Copa Sudamericana - Caracas FC - Racing Avellaneda
-UID:ca44d65e-5a9e-41b2-b5c9-0d1e33e2e93b
+UID:638812b1-5d27-4b6b-8f02-1899f1c0414c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260429T061523Z
+DTSTART:20260505T220000Z
+DTEND:20260506T000000Z
+SUMMARY:Copa Sudamericana - Deportivo Riestra - Gremio
+UID:3fe9d12c-2cf6-413e-a195-21d24ba06bf1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 END:VCALENDAR
