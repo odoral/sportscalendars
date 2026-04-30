@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
+DTSTAMP:20260430T014547Z
 DTSTART:20260502T163000Z
 DTEND:20260502T183000Z
 SUMMARY:Primera Federación - Real Avilés - Guadalajara
-UID:29fc98fd-69b3-41b9-882a-3caa72863f01
+UID:7b846a3d-91b3-4f9e-8a40-084baabd7e97
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PP
  V: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga 
  TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T014547Z
+DTSTART:20260509T163000Z
+DTEND:20260509T183000Z
+SUMMARY:Primera Federación - Ponferradina - Real Avilés
+UID:fc4f9441-0886-45ff-9753-521ec270bc1c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
