@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260418T083538Z
-DTSTART:20260418T140000Z
-DTEND:20260418T160000Z
-SUMMARY:Copa Mundial Femenina - España - Ucrania
-UID:ededb51b-33a6-494e-834e-cc220e6b15f1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play
+DTSTAMP:20260430T062048Z
+DTSTART:20260505T170000Z
+DTEND:20260505T190000Z
+SUMMARY:Europeo Sub-17 Femenino - España - Finlandia
+UID:df52985f-52d1-48a1-a5cd-91fde86569a4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260430T062048Z
+DTSTART:20260508T140000Z
+DTEND:20260508T160000Z
+SUMMARY:Europeo Sub-17 Femenino - Francia - España
+UID:1718e701-55d5-4f30-bc14-bb0e97182d8b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

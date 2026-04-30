@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20251211T094730Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,14 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251220T081345Z
-DTSTART:20251220T210000Z
-DTEND:20251220T230000Z
-SUMMARY:Otras competiciones - Estudiantes L.P. - Platense
-UID:dce1342f-ad56-46f0-a101-950bc583d4e7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Fanatiz</li>\n<li>P
- PV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
- 
-DESCRIPTION:- PPV: Fanatiz\n- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+DTSTAMP:20260430T062048Z
+DTSTART:20260507T220000Z
+DTEND:20260508T000000Z
+SUMMARY:Copa Libertadores - Platense - Peñarol
+UID:52a08949-5698-4750-a7e8-5b5b61e64012
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 END:VCALENDAR
