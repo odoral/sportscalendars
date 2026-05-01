@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260501T014830Z
+DTSTAMP:20260501T063034Z
+DTSTART:20260506T000000Z
+DTEND:20260506T020000Z
+SUMMARY:Copa Libertadores - Barcelona S.C. - Boca Juniors
+UID:0ac4d60a-f18c-4c6f-8831-78735db1ade7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T063034Z
 DTSTART:20260507T220000Z
 DTEND:20260508T000000Z
 SUMMARY:Copa Libertadores - Platense - Peñarol
-UID:beb7564b-9e1d-4c6a-b6a0-fcf887c3d9da
+UID:2107214d-b326-4e33-a03f-04ce037a6f00
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2
+ s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
