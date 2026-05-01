@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
-DTSTART:20260430T190000Z
-DTEND:20260430T210000Z
-SUMMARY:Europa League - Braga - Friburgo
-UID:81b7f0f5-2cd2-4d6d-a13e-3a4fcce6d46e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260503T173000Z
 DTEND:20260503T193000Z
 SUMMARY:Bundesliga - Friburgo - VfL Wolfsburg
-UID:5fe2adec-c92c-4c5d-b695-63e07ffa35c5
+UID:3fb93c4d-110f-45a5-b19a-b0608e3f6f5a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260507T190000Z
 DTEND:20260507T210000Z
 SUMMARY:Europa League - Friburgo - Braga
-UID:ea8c99c1-a02b-40c5-bfeb-326e690bfa5f
+UID:2c69aa22-fb18-4c7f-8b41-aec2aa90b93b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T014830Z
+DTSTART:20260510T133000Z
+DTEND:20260510T153000Z
+SUMMARY:Bundesliga - Hamburger S.V. - Friburgo
+UID:0503ece8-683b-4a9c-9073-edcdff1f9601
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

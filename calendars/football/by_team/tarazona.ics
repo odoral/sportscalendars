@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260503T100000Z
 DTEND:20260503T120000Z
 SUMMARY:Primera Federación - Teruel - Tarazona
-UID:a500eb16-b16a-4a6e-bb7b-486ae3e5477f
+UID:339690e2-013a-48e6-9457-51990d52501b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga TV M
  ulti 3</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FC Play\n- 
  PPV: LaLiga TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T014830Z
+DTSTART:20260510T143000Z
+DTEND:20260510T163000Z
+SUMMARY:Primera Federación - Tarazona - Nàstic Tarragona
+UID:481e9261-ca60-4090-9715-86ed8a7d5912
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260430T062048Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260503T190000Z
 DTEND:20260503T210000Z
 SUMMARY:Liga EA Sports - Espanyol - Real Madrid
-UID:fe7bed07-ed5d-437f-ade6-2535345931f0
+UID:8172bfce-9206-4dbd-bdae-658e69c2d48e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ LaLiga 2</li>\n<li>PPV: M+ Vamos 2</li>\n<li>PPV: Movistar Plus
  +</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 2\n- PPV: M+ Vamos 2\n- PP
  V: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T014830Z
+DTSTART:20260510T190000Z
+DTEND:20260510T210000Z
+SUMMARY:Liga EA Sports - Barcelona - Real Madrid
+UID:9ebc2ada-70e5-49f9-93e6-d0ac650b87b8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR

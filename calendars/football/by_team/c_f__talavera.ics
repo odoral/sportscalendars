@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260502T163000Z
 DTEND:20260502T183000Z
 SUMMARY:Primera Federación - C.F. Talavera - Arenas Club
-UID:1073fcb9-e8c5-4b94-8370-9d9e8c68bc98
+UID:b06e7b1f-1d63-4200-a738-c060f82a7275
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T014830Z
+DTSTART:20260510T100000Z
+DTEND:20260510T120000Z
+SUMMARY:Primera Federación - Osasuna Promesas - C.F. Talavera
+UID:7a263747-f4a3-425a-aa55-937f941f2c70
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
+ LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li></ul></body></html
+ >
+DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
+ 
 END:VEVENT
 END:VCALENDAR

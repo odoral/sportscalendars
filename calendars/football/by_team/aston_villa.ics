@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
-DTSTART:20260430T190000Z
-DTEND:20260430T210000Z
-SUMMARY:Europa League - Nottingham Forest - Aston Villa
-UID:01d25cd4-6a7b-4f91-aa92-d0169fadd22a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260503T180000Z
 DTEND:20260503T200000Z
 SUMMARY:Premier League - Aston Villa - Tottenham
-UID:fea86ae8-24d8-4bb5-a8a5-01a3d1c7344a
+UID:d7739fb5-f64f-4884-96ec-16dde7ac3258
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260507T190000Z
 DTEND:20260507T210000Z
 SUMMARY:Europa League - Aston Villa - Nottingham Forest
-UID:4a44da43-6cf0-4867-bd01-ef523c6d123c
+UID:4478ac39-8d52-43a6-9aeb-8683edd944ea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T014830Z
+DTSTART:20260510T130000Z
+DTEND:20260510T150000Z
+SUMMARY:Premier League - Burnley - Aston Villa
+UID:57c62074-18d0-480c-bf40-0734afed4800
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

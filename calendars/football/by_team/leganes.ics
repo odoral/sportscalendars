@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260428T062329Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260501T163000Z
 DTEND:20260501T183000Z
 SUMMARY:Liga Hypermotion - Deportivo - Leganés
-UID:e25e24bb-0264-4665-9e58-1ca9f474bb63
+UID:7cc996a7-8248-424e-9aa4-870aa93f801f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T014830Z
+DTSTART:20260510T141500Z
+DTEND:20260510T161500Z
+SUMMARY:Liga Hypermotion - Leganés - Racing de Santander
+UID:895e1c8b-07ce-48d1-917c-ad714af3de15
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>

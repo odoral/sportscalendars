@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260503T140000Z
 DTEND:20260503T160000Z
 SUMMARY:Primera Federación - Bilbao Athletic - Ourense C.F.
-UID:febde9a2-9f77-40e2-b848-37a23987d992
+UID:94d2a5af-2f91-4fe4-b780-06162dd16738
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T014830Z
+DTSTART:20260510T143000Z
+DTEND:20260510T163000Z
+SUMMARY:Primera Federación - Ourense C.F. - Celta B
+UID:22021ebb-0666-4ad7-a569-3d83091deae0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR

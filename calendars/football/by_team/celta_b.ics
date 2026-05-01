@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260429T061524Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260501T141500Z
 DTEND:20260501T161500Z
 SUMMARY:Primera Federación - Celta B - Osasuna Promesas
-UID:2d64d318-f60f-47d6-839b-5a7f88f421be
+UID:99645333-8eda-4500-ba7b-75ce5e01ff16
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 2</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 2\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T014830Z
+DTSTART:20260510T143000Z
+DTEND:20260510T163000Z
+SUMMARY:Primera Federación - Ourense C.F. - Celta B
+UID:b646c7a4-6540-406e-8f90-629b53b07c0f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR

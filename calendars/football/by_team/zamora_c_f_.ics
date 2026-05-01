@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260427T012444Z
+DTSTAMP:20260501T014830Z
 DTSTART:20260502T163000Z
 DTEND:20260502T183000Z
 SUMMARY:Primera Federación - Zamora C.F. - Ponferradina
-UID:f7ca0915-3c78-4230-9cb8-6892815911a2
+UID:7ed7eff9-598f-48d3-8160-cbe3cedce2ef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260501T014830Z
+DTSTART:20260510T121500Z
+DTEND:20260510T141500Z
+SUMMARY:Primera Federación - Lugo - Zamora C.F.
+UID:c7033cdf-515f-4892-968b-b557944470d1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
