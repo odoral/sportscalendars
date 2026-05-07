@@ -16,26 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260504T012841Z
-DTSTART:20260506T164500Z
-DTEND:20260506T184500Z
-SUMMARY:Liga F - Barcelona Femenino - Levante UD  Fem.
-UID:00c5e71e-5312-4bbb-879a-1a07e28a9dbe
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
- : Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PP
- V: DAZN 1</li></ul></body></html>
-DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: D
- AZN\n- PPV: DAZN 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260504T012841Z
+DTSTAMP:20260507T014527Z
 DTSTART:20260510T170000Z
 DTEND:20260510T190000Z
 SUMMARY:Liga F - UDG Tenerife - Barcelona Femenino
-UID:b173851f-6b9b-4050-afa6-74ecb0b29079
+UID:dda10e56-0ccd-4af8-a35a-dfeeebba2b28
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TEN TV</li>\n<li>Open: TV3</li>\n<li>PPV: DAZN</li></ul></body></
  html>
 DESCRIPTION:- Open: Gol Play\n- Open: TEN TV\n- Open: TV3\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T014527Z
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+SUMMARY:Copa de la Reina - Barcelona Femenino - At. Madrid Fem.
+UID:699d42c4-5196-4b8c-bc3b-64bb2bb64793
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

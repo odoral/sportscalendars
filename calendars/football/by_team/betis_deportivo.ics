@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260503T013018Z
+DTSTAMP:20260507T014527Z
 DTSTART:20260510T164500Z
 DTEND:20260510T184500Z
 SUMMARY:Primera Federación - Real Murcia - Betis Deportivo
-UID:8e36f01a-7a35-4544-be41-6ba6c4707ce6
+UID:2678d366-1087-417a-8d3f-65c256f22d62
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T014527Z
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+SUMMARY:Primera Federación - Betis Deportivo - Tarazona
+UID:b264ccc0-bb78-4dbc-92fe-51739709b99c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260506T062332Z
+DTSTAMP:20260507T014527Z
 DTSTART:20260510T143000Z
 DTEND:20260510T163000Z
 SUMMARY:Primera Federación - Tarazona - Nàstic Tarragona
-UID:f69b3aa4-dbcf-4c0b-b157-3f1e176273d1
+UID:bb03d52a-fbeb-4b95-9ee1-a36f798c7549
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga TV Multi 4</li>\n<li>PPV: LaLiga+</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga TV Multi 4\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260507T014527Z
+DTSTART:20260516T190000Z
+DTEND:20260516T210000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - C.E. Europa
+UID:8ec947a6-e5d6-426c-b4c6-1b7d01429d49
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
