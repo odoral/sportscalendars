@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260506T062332Z
+DTSTAMP:20260508T014833Z
 DTSTART:20260509T163000Z
 DTEND:20260509T183000Z
 SUMMARY:Liga Hypermotion - Valladolid - Real Zaragoza
-UID:61fe0e5d-5e8e-424d-8d84-dc1417ab4530
+UID:4a8a87b2-d6f9-4cac-999b-f845c3ae277f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>PPV: DAZN</li>
  \n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></
  ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
  - PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T014833Z
+DTSTART:20260517T160000Z
+DTEND:20260517T180000Z
+SUMMARY:Liga Hypermotion - Real Zaragoza - Sporting de Gijón
+UID:30586408-c91f-4de5-98d6-cc1c25cd6ca4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

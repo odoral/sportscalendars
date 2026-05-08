@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260504T012841Z
+DTSTAMP:20260508T014833Z
 DTSTART:20260510T190000Z
 DTEND:20260510T210000Z
 SUMMARY:Liga EA Sports - Barcelona - Real Madrid
-UID:63fc245f-6511-419f-a9df-5041c02fff19
+UID:bea4c846-52d2-4551-b0ba-cb9172148353
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: M+ Vamos 2</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fút
  bol 1</li></ul></body></html>
@@ -28,15 +28,24 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ Vamos 2\n- PPV: Movistar Plus+\n-
   PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260504T012841Z
+DTSTAMP:20260508T014833Z
 DTSTART:20260513T193000Z
 DTEND:20260513T213000Z
 SUMMARY:Liga EA Sports - Alavés - Barcelona
-UID:fcbba81b-539d-4882-b39b-fa197c4718a1
+UID:7f814fda-5edc-40a2-836f-a8832b160b15
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T014833Z
+DTSTART:20260517T170000Z
+DTEND:20260517T190000Z
+SUMMARY:Liga EA Sports - Barcelona - Betis
+UID:a2b90dd4-ecdc-4f00-8ee6-ecd60ea8057f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

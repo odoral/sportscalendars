@@ -16,35 +16,32 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260505T012846Z
-DTSTART:20260507T190000Z
-DTEND:20260507T210000Z
-SUMMARY:Conference League - Strasbourg Alsace - Rayo Vallecano
-UID:a1d14a39-81d0-4173-a31d-4868c733663f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
- i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
-  PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260505T012846Z
+DTSTAMP:20260508T014833Z
 DTSTART:20260511T190000Z
 DTEND:20260511T210000Z
 SUMMARY:Liga EA Sports - Rayo Vallecano - Girona
-UID:c890ce3d-fd17-4a7c-9753-b7b8cccfa65c
+UID:4eceee97-05da-47a0-bea5-4789eb3bf580
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260505T012846Z
+DTSTAMP:20260508T014833Z
 DTSTART:20260514T170000Z
 DTEND:20260514T190000Z
 SUMMARY:Liga EA Sports - Valencia - Rayo Vallecano
-UID:36ad4b51-e88e-426e-a719-f7dc14314855
+UID:33847272-4691-4ed1-8465-aa5f12b63cba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T014833Z
+DTSTART:20260517T170000Z
+DTEND:20260517T190000Z
+SUMMARY:Liga EA Sports - Rayo Vallecano - Villarreal
+UID:ee915121-573b-4e84-839d-102b8df6476a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

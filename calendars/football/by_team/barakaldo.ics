@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260502T012620Z
+DTSTAMP:20260508T014833Z
 DTSTART:20260509T120000Z
 DTEND:20260509T140000Z
 SUMMARY:Primera Federación - Barakaldo - Mérida
-UID:4f757205-be7d-4316-87c2-4be6153cef94
+UID:23890bbd-d4ec-4fc9-b706-371c679bc8b9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T014833Z
+DTSTART:20260517T150000Z
+DTEND:20260517T170000Z
+SUMMARY:Primera Federación - Real Avilés - Barakaldo
+UID:647f7d6b-0a85-4a17-bb49-f0e38ca94aa1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

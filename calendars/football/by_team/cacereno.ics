@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260504T012841Z
+DTSTAMP:20260508T014833Z
 DTSTART:20260509T190000Z
 DTEND:20260509T210000Z
 SUMMARY:Primera Federación - Cacereño - R.M. Castilla
-UID:170f41f1-1f2b-4f35-a1c3-daf9579e239a
+UID:dbeb6bd4-7db5-484f-85b2-d6e5bc671078
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
  PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T014833Z
+DTSTART:20260517T150000Z
+DTEND:20260517T170000Z
+SUMMARY:Primera Federación - Zamora C.F. - Cacereño
+UID:913d859b-c056-4116-beb9-5674b6bdd396
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

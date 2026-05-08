@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260506T062332Z
+DTSTAMP:20260508T014833Z
 DTSTART:20260510T100000Z
 DTEND:20260510T120000Z
 SUMMARY:Primera Federación - Osasuna Promesas - C.F. Talavera
-UID:f21ac137-963f-4c7c-b7b6-e7c522da6e98
+UID:91335773-8298-412f-b96a-e1a842028a8b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PP
  V: LaLiga+</li></ul></body></html>
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga 
  TV Multi 3\n- PPV: LaLiga+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260508T014833Z
+DTSTART:20260517T150000Z
+DTEND:20260517T170000Z
+SUMMARY:Primera Federación - Racing Ferrol - Osasuna Promesas
+UID:45dfb637-6227-4abb-95cf-b2de80b13472
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR
