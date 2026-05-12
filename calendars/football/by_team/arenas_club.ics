@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260509T014421Z
+DTSTAMP:20260512T063038Z
 DTSTART:20260517T150000Z
 DTEND:20260517T170000Z
 SUMMARY:Primera Federación - R.M. Castilla - Arenas Club
-UID:edccd9d7-cd74-48cf-ab0d-bc4687e4d59b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga+</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
+UID:fe93e759-27de-4da7-a52e-f6e9be872cf0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n
+ <li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: FC Play\n- PPV
+ : LaLiga+\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
