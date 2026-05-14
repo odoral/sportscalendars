@@ -16,16 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260513T064111Z
+DTSTAMP:20260514T015512Z
 DTSTART:20260517T160000Z
 DTEND:20260517T180000Z
 SUMMARY:Primera Federación - Tenerife - Pontevedra
-UID:3ac0cc07-8fba-4651-b0b5-b8f13cb73d25
+UID:e97168cd-14b4-41c8-991e-340cc1e97b0f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
  li>Open: TVG 2</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 4</
  li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body>
  </html>
 DESCRIPTION:- Open: TV Canaria\n- Open: TVG 2\n- PPV: FC Play\n- PPV: LaL
  iga TV Multi 4\n- PPV: LaLiga+\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T015512Z
+DTSTART:20260523T163000Z
+DTEND:20260523T183000Z
+SUMMARY:Primera Federación - Ourense C.F. - Tenerife
+UID:d4d435b2-510f-416d-8e57-429fb59ad6a7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
+ PV: LaLiga+</li></ul></body></html>
+DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+
 END:VEVENT
 END:VCALENDAR

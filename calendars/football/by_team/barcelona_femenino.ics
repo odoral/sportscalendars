@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260513T064111Z
+DTSTAMP:20260514T015512Z
 DTSTART:20260516T190000Z
 DTEND:20260516T210000Z
 SUMMARY:Copa de la Reina - Barcelona Femenino - At. Madrid Fem.
-UID:6aa44ff9-aec3-44b3-a4ba-0b5485b9fdf7
+UID:19ecee7b-5b16-493a-b5f0-b7f96255a5e7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: TV3</li>\n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></u
  l></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: TV3\n- Open: Teledeporte\n- Open: r
  tve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T015512Z
+DTSTART:20260523T160000Z
+DTEND:20260523T180000Z
+SUMMARY:Women's Champions League - Barcelona Femenino - Olympique Lyon (F
+ em.)
+UID:d8029c84-993b-433e-8c85-866eeedcce69
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: Disney+</li></ul></body>
+ </html>
+DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: Disney+
 END:VEVENT
 END:VCALENDAR

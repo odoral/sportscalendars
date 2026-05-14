@@ -16,25 +16,22 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260513T064111Z
-DTSTART:20260513T193000Z
-DTEND:20260513T213000Z
-SUMMARY:Liga EA Sports - Alavés - Barcelona
-UID:3600d186-a879-40b8-9e49-aefd7484c445
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
- >PPV: M+ LaLiga 3</li>\n<li>PPV: M+ Vamos 2</li>\n<li>PPV: Movistar Plus
- +</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 3\n- PPV: M+ Vamos 2\n- PP
- V: Movistar Plus+\n- PPV: Orange Fútbol 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260513T064111Z
+DTSTAMP:20260514T015512Z
 DTSTART:20260517T170000Z
 DTEND:20260517T190000Z
 SUMMARY:Liga EA Sports - Barcelona - Betis
-UID:51d72b62-1adf-4521-90a3-3bb367573617
+UID:b02e2f9b-507a-4ff0-af8d-8f3fd6c3bc19
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
  li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260514T015512Z
+DTSTART:20260523T190000Z
+DTEND:20260523T210000Z
+SUMMARY:Liga EA Sports - Valencia - Barcelona
+UID:b045a3a2-5a81-43ae-a20a-51c30fe4efe3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
