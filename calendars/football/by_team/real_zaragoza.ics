@@ -16,13 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260512T063038Z
+DTSTAMP:20260515T015309Z
 DTSTART:20260517T191500Z
 DTEND:20260517T211500Z
 SUMMARY:Liga Hypermotion - Real Zaragoza - Sporting de Gijón
-UID:7179f19d-452e-42a3-a725-481845ffc167
+UID:4cfeea67-d047-4951-92e2-c0557239ef7d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260515T015309Z
+DTSTART:20260524T163000Z
+DTEND:20260524T183000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Real Zaragoza
+UID:4488e54d-abd0-4f77-b92e-2667008dc91e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TV Canar
+ ia</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: Gol Play\n
+ - Open: TV Canaria\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
