@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250410T142246Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250601T121621Z
-DTSTART:20250601T100000Z
-DTEND:20250601T120000Z
-SUMMARY:Copa Campeones Juvenil - Betis - Valencia
-UID:156730ed-06eb-4235-814c-902020b604b8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RFEF TV YouTube</l
- i>\n<li>PPV: RFEF TV</li></ul></body></html>
-DESCRIPTION:- Open: RFEF TV YouTube\n- PPV: RFEF TV
+DTSTAMP:20260516T091840Z
+DTSTART:20260520T183000Z
+DTEND:20260520T203000Z
+SUMMARY:Copa Campeones Juvenil - Granada C.F. - Real Madrid
+UID:92de6ee1-4ce4-4197-bbd7-608db61654de
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T091840Z
+DTSTART:20260521T183000Z
+DTEND:20260521T203000Z
+SUMMARY:Copa Campeones Juvenil - Las Palmas - Barcelona
+UID:a2dfbb3b-352a-4847-b4fb-f29d39b0134c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

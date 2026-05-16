@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260515T064833Z
+DTSTAMP:20260516T091840Z
 DTSTART:20260516T163000Z
 DTEND:20260516T183000Z
 SUMMARY:Liga Hypermotion - Almería - Las Palmas
-UID:8e90d9ee-e9d3-43b8-8d1a-62d7c6f4f902
+UID:3c2597c3-69f8-4614-83bc-0a3e00b66493
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermoti
  on 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></html>
@@ -28,11 +28,21 @@ DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- PPV: DAZN\n- PPV: LaL
  iga TV Hypermotion 2\n- PPV: LaLiga TV Multi 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260515T064833Z
+DTSTAMP:20260516T091840Z
+DTSTART:20260521T183000Z
+DTEND:20260521T203000Z
+SUMMARY:Copa Campeones Juvenil - Las Palmas - Barcelona
+UID:44b59335-b201-4f4c-963e-d54e0d435bbc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260516T091840Z
 DTSTART:20260524T163000Z
 DTEND:20260524T183000Z
 SUMMARY:Liga Hypermotion - Las Palmas - Real Zaragoza
-UID:ee2436ab-1fc3-4260-8ec2-5e9a6d187506
+UID:86992088-4ca5-47d5-9ef7-1ecae2295ee7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>Open: Gol Play</li>\n<li>Open: TV Canar
  ia</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></b
