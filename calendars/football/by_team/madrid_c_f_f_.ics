@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260507T062841Z
-DTSTART:20260511T170000Z
-DTEND:20260511T190000Z
-SUMMARY:Liga F - Madrid C.F.F. - Sevilla FC Fem.
-UID:8eeb907e-3e38-44a1-a895-13657f1e37d4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 2</li></ul><
- /body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: D
- AZN 2
+DTSTAMP:20260517T015055Z
+DTSTART:20260526T170000Z
+DTEND:20260526T190000Z
+SUMMARY:Liga F - Granada Fem. - Madrid C.F.F.
+UID:7326ea82-e988-4953-b4fa-4d2cab38d2ad
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
+ i>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
