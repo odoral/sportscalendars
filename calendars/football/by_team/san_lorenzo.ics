@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250410T142246Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250731T081543Z
-DTSTART:20250802T191500Z
-DTEND:20250802T211500Z
-SUMMARY:Copa Argentina - San Lorenzo - Tigre
-UID:cb20c009-da0e-422f-9b60-94eeb0f6385a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Fanatiz</li></ul></
- body></html>
-DESCRIPTION:- PPV: Fanatiz
+DTSTAMP:20260518T075255Z
+DTSTART:20260520T220000Z
+DTEND:20260521T000000Z
+SUMMARY:Copa Sudamericana - Santos - San Lorenzo
+UID:34ec2c79-f2e0-4739-b0ec-e15b20c5d21a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li></ul
+ ></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 2\n-
+  PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
