@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260517T015055Z
+DTSTAMP:20260518T020005Z
 DTSTART:20260523T160000Z
 DTEND:20260523T180000Z
 SUMMARY:Women's Champions League - Barcelona Femenino - Olympique Lyon (F
  em.)
-UID:2e1a05be-fe4f-43f5-9fbb-175be9a6f839
+UID:0c61dbce-eee2-4012-85e7-322dbe8c36ce
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: Disney+</li></ul></body>
  </html>
 DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: Disney+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260518T020005Z
+DTSTART:20260527T170000Z
+DTEND:20260527T190000Z
+SUMMARY:Liga F - Barcelona Femenino - Real Sociedad F.
+UID:349947ca-9080-4bb0-8a15-84252f46e812
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>Open: TV3</li>\n<li>PPV: DA
+ ZN</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TEN TV\n- Open: TV3\n
+ - PPV: DAZN
 END:VEVENT
 END:VCALENDAR
