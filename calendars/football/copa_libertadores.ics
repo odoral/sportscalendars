@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260515T064833Z
+DTSTAMP:20260520T073350Z
 DTSTART:20260520T003000Z
 DTEND:20260520T023000Z
 SUMMARY:Copa Libertadores - Boca Juniors - Cruzeiro
-UID:c7224ade-0847-44c4-847b-36e989831ac6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
- /body></html>
-DESCRIPTION:- PPV: M+ Vamos
+UID:ad87d6e9-e1b5-46f4-95e1-805326356a0d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260520T073350Z
+DTSTART:20260521T003000Z
+DTEND:20260521T023000Z
+SUMMARY:Copa Libertadores - C.R. Flamengo - Estudiantes L.P.
+UID:4708bfc8-6cb7-40eb-b810-b332e18a44a5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
