@@ -16,27 +16,37 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260518T020005Z
+DTSTAMP:20260522T015957Z
 DTSTART:20260523T160000Z
 DTEND:20260523T180000Z
 SUMMARY:Women's Champions League - Barcelona Femenino - Olympique Lyon (F
  em.)
-UID:0c61dbce-eee2-4012-85e7-322dbe8c36ce
+UID:a998a1eb-dc2b-4909-9ab1-dd71ef770442
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: Disney+</li></ul></body>
  </html>
 DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260518T020005Z
+DTSTAMP:20260522T015957Z
 DTSTART:20260527T170000Z
 DTEND:20260527T190000Z
 SUMMARY:Liga F - Barcelona Femenino - Real Sociedad F.
-UID:349947ca-9080-4bb0-8a15-84252f46e812
+UID:8b6d9035-90f8-4bed-9b51-f5d68da74434
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>Open: TV3</li>\n<li>PPV: DA
  ZN</li></ul></body></html>
 DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TEN TV\n- Open: TV3\n
  - PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T015957Z
+DTSTART:20260531T140000Z
+DTEND:20260531T160000Z
+SUMMARY:Liga F - Madrid C.F.F. - Barcelona Femenino
+UID:cc2bc16d-c5fa-47de-a89a-dd8ef52ea5c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

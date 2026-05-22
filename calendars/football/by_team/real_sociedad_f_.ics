@@ -16,15 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260518T020005Z
+DTSTAMP:20260522T015957Z
 DTSTART:20260527T170000Z
 DTEND:20260527T190000Z
 SUMMARY:Liga F - Barcelona Femenino - Real Sociedad F.
-UID:15572970-845f-44ff-9c2f-a8f953a7763a
+UID:7dcd602a-1c5a-4b73-9f1b-0307a03618f0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
  n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>Open: TV3</li>\n<li>PPV: DA
  ZN</li></ul></body></html>
 DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TEN TV\n- Open: TV3\n
  - PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T015957Z
+DTSTART:20260531T100000Z
+DTEND:20260531T120000Z
+SUMMARY:Liga F - Real Sociedad F. - At. Madrid Fem.
+UID:de609c76-653a-4b06-8173-0f299b1d98e8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>PPV: DAZN</li></ul></body><
+ /html>
+DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
