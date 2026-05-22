@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260521T015817Z
+DTSTAMP:20260522T073440Z
 DTSTART:20260523T190000Z
 DTEND:20260523T210000Z
 SUMMARY:Liga EA Sports - Real Madrid - Athletic Club
-UID:41454300-1759-4de3-b915-af1e9f35872b
+UID:ed98e24c-0768-4b23-8c44-770cec44fab8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 3</
- li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga
+ li>\n<li>PPV: M+ LaLiga</li>\n<li>PPV: M+ LaLiga 2</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: LaLiga TV Multi 3\n- PPV: M+ LaLiga\n- PPV: M+ LaLiga 
+ 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260522T073440Z
+DTSTART:20260524T090000Z
+DTEND:20260524T110000Z
+SUMMARY:Copa Campeones Juvenil - Real Madrid - Barcelona
+UID:99154e90-cd6e-44c0-a949-aa646a3fd40a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: RFEF TV YouTube</li>\n<li>Open: RealMadrid TV</li>\n<li>Open: rtv
+ e Play</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: RFEF TV YouTube\n- Open: RealMadrid
+  TV\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
