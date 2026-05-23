@@ -16,13 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260320T082805Z
-DTSTART:20260321T140000Z
-DTEND:20260321T160000Z
-SUMMARY:Europeo Sub-17 - Turquía - España
-UID:32f1a23e-400e-42f1-a833-2d21ea496478
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
- li></ul></body></html>
-DESCRIPTION:- Open: SEFutbol Youtube
+DTSTAMP:20260523T062743Z
+DTSTART:20260525T170000Z
+DTEND:20260525T190000Z
+SUMMARY:Europeo Sub-17 - Estonia - España
+UID:25137e2a-ca9c-44c4-b6d3-d5a256f89f25
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T062743Z
+DTSTART:20260528T113000Z
+DTEND:20260528T133000Z
+SUMMARY:Europeo Sub-17 - Bélgica - España
+UID:454a1b1c-1b4f-4a4a-a61f-4e12fcf4d305
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260523T062743Z
+DTSTART:20260531T113000Z
+DTEND:20260531T133000Z
+SUMMARY:Europeo Sub-17 - España - Croacia
+UID:3c7d29eb-da8b-49cf-9f0a-0d10306505e4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
