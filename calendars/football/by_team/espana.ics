@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260523T062743Z
-DTSTART:20260525T170000Z
-DTEND:20260525T190000Z
-SUMMARY:Europeo Sub-17 - Estonia - España
-UID:9cfd3018-355d-47ff-b178-d985b9847974
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260523T062743Z
+DTSTAMP:20260526T015523Z
 DTSTART:20260528T113000Z
 DTEND:20260528T133000Z
 SUMMARY:Europeo Sub-17 - Bélgica - España
-UID:dec44aa0-7ce8-445a-852e-b799f654cce5
+UID:ea2b16d4-7442-42ba-b9d6-cab7a9d42780
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260523T062743Z
+DTSTAMP:20260526T015523Z
 DTSTART:20260531T113000Z
 DTEND:20260531T133000Z
 SUMMARY:Europeo Sub-17 - España - Croacia
-UID:0336fe18-92c5-4913-8519-bdcbd8f5747f
+UID:55b6d9d4-596f-41db-aeab-537739f6a1a2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260526T015523Z
+DTSTART:20260604T190000Z
+DTEND:20260604T210000Z
+SUMMARY:Amistoso - España - Irak
+UID:59609445-d9e1-4b5c-a5f1-79bf9484a792
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
