@@ -16,33 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260526T015523Z
+DTSTAMP:20260527T020351Z
 DTSTART:20260528T113000Z
 DTEND:20260528T133000Z
 SUMMARY:Europeo Sub-17 - Bélgica - España
-UID:ea2b16d4-7442-42ba-b9d6-cab7a9d42780
+UID:42351aea-370a-46d6-af66-742ba8124aa9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260526T015523Z
+DTSTAMP:20260527T020351Z
 DTSTART:20260531T113000Z
 DTEND:20260531T133000Z
 SUMMARY:Europeo Sub-17 - España - Croacia
-UID:55b6d9d4-596f-41db-aeab-537739f6a1a2
+UID:4ad91087-f5de-4dc5-ad65-0976af0a293c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260526T015523Z
+DTSTAMP:20260527T020351Z
 DTSTART:20260604T190000Z
 DTEND:20260604T210000Z
 SUMMARY:Amistoso - España - Irak
-UID:59609445-d9e1-4b5c-a5f1-79bf9484a792
+UID:440431bd-e8e2-430a-81b2-2134f34e201d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260527T020351Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:Copa Mundial Femenina - España - Inglaterra
+UID:bd586bc7-c58d-4956-8030-cf8d054fbf61
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
