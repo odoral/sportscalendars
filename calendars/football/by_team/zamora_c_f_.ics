@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260527T075427Z
+DTSTAMP:20260529T015724Z
 DTSTART:20260531T183000Z
 DTEND:20260531T203000Z
 SUMMARY:Primera Federación - Villarreal B - Zamora C.F.
-UID:036322fa-5b32-4b78-a859-02007de3c8a1
+UID:83d2c47d-9dd5-458b-b9bb-9e758dee667a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FC Play</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T015724Z
+DTSTART:20260607T163000Z
+DTEND:20260607T183000Z
+SUMMARY:Primera Federación - Zamora C.F. - Villarreal B
+UID:03151b83-faaa-46d1-a8c8-71aed62aa9e1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FC Play</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera Federación

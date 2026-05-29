@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260528T074541Z
+DTSTAMP:20260529T015724Z
 DTSTART:20260531T141500Z
 DTEND:20260531T161500Z
 SUMMARY:Primera Federación - C.E. Europa - Celta B
-UID:c8ba7ed5-3edc-4c06-b2cd-6e04f7da450c
+UID:a8f4c4db-0b98-47d1-8e66-39e972bc03f3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: P
  rimera Federación</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: TVG 2\n- PPV: DAZN\n- PPV: FC Play\
  n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260529T015724Z
+DTSTART:20260607T141500Z
+DTEND:20260607T161500Z
+SUMMARY:Primera Federación - Celta B - C.E. Europa
+UID:1fe4350d-6294-4389-af18-15735e22ecce
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: Primera Federación</li></u
+ l></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera Fe
+ deración
 END:VEVENT
 END:VCALENDAR
