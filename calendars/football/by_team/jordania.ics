@@ -17,14 +17,12 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20260530T015214Z
-DTSTART:20260605T190000Z
-DTEND:20260605T210000Z
-SUMMARY:Primera Federación - Sabadell - R.M. Castilla
-UID:47c090d7-c38c-4308-937b-443b3bd9d22d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: Primera Federación</li>
- </ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera
-  Federación
+DTSTART:20260607T230000Z
+DTEND:20260608T010000Z
+SUMMARY:Amistoso - Colombia - Jordania
+UID:0a36b542-4171-443f-9b9d-0908ec376d91
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li></ul
+ ></body></html>
+DESCRIPTION:- PPV: M+ Fanzone
 END:VEVENT
 END:VCALENDAR
