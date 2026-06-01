@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260601T021349Z
+DTSTAMP:20260601T090800Z
+DTSTART:20260602T010000Z
+DTEND:20260602T030000Z
+SUMMARY:Amistoso - Trinidad y Tobago - Corea del Sur
+UID:edd54877-366f-4e71-bd12-e365dba2bea5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T090800Z
 DTSTART:20260604T010000Z
 DTEND:20260604T030000Z
 SUMMARY:Amistoso - Corea del Sur - El Salvador
-UID:eae046e5-9797-4b0f-ac4e-3a35e8d5ecbb
+UID:99f42820-48d5-493d-ad63-81f0a9c1fc85
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
  i>PPV: M+ Liga de Campeones</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones

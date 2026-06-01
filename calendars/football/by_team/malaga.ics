@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260530T063902Z
-DTSTART:20260531T163000Z
-DTEND:20260531T183000Z
-SUMMARY:Liga Hypermotion - Real Zaragoza - Málaga
-UID:f73c7f2d-6fe4-40c6-afb5-9b5b67931bf8
+DTSTAMP:20260601T090800Z
+DTSTART:20260607T190000Z
+DTEND:20260607T210000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Málaga
+UID:b0156d21-2bbb-4c73-8a8a-e95e84f898c5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Hypermotion 6</li>\n<li>
- PPV: LaLiga TV Multi 5</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV H
- ypermotion 6\n- PPV: LaLiga TV Multi 5
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260601T090800Z
+DTSTART:20260610T190000Z
+DTEND:20260610T210000Z
+SUMMARY:Liga Hypermotion - Málaga - Las Palmas
+UID:e7507670-d3e9-4d21-b8f8-a4538be398b2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
