@@ -1,5 +1,6 @@
 package org.doral.sportcalendars.webscraper.site;
 
+import org.apache.commons.lang3.StringUtils;
 import org.doral.sportcalendars.webscraper.model.calendar.Calendar;
 import org.doral.sportcalendars.webscraper.site.exception.SiteWebScraperException;
 import org.htmlunit.BrowserVersion;
@@ -9,7 +10,6 @@ import org.htmlunit.html.HtmlPage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.net.URI;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -22,7 +22,7 @@ public class BaloncestoHoyWebScraper extends AbstractHoySiteWebScraper {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(BaloncestoHoyWebScraper.class);
 
-    public static final String BASE_URL = "https://www.baloncestohoy.es";
+    public static final String BASE_URL = "https://www.baloncestohoy.es/";
 
     @Override
     public List<Calendar> parseCalendars() throws SiteWebScraperException {
@@ -39,20 +39,13 @@ public class BaloncestoHoyWebScraper extends AbstractHoySiteWebScraper {
         try (WebClient webClient = new WebClient(BrowserVersion.BEST_SUPPORTED)) {
             webClient.getOptions().setThrowExceptionOnScriptError(false);
             HtmlPage page = webClient.getPage(BaloncestoHoyWebScraper.BASE_URL);
-            return page.getByXPath("//div[@id='daysCarousel']/a")
+            return page.getByXPath("//div[@id='daysCarousel']/time")
                     .stream()
                     .filter(HtmlElement.class::isInstance)
                     .map(HtmlElement.class::cast)
-                    .map(htmlElement -> htmlElement.getAttribute("href"))
+                    .filter(htmlElement -> StringUtils.isNotBlank(htmlElement.getAttribute("data-target")))
+                    .map(htmlElement -> htmlElement.getAttribute("data-target"))
                     .toList();
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        }
-    }
-
-    protected Map<String, Calendar> parsePage(String pageURL) {
-        try {
-            return parsePage(new URI(pageURL).toURL());
         } catch (Exception e) {
             throw new RuntimeException(e);
         }

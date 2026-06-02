@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,25 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240803T080924Z
-DTSTART:20240803T090000Z
-DTEND:20240803T110000Z
-SUMMARY:Juegos Olímpicos Femeninos - China - Puerto Rico
-UID:c8a51c0e-1e39-4d99-ab6e-fb26463bd267
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Eurosport 6</li>\n<
- li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- PPV: Eurosport 6\n- PPV: MAX
+DTSTAMP:20260602T230604Z
+DTSTART:20260602T210000Z
+DTEND:20260602T230000Z
+SUMMARY:FIBA AmeriCup Sub-18 - Puerto Rico - Venezuela
+UID:0db1c932-64b5-48c5-977b-e90a92e8ef13
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20240803T080924Z
-DTSTART:20240803T151500Z
-DTEND:20240803T171500Z
-SUMMARY:Juegos Olímpicos - Puerto Rico - Estados Unidos
-UID:73958246-3550-4e78-abc3-b56083208726
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: Eurosport 6</li>\n<li>PPV: MAX</li></
- ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: Eurosport 6\n-
-  PPV: MAX
+DTSTAMP:20260602T230604Z
+DTSTART:20260604T233000Z
+DTEND:20260605T013000Z
+SUMMARY:FIBA AmeriCup Sub-18 - Canada - Puerto Rico
+UID:4c96170b-bbfd-4800-8ca5-e2684ad5f7d8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T230604Z
+DTSTART:20260609T210000Z
+DTEND:20260609T230000Z
+SUMMARY:FIBA Women's AmeriCup Sub-18 - Canada - Puerto Rico
+UID:a22c768e-aec3-49b9-a4c1-1b9d789ca17e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T230604Z
+DTSTART:20260610T210000Z
+DTEND:20260610T230000Z
+SUMMARY:FIBA Women's AmeriCup Sub-18 - Puerto Rico - Venezuela
+UID:48873f17-af71-4b9d-9581-7510d1709aef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR

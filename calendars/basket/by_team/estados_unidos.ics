@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20240811T080928Z
-DTSTART:20240811T133000Z
-DTEND:20240811T153000Z
-SUMMARY:Juegos Olímpicos Femeninos - Francia - Estados Unidos
-UID:9f4bd88f-8d1f-449a-aae1-603f28f15b4b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: Eurosport 2</li>\n<li>PP
- V: Eurosport 6</li>\n<li>PPV: MAX</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: Eurospor
- t 2\n- PPV: Eurosport 6\n- PPV: MAX
+DTSTAMP:20260602T230604Z
+DTSTART:20260601T233000Z
+DTEND:20260602T013000Z
+SUMMARY:FIBA AmeriCup Sub-18 - Estados Unidos - Argentina
+UID:df84b452-0f93-4bd5-96d0-a367ba2a9770
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T230604Z
+DTSTART:20260603T020000Z
+DTEND:20260603T040000Z
+SUMMARY:FIBA AmeriCup Sub-18 - México - Estados Unidos
+UID:54e92677-3850-4c76-a41a-d0793e5cfef3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T230604Z
+DTSTART:20260604T210000Z
+DTEND:20260604T230000Z
+SUMMARY:FIBA AmeriCup Sub-18 - Estados Unidos - Brasil
+UID:cb230fa2-ef86-4585-918a-9f8d07a208bc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T230604Z
+DTSTART:20260609T233000Z
+DTEND:20260610T013000Z
+SUMMARY:FIBA Women's AmeriCup Sub-18 - Argentina - Estados Unidos
+UID:05d08c5c-0087-475d-bca1-edcc2ebf61be
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260602T230604Z
+DTSTART:20260611T020000Z
+DTEND:20260611T040000Z
+SUMMARY:FIBA Women's AmeriCup Sub-18 - Estados Unidos - México
+UID:865b2c57-8f86-4503-97b2-51ac2a180b07
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR

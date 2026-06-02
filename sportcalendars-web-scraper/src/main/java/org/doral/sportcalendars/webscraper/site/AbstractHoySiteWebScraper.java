@@ -18,6 +18,7 @@ import org.htmlunit.html.HtmlPage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import java.net.URI;
 import java.net.URL;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -180,5 +181,14 @@ public abstract class AbstractHoySiteWebScraper implements ISiteWebScraper {
                 .sorted(Comparator.comparingLong(date -> Math.abs(date.getTime() - currentDate.getTime())))
                 .findFirst()
                 .orElse(eventDate);
+    }
+
+    protected Map<String, Calendar> parsePage(String pageURL) {
+        LOGGER.info("Parsing page: {}", pageURL);
+        try {
+            return parsePage(new URI(pageURL).toURL());
+        } catch (Exception e) {
+            throw new RuntimeException(e);
+        }
     }
 }

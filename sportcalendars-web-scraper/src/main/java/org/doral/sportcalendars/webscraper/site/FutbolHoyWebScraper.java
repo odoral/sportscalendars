@@ -52,12 +52,4 @@ public class FutbolHoyWebScraper extends AbstractHoySiteWebScraper {
         }
     }
 
-    protected Map<String, Calendar> parsePage(String pageURL) {
-        try {
-            return parsePage(new URI(pageURL).toURL());
-        } catch (Exception e) {
-            throw new RuntimeException(e);
-        }
-    }
-
 }
