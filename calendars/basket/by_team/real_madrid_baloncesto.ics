@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,43 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241111T041106Z
-DTSTART:20241112T194500Z
-DTEND:20241112T214500Z
-SUMMARY:Euroliga - Real Madrid Baloncesto - Virtus Bologna
-UID:3348da3b-eebc-4b08-8278-aac28015ee1b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes</li>\n<
- li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Deportes\n- PPV: Movistar Plus+
+DTSTAMP:20260602T230604Z
+DTSTART:20260602T190000Z
+DTEND:20260602T210000Z
+SUMMARY:Liga Endesa - Real Madrid Baloncesto - La Laguna Tenerife
+UID:f6eef61a-1625-4469-ac78-cbac5581d0f0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241111T041106Z
-DTSTART:20241114T194500Z
-DTEND:20241114T214500Z
-SUMMARY:Euroliga - Real Madrid Baloncesto - Anadolu Efes Istanbul
-UID:d0394a52-6109-46d1-8a42-343ace948f15
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
- /body></html>
-DESCRIPTION:- PPV: M+ Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241111T041106Z
-DTSTART:20241117T113000Z
-DTEND:20241117T133000Z
-SUMMARY:Liga Endesa - Real Madrid Baloncesto - ICG Força Lleida
-UID:e40bb3d6-7c15-4362-8585-a7e6fd0767cd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
- /body></html>
-DESCRIPTION:- PPV: M+ Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241111T041106Z
-DTSTART:20241121T194500Z
-DTEND:20241121T214500Z
-SUMMARY:Euroliga - Real Madrid Baloncesto - ALBA Berlin
-UID:daab6d04-0a14-40e3-9de5-2f7935fd6089
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
- /body></html>
-DESCRIPTION:- PPV: M+ Vamos
+DTSTAMP:20260602T230604Z
+DTSTART:20260604T190000Z
+DTEND:20260604T210000Z
+SUMMARY:Liga Endesa - La Laguna Tenerife - Real Madrid Baloncesto
+UID:cb6e6045-b856-4c31-b62b-5719d4becc4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

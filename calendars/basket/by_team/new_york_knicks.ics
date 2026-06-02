@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,83 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241112T003815Z
-DTSTART:20241113T003000Z
-DTEND:20241113T023000Z
-SUMMARY:NBA - Philadelphia 76ers - New York Knicks
-UID:d64a39b1-d6b6-4c71-b793-afb1f2379ea3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Deportes</li></u
- l></body></html>
-DESCRIPTION:- PPV: M+ Deportes
+DTSTAMP:20260602T230604Z
+DTSTART:20260604T003000Z
+DTEND:20260604T023000Z
+SUMMARY:NBA - San Antonio Spurs - New York Knicks
+UID:f1beb422-9c2f-43a7-85ac-31a3372dc985
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T003815Z
-DTSTART:20241114T003000Z
-DTEND:20241114T023000Z
-SUMMARY:NBA - New York Knicks - Chicago Bulls
-UID:8d4ac655-9ac3-444e-9061-9dc59366ac9f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
+DTSTAMP:20260602T230604Z
+DTSTART:20260606T003000Z
+DTEND:20260606T023000Z
+SUMMARY:NBA - San Antonio Spurs - New York Knicks
+UID:0b1c488b-1899-4210-97f9-c5647ede0ee9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T003815Z
-DTSTART:20241116T003000Z
-DTEND:20241116T023000Z
-SUMMARY:NBA - New York Knicks - Brooklyn Nets
-UID:1ee48380-01cc-4348-a1fb-fcf3308e482b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
+DTSTAMP:20260602T230604Z
+DTSTART:20260609T003000Z
+DTEND:20260609T023000Z
+SUMMARY:NBA - New York Knicks - San Antonio Spurs
+UID:1cebbaef-d317-44e8-a29e-1e04ba43777a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241112T003815Z
-DTSTART:20241118T000000Z
-DTEND:20241118T020000Z
-SUMMARY:NBA - New York Knicks - Brooklyn Nets
-UID:51b02191-509d-43d3-a2fe-5dccb71cf3f0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241112T003815Z
-DTSTART:20241119T003000Z
-DTEND:20241119T023000Z
-SUMMARY:NBA - New York Knicks - Washington Wizards
-UID:3ad11886-2a52-4291-bdf8-1a10489ae463
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241112T003815Z
-DTSTART:20241121T030000Z
-DTEND:20241121T050000Z
-SUMMARY:NBA - Phoenix Suns - New York Knicks
-UID:ce229226-9083-4cd5-950f-48c96d966763
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241112T003815Z
-DTSTART:20241123T220000Z
-DTEND:20241124T000000Z
-SUMMARY:NBA - Utah Jazz - New York Knicks
-UID:b93252b7-57e6-431b-9417-27dbf0671847
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241112T003815Z
-DTSTART:20241126T020000Z
-DTEND:20241126T040000Z
-SUMMARY:NBA - Denver Nuggets - New York Knicks
-UID:450b9953-956e-48e7-a79d-9d9f42332384
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
+DTSTAMP:20260602T230604Z
+DTSTART:20260611T003000Z
+DTEND:20260611T023000Z
+SUMMARY:NBA - New York Knicks - San Antonio Spurs
+UID:ddf5cd9e-96c4-452a-b99b-ed8bd0b6cb0b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
 END:VEVENT
 END:VCALENDAR
