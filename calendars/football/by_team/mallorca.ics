@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260522T073440Z
-DTSTART:20260523T190000Z
-DTEND:20260523T210000Z
-SUMMARY:Liga EA Sports - Mallorca - Real Oviedo
-UID:106c24d5-a14a-478c-948f-8d0b7093cd49
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga 3</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 3\n- PPV: M+ LaLiga
+DTSTAMP:20260603T084545Z
+DTSTART:20260605T150000Z
+DTEND:20260605T170000Z
+SUMMARY:LaLiga FC Futures - Mallorca - Girona
+UID:e5d273f2-52bf-4e46-8262-598d788cc03e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: M+ LaLiga
+ </li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n
+ - PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR

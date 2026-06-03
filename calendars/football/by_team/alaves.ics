@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260522T073440Z
-DTSTART:20260523T190000Z
-DTEND:20260523T210000Z
-SUMMARY:Liga EA Sports - Alavés - Rayo Vallecano
-UID:10360bea-a57e-4550-843a-dbe784046cc3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga 5</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 5\n- PPV: M+ LaLiga
+DTSTAMP:20260603T084545Z
+DTSTART:20260605T173000Z
+DTEND:20260605T193000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Alavés
+UID:706217fd-ad5c-40b2-babd-0e0ba5d097b9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: M+ LaLiga
+ </li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n
+ - PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260522T073440Z
-DTSTART:20260523T190000Z
-DTEND:20260523T210000Z
-SUMMARY:Liga EA Sports - Celta - Sevilla
-UID:b5c82606-22c6-4591-95cf-ff7b9ea3a3ff
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
- >PPV: M+ LaLiga 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga\n- PPV: M+ LaLiga 5
+DTSTAMP:20260603T084545Z
+DTSTART:20260605T100000Z
+DTEND:20260605T120000Z
+SUMMARY:LaLiga FC Futures - Sevilla - Atlético de Madrid
+UID:5592c64c-26b3-4c5b-b612-67b10c812bf8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: M+ LaLiga
+ </li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n
+ - PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR

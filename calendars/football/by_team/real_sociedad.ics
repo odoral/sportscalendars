@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260522T073440Z
-DTSTART:20260523T190000Z
-DTEND:20260523T210000Z
-SUMMARY:Liga EA Sports - Espanyol - Real Sociedad
-UID:8e092f3c-7644-4fc4-bccc-bb2db9528f4c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN LaLiga 4</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga 4\n- PPV: M+ LaLiga
+DTSTAMP:20260603T084545Z
+DTSTART:20260605T180000Z
+DTEND:20260605T200000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Real Sociedad
+UID:60731e57-b833-486f-ad17-d60f34d2d78f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: M+ LaLiga
+ </li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n
+ - PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR

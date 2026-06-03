@@ -16,17 +16,51 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260524T065257Z
-DTSTART:20260524T090000Z
-DTEND:20260524T110000Z
-SUMMARY:Copa Campeones Juvenil - Real Madrid - Barcelona
-UID:435ea2e4-50c7-44ff-bd7b-ce82972a5a22
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >Open: RFEF TV YouTube</li>\n<li>Open: RealMadrid TV</li>\n<li>Open: Tel
- edeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: FC Barcelona Youtube (
- Members)</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- Open: RFEF TV YouTube\n- Open: RealMadrid
-  TV\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: FC Barcelona Youtube
-  (Members)
+DTSTAMP:20260603T084545Z
+DTSTART:20260605T090000Z
+DTEND:20260605T110000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Rayo Vallecano
+UID:66135e1e-91d1-4aef-9712-e02f8eefdfe2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: M+ LaLiga
+ </li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n
+ - PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T084545Z
+DTSTART:20260605T103000Z
+DTEND:20260605T123000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Valencia
+UID:a8882c71-bca4-409d-ae1c-150267b8737d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: M+ LaLiga
+ </li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n
+ - PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T084545Z
+DTSTART:20260605T160000Z
+DTEND:20260605T180000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Real Oviedo
+UID:a088f358-07dc-422c-b4aa-75bbba5be3dc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: M+ LaLiga
+ </li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n
+ - PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260603T084545Z
+DTSTART:20260605T173000Z
+DTEND:20260605T193000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Alavés
+UID:b5f25db7-e91e-4392-a910-19e3878a385b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: M+ LaLiga
+ </li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n
+ - PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR
