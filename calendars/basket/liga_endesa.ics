@@ -16,43 +16,44 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260604T022844Z
+DTSTAMP:20260604T081023Z
 DTSTART:20260604T170000Z
 DTEND:20260604T190000Z
 SUMMARY:Liga Endesa - Barça Basket - UCAM Murcia C.B.
-UID:dfa48ddf-7055-4681-b598-843eadfd7ff9
+UID:35f9761b-ddc3-4f00-b345-1cc7684b4f2e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- PPV: DAZN
+ >PPV: DAZN</li>\n<li>PPV: DAZN Baloncesto</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: DAZN Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260604T022844Z
+DTSTAMP:20260604T081023Z
 DTSTART:20260604T190000Z
 DTEND:20260604T210000Z
 SUMMARY:Liga Endesa - La Laguna Tenerife - Real Madrid Baloncesto
-UID:23010ac8-c82d-4ee0-9bf7-3a0747dd257d
+UID:f04e6661-0f0f-44a8-bb8c-f714d33532e6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: Movistar Plus+
+  DAZN Baloncesto 2</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+ 
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto 2\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260604T022844Z
+DTSTAMP:20260604T081023Z
 DTSTART:20260605T170000Z
 DTEND:20260605T190000Z
 SUMMARY:Liga Endesa - Bilbao Basket - Valencia Basket
-UID:c360a0eb-fd51-408a-8e39-c050e2a09a85
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:ae6810b2-2cd7-493c-9fe8-11cfbed722d9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Baloncesto</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260604T022844Z
+DTSTAMP:20260604T081023Z
 DTSTART:20260605T190000Z
 DTEND:20260605T210000Z
 SUMMARY:Liga Endesa - Joventut Badalona - Baskonia
-UID:2271f45c-2670-419a-a3e8-d788576683e0
+UID:311c7b94-0d1f-4b51-b586-e3bad94f6241
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos
+  DAZN Baloncesto 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto 2\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
