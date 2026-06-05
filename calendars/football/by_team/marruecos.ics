@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260604T081018Z
+DTSTAMP:20260605T020329Z
 DTSTART:20260607T190000Z
 DTEND:20260607T210000Z
 SUMMARY:Amistoso - Marruecos - Noruega
-UID:87dd70b5-f5ca-4421-915c-9bbfaee1b71d
+UID:75620a50-c498-4b10-868a-ece0042d1f4a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
  i>PPV: M+ Liga de Campeones</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260605T020329Z
+DTSTART:20260613T220000Z
+DTEND:20260614T000000Z
+SUMMARY:Mundial 2026 - Brasil - Marruecos
+UID:9ec7a289-bdcd-4f7a-91a2-380b2cc00a44
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
