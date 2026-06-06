@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260605T020329Z
-DTSTART:20260605T184500Z
-DTEND:20260605T204500Z
-SUMMARY:Copa Mundial Femenina - España - Inglaterra
-UID:96fc6833-4bdc-44c4-96f1-0ececca14d41
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260605T020329Z
+DTSTAMP:20260606T015457Z
 DTSTART:20260609T020000Z
 DTEND:20260609T040000Z
 SUMMARY:Amistoso - Perú - España
-UID:848c9dfc-8ea8-4902-b146-71eba30cc446
+UID:df63a175-f62c-4fba-a4b1-3ee4f6cc1f9b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260605T020329Z
+DTSTAMP:20260606T015457Z
 DTSTART:20260609T190000Z
 DTEND:20260609T210000Z
 SUMMARY:Copa Mundial Femenina - Islandia - España
-UID:01660c35-7457-483f-952f-863f0ade9fcb
+UID:d2d09f9d-b569-46eb-9665-7b09914a7596
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T015457Z
+DTSTART:20260615T160000Z
+DTEND:20260615T180000Z
+SUMMARY:Mundial 2026 - España - Cabo Verde
+UID:0153fdcc-28da-469d-b5b1-e82807e406b5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
