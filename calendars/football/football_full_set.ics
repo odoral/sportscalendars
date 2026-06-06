@@ -16,61 +16,157 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260605T233000Z
 DTEND:20260606T013000Z
 SUMMARY:Amistoso - Canada - República de Irlanda
-UID:93250fc8-ff94-4f63-bb6c-6bdeabb7c0e2
+UID:0725b119-5570-43c6-a0de-934288239563
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
  i>PPV: M+ Liga de Campeones</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
+DTSTART:20260606T080000Z
+DTEND:20260606T100000Z
+SUMMARY:LaLiga FC Futures - Espanyol - Getafe
+UID:f714d4f5-2bf6-4f43-9180-9ae0559fd354
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
+ li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
+ PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260606T083000Z
+DTEND:20260606T103000Z
+SUMMARY:LaLiga FC Futures - Levante - Girona
+UID:04b10d14-40b7-402f-9502-671e457d452a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
+ li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
+ PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260606T090000Z
+DTEND:20260606T110000Z
+SUMMARY:LaLiga FC Futures - Sevilla - Valencia
+UID:27d3118b-0858-427d-b2b6-884009353547
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
+ li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
+ PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260606T093000Z
+DTEND:20260606T113000Z
+SUMMARY:LaLiga FC Futures - Atlético de Madrid - Rayo Vallecano
+UID:f3a65f5a-f31c-4043-94c2-c1882c89a949
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
+ li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
+ PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260606T100000Z
+DTEND:20260606T120000Z
+SUMMARY:LaLiga FC Futures - Betis - Real Sociedad
+UID:696ba3e7-aef8-4253-9a7b-5e51e9b70900
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
+ li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
+ PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260606T103000Z
+DTEND:20260606T123000Z
+SUMMARY:LaLiga FC Futures - Alavés - Villarreal
+UID:0d5658d9-ea9a-4378-bd5c-4702873c519d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
+ li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
+ PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260606T110000Z
+DTEND:20260606T130000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Elche
+UID:2ac7c254-12d4-4588-82c8-206063968910
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
+ li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
+ PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260606T113000Z
+DTEND:20260606T133000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Mallorca
+UID:2d7bf551-1ecb-42d5-b37b-32af8680f5bd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
+ li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
+ PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
 DTSTART:20260606T130000Z
 DTEND:20260606T150000Z
 SUMMARY:Amistoso - Bélgica - Túnez
-UID:bbe33151-cfe1-47f5-bad0-a7b7a29e8033
+UID:3fa4fd42-ab0a-453d-8674-90ed9d66c007
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
  li></ul></body></html>
 DESCRIPTION:- PPV: UEFA TV (Premium)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260606T163000Z
 DTEND:20260606T183000Z
 SUMMARY:Primera Federación - At. Madrid B - Ponferradina
-UID:bdc5dce3-6b2d-4b50-abf5-96bc8c3bc279
+UID:9beb3034-a7d6-4266-b686-cefcb275c703
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FC Play</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260606T174500Z
 DTEND:20260606T194500Z
 SUMMARY:Amistoso - Portugal - Chile
-UID:db674a09-5af9-4d61-88df-2d8c1bc25d65
+UID:5c89ad9c-a50c-49da-b847-f08775f03e67
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
  li></ul></body></html>
 DESCRIPTION:- PPV: UEFA TV (Premium)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260606T183000Z
 DTEND:20260606T203000Z
 SUMMARY:Amistoso - Estados Unidos - Alemania
-UID:7f4a04e6-b677-4fce-a757-0f4ada1291f9
+UID:727718ba-6cee-4658-af74-87e03997bde5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
  i>PPV: M+ Liga de Campeones</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260606T190000Z
 DTEND:20260606T210000Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Almería
-UID:2d895af8-cef3-4b8c-a030-358e04478bcd
+UID:553c7ae3-83c4-4bb4-838e-eab33132ce53
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
@@ -78,51 +174,51 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260606T200000Z
 DTEND:20260606T220000Z
 SUMMARY:Amistoso - Inglaterra - Nueva Zelanda
-UID:84529869-e9b1-4308-99e3-6908b0036bfc
+UID:cb9880aa-8014-4097-a09c-8bb3b530cda1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
  li></ul></body></html>
 DESCRIPTION:- PPV: UEFA TV (Premium)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260606T200000Z
 DTEND:20260606T220000Z
 SUMMARY:Amistoso - Bolivia - Escocia
-UID:5908e115-8e72-417d-aeb7-2087d665170e
+UID:53d07c09-557a-421e-9313-faaadbbbc51d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260606T220000Z
 DTEND:20260607T000000Z
 SUMMARY:Amistoso - Brasil - Egipto
-UID:4e8d7bec-6062-4a67-bf09-8036aeb8329f
+UID:2199bd49-94e1-4b1c-8176-04d76bf8aaa8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260607T000000Z
 DTEND:20260607T020000Z
 SUMMARY:Amistoso - Argentina - Honduras
-UID:b658b696-37eb-4b31-97a9-39fe5de95ebe
+UID:9662abf3-bf4c-447a-b8d7-722411d85559
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
  i>PPV: M+ Liga de Campeones</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260607T141500Z
 DTEND:20260607T161500Z
 SUMMARY:Primera Federación - Celta B - C.E. Europa
-UID:5469e997-903c-47e3-970c-99b64f94cc66
+UID:93d684c0-f5a9-4089-b9e5-77782a766856
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: Primera Federación</li></u
  l></body></html>
@@ -130,113 +226,51 @@ DESCRIPTION:- Open: TVG 2\n- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera Fe
  deración
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260607T163000Z
 DTEND:20260607T183000Z
 SUMMARY:Primera Federación - Zamora C.F. - Villarreal B
-UID:7e692e3d-84fe-4cf9-b731-25e671186ed4
+UID:df7b9a65-ed93-4641-8bde-13fe63550fc9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FC Play</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
-DTSTART:20260607T184500Z
-DTEND:20260607T204500Z
-SUMMARY:Amistoso - Croacia - Eslovenia
-UID:65fde4d2-746a-4fad-9fa6-24b5ba8074d8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
- li></ul></body></html>
-DESCRIPTION:- PPV: UEFA TV (Premium)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
-DTSTART:20260607T190000Z
-DTEND:20260607T210000Z
-SUMMARY:Amistoso - Marruecos - Noruega
-UID:7569240c-3b19-46a2-9b88-4bc5882f0c48
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
- i>PPV: M+ Liga de Campeones</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
-DTSTART:20260607T190000Z
-DTEND:20260607T210000Z
-SUMMARY:Liga Hypermotion - Las Palmas - Málaga
-UID:1b9c2f54-e420-471d-8e0a-3d048d6f809f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
- range Fútbol 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
- ulti 2\n- PPV: Orange Fútbol 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
-DTSTART:20260607T200000Z
-DTEND:20260607T220000Z
-SUMMARY:Amistoso - Ecuador - Guatemala
-UID:710fe0eb-8c78-4dd1-a668-976a3811774b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
- i>PPV: M+ Liga de Campeones 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
-DTSTART:20260607T230000Z
-DTEND:20260608T010000Z
-SUMMARY:Amistoso - Colombia - Jordania
-UID:bac1d7f3-edf7-42fc-9919-9c484335b705
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
- i>PPV: M+ Liga de Campeones</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
-DTSTART:20260608T191000Z
-DTEND:20260608T211000Z
-SUMMARY:Amistoso - Francia - Irlanda del Norte
-UID:c4fe9a55-70dd-4071-b4f7-f0c5269b315b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
- li></ul></body></html>
-DESCRIPTION:- PPV: UEFA TV (Premium)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
-DTSTART:20260609T020000Z
-DTEND:20260609T040000Z
-SUMMARY:Amistoso - Perú - España
-UID:f6206b56-509f-4286-a700-102308cf0322
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
-DTSTART:20260609T160000Z
-DTEND:20260609T180000Z
-SUMMARY:Copa Mundial Femenina - Eslovenia - Alemania
-UID:3d7ac6c5-34de-4a6d-862a-deffb1c8c764
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
-DTSTART:20260609T190000Z
-DTEND:20260609T210000Z
-SUMMARY:Copa Mundial Femenina - Islandia - España
-UID:36d07fc0-48fd-42db-b20d-d6e954e83244
+DTSTAMP:20260606T064531Z
+DTSTART:20260607T170000Z
+DTEND:20260607T190000Z
+SUMMARY:Europeo Sub-17 - Bélgica - Italia
+UID:84912a09-8916-4da1-aefa-e947683f997d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
-DTSTART:20260609T190000Z
-DTEND:20260609T210000Z
-SUMMARY:Liga Hypermotion - Almería - C.D. Castellón
-UID:9a81bcfa-4d6f-4726-a3b6-0453b07e4bcc
+DTSTAMP:20260606T064531Z
+DTSTART:20260607T184500Z
+DTEND:20260607T204500Z
+SUMMARY:Amistoso - Croacia - Eslovenia
+UID:c8a60e2f-66cc-4f22-b234-0676c179fbc7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
+ li></ul></body></html>
+DESCRIPTION:- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260607T190000Z
+DTEND:20260607T210000Z
+SUMMARY:Amistoso - Marruecos - Noruega
+UID:5e9e73be-8c37-4daf-8bd1-5eb9f8e4d91e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
+ i>PPV: M+ Liga de Campeones</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260607T190000Z
+DTEND:20260607T210000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Málaga
+UID:cc84efcd-fe78-473e-907c-e0a896d38ec6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
@@ -244,21 +278,93 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
+DTSTART:20260607T200000Z
+DTEND:20260607T220000Z
+SUMMARY:Amistoso - Ecuador - Guatemala
+UID:10b29cf7-c0ef-499a-a484-fbbb916e24a5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
+ i>PPV: M+ Liga de Campeones 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260607T230000Z
+DTEND:20260608T010000Z
+SUMMARY:Amistoso - Colombia - Jordania
+UID:7fbe73cd-e51d-4f60-afdb-ab6f4af42e36
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li>\n<l
+ i>PPV: M+ Liga de Campeones</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Fanzone\n- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260608T191000Z
+DTEND:20260608T211000Z
+SUMMARY:Amistoso - Francia - Irlanda del Norte
+UID:9ddfa204-6989-402b-bc5c-cc64af2b4063
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
+ li></ul></body></html>
+DESCRIPTION:- PPV: UEFA TV (Premium)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260609T020000Z
+DTEND:20260609T040000Z
+SUMMARY:Amistoso - Perú - España
+UID:1b82483f-3e8f-4de9-8359-d7f6f397557e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260609T160000Z
+DTEND:20260609T180000Z
+SUMMARY:Copa Mundial Femenina - Eslovenia - Alemania
+UID:7004e152-5dd6-4da0-9031-4d9914a28984
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260609T190000Z
+DTEND:20260609T210000Z
+SUMMARY:Copa Mundial Femenina - Islandia - España
+UID:ae3bcb5a-40f6-44a9-8751-ed6712aff49a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
+DTSTART:20260609T190000Z
+DTEND:20260609T210000Z
+SUMMARY:Liga Hypermotion - Almería - C.D. Castellón
+UID:49bd3424-d02b-4e92-8177-497bce467bb0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
+ range Fútbol 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2\n- PPV: Orange Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260606T064531Z
 DTSTART:20260610T010000Z
 DTEND:20260610T030000Z
 SUMMARY:Amistoso - Islandia - Argentina
-UID:bdfa6561-a108-4c97-8d4e-b7b19acb41db
+UID:56f72234-523a-4719-9e42-0eac35fbbaaa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Fanzone</li></ul
  ></body></html>
 DESCRIPTION:- PPV: M+ Fanzone
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260610T190000Z
 DTEND:20260610T210000Z
 SUMMARY:Liga Hypermotion - Málaga - Las Palmas
-UID:ad18f939-dbb3-49fa-bba7-7e5aad4d3d39
+UID:2f126d7b-198a-4aea-9792-16525fa6c8fe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
@@ -266,161 +372,161 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260610T194500Z
 DTEND:20260610T214500Z
 SUMMARY:Amistoso - Portugal - Nigeria
-UID:a56f801f-40fe-42da-b387-18a055d0f06f
+UID:07562ae0-c30b-427d-a8ce-414a1b836be3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
  li></ul></body></html>
 DESCRIPTION:- PPV: UEFA TV (Premium)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260610T200000Z
 DTEND:20260610T220000Z
 SUMMARY:Amistoso - Inglaterra - Costa Rica
-UID:f0b93d32-ab0f-4ee3-a9d5-0017e25d3fdf
+UID:99925445-8b5b-4e4e-8207-841d9cb49cf0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: UEFA TV (Premium)</
  li></ul></body></html>
 DESCRIPTION:- PPV: UEFA TV (Premium)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260611T190000Z
 DTEND:20260611T210000Z
 SUMMARY:Mundial 2026 - México - Sudáfrica
-UID:3f18de6c-84a9-4b5b-bdc5-71d6223caf72
+UID:4750b4b9-f914-410b-a40a-c4df4d5b8d85
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260612T020000Z
 DTEND:20260612T040000Z
 SUMMARY:Mundial 2026 - Corea del Sur - República Checa
-UID:0e8845d7-0993-4f68-9f8e-e55612c5aae5
+UID:f8414276-c38d-4aef-8c77-f7b34686b0cb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260612T190000Z
 DTEND:20260612T210000Z
 SUMMARY:Mundial 2026 - Canada - Bosnia
-UID:530216b2-a280-4ef4-a719-284f6d7aa1a5
+UID:927b93c5-526f-4b59-bc6d-057bb77820bb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260613T010000Z
 DTEND:20260613T030000Z
 SUMMARY:Mundial 2026 - Estados Unidos - Paraguay
-UID:b55c383a-369b-4161-9a2b-a11f4837dc07
+UID:a21a966b-bc2b-4e2c-ba11-042b7f3b54e0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 SUMMARY:Mundial 2026 - Qatar - Suiza
-UID:2318cb94-7e9e-4daa-b613-dac3526ccf2f
+UID:cedcaccf-b780-4c95-b7b9-f5113f1b8011
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260613T220000Z
 DTEND:20260614T000000Z
 SUMMARY:Mundial 2026 - Brasil - Marruecos
-UID:5bfa11ed-1d8d-48c3-a7f5-8e8b528326c2
+UID:20ac8919-f39d-4abb-8052-e0f5d162e5dd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260614T010000Z
 DTEND:20260614T030000Z
 SUMMARY:Mundial 2026 - Haití - Escocia
-UID:afa3b42e-6128-46cc-9643-50cff8e8c645
+UID:fc2ae932-b690-4198-98d5-ce5b31b80f56
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260614T040000Z
 DTEND:20260614T060000Z
 SUMMARY:Mundial 2026 - Australia - Turquía
-UID:4c4cf2dd-2940-4283-b68a-8574822b0275
+UID:7c6b88e1-c71a-40bf-90bd-f5bdfcbfb3c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260614T170000Z
 DTEND:20260614T190000Z
 SUMMARY:Mundial 2026 - Alemania - Curaçao
-UID:64826c76-8b78-4b0b-b099-662a776e4fe4
+UID:67ca3e80-3f9d-4a81-88bc-c417ca3f8974
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260614T200000Z
 DTEND:20260614T220000Z
 SUMMARY:Mundial 2026 - Holanda - Japón
-UID:573a58fb-55e7-4381-85ca-991c0feae037
+UID:23284949-746b-4561-a789-dd478b2ef6cd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260614T230000Z
 DTEND:20260615T010000Z
 SUMMARY:Mundial 2026 - Costa de Marfil - Ecuador
-UID:67dc471b-0434-42b9-8fd3-78f2844195f4
+UID:4417093b-1481-4d38-a8c0-1f785db83592
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260615T020000Z
 DTEND:20260615T040000Z
 SUMMARY:Mundial 2026 - Suecia - Túnez
-UID:ca83f623-2b8d-4965-8ccb-e3986619b6c7
+UID:d6ffb58c-1259-4270-a856-51e87569ccd3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 SUMMARY:Mundial 2026 - España - Cabo Verde
-UID:ab43ff6a-ad55-447f-89cb-b1503caa5a45
+UID:6ceb2b49-4a55-4b6a-b0b0-1cf781fa1b28
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260606T015457Z
+DTSTAMP:20260606T064531Z
 DTSTART:20260615T190000Z
 DTEND:20260615T210000Z
 SUMMARY:Mundial 2026 - Bélgica - Egipto
-UID:a3a6c653-d1a8-4a1b-b924-34e437198872
+UID:baef930b-6c1e-4205-ac80-f896b157b423
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
