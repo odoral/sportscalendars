@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260607T021013Z
-DTSTART:20260607T141500Z
-DTEND:20260607T161500Z
-SUMMARY:Primera Federación - Celta B - C.E. Europa
-UID:178eee0b-9e37-4ce4-9280-1f22a5e3c4c0
+DTSTAMP:20260608T084240Z
+DTSTART:20260613T163000Z
+DTEND:20260613T183000Z
+SUMMARY:Primera Federación - Ponferradina - Celta B
+UID:c36be39b-dad4-4f57-b49b-ce5af7c8e419
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: Primera Federación</li></u
  l></body></html>
@@ -28,13 +28,15 @@ DESCRIPTION:- Open: TVG 2\n- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera Fe
  deración
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260607T021013Z
-DTSTART:20260607T163000Z
-DTEND:20260607T183000Z
-SUMMARY:Primera Federación - Zamora C.F. - Villarreal B
-UID:59180fb7-b2b5-4125-ab50-c2b6189e3c61
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  FC Play</li>\n<li>PPV: Primera Federación</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera Federación
+DTSTAMP:20260608T084240Z
+DTSTART:20260613T190000Z
+DTEND:20260613T210000Z
+SUMMARY:Primera Federación - Zamora C.F. - Sabadell
+UID:d8e7c2c2-8329-4d54-a936-1e52ef88e7c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera
+  Federación
 END:VEVENT
 END:VCALENDAR
