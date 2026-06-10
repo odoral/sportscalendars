@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260609T015158Z
+DTSTAMP:20260610T075818Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 SUMMARY:Mundial 2026 - Qatar - Suiza
-UID:f7ac176a-d818-407b-b460-56370f4f88d6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:06c10e9a-ac31-4d71-976a-8a88d8423f66
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260609T015158Z
+DTSTAMP:20260610T075818Z
 DTSTART:20260618T190000Z
 DTEND:20260618T210000Z
 SUMMARY:Mundial 2026 - Suiza - Bosnia
-UID:fc85c20b-a663-4870-bb00-0da22f3787cd
+UID:8e023254-f2ce-411d-9dfa-51d5f06a9b31
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN
+ n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
+ body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
+ dial
 END:VEVENT
 END:VCALENDAR
