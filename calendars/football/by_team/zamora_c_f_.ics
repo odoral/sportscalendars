@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260608T084240Z
+DTSTAMP:20260610T020316Z
 DTSTART:20260613T190000Z
 DTEND:20260613T210000Z
 SUMMARY:Primera Federación - Zamora C.F. - Sabadell
-UID:d5af72a7-61c9-45c9-9604-9123bd8beb4c
+UID:f7975e54-f22d-4123-8736-5e25b1b657ce
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: Primera Federación</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera
+  Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260610T020316Z
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:Primera Federación - Sabadell - Zamora C.F.
+UID:05b570f0-dc7c-4352-94dd-0b2ece514bfa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: Primera Federación</li>
  </ul></body></html>
