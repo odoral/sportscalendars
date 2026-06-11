@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260608T084240Z
+DTSTAMP:20260611T021411Z
 DTSTART:20260613T163000Z
 DTEND:20260613T183000Z
 SUMMARY:Primera Federación - Ponferradina - Celta B
-UID:2f32685e-43d6-42e1-99dd-2a092fc3526d
+UID:e0314a65-7fcb-4afc-abd8-8318f55fa7dd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: Primera Federación</li></u
+ l></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera Fe
+ deración
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260611T021411Z
+DTSTART:20260620T163000Z
+DTEND:20260620T183000Z
+SUMMARY:Primera Federación - Celta B - Ponferradina
+UID:055a9a84-4c0b-4018-b7ea-9f9cb1f7e2c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
  V: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: Primera Federación</li></u
  l></body></html>
