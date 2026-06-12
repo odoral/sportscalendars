@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260610T075818Z
+DTSTAMP:20260612T021001Z
 DTSTART:20260615T160000Z
 DTEND:20260615T180000Z
 SUMMARY:Mundial 2026 - España - Cabo Verde
-UID:e10958c7-55ca-48ae-87af-79078e8bcce8
+UID:2cc1ef93-fef7-4ace-86cf-c3d50984e72f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
+ body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
+ dial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260612T021001Z
+DTSTART:20260621T160000Z
+DTEND:20260621T180000Z
+SUMMARY:Mundial 2026 - España - Arabia Saudí
+UID:485ce243-3188-4ee1-bb03-c2190845f6cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
  body></html>
