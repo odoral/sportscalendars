@@ -77,21 +77,14 @@ You can import the URL into your favourite calendar app to receive daily updates
 ### By Tournament
 |Name|Action #1|Action #2|
 |----|---------|---------|
-|FIBA Women's AmeriCup Sub-18| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/fiba_women_s_americup_sub_18.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/fiba_women_s_americup_sub_18.ics)|
 |Liga Endesa| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/liga_endesa.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/liga_endesa.ics)|
 |NBA| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/nba.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/nba.ics)|
 
 ### By Team
 |Name|Action #1|Action #2|
 |----|---------|---------|
-|Argentina| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/argentina.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/argentina.ics)|
-|Barça Basket| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/barca_basket.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/barca_basket.ics)|
 |Joventut Badalona| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/joventut_badalona.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/joventut_badalona.ics)|
-|La Laguna Tenerife| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/la_laguna_tenerife.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/la_laguna_tenerife.ics)|
-|México| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/mexico.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/mexico.ics)|
 |New York Knicks| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/new_york_knicks.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/new_york_knicks.ics)|
-|Puerto Rico| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/puerto_rico.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/puerto_rico.ics)|
-|República Dominicana| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/republica_dominicana.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/republica_dominicana.ics)|
 |San Antonio Spurs| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/san_antonio_spurs.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/san_antonio_spurs.ics)|
 |Valencia Basket| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/valencia_basket.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/valencia_basket.ics)|
 
