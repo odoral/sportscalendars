@@ -75,16 +75,4 @@ You can import the URL into your favourite calendar app to receive daily updates
 - All basket events [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/basket_full_set.ics)  [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/basket_full_set.ics)
 
 ### By Tournament
-|Name|Action #1|Action #2|
-|----|---------|---------|
-|Liga Endesa| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/liga_endesa.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/liga_endesa.ics)|
-|NBA| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/nba.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/nba.ics)|
-
 ### By Team
-|Name|Action #1|Action #2|
-|----|---------|---------|
-|Joventut Badalona| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/joventut_badalona.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/joventut_badalona.ics)|
-|New York Knicks| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/new_york_knicks.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/new_york_knicks.ics)|
-|San Antonio Spurs| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/san_antonio_spurs.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/san_antonio_spurs.ics)|
-|Valencia Basket| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/valencia_basket.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/valencia_basket.ics)|
-
