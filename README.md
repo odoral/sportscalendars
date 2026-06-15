@@ -75,4 +75,13 @@ You can import the URL into your favourite calendar app to receive daily updates
 - All basket events [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/basket_full_set.ics)  [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/basket_full_set.ics)
 
 ### By Tournament
+|Name|Action #1|Action #2|
+|----|---------|---------|
+|Liga Endesa| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/liga_endesa.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/liga_endesa.ics)|
+
 ### By Team
+|Name|Action #1|Action #2|
+|----|---------|---------|
+|Barça Basket| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/barca_basket.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/barca_basket.ics)|
+|Valencia Basket| [Download ICS](https://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/valencia_basket.ics)| [Add to Google Calendar](https://calendar.google.com/calendar/r?cid=webcal://raw.githubusercontent.com/odoral/sportscalendars/master/calendars/basket/by_team/valencia_basket.ics)|
+

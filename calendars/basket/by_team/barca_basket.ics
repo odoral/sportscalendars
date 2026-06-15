@@ -16,15 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260613T073816Z
-DTSTART:20260613T180000Z
-DTEND:20260613T200000Z
-SUMMARY:Liga Endesa - La Laguna Tenerife - Barça Basket
-UID:b708251f-d69a-4e13-98f6-6c2b8be41648
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: DAZN Baloncesto</li>\n<li>PPV: Movistar Plus+<
- /li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: DAZN Baloncesto\n- PPV:
-  Movistar Plus+
+DTSTAMP:20260615T094933Z
+DTSTART:20260618T180000Z
+DTEND:20260618T200000Z
+SUMMARY:Liga Endesa - Valencia Basket - Barça Basket
+UID:72348c98-b1b5-435c-959d-928695a9d91a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Baloncesto</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T094933Z
+DTSTART:20260620T180000Z
+DTEND:20260620T200000Z
+SUMMARY:Liga Endesa - Valencia Basket - Barça Basket
+UID:42b1069d-1850-4023-867d-7d912519c5a2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Baloncesto</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260615T094933Z
+DTSTART:20260622T180000Z
+DTEND:20260622T200000Z
+SUMMARY:Liga Endesa - Barça Basket - Valencia Basket
+UID:9efeecf1-09e5-4f0c-9137-e22214f69e40
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Baloncesto</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto
 END:VEVENT
 END:VCALENDAR
