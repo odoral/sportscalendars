@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260618T021510Z
+DTSTAMP:20260620T074029Z
 DTSTART:20260621T160000Z
 DTEND:20260621T180000Z
 SUMMARY:Mundial 2026 - España - Arabia Saudí
-UID:8587fb2c-35cf-4926-a5d3-64e8342b23e6
+UID:ef27a5fa-4f61-423b-9be0-d3acd4999ac0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
  body></html>
@@ -28,15 +28,25 @@ DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
  dial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260618T021510Z
+DTSTAMP:20260620T074029Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
 SUMMARY:Mundial 2026 - Uruguay - España
-UID:d9a2c43d-b895-417b-acb7-af863b68ba4a
+UID:9af5b8f7-f969-4f44-b66b-b405bda3733c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
  body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
  dial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260620T074029Z
+DTSTART:20260628T170000Z
+DTEND:20260628T190000Z
+SUMMARY:Europeo Sub-19 - Gales - España
+UID:b3bbc742-994f-4d61-ab96-5b7d645abaa0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
