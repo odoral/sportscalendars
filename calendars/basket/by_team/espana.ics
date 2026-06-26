@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260624T103847Z
+DTSTAMP:20260626T020203Z
 DTSTART:20260702T160000Z
 DTEND:20260702T180000Z
 SUMMARY:FIBA World Cup - España - Dinamarca
-UID:3c8feb69-cc75-49be-a137-61bcb0c61083
+UID:201e405b-52d3-4211-a54f-34e5c3d6bb3a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Vamos</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260626T020203Z
+DTSTART:20260705T160000Z
+DTEND:20260705T180000Z
+SUMMARY:FIBA World Cup - Georgia - España
+UID:7a5b2df0-e3d5-40f1-ae16-2b82cafdcbc6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Vamos</li></ul
  ></body></html>
