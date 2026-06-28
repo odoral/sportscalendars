@@ -16,23 +16,63 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260628T020635Z
+DTSTAMP:20260628T074201Z
 DTSTART:20260628T120000Z
 DTEND:20260628T140000Z
 SUMMARY:Europeo Sub-19 Femenino - Suiza - España
-UID:3f7c606f-8220-4054-b9b2-b8b34d229bee
+UID:7bd95831-f57c-46cd-b6d8-ca29b70bb6cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260628T020635Z
+DTSTAMP:20260628T074201Z
 DTSTART:20260628T170000Z
 DTEND:20260628T190000Z
 SUMMARY:Europeo Sub-19 - Gales - España
-UID:9d5ff42b-bbdf-4b8d-a13b-f927112e3b5d
+UID:bf52f4dc-d2d2-4a41-8150-d925567b6117
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T074201Z
+DTSTART:20260701T150000Z
+DTEND:20260701T170000Z
+SUMMARY:Europeo Sub-19 Femenino - España - Islandia
+UID:64f17fc3-5506-4bc1-a8f5-7f73704d1905
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T074201Z
+DTSTART:20260701T170000Z
+DTEND:20260701T190000Z
+SUMMARY:Europeo Sub-19 - Dinamarca - España
+UID:bc2faafb-0949-403c-9ddb-153dadac8356
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T074201Z
+DTSTART:20260704T130000Z
+DTEND:20260704T150000Z
+SUMMARY:Europeo Sub-19 - España - Alemania
+UID:c3714d5d-1a07-403d-a38e-6364f249d222
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T074201Z
+DTSTART:20260704T150000Z
+DTEND:20260704T170000Z
+SUMMARY:Europeo Sub-19 Femenino - España - Austria
+UID:bb0c677f-7f5d-46b2-8922-4d614eb224c4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

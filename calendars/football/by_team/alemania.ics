@@ -16,15 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260621T021610Z
-DTSTART:20260625T200000Z
-DTEND:20260625T220000Z
-SUMMARY:Mundial 2026 - Ecuador - Alemania
-UID:28328e82-0a47-4f7c-9758-87dad3e875b5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
- body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
- dial
+DTSTAMP:20260628T074201Z
+DTSTART:20260629T203000Z
+DTEND:20260629T223000Z
+SUMMARY:Mundial 2026 - Alemania - Paraguay
+UID:aa04aaf4-9fe6-4f60-9f79-b828978a4eee
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260628T074201Z
+DTSTART:20260704T130000Z
+DTEND:20260704T150000Z
+SUMMARY:Europeo Sub-19 - España - Alemania
+UID:a478ed8c-d334-409d-88bf-6211bffc78de
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
