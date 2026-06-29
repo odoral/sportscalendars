@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260629T020700Z
+DTSTAMP:20260629T084657Z
+DTSTART:20260702T190000Z
+DTEND:20260702T210000Z
+SUMMARY:Mundial 2026 - España - Austria
+UID:b48f7789-0ab3-4e0a-87d4-52145e1123c7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>P
+ PV: DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: 
+ DAZN\n- PPV: DAZN Mundial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260629T084657Z
 DTSTART:20260704T150000Z
 DTEND:20260704T170000Z
 SUMMARY:Europeo Sub-19 Femenino - España - Austria
-UID:5d6301dd-4403-4a5e-bf5b-74347d06cc87
+UID:b4d6233a-2249-4d33-a9ee-fbeeae94fed9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
  ></body></html>
 DESCRIPTION:- Open: rtve Play
