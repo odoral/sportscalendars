@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260627T064508Z
-DTSTART:20260702T160000Z
-DTEND:20260702T180000Z
+DTSTAMP:20260630T074026Z
+DTSTART:20260702T170000Z
+DTEND:20260702T190000Z
 SUMMARY:FIBA World Cup - España - Dinamarca
-UID:50183f31-2fc8-4043-b9e9-48e50a0b87e0
+UID:19a3df71-08f8-4569-9df9-4fcf6f89f164
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
  >\n<li>PPV: M+ Vamos</li></ul></body></html>
@@ -28,15 +28,15 @@ DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
  + Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260627T064508Z
-DTSTART:20260705T160000Z
-DTEND:20260705T180000Z
+DTSTAMP:20260630T074026Z
+DTSTART:20260705T153000Z
+DTEND:20260705T173000Z
 SUMMARY:FIBA World Cup - Georgia - España
-UID:3ad0af0c-eee6-4864-8097-0d2201914c39
+UID:a954fb2e-cbd1-4db1-a4d7-1988b26ac8c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Vamos</li></ul
- ></body></html>
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
+ >\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
- + Vamos
+ + Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
