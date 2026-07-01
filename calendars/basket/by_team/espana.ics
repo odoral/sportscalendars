@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260630T074026Z
+DTSTAMP:20260701T080048Z
 DTSTART:20260702T170000Z
 DTEND:20260702T190000Z
 SUMMARY:FIBA World Cup - España - Dinamarca
-UID:19a3df71-08f8-4569-9df9-4fcf6f89f164
+UID:e371fdd3-22c7-4a4d-a79d-b2b05d0af53d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
  >\n<li>PPV: M+ Vamos</li></ul></body></html>
@@ -28,15 +28,45 @@ DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
  + Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260630T074026Z
+DTSTAMP:20260701T080048Z
+DTSTART:20260704T123000Z
+DTEND:20260704T143000Z
+SUMMARY:Europeo Sub-20 Femenino - Israel - España
+UID:f90387e1-8d56-4928-9416-bfcee66589e4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T080048Z
+DTSTART:20260705T150000Z
+DTEND:20260705T170000Z
+SUMMARY:Europeo Sub-20 Femenino - España - Lituania
+UID:00773134-45e3-45b0-a735-fce9e0108d51
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T080048Z
 DTSTART:20260705T153000Z
 DTEND:20260705T173000Z
 SUMMARY:FIBA World Cup - Georgia - España
-UID:a954fb2e-cbd1-4db1-a4d7-1988b26ac8c6
+UID:3b0ed89a-1566-4ba7-bb06-3724b895d8db
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
  >\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
  + Baloncesto\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260701T080048Z
+DTSTART:20260707T123000Z
+DTEND:20260707T143000Z
+SUMMARY:Europeo Sub-20 Femenino - Croacia - España
+UID:f8839a88-4b49-43bb-84d2-0efb48a599d4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR
