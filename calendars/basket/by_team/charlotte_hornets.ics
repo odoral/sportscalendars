@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260703T013111Z
+DTSTAMP:20260703T065256Z
+DTSTART:20260709T233000Z
+DTEND:20260710T013000Z
+SUMMARY:Otras competiciones - Orlando Magic - Charlotte Hornets
+UID:d5789e97-9f57-4045-b55b-82f564237a41
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T065256Z
 DTSTART:20260711T200000Z
 DTEND:20260711T220000Z
 SUMMARY:Otras competiciones - Charlotte Hornets - New Orleans Pelicans
-UID:a894f1d6-1b1a-4c2a-90d1-d5de1c20eed3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:e80a2193-3049-4917-a8b2-390e23be3810
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260703T013111Z
+DTSTAMP:20260703T065256Z
 DTSTART:20260712T210000Z
 DTEND:20260712T230000Z
 SUMMARY:Otras competiciones - Boston Celtics - Charlotte Hornets
-UID:e93169dc-275b-4bda-9e4a-f7d3bc839e8e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:07a9ddf4-27ea-417d-bbfc-8ecbd9957532
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
 END:VEVENT
 END:VCALENDAR

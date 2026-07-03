@@ -16,13 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260702T065830Z
+DTSTAMP:20260703T065256Z
+DTSTART:20260704T210000Z
+DTEND:20260704T230000Z
+SUMMARY:Otras competiciones - Utah Jazz - Atlanta Hawks
+UID:4dd4255a-7632-4617-9226-3360f3b48fd3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T065256Z
+DTSTART:20260705T230000Z
+DTEND:20260706T010000Z
+SUMMARY:Otras competiciones - Oklahoma C. Thunder - Atlanta Hawks
+UID:b3b27a25-aa70-4708-914f-0962eb03c6f3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T065256Z
+DTSTART:20260706T230000Z
+DTEND:20260707T010000Z
+SUMMARY:Otras competiciones - Memphis Grizzlies - Atlanta Hawks
+UID:ad9bca45-3e69-4e21-ab9a-23d9bd178e3a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T065256Z
 DTSTART:20260709T203000Z
 DTEND:20260709T223000Z
 SUMMARY:Otras competiciones - Atlanta Hawks - San Antonio Spurs
-UID:0eaf8149-02f5-4e3b-9541-2dcbade1139c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:3a8e113f-844e-4eae-a4f7-aad1317534f9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T065256Z
+DTSTART:20260712T000000Z
+DTEND:20260712T020000Z
+SUMMARY:Otras competiciones - Brooklyn Nets - Atlanta Hawks
+UID:2000051a-41a0-449b-bc62-1e6d8e13d91c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 END:VCALENDAR

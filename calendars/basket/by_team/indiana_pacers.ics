@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260702T065830Z
+DTSTAMP:20260703T065256Z
 DTSTART:20260710T203000Z
 DTEND:20260710T223000Z
 SUMMARY:Otras competiciones - Indiana Pacers - Cleveland Cavaliers
-UID:b8673c18-5bef-4a6d-af0b-63f369d491dc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:16ae06b4-f065-4aa9-88f1-07a6985b71af
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T065256Z
+DTSTART:20260711T213000Z
+DTEND:20260711T233000Z
+SUMMARY:Otras competiciones - Philadelphia 76ers - Indiana Pacers
+UID:ebae7222-b6d5-4425-a8b8-67af1d6659db
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 END:VCALENDAR

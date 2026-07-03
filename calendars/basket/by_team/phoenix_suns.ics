@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260703T013111Z
+DTSTAMP:20260703T065256Z
+DTSTART:20260711T030000Z
+DTEND:20260711T050000Z
+SUMMARY:Otras competiciones - Phoenix Suns - Portland Trail Blazers
+UID:9fe75a14-aab8-452c-927d-b8c7437a373d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260703T065256Z
 DTSTART:20260712T190000Z
 DTEND:20260712T210000Z
 SUMMARY:Otras competiciones - New Orleans Pelicans - Phoenix Suns
-UID:4b96e958-4be4-4bf5-92be-6859a4309016
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:fbb599f5-13b5-42e5-9d1f-398fe6fcef22
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
 END:VEVENT
 END:VCALENDAR
