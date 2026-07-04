@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260704T013051Z
+DTSTAMP:20260704T063822Z
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
 SUMMARY:Mundial 2026 - Argentina - Cabo Verde
-UID:225f4279-2ba4-4ac1-8598-b4fc02cf92ab
+UID:cca3a7e9-063c-43f6-9b10-e65267782779
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
  body></html>
@@ -28,51 +28,51 @@ DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
  dial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T013051Z
+DTSTAMP:20260704T063822Z
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
 SUMMARY:Mundial 2026 - Colombia - Ghana
-UID:3c4cebda-2064-4a98-a681-6d6d45a60849
+UID:9a65f5c2-fe3f-4230-a3ba-1bc1b8b65a0c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN Mundial</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T013051Z
+DTSTAMP:20260704T063822Z
 DTSTART:20260704T130000Z
 DTEND:20260704T150000Z
 SUMMARY:Europeo Sub-19 - España - Alemania
-UID:b208a342-fa16-4caa-a51b-90741c7e950b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
- ></body></html>
-DESCRIPTION:- Open: rtve Play
+UID:e87bfb19-da87-452b-bae5-392450a3d0dd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T013051Z
+DTSTAMP:20260704T063822Z
 DTSTART:20260704T150000Z
 DTEND:20260704T170000Z
 SUMMARY:Europeo Sub-19 Femenino - España - Austria
-UID:b9417407-c0aa-438a-8796-c21d22691807
+UID:c488cf75-64a6-4fdc-aa0f-ad89ce4d0c16
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
  ></body></html>
 DESCRIPTION:- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T013051Z
+DTSTAMP:20260704T063822Z
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
 SUMMARY:Mundial 2026 - Canada - Marruecos
-UID:0a27d863-dae2-4a85-917a-e3e78cd925cc
+UID:8a8ce61b-e2a4-4b48-aada-c089f6e31394
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN Mundial</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T013051Z
+DTSTAMP:20260704T063822Z
 DTSTART:20260704T210000Z
 DTEND:20260704T230000Z
 SUMMARY:Mundial 2026 - Paraguay - Francia
-UID:43408293-25ed-4f3f-a8da-caaf9aeb3365
+UID:4eb0a57d-8d1a-4d9c-bf68-57b84b43a306
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
  body></html>
@@ -80,11 +80,31 @@ DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
  dial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T013051Z
+DTSTAMP:20260704T063822Z
+DTSTART:20260705T160000Z
+DTEND:20260705T180000Z
+SUMMARY:Amistoso - Zenit St. Petersburgo - Gimnasia LP
+UID:2c94fbe8-2ebb-4171-af41-17703c0460e9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: LPF Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: LPF Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T063822Z
+DTSTART:20260705T180000Z
+DTEND:20260705T200000Z
+SUMMARY:Mundial 2026 - México - Inglaterra
+UID:29d503b4-8486-4c10-9f9e-e76d52f99004
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T063822Z
 DTSTART:20260705T200000Z
 DTEND:20260705T220000Z
 SUMMARY:Mundial 2026 - Brasil - Noruega
-UID:adf8de25-df56-4c3b-801a-03154b6e5cde
+UID:0521cba5-8fb8-4977-a701-fa5a4411709b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
  body></html>
@@ -92,35 +112,54 @@ DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
  dial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T013051Z
-DTSTART:20260706T000000Z
-DTEND:20260706T020000Z
-SUMMARY:Mundial 2026 - México - Inglaterra
-UID:f9cc3f79-8eef-47d4-be6f-2ecb75f71dca
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN Mundial</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260704T013051Z
+DTSTAMP:20260704T063822Z
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
 SUMMARY:Mundial 2026 - Portugal - España
-UID:eb8fa387-ccf8-4ede-a075-d192c8355ff2
+UID:7b7b0369-f870-4b83-8dad-778fbe3d5499
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
- body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
- dial
+ n: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>P
+ PV: DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: 
+ DAZN\n- PPV: DAZN Mundial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260704T013051Z
+DTSTAMP:20260704T063822Z
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
 SUMMARY:Mundial 2026 - Estados Unidos - Bélgica
-UID:4b271a43-99d3-4870-9a2f-6a59e93c7748
+UID:820f9053-3c87-431d-9c57-f39323d64d4e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN Mundial</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T063822Z
+DTSTART:20260707T160000Z
+DTEND:20260707T180000Z
+SUMMARY:Mundial 2026 - Argentina - Egipto
+UID:371d759f-1b41-4221-b318-92bdea609d5f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T063822Z
+DTSTART:20260707T200000Z
+DTEND:20260707T220000Z
+SUMMARY:Mundial 2026 - Suiza - Colombia
+UID:cfc14fea-44f8-4d20-864f-388f8bb313fe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260704T063822Z
+DTSTART:20260711T190000Z
+DTEND:20260711T210000Z
+SUMMARY:Amistoso - Sevilla - Juv. Torremolinos
+UID:0c32f1ae-52ff-4661-a4b7-870c90938ffe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
