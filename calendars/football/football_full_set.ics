@@ -16,40 +16,84 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260708T012144Z
+DTSTAMP:20260708T062009Z
+DTSTART:20260708T153000Z
+DTEND:20260708T173000Z
+SUMMARY:Europeo Sub-19 - España - Croacia
+UID:082fe4d8-5eb9-4ad3-97c1-aed1d4fb841d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T062009Z
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 SUMMARY:Mundial 2026 - Francia - Marruecos
-UID:d256f976-1a60-4beb-a53a-4c765dc1f5c5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN Mundial</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
+UID:2a3f779b-8257-4efd-95a9-b7ed407f7c6b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
+ body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
+ dial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260708T012144Z
+DTSTAMP:20260708T062009Z
+DTSTART:20260710T160000Z
+DTEND:20260710T180000Z
+SUMMARY:Europeo Sub-19 Femenino - Alemania - España
+UID:eabd2eeb-463a-4485-aadd-e5adb80e05af
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T062009Z
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:Mundial 2026 - España - Bélgica
+UID:8c6da8cc-5785-4720-9028-2514a9c1fc65
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>P
+ PV: DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: 
+ DAZN\n- PPV: DAZN Mundial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T062009Z
 DTSTART:20260711T190000Z
 DTEND:20260711T210000Z
 SUMMARY:Amistoso - Sevilla - Juv. Torremolinos
-UID:795ad684-545a-492d-9dc7-c5d5e6d75dd1
+UID:3f44807b-88ae-4547-b7da-8b6afbcc8e8d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260708T012144Z
+DTSTAMP:20260708T062009Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
 SUMMARY:Mundial 2026 - Noruega - Inglaterra
-UID:daf5b496-514e-4825-b431-1e061c40bd9c
+UID:146a7207-fc0b-4cfa-9ff8-75eba5c37620
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN Mundial</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260708T012144Z
+DTSTAMP:20260708T062009Z
+DTSTART:20260712T010000Z
+DTEND:20260712T030000Z
+SUMMARY:Mundial 2026 - Argentina - Suiza
+UID:750d488a-2129-4bff-a618-49376a8c74db
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T062009Z
 DTSTART:20260717T184500Z
 DTEND:20260717T204500Z
 SUMMARY:Amistoso - Hearts FC - Rayo Vallecano
-UID:80229c17-03a7-4500-ae75-17f31d707dec
+UID:31c7aab4-e98a-4298-8d34-6d0f9a645aaf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT

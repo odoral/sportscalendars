@@ -16,11 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260705T014626Z
-DTSTART:20260706T190000Z
-DTEND:20260706T210000Z
-SUMMARY:Mundial 2026 - Portugal - España
-UID:8ee0ce6d-e36b-4653-8cb2-9ca6af5fd875
+DTSTAMP:20260708T062009Z
+DTSTART:20260708T153000Z
+DTEND:20260708T173000Z
+SUMMARY:Europeo Sub-19 - España - Croacia
+UID:8c0fadde-c3c0-4fc5-b17a-ccad2acb067c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T062009Z
+DTSTART:20260710T160000Z
+DTEND:20260710T180000Z
+SUMMARY:Europeo Sub-19 Femenino - Alemania - España
+UID:043a5f95-4063-4b32-a26f-6b3d9358156c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T062009Z
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:Mundial 2026 - España - Bélgica
+UID:fed70c48-a251-4782-bc29-e46cf79ea5a8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>P
  PV: DAZN Mundial</li></ul></body></html>

@@ -16,21 +16,45 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260708T012144Z
+DTSTAMP:20260708T062009Z
 DTSTART:20260709T200000Z
 DTEND:20260709T220000Z
 SUMMARY:Mundial 2026 - Francia - Marruecos
-UID:5d5a991b-e30a-4482-913a-6005069b3445
+UID:615fc51f-30cd-4f15-a8c7-df9c51ff005c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
+ body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
+ dial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T062009Z
+DTSTART:20260710T190000Z
+DTEND:20260710T210000Z
+SUMMARY:Mundial 2026 - España - Bélgica
+UID:75e85852-4081-4870-bcba-e72d88870bb1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>P
+ PV: DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: 
+ DAZN\n- PPV: DAZN Mundial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260708T062009Z
+DTSTART:20260711T210000Z
+DTEND:20260711T230000Z
+SUMMARY:Mundial 2026 - Noruega - Inglaterra
+UID:1c5bb608-2f5d-4012-af8a-e29154b47940
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN Mundial</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260708T012144Z
-DTSTART:20260711T210000Z
-DTEND:20260711T230000Z
-SUMMARY:Mundial 2026 - Noruega - Inglaterra
-UID:80094e0f-1029-41ef-a2c5-8375d002888b
+DTSTAMP:20260708T062009Z
+DTSTART:20260712T010000Z
+DTEND:20260712T030000Z
+SUMMARY:Mundial 2026 - Argentina - Suiza
+UID:c5424dc9-7afc-4a72-9939-2b56701c76a3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN Mundial</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Mundial
