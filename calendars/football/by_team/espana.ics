@@ -16,25 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260709T012922Z
+DTSTAMP:20260710T072503Z
 DTSTART:20260710T160000Z
 DTEND:20260710T180000Z
 SUMMARY:Europeo Sub-19 Femenino - Alemania - España
-UID:a5d55b37-0b3b-46cd-b5e8-b5d0904c8a7e
+UID:ea12f121-c92e-4024-bda0-3ecd188a90b5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260709T012922Z
+DTSTAMP:20260710T072503Z
 DTSTART:20260710T190000Z
 DTEND:20260710T210000Z
 SUMMARY:Mundial 2026 - España - Bélgica
-UID:418c09a9-c44b-48de-aac6-7095d938765c
+UID:ffdd232a-361b-4448-8585-0236075a8bf7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>P
  PV: DAZN Mundial</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: 
  DAZN\n- PPV: DAZN Mundial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260710T072503Z
+DTSTART:20260711T180000Z
+DTEND:20260711T200000Z
+SUMMARY:Europeo Sub-19 - España - Alemania
+UID:de2da988-2e93-404c-ac6f-5e8c8cd82102
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

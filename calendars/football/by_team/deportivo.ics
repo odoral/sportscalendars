@@ -16,17 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260530T063902Z
-DTSTART:20260531T163000Z
-DTEND:20260531T183000Z
-SUMMARY:Liga Hypermotion - Deportivo - Las Palmas
-UID:a83a832b-8371-4e35-9faf-6b655973c89e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>
- \n<li>PPV: LaLiga TV Hypermotion 3</li>\n<li>PPV: LaLiga TV Multi 3</li>
- \n<li>PPV: LaLiga TV Multi 4</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: TVG\n- PPV: DAZN\n- PPV: LaLiga TV 
- Hypermotion\n- PPV: LaLiga TV Hypermotion 3\n- PPV: LaLiga TV Multi 3\n-
-  PPV: LaLiga TV Multi 4
+DTSTAMP:20260710T072503Z
+DTSTART:20260718T170000Z
+DTEND:20260718T190000Z
+SUMMARY:Amistoso - Compostela - Deportivo
+UID:5a03fde7-65c3-4f9d-a0fe-e4e443bf23b0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: TVG
 END:VEVENT
 END:VCALENDAR
