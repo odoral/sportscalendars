@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260711T012035Z
+DTSTAMP:20260711T091359Z
 DTSTART:20260711T180000Z
 DTEND:20260711T200000Z
 SUMMARY:Europeo Sub-19 - España - Alemania
-UID:9e874958-76cb-4db2-93cf-f3f26d469fbc
+UID:892ea55d-3d6d-43ee-9f73-f3a93cedbf7a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260711T091359Z
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:Mundial 2026 - Francia - España
+UID:dfe1fd87-9c18-45d2-9806-201c1b1bfb19
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
+ body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
+ dial
 END:VEVENT
 END:VCALENDAR
