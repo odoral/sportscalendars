@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20251211T094730Z
+LAST-MODIFIED:20260306T231828Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,17 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260221T081654Z
-DTSTART:20260225T200000Z
-DTEND:20260225T220000Z
-SUMMARY:Champions League - Real Madrid - Benfica
-UID:87d9c8e3-3c10-4500-9f24-cbcd2150de2a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: M+ Liga de Campeo
- nes 4</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li><
- /ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
-  PPV: M+ Liga de Campeones 4\n- PPV: Movistar Plus+\n- PPV: Orange Fútbo
- l 1
+DTSTAMP:20260712T094053Z
+DTSTART:20260716T220000Z
+DTEND:20260717T000000Z
+SUMMARY:Amistoso - Benfica - Villarreal
+UID:9bd5b9ee-f335-4359-bd2f-7b04f6805687
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: Gol Play</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: Gol Play
 END:VEVENT
 END:VCALENDAR
