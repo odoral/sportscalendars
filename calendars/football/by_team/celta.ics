@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260710T072503Z
+DTSTAMP:20260716T011927Z
 DTSTART:20260717T220000Z
 DTEND:20260718T000000Z
 SUMMARY:Amistoso - Braga - Celta
-UID:3ebc1620-49b4-4ac9-987c-0994a81951c5
+UID:54e73fac-dcae-4c83-b407-82213af0f241
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: TVG</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: TVG
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T011927Z
+DTSTART:20260724T220000Z
+DTEND:20260725T000000Z
+SUMMARY:Amistoso - Celta - Sporting de Gijón
+UID:dfa6a8c8-b8c3-47f1-a696-afa39e83a765
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: TVG</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: TVG
