@@ -16,15 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260606T064532Z
-DTSTART:20260606T103000Z
-DTEND:20260606T123000Z
-SUMMARY:LaLiga FC Futures - Alavés - Villarreal
-UID:34e55d51-88db-4048-8ed4-2e1afd9ad3a3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
- li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
- PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+DTSTAMP:20260716T060821Z
+DTSTART:20260718T170000Z
+DTEND:20260718T190000Z
+SUMMARY:Amistoso - Eibar - Alavés
+UID:957e53dd-df29-4ec3-92ad-e0b4e1d7647e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportivo Alavés Y
+ ouTube</li></ul></body></html>
+DESCRIPTION:- Open: Deportivo Alavés YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T060821Z
+DTSTART:20260725T083000Z
+DTEND:20260725T103000Z
+SUMMARY:Amistoso - Girona - Alavés
+UID:9743dd45-fc78-43c9-8501-8ccf3ec73fb8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportivo Alavés Y
+ ouTube</li></ul></body></html>
+DESCRIPTION:- Open: Deportivo Alavés YouTube
 END:VEVENT
 END:VCALENDAR

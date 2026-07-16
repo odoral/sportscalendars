@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260715T011004Z
-DTSTART:20260715T190000Z
-DTEND:20260715T210000Z
-SUMMARY:Mundial 2026 - Inglaterra - Argentina
-UID:b637ad2c-f61f-41ae-b318-36ba32b9d7d9
+DTSTAMP:20260716T060821Z
+DTSTART:20260718T210000Z
+DTEND:20260718T230000Z
+SUMMARY:Mundial 2026 - Francia - Inglaterra
+UID:82e6e2e1-479e-48e4-bec2-47dd0c9ed5dc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
  body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
  dial
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260716T060821Z
+DTSTART:20260719T190000Z
+DTEND:20260719T210000Z
+SUMMARY:Mundial 2026 - España - Argentina
+UID:b828e684-66e5-4dea-8604-823fc016d2f0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>P
+ PV: DAZN Mundial</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: 
+ DAZN\n- PPV: DAZN Mundial
 END:VEVENT
 END:VCALENDAR
