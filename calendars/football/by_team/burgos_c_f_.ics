@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260719T012043Z
+DTSTAMP:20260720T012346Z
 DTSTART:20260724T220000Z
 DTEND:20260725T000000Z
 SUMMARY:Amistoso - Burgos C.F. - Bilbao Athletic
-UID:a1cd5f72-5794-4779-a6d4-273edf93ea07
+UID:6d4691ab-9456-481c-80b7-5bb936eab76c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: La 8 Burgos</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: La 8 Burgos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260720T012346Z
+DTSTART:20260728T220000Z
+DTEND:20260729T000000Z
+SUMMARY:Amistoso - Unionistas - Burgos C.F.
+UID:c97a67df-1ae5-45b6-80ba-5031ff5265f3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: La 8 Burgos</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: La 8 Burgos
