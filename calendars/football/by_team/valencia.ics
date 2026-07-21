@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260720T063641Z
-DTSTART:20260721T220000Z
-DTEND:20260722T000000Z
+DTSTAMP:20260721T062033Z
+DTSTART:20260722T180000Z
+DTEND:20260722T200000Z
 SUMMARY:Amistoso - Valencia - C.D. Eldense
-UID:72a38871-87bd-4724-b704-44b9aa334f66
-X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
- firmar\n<ul><li>Open: Gol Play</li></ul></body></html>
-DESCRIPTION:Atención: Pendientede confirmar\n- Open: Gol Play
+UID:050bd830-d504-4084-a739-52aed75e1bde
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: À Punt (València)</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: À Punt (València)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260721T062033Z
+DTSTART:20260725T180000Z
+DTEND:20260725T200000Z
+SUMMARY:Amistoso - Valencia - C.D. Castellón
+UID:6a5023f9-9f33-4b82-ade1-bd35a0a7d189
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
+ /li></ul></body></html>
+DESCRIPTION:- Open: À Punt (València)
 END:VEVENT
 END:VCALENDAR
