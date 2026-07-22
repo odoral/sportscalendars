@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260520T073350Z
-DTSTART:20260522T163000Z
-DTEND:20260522T183000Z
-SUMMARY:Primera Federación - Marbella - Teruel
-UID:d298eed3-5d13-4b9f-8ec7-261a3c2254f9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+DTSTAMP:20260722T061943Z
+DTSTART:20260730T080000Z
+DTEND:20260730T100000Z
+SUMMARY:Amistoso - Teruel - Petro de Luanda
+UID:eb6fa7e4-3a17-4029-a7f3-aec0fece1737
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR

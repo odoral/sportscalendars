@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260530T063902Z
-DTSTART:20260531T163000Z
-DTEND:20260531T183000Z
-SUMMARY:Liga Hypermotion - Real Zaragoza - Málaga
-UID:af77eceb-8cb2-4cd6-8cb0-e54bd817d75a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Hypermotion 6</li>\n<li>
- PPV: LaLiga TV Multi 5</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV H
- ypermotion 6\n- PPV: LaLiga TV Multi 5
+DTSTAMP:20260722T061943Z
+DTSTART:20260729T163000Z
+DTEND:20260729T183000Z
+SUMMARY:Amistoso - Real Zaragoza - Utebo C.F.
+UID:fb691541-9d61-4a89-a71e-a20f286aacd3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR
