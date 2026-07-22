@@ -16,23 +16,34 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260721T131017Z
+DTSTAMP:20260722T011847Z
 DTSTART:20260725T180000Z
 DTEND:20260725T200000Z
 SUMMARY:Amistoso - Valencia - C.D. Castellón
-UID:ab605820-c5ca-46d7-9364-7975af28c0f4
+UID:2eb472e4-3abd-4629-998e-c905e20ec369
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
  /li></ul></body></html>
 DESCRIPTION:- Open: À Punt (València)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260721T131017Z
+DTSTAMP:20260722T011847Z
 DTSTART:20260729T163000Z
 DTEND:20260729T183000Z
 SUMMARY:Amistoso - Girona - C.D. Castellón
-UID:e3f48222-9ad0-4467-8f68-095e45934d72
+UID:7f0827e9-f77a-4cbc-ba41-aebf34ef55ce
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T011847Z
+DTSTART:20260730T220000Z
+DTEND:20260731T000000Z
+SUMMARY:Amistoso - C.D. Castellón - Alavés
+UID:180129ea-e61a-4ab7-9792-2bf2c470491e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: Deportivo Alavés YouTube</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: Deportivo Alavés You
+ Tube
 END:VEVENT
 END:VCALENDAR

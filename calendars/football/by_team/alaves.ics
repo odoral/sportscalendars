@@ -16,13 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260721T131017Z
+DTSTAMP:20260722T011847Z
 DTSTART:20260725T083000Z
 DTEND:20260725T103000Z
 SUMMARY:Amistoso - Girona - Alavés
-UID:e05ff151-c24f-4c9b-950d-a608d96b3fea
+UID:e1ea414b-08ca-4cfc-98d3-669139d833a6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportivo Alavés Y
  ouTube</li></ul></body></html>
 DESCRIPTION:- Open: Deportivo Alavés YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260722T011847Z
+DTSTART:20260730T220000Z
+DTEND:20260731T000000Z
+SUMMARY:Amistoso - C.D. Castellón - Alavés
+UID:01643524-eb4c-4fed-a27d-b70cdad5788e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: Deportivo Alavés YouTube</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: Deportivo Alavés You
+ Tube
 END:VEVENT
 END:VCALENDAR
