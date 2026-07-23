@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260722T061943Z
+DTSTAMP:20260723T012641Z
 DTSTART:20260729T163000Z
 DTEND:20260729T183000Z
 SUMMARY:Amistoso - Real Zaragoza - Utebo C.F.
-UID:fb691541-9d61-4a89-a71e-a20f286aacd3
+UID:e888f41b-75b9-4584-b69c-69f7b65e4a45
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T012641Z
+DTSTART:20260801T163000Z
+DTEND:20260801T183000Z
+SUMMARY:Amistoso - U.D. Barbastro - Real Zaragoza
+UID:786d4cdc-63a7-4eec-b959-1347ca1a1b48
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV

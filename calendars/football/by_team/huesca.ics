@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260722T061942Z
+DTSTAMP:20260723T012641Z
 DTSTART:20260725T080000Z
 DTEND:20260725T100000Z
 SUMMARY:Amistoso - Huesca - Petro de Luanda
-UID:b946e004-fa72-45f5-9112-3a0e48f74e3d
+UID:e100a0c6-fefd-4c34-a3e4-6292213dcf06
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T012641Z
+DTSTART:20260801T173000Z
+DTEND:20260801T193000Z
+SUMMARY:Amistoso - Real Sociedad B - Huesca
+UID:527967d4-89a3-47aa-a7ff-8cfda3c704fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV

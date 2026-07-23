@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260721T131017Z
+DTSTAMP:20260723T012641Z
 DTSTART:20260724T220000Z
 DTEND:20260725T000000Z
 SUMMARY:Amistoso - Burgos C.F. - Bilbao Athletic
-UID:d7c5e0dd-c191-46e2-a15c-492277108fae
+UID:c57365c5-fb8f-4afd-80b8-913f8318133e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: La 8 Burgos</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: La 8 Burgos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260721T131017Z
+DTSTAMP:20260723T012641Z
 DTSTART:20260728T220000Z
 DTEND:20260729T000000Z
 SUMMARY:Amistoso - Unionistas - Burgos C.F.
-UID:b6c38527-3551-4c92-9442-ae0064348ce5
+UID:8d444b8b-7374-441a-ae0e-0898580e30c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: La 8 Burgos</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: La 8 Burgos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T012641Z
+DTSTART:20260801T170000Z
+DTEND:20260801T190000Z
+SUMMARY:Amistoso - Burgos C.F. - Athletic Club
+UID:8ab346c1-89e4-44ce-a646-827a0a4ba1e1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Athletic Play</li>
+ \n<li>Open: La 8 Burgos</li></ul></body></html>
+DESCRIPTION:- Open: Athletic Play\n- Open: La 8 Burgos
 END:VEVENT
 END:VCALENDAR
