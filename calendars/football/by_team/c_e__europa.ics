@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260602T230602Z
-DTSTART:20260607T141500Z
-DTEND:20260607T161500Z
-SUMMARY:Primera Federación - Celta B - C.E. Europa
-UID:97a677ee-7e1f-4d27-b41a-8f6821050d6a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
- V: DAZN</li>\n<li>PPV: FC Play</li>\n<li>PPV: Primera Federación</li></u
- l></body></html>
-DESCRIPTION:- Open: TVG 2\n- PPV: DAZN\n- PPV: FC Play\n- PPV: Primera Fe
- deración
+DTSTAMP:20260723T062212Z
+DTSTART:20260723T220000Z
+DTEND:20260724T000000Z
+SUMMARY:Amistoso - Barcelona - C.E. Europa
+UID:5fd8b123-d634-45de-b625-e66c9561226f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n
 END:VEVENT
 END:VCALENDAR

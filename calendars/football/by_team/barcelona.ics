@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260722T011847Z
+DTSTAMP:20260723T062212Z
+DTSTART:20260723T220000Z
+DTEND:20260724T000000Z
+SUMMARY:Amistoso - Barcelona - C.E. Europa
+UID:4240f08e-47ff-4a8b-8fec-e57b9592729a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260723T062212Z
 DTSTART:20260731T184500Z
 DTEND:20260731T204500Z
 SUMMARY:Amistoso - Birmingham - Barcelona
-UID:99a5f001-7dcd-4c62-ba0f-099c615017aa
+UID:58ad9363-6cca-4bf0-8b55-7043e4ffa1ca
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Barcelona Youtub
  e (Members)</li></ul></body></html>
 DESCRIPTION:- PPV: FC Barcelona Youtube (Members)
