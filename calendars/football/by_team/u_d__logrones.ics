@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250103T081143Z
-DTSTART:20250104T203000Z
-DTEND:20250104T223000Z
-SUMMARY:Copa del Rey - U.D. Logroñés - Athletic Club
-UID:ac166162-b5cc-45ba-889c-ebacb916a98c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
- li>\n<li>PPV: M+ Copa del Rey</li>\n<li>PPV: M+ LaLiga TV</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ Copa del Rey\n- PPV: M+ L
- aLiga TV
+DTSTAMP:20260726T012609Z
+DTSTART:20260804T163000Z
+DTEND:20260804T183000Z
+SUMMARY:Amistoso - Huesca - U.D. Logroñés
+UID:ef5662b4-5d31-4184-8341-c0f02a002113
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR
