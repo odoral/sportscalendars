@@ -16,31 +16,51 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260727T013026Z
+DTSTAMP:20260727T065335Z
+DTSTART:20260729T170000Z
+DTEND:20260729T190000Z
+SUMMARY:Otras competiciones - Al-Ula FC - Villarreal
+UID:e3c9f317-c74c-4ce0-a2cc-183e2b19a688
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T065335Z
 DTSTART:20260729T180000Z
 DTEND:20260729T200000Z
 SUMMARY:Otras competiciones - Betis - Olympique Lyon
-UID:dc0df5e2-c3a5-417d-b670-4de2a413f3b2
+UID:a6641e47-f0df-4dc7-ac83-e1f3a64488f9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li></ul>
  </body></html>
 DESCRIPTION:- Open: Betis TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260727T013026Z
+DTSTAMP:20260727T065335Z
+DTSTART:20260729T200000Z
+DTEND:20260729T220000Z
+SUMMARY:Otras competiciones - Como 1907 - Villarreal
+UID:bfbba587-d46e-47f1-bb1f-ee9f962bd69d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260727T065335Z
 DTSTART:20260801T180000Z
 DTEND:20260801T200000Z
 SUMMARY:Otras competiciones - Girona - Arsenal
-UID:4e3bcdc0-e20a-49e3-a390-529f78ae5622
+UID:2aa0d5c2-38cf-4c90-989f-47b7d591cadf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260727T013026Z
+DTSTAMP:20260727T065335Z
 DTSTART:20260805T180000Z
 DTEND:20260805T200000Z
 SUMMARY:Otras competiciones - Mallorca - PSG
-UID:a2bad172-88b5-4ad1-a1a1-ae8d4c0d6a69
+UID:eceaf8bc-ee35-4e97-88db-1a33e36754cb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esports IB3 Youtub
  e</li>\n<li>Open: IB3</li></ul></body></html>
 DESCRIPTION:- Open: Esports IB3 Youtube\n- Open: IB3
