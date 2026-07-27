@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260521T015817Z
-DTSTART:20260530T160000Z
-DTEND:20260530T180000Z
-SUMMARY:Champions League - PSG - Arsenal
-UID:7b7753ec-bd4e-47ef-97b4-dcb92a1bc0aa
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar
-  Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Liga de Campeones\
- n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+DTSTAMP:20260727T013026Z
+DTSTART:20260805T180000Z
+DTEND:20260805T200000Z
+SUMMARY:Otras competiciones - Mallorca - PSG
+UID:892f89f6-f303-4891-80d9-a755cac9d460
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esports IB3 Youtub
+ e</li>\n<li>Open: IB3</li></ul></body></html>
+DESCRIPTION:- Open: Esports IB3 Youtube\n- Open: IB3
 END:VEVENT
 END:VCALENDAR
