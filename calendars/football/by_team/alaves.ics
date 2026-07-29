@@ -16,14 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260726T012609Z
+DTSTAMP:20260729T012038Z
 DTSTART:20260730T220000Z
 DTEND:20260731T000000Z
 SUMMARY:Amistoso - C.D. Castellón - Alavés
-UID:8085625a-25aa-44b5-a9b8-f7db013a4286
+UID:63627afa-e032-478e-b462-e452688f5b9d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: Deportivo Alavés YouTube</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: Deportivo Alavés You
  Tube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T012038Z
+DTSTART:20260807T173000Z
+DTEND:20260807T193000Z
+SUMMARY:Otras competiciones - Racing de Santander - Alavés
+UID:022668df-e0d0-42cb-8d7e-cd37caf44016
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportivo Alavés Y
+ ouTube</li>\n<li>Open: SPORTPUBLIC TV YouTube</li></ul></body></html>
+DESCRIPTION:- Open: Deportivo Alavés YouTube\n- Open: SPORTPUBLIC TV YouT
+ ube
 END:VEVENT
 END:VCALENDAR

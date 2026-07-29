@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260728T011823Z
+DTSTAMP:20260729T012038Z
 DTSTART:20260806T163000Z
 DTEND:20260806T183000Z
 SUMMARY:Amistoso - Real Zaragoza - F.C. Andorra
-UID:c090ea0e-8be7-4c74-899b-8620406be7d0
+UID:4f5f0de4-d45c-412f-8339-37b417a7a8f2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T012038Z
+DTSTART:20260807T163000Z
+DTEND:20260807T183000Z
+SUMMARY:Amistoso - Huesca - F.C. Andorra
+UID:35a80639-d187-4794-8886-6233e9b50802
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV

@@ -16,15 +16,36 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260728T061651Z
+DTSTAMP:20260729T012038Z
 DTSTART:20260729T170000Z
 DTEND:20260729T190000Z
 SUMMARY:Amistoso - Racing de Santander - Athletic Club
-UID:34d58c6a-1135-4a8d-983a-98d6d64102b7
+UID:3e0ba36c-64e1-4277-832f-e1c857ab14b5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Athletic Play</li>
  \n<li>Open: ETB1</li>\n<li>Open: SPORTPUBLIC TV YouTube</li></ul></body>
  </html>
 DESCRIPTION:- Open: Athletic Play\n- Open: ETB1\n- Open: SPORTPUBLIC TV Y
  ouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T012038Z
+DTSTART:20260807T093000Z
+DTEND:20260807T113000Z
+SUMMARY:Amistoso - Racing de Santander - Sporting de Gijón
+UID:ebc02cbe-8a85-4b1c-ab14-6c67ba5734a1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SPORTPUBLIC TV You
+ Tube</li>\n<li>Open: TPA</li></ul></body></html>
+DESCRIPTION:- Open: SPORTPUBLIC TV YouTube\n- Open: TPA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T012038Z
+DTSTART:20260807T173000Z
+DTEND:20260807T193000Z
+SUMMARY:Otras competiciones - Racing de Santander - Alavés
+UID:fb31c38f-4bef-44bc-9fd1-10a8dfeec6b2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportivo Alavés Y
+ ouTube</li>\n<li>Open: SPORTPUBLIC TV YouTube</li></ul></body></html>
+DESCRIPTION:- Open: Deportivo Alavés YouTube\n- Open: SPORTPUBLIC TV YouT
+ ube
 END:VEVENT
 END:VCALENDAR
