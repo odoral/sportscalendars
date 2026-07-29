@@ -16,61 +16,51 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
-DTSTART:20260728T220000Z
-DTEND:20260729T000000Z
-SUMMARY:Amistoso - Unionistas - Burgos C.F.
-UID:d8360e54-bd20-495d-8bc9-37bc90525701
-X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
- firmar\n<ul><li>Open: La 8 Burgos</li></ul></body></html>
-DESCRIPTION:Atención: Pendientede confirmar\n- Open: La 8 Burgos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T100000Z
 DTEND:20260729T120000Z
 SUMMARY:Amistoso - Cerezo Osaka - Borussia Dortmund
-UID:870ec614-a7a2-49ce-8f15-f718c46bc891
+UID:b17a31dc-873c-4680-8de3-b6cc782523e7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T161500Z
 DTEND:20260729T181500Z
 SUMMARY:Amistoso Femenino - UDG Tenerife - RCD Espanyol Fem.
-UID:7daad190-0f32-4698-b819-598f6f180f6f
+UID:a2e75241-caaf-4220-9d8a-bf695678b624
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
  l></body></html>
 DESCRIPTION:- Open: TV Canaria
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T163000Z
 DTEND:20260729T183000Z
 SUMMARY:Amistoso - Girona - C.D. Castellón
-UID:1d006dc8-e1c8-45e8-9f44-69717de0ed57
+UID:59ed509c-0ade-4b2a-84cd-fa20927b71e3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T163000Z
 DTEND:20260729T183000Z
 SUMMARY:Amistoso - Real Zaragoza - Utebo C.F.
-UID:224324b0-aa51-4bc6-8a95-cafcd38aa81e
+UID:45aa1644-a508-4cd8-a891-76263d2d57d6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T170000Z
 DTEND:20260729T190000Z
 SUMMARY:Amistoso - Racing de Santander - Athletic Club
-UID:6e835e15-7060-4f8b-8e1f-c1e3cfd74eb9
+UID:c3876979-d68d-4786-8456-02d70e4fcd50
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Athletic Play</li>
  \n<li>Open: ETB1</li>\n<li>Open: SPORTPUBLIC TV YouTube</li></ul></body>
  </html>
@@ -78,403 +68,425 @@ DESCRIPTION:- Open: Athletic Play\n- Open: ETB1\n- Open: SPORTPUBLIC TV Y
  ouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T170000Z
 DTEND:20260729T190000Z
 SUMMARY:Otras competiciones - Al-Ula FC - Villarreal
-UID:648431ab-43ac-4033-b081-e7bda3259052
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
- </body></html>
-DESCRIPTION:- Open: Gol Play
+UID:a6c9a84a-027e-490d-b5f2-bc7d05abf3c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T173000Z
 DTEND:20260729T193000Z
 SUMMARY:Amistoso - Deportivo - Lugo
-UID:90993b4a-9329-4015-bec9-c0f6342f15a8
+UID:06cca028-8bfc-4adb-ab36-445f5db9c634
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li></ul></bod
  y></html>
 DESCRIPTION:- Open: TVG
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
+DTSTART:20260729T173000Z
+DTEND:20260729T193000Z
+SUMMARY:Amistoso - Unionistas - Burgos C.F.
+UID:e95a8f5f-9ba6-4527-8869-ef13873ee4f9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 8 Burgos</li></
+ ul></body></html>
+DESCRIPTION:- Open: La 8 Burgos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T180000Z
 DTEND:20260729T200000Z
 SUMMARY:Amistoso - Real Oviedo - Ponferradina
-UID:5eb94d6a-48e4-42af-b1fb-e88eb4e0c57c
+UID:7b8ef61f-79e5-4ece-a033-954aaf8d2444
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealOviedo YouTube
  </li></ul></body></html>
 DESCRIPTION:- Open: RealOviedo YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T180000Z
 DTEND:20260729T200000Z
 SUMMARY:Otras competiciones - Betis - Olympique Lyon
-UID:a9191b6d-7919-4ec0-b86f-ce1581a97f85
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li></ul>
- </body></html>
-DESCRIPTION:- Open: Betis TV
+UID:2f01baac-901f-4155-9133-f467b7a1b677
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Betis TV\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T184500Z
 DTEND:20260729T204500Z
 SUMMARY:Amistoso - Burnley - Espanyol
-UID:e9e1efd3-c6b0-4a34-b970-aaf1d41bd3d1
+UID:36fe048d-b73d-4ba3-962d-8d7ff3673e82
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: RCD Espanyol YouTube</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: RCD Espanyol YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T200000Z
 DTEND:20260729T220000Z
 SUMMARY:Otras competiciones - Como 1907 - Villarreal
-UID:9b98a0ff-66ea-4f36-a361-2870766fc0fc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
- </body></html>
-DESCRIPTION:- Open: Gol Play
+UID:76508202-addb-42ef-9396-6644ed31c5ea
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260729T220000Z
 DTEND:20260730T000000Z
 SUMMARY:Copa Sudamericana - Vasco da Gama - Medellín
-UID:0d327e0e-bccc-4eb7-8b9e-a806a9a4e024
+UID:48bce347-9a92-4dd6-ac45-54922fe0a837
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
  /body></html>
 DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260730T080000Z
 DTEND:20260730T100000Z
 SUMMARY:Amistoso - Teruel - Petro de Luanda
-UID:cce8d6fe-84b0-4132-bbd1-5bc9b117f46a
+UID:de84ab1f-47e4-45a1-a96f-60ebf6932673
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260730T080000Z
 DTEND:20260730T100000Z
 SUMMARY:Amistoso - Mallorca - Al-Ittihad Jeddah Club
-UID:8a2be07c-93bc-4f2b-aa62-ebbe2121ba6f
+UID:8aeb26a5-73ea-4e89-80bc-380bc46a3ed0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esports IB3 Youtub
  e</li>\n<li>Open: IB3</li></ul></body></html>
 DESCRIPTION:- Open: Esports IB3 Youtube\n- Open: IB3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260730T180000Z
 DTEND:20260730T200000Z
 SUMMARY:Amistoso - Málaga - Al-Ittihad Jeddah Club
-UID:9869a829-7c5d-407a-b781-d8ab8c7ecf8a
+UID:df0ff516-e776-4e3a-aa27-607742e7fd31
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 101TV</li></ul></b
  ody></html>
 DESCRIPTION:- Open: 101TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260730T220000Z
 DTEND:20260731T000000Z
 SUMMARY:Amistoso - C.D. Castellón - Alavés
-UID:ff390c15-ea03-4bee-9146-281c3aeefa31
+UID:91abe4ab-1517-4158-b76d-cce347c296eb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: Deportivo Alavés YouTube</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: Deportivo Alavés You
  Tube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
+DTSTART:20260731T083000Z
+DTEND:20260731T103000Z
+SUMMARY:Amistoso - Elche - Córdoba
+UID:fa9cc688-383b-450f-8279-91a0ef6164f5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
+ /li></ul></body></html>
+DESCRIPTION:- Open: À Punt (València)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260729T062237Z
 DTSTART:20260731T170000Z
 DTEND:20260731T190000Z
 SUMMARY:Amistoso - NEC Nijmegen - Sevilla
-UID:9d7e913f-c917-4cb5-ab5f-418b6477f654
+UID:d55fe513-57a4-43c6-aaa5-afabf2dd03df
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Sevilla FC +</li></
  ul></body></html>
 DESCRIPTION:- PPV: Sevilla FC +
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260731T180000Z
 DTEND:20260731T200000Z
 SUMMARY:Amistoso - Albacete - R.M. Castilla
-UID:6e3845c1-5f07-46b4-8be6-3f2287cfebf0
+UID:974c5394-182e-459d-8200-429eaf3c0e28
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li></ul></body></html>
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260731T184500Z
 DTEND:20260731T204500Z
 SUMMARY:Amistoso - Birmingham - Barcelona
-UID:9cb0b381-a644-45af-bf31-bc524896d4ab
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Barcelona Youtub
- e (Members)</li></ul></body></html>
-DESCRIPTION:- PPV: FC Barcelona Youtube (Members)
+UID:675d1ed4-e788-44e2-9d08-98f5afd83250
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 3Cat</li>\n<li>Ope
+ n: TV3</li>\n<li>PPV: FC Barcelona Youtube (Members)</li></ul></body></h
+ tml>
+DESCRIPTION:- Open: 3Cat\n- Open: TV3\n- PPV: FC Barcelona Youtube (Membe
+ rs)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T080000Z
 DTEND:20260801T100000Z
 SUMMARY:Amistoso - Levante - Albacete
-UID:2126c71c-f408-484e-90e7-a1035509aeeb
+UID:c54ebef3-710e-46a8-abfb-436f430fd42d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
  LM)</li></ul></body></html>
 DESCRIPTION:- Open: CMMPlay (Castilla-LM)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T130000Z
 DTEND:20260801T150000Z
 SUMMARY:Amistoso - Manchester United - Atlético de Madrid
-UID:9d750aea-f0ff-420f-ac2f-554d5ac5833f
+UID:0b92c2c7-392d-418f-940d-530ca82e0da3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T140000Z
 DTEND:20260801T160000Z
 SUMMARY:Amistoso - Middlesbrough - Espanyol
-UID:6f154211-544a-4834-95c5-8c98e382636b
+UID:66c96c5b-bed4-4082-9b8c-addec788ab05
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: RCD Espanyol YouTube</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: RCD Espanyol YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T160000Z
 DTEND:20260801T180000Z
 SUMMARY:Amistoso - Gimnástica T. - Sporting de Gijón
-UID:4096402a-c072-4517-a961-14097297a774
+UID:7f400f35-a036-426d-96cb-1fd154e8cdc9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA</li></ul></bod
  y></html>
 DESCRIPTION:- Open: TPA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T160000Z
 DTEND:20260801T180000Z
 SUMMARY:Amistoso - Real Madrid - Fiorentina
-UID:0d6e5da5-359f-4a14-87ed-9d569a2bc4f9
+UID:524b9645-cb65-49eb-8a14-621f33aaeb96
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  </ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T163000Z
 DTEND:20260801T183000Z
 SUMMARY:Amistoso - St. Pauli - Deportivo
-UID:5659d982-91ae-41a2-ab35-c2a3dd0e4570
+UID:25e80f14-8dc5-43cb-a0bd-8316e7b65670
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li></ul></bod
  y></html>
 DESCRIPTION:- Open: TVG
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T163000Z
 DTEND:20260801T183000Z
 SUMMARY:Amistoso - U.D. Barbastro - Real Zaragoza
-UID:c3db53fb-1c6f-424e-ae4d-9f4fadd839df
+UID:17ad2d22-dff4-4366-8809-4514045802eb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T170000Z
 DTEND:20260801T190000Z
 SUMMARY:Amistoso - Burgos C.F. - Athletic Club
-UID:971d3bb5-9519-4ffa-b592-881cc2ab20f2
+UID:1010ee38-b12f-46c0-b237-b3a4dffd70de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Athletic Play</li>
  \n<li>Open: La 8 Burgos</li></ul></body></html>
 DESCRIPTION:- Open: Athletic Play\n- Open: La 8 Burgos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T173000Z
 DTEND:20260801T193000Z
 SUMMARY:Amistoso - Stoke City - Valencia
-UID:f3443f2b-47dc-4485-b3af-511bc7e346f3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
- /li></ul></body></html>
-DESCRIPTION:- Open: À Punt (València)
+UID:2540ecb0-7998-4eae-97bf-88e9fa08930a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: À Punt (València)</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: À Punt (València)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T173000Z
 DTEND:20260801T193000Z
 SUMMARY:Amistoso - Real Sociedad B - Huesca
-UID:7ee7a376-6a1c-4510-80d2-3a843cd3d29a
+UID:b2784e13-53c9-4e6f-905a-4b9d81e073d3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260801T180000Z
 DTEND:20260801T200000Z
 SUMMARY:Otras competiciones - Girona - Arsenal
-UID:13cd21e3-f176-42b7-9a10-c4e4fec24b69
+UID:49ab0e4a-f422-4899-955d-bbb7d45b1a3f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260802T123000Z
 DTEND:20260802T143000Z
 SUMMARY:Amistoso - Utrecht - Sevilla
-UID:4bf4b90f-a589-4fef-8040-dcf4c69b7c9e
+UID:7c63c611-0088-4b86-9f60-ec857543d723
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Sevilla FC +</li></
  ul></body></html>
 DESCRIPTION:- PPV: Sevilla FC +
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260804T163000Z
 DTEND:20260804T183000Z
 SUMMARY:Amistoso - Huesca - U.D. Logroñés
-UID:3dc90064-6462-47bd-9ae6-cebeb7c4aea4
+UID:00f1fe5b-c719-481e-b764-c380ca56dc72
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260805T080000Z
 DTEND:20260805T100000Z
 SUMMARY:Amistoso - Granada C.F. - Cádiz
-UID:772356e0-f326-486f-94f6-31cb20feebcb
+UID:04338f17-9ac1-4c64-a912-f3929c5d90b7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Granada CF YouTube
  </li></ul></body></html>
 DESCRIPTION:- Open: Granada CF YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260805T080000Z
 DTEND:20260805T100000Z
 SUMMARY:Amistoso - Villarreal - Levante
-UID:7fdc36a5-27e6-4cf4-8ea0-f8f6fac42699
+UID:a72cedf8-44dd-4646-871b-d65e10ff1425
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
  /li></ul></body></html>
 DESCRIPTION:- Open: À Punt (València)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260805T110500Z
 DTEND:20260805T130500Z
 SUMMARY:Amistoso - A.C. Milan - Inter de Milan
-UID:3ff86d15-00c3-435c-9aa2-bca422295088
+UID:63979889-1416-44dc-b585-20a22cfdb035
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260805T180000Z
 DTEND:20260805T200000Z
 SUMMARY:Amistoso - Sassuolo - Celta
-UID:287d1269-d369-415e-aacd-a876af9e61aa
+UID:9393fcd3-361e-420a-82d7-2807f0b58b07
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li></ul></bod
  y></html>
 DESCRIPTION:- Open: TVG
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260805T180000Z
 DTEND:20260805T200000Z
 SUMMARY:Otras competiciones - Mallorca - PSG
-UID:d16979c8-fa44-4879-915b-c34bd1c00b18
+UID:a443a16f-fc89-4d12-b749-a505b7425dfd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esports IB3 Youtub
  e</li>\n<li>Open: IB3</li></ul></body></html>
 DESCRIPTION:- Open: Esports IB3 Youtube\n- Open: IB3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260805T183000Z
 DTEND:20260805T203000Z
 SUMMARY:Amistoso - Arsenal - Betis
-UID:9d484343-4bbf-474a-82dd-125b745bb9b4
+UID:8d23a562-2ba5-4144-a6c0-a8f81cd16f38
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li></ul>
  </body></html>
 DESCRIPTION:- Open: Betis TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260806T163000Z
 DTEND:20260806T183000Z
 SUMMARY:Amistoso - Real Zaragoza - F.C. Andorra
-UID:0026280b-cd50-4590-876b-69a330b3054c
+UID:2952b02f-d129-4f39-bd0e-1b29dfcdf4da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260806T180000Z
 DTEND:20260806T200000Z
 SUMMARY:Amistoso - Fiorentina - Deportivo
-UID:4307c4fd-d594-463a-9b61-8e54da0a3f54
+UID:2cce7d4a-cd3f-48d2-9319-52fcfb4ae90c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li></ul></bod
  y></html>
 DESCRIPTION:- Open: TVG
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260806T220000Z
 DTEND:20260807T000000Z
 SUMMARY:Amistoso - Albacete - C.D. Eldense
-UID:6e30b569-f2da-48f3-83f4-512f76519c0b
+UID:921564c7-f7a3-419b-b43b-e6a639b5fe2a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: CMMPlay (Castilla-LM)</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: CMMPlay (Castilla-LM
  )
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260807T093000Z
 DTEND:20260807T113000Z
 SUMMARY:Amistoso - Racing de Santander - Sporting de Gijón
-UID:52d8f10e-55c4-428e-8a55-838d3d1fa466
+UID:5765c15b-fe62-4e38-8c9f-21abaa224e14
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SPORTPUBLIC TV You
  Tube</li>\n<li>Open: TPA</li></ul></body></html>
 DESCRIPTION:- Open: SPORTPUBLIC TV YouTube\n- Open: TPA
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260807T163000Z
 DTEND:20260807T183000Z
 SUMMARY:Amistoso - Huesca - F.C. Andorra
-UID:1b19d118-345d-4c2f-9ab1-58bcade126a1
+UID:27a48553-72f2-4870-b9b2-658a238499ca
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260807T170000Z
 DTEND:20260807T190000Z
 SUMMARY:Otras competiciones - AD Ceuta - Málaga
-UID:80d91884-a2b1-4ee2-a225-253e1d5003fc
+UID:2516cf32-bcba-4af8-b23d-132620214286
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 101TV</li></ul></b
  ody></html>
 DESCRIPTION:- Open: 101TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260729T012038Z
+DTSTAMP:20260729T062237Z
 DTSTART:20260807T173000Z
 DTEND:20260807T193000Z
 SUMMARY:Otras competiciones - Racing de Santander - Alavés
-UID:5924e3da-8187-47f6-b55c-7ffd081ff4e3
+UID:b464c174-75a2-4ca9-ac60-77d29098c073
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportivo Alavés Y
  ouTube</li>\n<li>Open: SPORTPUBLIC TV YouTube</li></ul></body></html>
 DESCRIPTION:- Open: Deportivo Alavés YouTube\n- Open: SPORTPUBLIC TV YouT
