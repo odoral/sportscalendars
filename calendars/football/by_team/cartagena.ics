@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260520T073350Z
-DTSTART:20260523T163000Z
-DTEND:20260523T183000Z
-SUMMARY:Primera Federación - Cartagena - Betis Deportivo
-UID:4e778eb3-4772-419d-a560-af7a210d6c6b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
- <li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federació
- n</li></ul></body></html>
-DESCRIPTION:- Open: La 7 Murcia\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: P
- rimera Federación
+DTSTAMP:20260730T100900Z
+DTSTART:20260731T173000Z
+DTEND:20260731T193000Z
+SUMMARY:Amistoso - Cartagena - Johor FC
+UID:61c603b3-5735-4ea4-9261-684be89e4aaf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Telecartagena</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: Telecartagena
 END:VEVENT
 END:VCALENDAR
