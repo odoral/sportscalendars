@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260729T062237Z
+DTSTAMP:20260730T011330Z
 DTSTART:20260801T173000Z
 DTEND:20260801T193000Z
 SUMMARY:Amistoso - Stoke City - Valencia
-UID:60536186-c791-447d-b6ff-02bf7d54cc98
+UID:96bb8f72-bda4-4ff9-8aed-8e8d3bfb40a1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >Open: À Punt (València)</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: À Punt (València)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260730T011330Z
+DTSTART:20260808T190000Z
+DTEND:20260808T210000Z
+SUMMARY:Otras competiciones - Valencia - Newcastle
+UID:17d6a89f-9637-41b2-89c7-65a4cc5320e1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
+ /li></ul></body></html>
+DESCRIPTION:- Open: À Punt (València)
 END:VEVENT
 END:VCALENDAR
