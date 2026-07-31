@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260729T062237Z
+DTSTAMP:20260731T063535Z
 DTSTART:20260731T184500Z
 DTEND:20260731T204500Z
 SUMMARY:Amistoso - Birmingham - Barcelona
-UID:fa5373bc-0234-4f99-aa47-a126ecb5ad55
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 3Cat</li>\n<li>Ope
- n: TV3</li>\n<li>PPV: FC Barcelona Youtube (Members)</li></ul></body></h
- tml>
-DESCRIPTION:- Open: 3Cat\n- Open: TV3\n- PPV: FC Barcelona Youtube (Membe
- rs)
+UID:c8445a4a-aa42-41f5-b461-8bb125b90f24
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  FC Barcelona Youtube (Members)</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: FC Barcelona Youtube (Members)
 END:VEVENT
 END:VCALENDAR
