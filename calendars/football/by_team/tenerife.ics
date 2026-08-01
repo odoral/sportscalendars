@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260730T011330Z
+DTSTAMP:20260801T094724Z
+DTSTART:20260801T190000Z
+DTEND:20260801T210000Z
+SUMMARY:Amistoso - Tenerife - Cádiz
+UID:7ecb7703-01f2-469d-9e81-b8360836156b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
+ l></body></html>
+DESCRIPTION:- Open: TV Canaria
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260801T094724Z
 DTSTART:20260807T220000Z
 DTEND:20260808T000000Z
 SUMMARY:Otras competiciones - Leganés - Tenerife
-UID:9a12ea8d-4f10-4466-9eb7-7976f3ef0b4d
+UID:0c09ec83-4bee-48ee-9af7-74da50bcacb8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: TV Canaria</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: TV Canaria
