@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,16 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260328T082603Z
-DTSTART:20260328T090000Z
-DTEND:20260328T110000Z
-SUMMARY:LaLiga FC Futures - Palmeiras - PSG
-UID:bddcd509-39fb-4ae0-991b-00a0ec6a5b3b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
- i>PPV: GolStadium Premium</li>\n<li>PPV: LaLiga+</li></ul></body></html>
- 
-DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
-  LaLiga\n- PPV: GolStadium Premium\n- PPV: LaLiga+
+DTSTAMP:20260805T061707Z
+DTSTART:20260812T220000Z
+DTEND:20260813T000000Z
+SUMMARY:Copa Libertadores - Palmeiras - Cerro Porteño
+UID:ad87fd3a-4897-4743-a68a-f9da695d4d33
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
