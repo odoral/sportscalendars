@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260703T013111Z
-DTSTART:20260705T153000Z
-DTEND:20260705T173000Z
-SUMMARY:FIBA World Cup - Georgia - España
-UID:0c1de819-c5ea-4d42-a51c-80c01299004f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
- >\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
- + Baloncesto\n- PPV: M+ Vamos
+DTSTAMP:20260806T102301Z
+DTSTART:20260807T100000Z
+DTEND:20260807T120000Z
+SUMMARY:Europeo Sub-16 - Israel - Georgia
+UID:490005a6-0e85-49bf-9c92-ad85e4246efb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T102301Z
+DTSTART:20260808T173000Z
+DTEND:20260808T193000Z
+SUMMARY:Europeo Sub-16 - Georgia - España
+UID:e5b2cdb0-b699-41f8-b575-ad82fe874a1e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260806T102301Z
+DTSTART:20260809T123000Z
+DTEND:20260809T143000Z
+SUMMARY:Europeo Sub-16 - Grecia - Georgia
+UID:d87c2aa7-17ef-486d-8c89-231e3b4256ff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR
