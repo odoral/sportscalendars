@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260529T074353Z
-DTSTART:20260531T100000Z
-DTEND:20260531T120000Z
-SUMMARY:Liga F - Real Sociedad F. - At. Madrid Fem.
-UID:477fb652-5bd7-49b4-aa59-a665ec851193
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
- n: Gol Play</li>\n<li>Open: TEN TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: DA
- ZN 2</li></ul></body></html>
-DESCRIPTION:- Open: ETB1\n- Open: Gol Play\n- Open: TEN TV\n- PPV: DAZN\n
- - PPV: DAZN 2
+DTSTAMP:20260806T011628Z
+DTSTART:20260814T220000Z
+DTEND:20260815T000000Z
+SUMMARY:Otras competiciones - UDG Tenerife - At. Madrid Fem.
+UID:ec216239-000c-4c80-a881-53cdbbad23e9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
+ firmar\n<ul><li>Open: TV Canaria</li></ul></body></html>
+DESCRIPTION:Atención: Pendientede confirmar\n- Open: TV Canaria
 END:VEVENT
 END:VCALENDAR
