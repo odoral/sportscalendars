@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260806T062023Z
+DTSTAMP:20260807T005011Z
 DTSTART:20260808T170000Z
 DTEND:20260808T190000Z
 SUMMARY:Otras competiciones - Leganés - Tenerife
-UID:bf53a2f8-7afa-4b61-853e-89ef5ac292db
+UID:0db1fbb1-94d5-4a69-bcef-b7625c55afa8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
  l></body></html>
 DESCRIPTION:- Open: TV Canaria
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260807T005011Z
+DTSTART:20260816T150000Z
+DTEND:20260816T170000Z
+SUMMARY:Liga Hypermotion - Eibar - Tenerife
+UID:72e619f9-c38d-4df3-92c5-26ceae7c13ad
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
