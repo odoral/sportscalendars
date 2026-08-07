@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260327T011020Z
-DTSTART:20260327T090000Z
-DTEND:20260327T110000Z
-SUMMARY:LaLiga FC Futures - Bayer Leverkusen - Galatasaray
-UID:e3f8f068-5f18-466d-a7df-6466ca211f28
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<l
- i>PPV: GolStadium Premium</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
-  LaLiga\n- PPV: GolStadium Premium
+DTSTAMP:20260807T084352Z
+DTSTART:20260808T180000Z
+DTEND:20260808T200000Z
+SUMMARY:Amistoso - Galatasaray - Villarreal
+UID:c636ffc7-acee-4b4c-9e7d-20327e83d7eb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
