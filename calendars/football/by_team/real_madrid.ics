@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260808T044449Z
+DTSTAMP:20260808T082513Z
 DTSTART:20260808T170000Z
 DTEND:20260808T190000Z
 SUMMARY:Amistoso - Ferencvaros - Real Madrid
-UID:ffce66df-e0bf-4184-8381-01a79df9dd05
+UID:cad54aaf-6169-470d-96ad-95e6219818bd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  </ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260808T044449Z
+DTSTAMP:20260808T082513Z
 DTSTART:20260812T190000Z
 DTEND:20260812T210000Z
 SUMMARY:Otras competiciones - Deportivo - Real Madrid
-UID:511b1189-9aea-41a8-ae50-817dae554caa
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li></ul></bod
- y></html>
-DESCRIPTION:- Open: TVG
+UID:cdbb6c12-00eb-4751-84af-4876f932464b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
