@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260808T004142Z
+DTSTAMP:20260808T044449Z
+DTSTART:20260808T170000Z
+DTEND:20260808T190000Z
+SUMMARY:Amistoso - Burgos C.F. - Cultural Leonesa
+UID:065b5798-dc0f-42e2-824b-c7188a7a3d4f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 9TV (León)</li>\n<
+ li>Open: La 8 Burgos</li></ul></body></html>
+DESCRIPTION:- Open: 9TV (León)\n- Open: La 8 Burgos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T044449Z
 DTSTART:20260816T170000Z
 DTEND:20260816T190000Z
 SUMMARY:Liga Hypermotion - Burgos C.F. - Córdoba
-UID:6512cecc-33ed-4f9f-aec1-a536d05c0591
+UID:ddefbc37-50b3-4af6-a24f-42e16930516c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion

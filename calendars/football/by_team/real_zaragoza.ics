@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260808T004142Z
-DTSTART:20260814T180000Z
-DTEND:20260814T200000Z
-SUMMARY:Amistoso - U.D. Logroñés - Real Zaragoza
-UID:86ee2e6f-a788-4f59-bcbf-d6926788b87a
+DTSTAMP:20260808T044449Z
+DTSTART:20260808T173000Z
+DTEND:20260808T193000Z
+SUMMARY:Amistoso - Real Zaragoza - Real Sociedad B
+UID:2a5c2bf6-819f-4f28-89eb-bdead0d8c775
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260808T004142Z
+DTSTAMP:20260808T044449Z
+DTSTART:20260814T180000Z
+DTEND:20260814T200000Z
+SUMMARY:Amistoso - U.D. Logroñés - Real Zaragoza
+UID:43bc038d-7203-4e70-a9e6-ef280846504d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T044449Z
 DTSTART:20260815T170000Z
 DTEND:20260815T190000Z
 SUMMARY:Amistoso - Villarreal B - Real Zaragoza
-UID:3e9e6a55-a4f0-4ce4-b095-0f66f55d62e7
+UID:9b9cea65-0cee-457d-a9ae-18c9396cc024
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV

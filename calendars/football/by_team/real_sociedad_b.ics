@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260808T004142Z
+DTSTAMP:20260808T044449Z
+DTSTART:20260808T173000Z
+DTEND:20260808T193000Z
+SUMMARY:Amistoso - Real Zaragoza - Real Sociedad B
+UID:b14186c6-f1be-41e9-8660-492f3fe57594
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260808T044449Z
 DTSTART:20260814T183000Z
 DTEND:20260814T203000Z
 SUMMARY:Liga Hypermotion - Real Sociedad B - C.D. Castellón
-UID:05d395f6-0be6-49ee-81f5-b0f4207deb88
+UID:7620f31c-82c3-4f99-8ab5-117163e9371b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
