@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260807T005011Z
+DTSTAMP:20260812T005317Z
 DTSTART:20260816T170000Z
 DTEND:20260816T190000Z
 SUMMARY:Liga Hypermotion - Burgos C.F. - Córdoba
-UID:84404bb5-a2a5-4acf-ac36-9d08daca6baa
+UID:839f71f6-0bed-44ea-b697-55d5de3c6b59
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260812T005317Z
+DTSTART:20260821T190000Z
+DTEND:20260821T210000Z
+SUMMARY:Liga Hypermotion - Córdoba - Girona
+UID:30f59e91-e95d-49c5-8189-071feac3c5c6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
