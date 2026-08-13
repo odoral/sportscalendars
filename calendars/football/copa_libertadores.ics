@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260808T082513Z
+DTSTAMP:20260813T085954Z
 DTSTART:20260812T220000Z
 DTEND:20260813T000000Z
 SUMMARY:Copa Libertadores - Palmeiras - Cerro Porteño
-UID:46d6bb46-1034-4d79-8c9e-c24f4a5badda
+UID:ee937b38-f5a8-426e-b277-b2fe1a52660e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T085954Z
+DTSTART:20260814T003000Z
+DTEND:20260814T023000Z
+SUMMARY:Copa Libertadores - Rosario Central - Corinthians
+UID:f3c8fec9-9f9d-44d0-afbf-5d36785774a2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR

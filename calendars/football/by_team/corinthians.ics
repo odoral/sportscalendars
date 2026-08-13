@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241030T081221Z
-DTSTART:20241101T003000Z
-DTEND:20241101T023000Z
-SUMMARY:Copa Sudamericana - Racing Avellaneda - Corinthians
-UID:fadbe9e8-80a5-4c5a-9ffc-952e62dfaf21
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga+</li>\n<li>P
- PV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: LaLiga+\n- PPV: Movistar Plus+
+DTSTAMP:20260813T085954Z
+DTSTART:20260814T003000Z
+DTEND:20260814T023000Z
+SUMMARY:Copa Libertadores - Rosario Central - Corinthians
+UID:f0779141-e640-407a-ba0c-dff2270689c4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
 END:VEVENT
 END:VCALENDAR
