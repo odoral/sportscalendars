@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250121T082933Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20250219T041107Z
-DTSTART:20250219T200000Z
-DTEND:20250219T220000Z
-SUMMARY:Champions League - PSG - Stade Brestois
-UID:965f1acf-5fda-43dd-9a26-0c2c3a56ed52
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: M+ Liga de Camp
- eones 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
- n- PPV: M+ Liga de Campeones 5
+DTSTAMP:20260813T005428Z
+DTSTART:20260822T184500Z
+DTEND:20260822T204500Z
+SUMMARY:Ligue 1 - Le Mans - Stade Brestois
+UID:1c6c56b6-8e52-4acc-90f4-b9c07d0dcf49
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

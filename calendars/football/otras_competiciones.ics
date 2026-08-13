@@ -16,75 +16,63 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260812T085754Z
-DTSTART:20260812T190000Z
-DTEND:20260812T210000Z
-SUMMARY:Otras competiciones - PSG - Aston Villa
-UID:a34a9320-2b06-4b1e-bfd2-185c6bf673d5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260812T085754Z
-DTSTART:20260812T190000Z
-DTEND:20260812T210000Z
-SUMMARY:Otras competiciones - Deportivo - Real Madrid
-UID:4b3292ff-8bdf-4d8d-b95b-6798104c47e2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: RealMadrid TV</li>\n<li>Open: TVG</li>\n<li>Open: rtve Play</li></ul>
- </body></html>
-DESCRIPTION:- Open: La 1\n- Open: RealMadrid TV\n- Open: TVG\n- Open: rtv
- e Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260812T085754Z
+DTSTAMP:20260813T005428Z
 DTSTART:20260814T220000Z
 DTEND:20260815T000000Z
 SUMMARY:Otras competiciones - UDG Tenerife - At. Madrid Fem.
-UID:7877d971-4448-4bc3-a337-ee9fbb4bb02a
+UID:ecfe0199-6e29-458f-807a-d3b2e80e1412
 X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendientede con
  firmar\n<ul><li>Open: TV Canaria</li></ul></body></html>
 DESCRIPTION:Atención: Pendientede confirmar\n- Open: TV Canaria
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260812T085754Z
+DTSTAMP:20260813T005428Z
 DTSTART:20260816T140000Z
 DTEND:20260816T160000Z
 SUMMARY:Otras competiciones - Arsenal - Manchester City
-UID:d9ea8d6a-81db-44be-a666-6b26e77a37f9
+UID:4e493681-be48-42bc-812b-f09d400ceffd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260812T085754Z
+DTSTAMP:20260813T005428Z
 DTSTART:20260816T191500Z
 DTEND:20260816T211500Z
 SUMMARY:Otras competiciones - Lazio - Mantova 1911
-UID:25da0322-b284-4821-ab25-02712773e615
+UID:ae17b7a3-da1a-4f67-be06-30228ec8619a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260812T085754Z
+DTSTAMP:20260813T005428Z
 DTSTART:20260817T191500Z
 DTEND:20260817T211500Z
 SUMMARY:Otras competiciones - SSD Palermo - U.S. Lecce
-UID:d1e901df-dba9-4e6e-94fa-4f930862478f
+UID:6e75fdc0-10a3-4898-aa88-7e66b8fc64d9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260812T085754Z
+DTSTAMP:20260813T005428Z
 DTSTART:20260819T180000Z
 DTEND:20260819T200000Z
 SUMMARY:Otras competiciones - Barcelona - Al Ahly
-UID:ccaa3623-1c63-4dc4-b9f2-4759bfb75144
+UID:552df8cb-c8fb-47f2-b451-14e1ade459e4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   FC Barcelona Youtube (Members)</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: FC Barcelona Youtube (Members)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260813T005428Z
+DTSTART:20260822T183000Z
+DTEND:20260822T203000Z
+SUMMARY:Otras competiciones - Borussia Dortmund - FC Bayern
+UID:b0fd2188-9932-4d69-8638-441c207c9305
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
