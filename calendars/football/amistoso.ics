@@ -16,101 +16,131 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260815T041810Z
+DTSTAMP:20260815T081317Z
+DTSTART:20260815T090000Z
+DTEND:20260815T110000Z
+SUMMARY:Amistoso - Mirandés - R.M. Castilla
+UID:f58c31c4-efd2-4986-816a-a6d48ab0455f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
+ </ul></body></html>
+DESCRIPTION:- Open: RealMadrid TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T081317Z
 DTSTART:20260815T093000Z
 DTEND:20260815T113000Z
 SUMMARY:Amistoso - Cultural Leonesa - Salamanca UDS
-UID:a7a2db1d-f7cb-42d4-820b-7441037587cc
+UID:1b4f2c31-8636-42bc-a7fb-f1f42f40aa68
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 9TV (León)</li></u
  l></body></html>
 DESCRIPTION:- Open: 9TV (León)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T041810Z
+DTSTAMP:20260815T081317Z
 DTSTART:20260815T130000Z
 DTEND:20260815T150000Z
 SUMMARY:Amistoso - Chelsea - Real Sociedad
-UID:3b4664d5-b30b-4c26-b5da-ec8d33468a95
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li></ul></bo
- dy></html>
-DESCRIPTION:- Open: ETB1
+UID:cd6e3929-8b6d-4bc5-a9d2-2d792c2ae0f1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Real Sociedad TV Youtube</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Real Sociedad TV Youtube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T041810Z
+DTSTAMP:20260815T081317Z
 DTSTART:20260815T170000Z
 DTEND:20260815T190000Z
 SUMMARY:Amistoso - Villarreal B - Real Zaragoza
-UID:6cada89a-024a-4368-869b-f5e175aeb290
+UID:0dfd5b5d-0854-4244-9d50-077313e0b32e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T041810Z
+DTSTAMP:20260815T081317Z
+DTSTART:20260815T173000Z
+DTEND:20260815T193000Z
+SUMMARY:Amistoso - Inter de Milan - Betis
+UID:7dd6850c-813e-48ec-b86b-aee2f656295e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betis TV</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Betis TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T081317Z
+DTSTART:20260816T143000Z
+DTEND:20260816T163000Z
+SUMMARY:Amistoso - Basilea - Barcelona
+UID:b0e6de97-6ec2-4715-8aff-1d93b1f44b56
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Barcelona Youtub
+ e (Members)</li></ul></body></html>
+DESCRIPTION:- PPV: FC Barcelona Youtube (Members)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260815T081317Z
 DTSTART:20260816T150000Z
 DTEND:20260816T170000Z
 SUMMARY:Amistoso - Schalke 04 - Real Madrid
-UID:b9dd0a9d-71d8-45fc-92d7-048d6a748db2
+UID:eaf8c6ba-9745-4009-8946-47069bdeb72d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: RealMadrid TV</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: RealMadrid TV\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T041810Z
+DTSTAMP:20260815T081317Z
 DTSTART:20260816T163000Z
 DTEND:20260816T183000Z
 SUMMARY:Amistoso - Huesca - Teruel
-UID:940a5a1b-f95f-4f58-8737-beaef450eed0
+UID:4b9d0815-4b87-4b75-9fe4-66d693d4479c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T041810Z
+DTSTAMP:20260815T081317Z
 DTSTART:20260821T173000Z
 DTEND:20260821T193000Z
 SUMMARY:Amistoso - Real Zaragoza - Bilbao Athletic
-UID:b6f1b5c0-b497-49a4-b4f3-a1276fc2a2b4
+UID:17cab225-b058-4d8a-a269-a4ffb5d8fbd7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T041810Z
+DTSTAMP:20260815T081317Z
 DTSTART:20260821T173000Z
 DTEND:20260821T193000Z
 SUMMARY:Amistoso - At. Astorga - Cultural Leonesa
-UID:c14f4c63-47ba-41b3-b861-c2ddf4e8a628
+UID:e8fa4bd6-5f95-48b6-9b3f-29375506fddf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 8 León</li></ul
  ></body></html>
 DESCRIPTION:- Open: La 8 León
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T041810Z
+DTSTAMP:20260815T081317Z
 DTSTART:20260822T161500Z
 DTEND:20260822T181500Z
 SUMMARY:Amistoso - U.D. Barbastro - Huesca
-UID:18947931-3683-4927-a32f-566614ea63dd
+UID:7840c22f-d8fe-46f6-96be-7e53956e2b4f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T041810Z
+DTSTAMP:20260815T081317Z
 DTSTART:20260822T180000Z
 DTEND:20260822T200000Z
 SUMMARY:Amistoso - Numancia - Real Zaragoza
-UID:6bcef705-8446-4f14-b049-27096f52795b
+UID:ee9e48d9-6ca9-41da-ae33-38ddb00bd3e3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T041810Z
+DTSTAMP:20260815T081317Z
 DTSTART:20260822T190000Z
 DTEND:20260822T210000Z
 SUMMARY:Amistoso - Teruel - Villarreal B
-UID:0d78e401-3200-4254-8f4b-c7c0b09984a0
+UID:39ee583a-dc44-438d-8045-2699956127f7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
