@@ -16,33 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260815T081317Z
+DTSTAMP:20260816T081419Z
 DTSTART:20260816T143000Z
 DTEND:20260816T163000Z
 SUMMARY:Amistoso - Basilea - Barcelona
-UID:6ae53557-b7f3-41d1-80f1-9bc02ba061f6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Barcelona Youtub
- e (Members)</li></ul></body></html>
-DESCRIPTION:- PPV: FC Barcelona Youtube (Members)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260815T081317Z
-DTSTART:20260819T180000Z
-DTEND:20260819T200000Z
-SUMMARY:Otras competiciones - Barcelona - Al Ahly
-UID:aadb2cd1-6881-47ba-b854-8fee75b8f91c
+UID:0d952351-e0c5-403d-b684-7c871c866857
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   FC Barcelona Youtube (Members)</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: FC Barcelona Youtube (Members)
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260815T081317Z
+DTSTAMP:20260816T081419Z
+DTSTART:20260819T180000Z
+DTEND:20260819T200000Z
+SUMMARY:Otras competiciones - Barcelona - Al Ahly
+UID:ccd65070-14cc-42a2-86cf-216992fa4c04
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  FC Barcelona Youtube (Members)</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: FC Barcelona Youtube (Members)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T081419Z
 DTSTART:20260823T193000Z
 DTEND:20260823T213000Z
 SUMMARY:Liga EA Sports - Elche - Barcelona
-UID:0ba2605d-13ea-4b48-87bb-b0cf92903d36
+UID:e0e65058-e04c-4d3a-b34b-4fac1e34f851
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
- >PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR

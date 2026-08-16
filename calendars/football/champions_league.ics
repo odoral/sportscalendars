@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,73 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260521T015817Z
-DTSTART:20260530T160000Z
-DTEND:20260530T180000Z
-SUMMARY:Champions League - PSG - Arsenal
-UID:9559ec04-84da-49ea-86c1-1f253c069a33
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar
-  Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: M+ Liga de Campeones\
- n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+DTSTAMP:20260816T081419Z
+DTSTART:20260818T190000Z
+DTEND:20260818T210000Z
+SUMMARY:Champions League - Fenerbahçe - Olympique Lyon
+UID:423bf960-6e27-4f90-bb7d-0ae2e62811cc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T081419Z
+DTSTART:20260818T190000Z
+DTEND:20260818T210000Z
+SUMMARY:Champions League - Dinamo Zagreb - Viking FK
+UID:963d655f-4c54-4f94-b8f8-6b1f63a8d1c3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T081419Z
+DTSTART:20260818T190000Z
+DTEND:20260818T210000Z
+SUMMARY:Champions League - Levski Sofia - AEK F.C.
+UID:db779418-4d18-4a46-ba1c-dd2be01ef3cf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T081419Z
+DTSTART:20260819T190000Z
+DTEND:20260819T210000Z
+SUMMARY:Champions League - NEC Nijmegen - Bodø/Glimt
+UID:d1c8b5e2-9eba-4813-bb24-2003840e72dd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T081419Z
+DTSTART:20260819T190000Z
+DTEND:20260819T210000Z
+SUMMARY:Champions League - Celtic FC - LASK Linz
+UID:3377bc51-043e-44a0-bbcc-e47f2d122d97
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T081419Z
+DTSTART:20260819T190000Z
+DTEND:20260819T210000Z
+SUMMARY:Champions League - Slovan Bratislava - NK Celje
+UID:15f7509a-6a8b-49b7-93a1-34cbe0f116dd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260816T081419Z
+DTSTART:20260819T190000Z
+DTEND:20260819T210000Z
+SUMMARY:Champions League - Hapoel Beer Sheva - Sabah FK
+UID:0ad919dd-e222-448b-9d81-c581dc0d7db1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4
 END:VEVENT
 END:VCALENDAR
