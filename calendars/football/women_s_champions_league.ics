@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260514T015512Z
-DTSTART:20260523T160000Z
-DTEND:20260523T180000Z
-SUMMARY:Women's Champions League - Barcelona Femenino - Olympique Lyon (F
- em.)
-UID:313e0642-e59d-4920-b513-e67589350ecf
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: Disney+</li></ul></body>
- </html>
-DESCRIPTION:- Open: La 1\n- Open: TV3\n- Open: rtve Play\n- PPV: Disney+
+DTSTAMP:20260817T082900Z
+DTSTART:20260826T173000Z
+DTEND:20260826T193000Z
+SUMMARY:Women's Champions League - Ajax Fem. - Real Madrid Fem.
+UID:b97ac466-751a-47bb-897c-a892e751570b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
+ </ul></body></html>
+DESCRIPTION:- Open: RealMadrid TV
 END:VEVENT
 END:VCALENDAR
