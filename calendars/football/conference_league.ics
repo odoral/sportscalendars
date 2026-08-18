@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260518T020005Z
-DTSTART:20260527T190000Z
-DTEND:20260527T210000Z
-SUMMARY:Conference League - Crystal Palace - Rayo Vallecano
-UID:4f832eb8-cffa-4e4c-8d05-72bc55a00cee
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
- </body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
- ange Fútbol 1
+DTSTAMP:20260818T082050Z
+DTSTART:20260820T190000Z
+DTEND:20260820T210000Z
+SUMMARY:Conference League - Getafe - Partizan Belgrado
+UID:a5e6949c-e003-442a-a52e-7180e16fc7f1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260818T082050Z
+DTSTART:20260827T190000Z
+DTEND:20260827T210000Z
+SUMMARY:Conference League - Partizan Belgrado - Getafe
+UID:7077cde7-e4ce-4938-a11e-c4693ae9fa5e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
