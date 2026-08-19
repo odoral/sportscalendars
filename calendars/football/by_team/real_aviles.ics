@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260520T073350Z
-DTSTART:20260523T163000Z
-DTEND:20260523T183000Z
-SUMMARY:Primera Federación - Pontevedra - Real Avilés
-UID:9005fb61-9973-41f8-af32-2fee9921d645
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
- V: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera Federación</li>
- </ul></body></html>
-DESCRIPTION:- Open: TVG 2\n- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera
-  Federación
+DTSTAMP:20260819T003002Z
+DTSTART:20260828T170000Z
+DTEND:20260828T190000Z
+SUMMARY:Primera Federación - Real Avilés - Pontevedra
+UID:f4df34f7-4eaf-4857-a03a-ac1a3ebcb1f8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

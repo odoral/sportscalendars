@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260520T073351Z
-DTSTART:20260523T163000Z
-DTEND:20260523T183000Z
-SUMMARY:Primera Federación - Cacereño - C.F. Talavera
-UID:c8510476-1da1-49f6-8e92-4f3662142454
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMMPlay (Castilla-
- LM)</li>\n<li>PPV: FC Play</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: Primera
-  Federación</li></ul></body></html>
-DESCRIPTION:- Open: CMMPlay (Castilla-LM)\n- PPV: FC Play\n- PPV: LaLiga+
- \n- PPV: Primera Federación
+DTSTAMP:20260819T003002Z
+DTSTART:20260828T191500Z
+DTEND:20260828T211500Z
+SUMMARY:Primera Federación - Cacereño - Mirandés
+UID:9c46afb6-8f1a-4a90-9013-bdb7fccdbaea
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

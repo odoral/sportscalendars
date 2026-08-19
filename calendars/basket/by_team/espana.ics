@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260816T003210Z
-DTSTART:20260816T123000Z
-DTEND:20260816T143000Z
-SUMMARY:Europeo Sub-16 Femenino - España - Polonia
-UID:7f6d0b89-475d-4c85-8ee6-d1c7a71ed4ec
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
+DTSTAMP:20260819T003008Z
+DTSTART:20260828T160000Z
+DTEND:20260828T180000Z
+SUMMARY:FIBA World Cup - España - Portugal
+UID:a00c6f3f-7c04-41c8-b419-5977d193d111
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Vamos</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + Vamos
 END:VEVENT
 END:VCALENDAR
