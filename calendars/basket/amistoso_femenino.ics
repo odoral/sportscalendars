@@ -16,11 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260820T003039Z
+DTSTAMP:20260820T082236Z
+DTSTART:20260821T180000Z
+DTEND:20260821T200000Z
+SUMMARY:Amistoso Femenino - España - Nigeria
+UID:96583ffe-1c23-40ba-931e-828cd3fde7c3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T082236Z
+DTSTART:20260823T180000Z
+DTEND:20260823T200000Z
+SUMMARY:Amistoso Femenino - España - Bélgica
+UID:2fb05cc4-a34d-430c-bc47-f1b098cf2826
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260820T082236Z
 DTSTART:20260829T180000Z
 DTEND:20260829T200000Z
 SUMMARY:Amistoso Femenino - España - Mali
-UID:e0293bc6-fd6f-433b-82da-a3d9ea7325a5
+UID:defb3a96-37b1-426f-aa4f-884c9b8a173d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
