@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260819T082123Z
+DTSTAMP:20260821T003253Z
 DTSTART:20260822T193000Z
 DTEND:20260822T213000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Cádiz
-UID:506c507f-4a2f-4d31-86a0-d14779bb12d4
+UID:49740796-731d-4823-8216-ecda51b869b1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260821T003253Z
+DTSTART:20260830T170000Z
+DTEND:20260830T190000Z
+SUMMARY:Liga Hypermotion - Cádiz - Valladolid
+UID:3387df38-1ab9-45ed-b814-88fda9cdbe4a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260520T073351Z
-DTSTART:20260523T163000Z
-DTEND:20260523T183000Z
-SUMMARY:Primera Federación - Sevilla At. - Alcorcón
-UID:3f0ada2c-b5df-4dc4-ae46-3f4785fbf67f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FC Play</li>\n<li>P
- PV: LaLiga+</li>\n<li>PPV: Primera Federación</li></ul></body></html>
-DESCRIPTION:- PPV: FC Play\n- PPV: LaLiga+\n- PPV: Primera Federación
+DTSTAMP:20260821T003253Z
+DTSTART:20260830T171500Z
+DTEND:20260830T191500Z
+SUMMARY:Primera Federación - Águilas F.C. - Alcorcón
+UID:7e237d5f-7162-48a9-98ec-5bc42675b9a5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

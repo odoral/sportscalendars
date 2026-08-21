@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260520T073350Z
-DTSTART:20260523T163000Z
-DTEND:20260523T183000Z
-SUMMARY:Primera Federación - C.E. Europa - U.D. Ibiza
-UID:0b9f6ab9-9c77-447e-bf75-ad7b5286aaa8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >PPV: FC Play</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: LaLiga+</l
- i>\n<li>PPV: Primera Federación</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- PPV: FC Play\n- PPV: LaLiga TV Multi 3\n-
-  PPV: LaLiga+\n- PPV: Primera Federación
+DTSTAMP:20260821T003253Z
+DTSTART:20260830T171500Z
+DTEND:20260830T191500Z
+SUMMARY:Primera Federación - Antequera - U.D. Ibiza
+UID:d92885af-249c-463c-8b3f-e80f0cd9c36b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

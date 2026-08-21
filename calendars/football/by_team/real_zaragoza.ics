@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260816T003205Z
+DTSTAMP:20260821T003253Z
 DTSTART:20260821T173000Z
 DTEND:20260821T193000Z
 SUMMARY:Amistoso - Real Zaragoza - Bilbao Athletic
-UID:b9676982-f04b-4000-bce0-f48cb598dc00
+UID:7fb8cb82-23f1-4992-8a8a-9a081a89b722
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260816T003205Z
+DTSTAMP:20260821T003253Z
 DTSTART:20260822T180000Z
 DTEND:20260822T200000Z
 SUMMARY:Amistoso - Numancia - Real Zaragoza
-UID:5b740bfe-367d-4bba-a7d8-3159396d1342
+UID:6cb6c9b9-d4d7-4d0e-8c70-4f08a77448ab
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260821T003253Z
+DTSTART:20260830T193000Z
+DTEND:20260830T213000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Real Zaragoza
+UID:8afc4f02-e4dc-47ca-9b16-a4a861f95b4b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

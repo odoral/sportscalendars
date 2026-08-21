@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260819T082123Z
+DTSTAMP:20260821T003253Z
 DTSTART:20260823T150000Z
 DTEND:20260823T170000Z
 SUMMARY:Liga Hypermotion - Eibar - Valladolid
-UID:8bf1283d-cb6a-4af8-922f-dec2e6b1b028
+UID:7863e30d-127e-4294-bb51-0ea336159876
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260821T003253Z
+DTSTART:20260830T170000Z
+DTEND:20260830T190000Z
+SUMMARY:Liga Hypermotion - Cádiz - Valladolid
+UID:86148ba9-544b-46a2-b51e-e12912439c30
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
