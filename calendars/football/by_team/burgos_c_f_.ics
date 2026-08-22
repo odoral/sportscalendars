@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260819T082123Z
+DTSTAMP:20260822T003016Z
 DTSTART:20260823T170000Z
 DTEND:20260823T190000Z
 SUMMARY:Liga Hypermotion - Sporting de Gijón - Burgos C.F.
-UID:43a23127-ff0e-4bdc-a24c-92ab4b839322
+UID:8fc6b7a4-f6e4-469c-8dd2-a3aa00fb01e3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T003016Z
+DTSTART:20260831T170000Z
+DTEND:20260831T190000Z
+SUMMARY:Liga Hypermotion - Burgos C.F. - Real Sociedad B
+UID:a38b0b20-9154-45d6-8d1f-2e1b091a712b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

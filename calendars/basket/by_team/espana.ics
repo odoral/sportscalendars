@@ -16,41 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260821T082355Z
-DTSTART:20260821T173000Z
-DTEND:20260821T193000Z
-SUMMARY:Europeo Sub-16 Femenino - España - Letonia
-UID:73739472-40f9-46a5-9502-0f162bd32a22
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260821T082355Z
-DTSTART:20260821T190000Z
-DTEND:20260821T210000Z
-SUMMARY:Amistoso Femenino - España - Nigeria
-UID:da4e44ef-0468-49b8-9d46-f54e781736ea
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260821T082355Z
+DTSTAMP:20260822T003020Z
 DTSTART:20260823T190000Z
 DTEND:20260823T210000Z
 SUMMARY:Amistoso Femenino - España - Bélgica
-UID:599f2de4-9f19-473c-9fe9-56cc42d5e5fc
+UID:99509bf4-bdfe-41f3-9834-2387b92b4da9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260821T082355Z
+DTSTAMP:20260822T003020Z
 DTSTART:20260828T160000Z
 DTEND:20260828T180000Z
 SUMMARY:FIBA World Cup - España - Portugal
-UID:a2fdcf16-86ed-43dd-b13f-10f7790ade67
+UID:5ce90262-274f-4d2a-9b12-a0c5a431f814
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Vamos</li></ul
  ></body></html>
@@ -58,23 +38,35 @@ DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
  + Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260821T082355Z
+DTSTAMP:20260822T003020Z
 DTSTART:20260829T180000Z
 DTEND:20260829T200000Z
 SUMMARY:Amistoso Femenino - España - Mali
-UID:ead2b84f-0d4a-4d50-a3b6-661a080086ff
+UID:742a2090-126c-4f04-8e45-4a2c38f13788
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260821T082355Z
+DTSTAMP:20260822T003020Z
 DTSTART:20260830T180000Z
 DTEND:20260830T200000Z
 SUMMARY:Amistoso Femenino - España - China
-UID:e2294da7-99af-404b-ab1e-8042b05993a5
+UID:6279c40e-9d23-4448-acac-25eadb36cb05
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T003020Z
+DTSTART:20260831T160000Z
+DTEND:20260831T180000Z
+SUMMARY:FIBA World Cup - Grecia - España
+UID:63062a02-ce20-46c0-aed2-30054784696f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Vamos</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + Vamos
 END:VEVENT
 END:VCALENDAR
