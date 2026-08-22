@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260819T003008Z
+DTSTAMP:20260822T081506Z
 DTSTART:20260828T160000Z
 DTEND:20260828T180000Z
 SUMMARY:FIBA World Cup - España - Portugal
-UID:5f097876-9be9-44d8-b6e8-9fcc7be2bc0b
+UID:5864a116-d778-4f63-8cce-cbc7873cb694
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Vamos</li></ul
- ></body></html>
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
+ >\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
- + Vamos
+ + Baloncesto\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260822T081506Z
+DTSTART:20260831T160000Z
+DTEND:20260831T180000Z
+SUMMARY:FIBA World Cup - Portugal - Georgia
+UID:e85f19b4-ae18-427d-811d-d1e0339dac06
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 2</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto 2
 END:VEVENT
 END:VCALENDAR
