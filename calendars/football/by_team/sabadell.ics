@@ -16,25 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260820T082231Z
-DTSTART:20260823T170000Z
-DTEND:20260823T190000Z
-SUMMARY:Liga Hypermotion - C.D. Castellón - Sabadell
-UID:b97130dc-a65e-4898-8423-b51cce3f3135
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV
-  Multi 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260820T082231Z
+DTSTAMP:20260824T003141Z
 DTSTART:20260829T150000Z
 DTEND:20260829T170000Z
 SUMMARY:Liga Hypermotion - Sabadell - Almería
-UID:597808c3-1677-441d-b58c-dee3f24009bf
+UID:5aeb686f-af59-4463-9705-102e4b1d66b4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260824T003141Z
+DTSTART:20260902T183000Z
+DTEND:20260902T203000Z
+SUMMARY:Copa Catalunya - Barcelona Atlètic - Sabadell
+UID:748037d7-6ef6-4cd5-a1ab-8d36ef4fc3a3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
 END:VEVENT
 END:VCALENDAR
