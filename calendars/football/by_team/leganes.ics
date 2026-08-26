@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260823T003255Z
+DTSTAMP:20260826T003237Z
 DTSTART:20260829T170000Z
 DTEND:20260829T190000Z
 SUMMARY:Liga Hypermotion - Leganés - C.D. Eldense
-UID:bf70e28c-6588-467c-812e-783f4cd1986f
+UID:45cac185-dd77-4e99-aeff-414bc265d938
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260826T003237Z
+DTSTART:20260904T183000Z
+DTEND:20260904T203000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Leganés
+UID:f78d5c49-bb1f-4469-9ef6-f74a2117854c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermoti
+ on</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- PPV: DAZN\n- PPV: LaL
+ iga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
