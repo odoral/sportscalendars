@@ -16,23 +16,42 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260826T082804Z
+DTSTAMP:20260827T052300Z
 DTSTART:20260828T170000Z
 DTEND:20260828T190000Z
 SUMMARY:Amistoso - Casademont Zaragoza - ICG Força Lleida
-UID:5dd1b556-e358-4bb7-8568-b954797fe030
+UID:7085cfc0-d6c3-4352-afb9-826f0987ace9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260826T082804Z
+DTSTAMP:20260827T052300Z
 DTSTART:20260829T180000Z
 DTEND:20260829T200000Z
 SUMMARY:Amistoso - Río Breogán - Real Madrid Baloncesto
-UID:a4c87dcf-18b1-43ef-a9c6-b347357add67
+UID:88d37aa2-cf74-42a9-b2a5-a61419748e35
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  </ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052300Z
+DTSTART:20260905T180000Z
+DTEND:20260905T200000Z
+SUMMARY:Amistoso - Baskonia - Real Madrid Baloncesto
+UID:0941e374-6ca4-4d5c-8329-9c13b12e3eae
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052300Z
+DTSTART:20260905T183000Z
+DTEND:20260905T203000Z
+SUMMARY:Amistoso - Casademont Zaragoza - La Laguna Tenerife
+UID:a59d2f0b-47f6-4293-8da2-70c56c44a622
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR

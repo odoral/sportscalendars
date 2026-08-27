@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260823T003255Z
+DTSTAMP:20260827T052255Z
 DTSTART:20260830T171500Z
 DTEND:20260830T191500Z
 SUMMARY:Primera Federación - Antequera - U.D. Ibiza
-UID:9ec6dec5-df34-413d-b5c0-b10268b52ffe
+UID:5ef8c931-d2e3-4277-a5d0-c4d9cd7c2896
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
  ></ul></body></html>
 DESCRIPTION:- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052255Z
+DTSTART:20260905T190000Z
+DTEND:20260905T210000Z
+SUMMARY:Primera Federación - Real Zaragoza - Antequera
+UID:e919d9bf-d471-46bb-84bf-153baf35343a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: FootballClub T
+ V</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: DAZN\n- PPV
+ : FootballClub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

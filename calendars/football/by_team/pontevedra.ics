@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260825T082728Z
+DTSTAMP:20260827T052255Z
 DTSTART:20260828T170000Z
 DTEND:20260828T190000Z
 SUMMARY:Primera Federación - Real Avilés - Pontevedra
-UID:2fce36c0-f933-4f09-8816-f6c2a241aff5
+UID:62a37c88-0737-458d-8722-0c9d15e05b3f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
  l>
 DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
  n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052255Z
+DTSTART:20260905T164500Z
+DTEND:20260905T184500Z
+SUMMARY:Primera Federación - Pontevedra - Arenas Club
+UID:741bbfa5-2a88-4a0c-a4d9-4bce4870f59f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

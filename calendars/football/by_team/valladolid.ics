@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260826T082800Z
+DTSTAMP:20260827T052255Z
 DTSTART:20260830T170000Z
 DTEND:20260830T190000Z
 SUMMARY:Liga Hypermotion - Cádiz - Valladolid
-UID:557eb860-d5f7-45e9-b368-1fd6a72f4c8c
+UID:3912f024-ea05-4d5d-8f2e-f5b84dc4d9db
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 3\n- PPV: Orange Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052255Z
+DTSTART:20260905T163000Z
+DTEND:20260905T183000Z
+SUMMARY:Liga Hypermotion - Valladolid - F.C. Andorra
+UID:4685ba12-a40d-4894-b04b-da03a73eca8a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260826T003241Z
+DTSTAMP:20260827T052300Z
 DTSTART:20260828T190000Z
 DTEND:20260828T210000Z
 SUMMARY:FIBA World Cup - España - Portugal
-UID:40e490ce-390f-41b2-8c05-d0bd06f83560
+UID:f390a4df-6523-4b07-816a-0e8a40b6619f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
  >\n<li>PPV: M+ Vamos</li></ul></body></html>
@@ -28,11 +28,11 @@ DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
  + Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260826T003241Z
+DTSTAMP:20260827T052300Z
 DTSTART:20260829T180000Z
 DTEND:20260829T200000Z
 SUMMARY:Amistoso Femenino - España - Mali
-UID:ea5c015a-9894-426d-a061-5f079b875f35
+UID:32e97110-09ef-40a7-8281-c1934a3dc912
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></htm
  l>
@@ -40,21 +40,21 @@ DESCRIPTION:- Open: Aragón Deporte\n- Open: Teledeporte\n- Open: rtve Pla
  y
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260826T003241Z
+DTSTAMP:20260827T052300Z
 DTSTART:20260830T190000Z
 DTEND:20260830T210000Z
 SUMMARY:Amistoso Femenino - España - China
-UID:f73f62d9-e130-41ae-816f-5b86eca9de77
+UID:056abc3e-0b92-4f74-9e9d-0facbf99eaeb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260826T003241Z
+DTSTAMP:20260827T052300Z
 DTSTART:20260831T160000Z
 DTEND:20260831T180000Z
 SUMMARY:FIBA World Cup - Grecia - España
-UID:464e07ee-a0ab-49e6-8a33-2f2d918b134c
+UID:32210886-3709-45d3-a759-d99277fddbe3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
  >\n<li>PPV: M+ Vamos</li></ul></body></html>
@@ -62,11 +62,20 @@ DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
  + Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260826T003241Z
+DTSTAMP:20260827T052300Z
 DTSTART:20260904T154500Z
 DTEND:20260904T174500Z
 SUMMARY:FIBA Mundial Femenino - España - Alemania
-UID:30956d32-475f-4a67-96c3-c3f94bfd615e
+UID:987b77dc-f94e-4e5d-9a06-14ad0b3cdb09
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052300Z
+DTSTART:20260905T093000Z
+DTEND:20260905T113000Z
+SUMMARY:FIBA Mundial Femenino - Mali - España
+UID:50332289-aedf-4d14-8f15-e9499e28247f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT

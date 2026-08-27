@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260825T082728Z
+DTSTAMP:20260827T052255Z
 DTSTART:20260830T150000Z
 DTEND:20260830T170000Z
 SUMMARY:Primera Federación - Barakaldo - Cultural Leonesa
-UID:ba713f6e-9b5c-414c-be41-05260c6088a2
+UID:cf85feb4-a39e-4bd7-b9b4-101ee760893f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
  l>
 DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
  n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052255Z
+DTSTART:20260905T164500Z
+DTEND:20260905T184500Z
+SUMMARY:Primera Federación - C.D. Coria - Barakaldo
+UID:c34fb8aa-fa4f-4690-93ed-085e0b11db4b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

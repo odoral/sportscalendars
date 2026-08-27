@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260821T003253Z
+DTSTAMP:20260827T052255Z
 DTSTART:20260830T171500Z
 DTEND:20260830T191500Z
 SUMMARY:Primera Federación - At. Madrid B - Juv. Torremolinos
-UID:215ee12f-6f1e-44e9-9859-b756d8388479
+UID:6bcb9007-2ce1-45c5-99f8-3ac472e0ffd1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
  ></ul></body></html>
 DESCRIPTION:- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052255Z
+DTSTART:20260905T110000Z
+DTEND:20260905T130000Z
+SUMMARY:Primera Federación - R.M. Castilla - Juv. Torremolinos
+UID:8e2305d2-31eb-48b4-b9e7-6b6eb384359c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
+ n
 END:VEVENT
 END:VCALENDAR

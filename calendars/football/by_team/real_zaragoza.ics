@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260825T082728Z
+DTSTAMP:20260827T052255Z
 DTSTART:20260830T193000Z
 DTEND:20260830T213000Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Real Zaragoza
-UID:ff693bfd-5a56-40fd-9708-c756cefb5f55
+UID:7541eaae-d9f9-4dde-94b5-d14c9e67918c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federac
  ión</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FootballClub TV\n- PPV:
   Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052255Z
+DTSTART:20260905T190000Z
+DTEND:20260905T210000Z
+SUMMARY:Primera Federación - Real Zaragoza - Antequera
+UID:4e753de6-d734-4d05-9d91-a1e517cde8e2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: FootballClub T
+ V</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: DAZN\n- PPV
+ : FootballClub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

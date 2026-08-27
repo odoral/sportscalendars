@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260825T082728Z
+DTSTAMP:20260827T052255Z
 DTSTART:20260829T171500Z
 DTEND:20260829T191500Z
 SUMMARY:Primera Federación - Huesca - Sant Andreu
-UID:282210db-0bf4-442d-8773-768bc6be1a68
+UID:606bc10f-a4af-4ced-bccc-c0329b72427a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: FootballClub T
  V</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: DAZN\n- PPV
  : FootballClub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052255Z
+DTSTART:20260905T161500Z
+DTEND:20260905T181500Z
+SUMMARY:Primera Federación - Sant Andreu - Águilas F.C.
+UID:a5be33f6-b4c9-4f19-be65-976c66280c03
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

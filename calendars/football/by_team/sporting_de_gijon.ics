@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260824T083357Z
+DTSTAMP:20260827T052255Z
 DTSTART:20260828T190000Z
 DTEND:20260828T210000Z
 SUMMARY:Liga Hypermotion - Tenerife - Sporting de Gijón
-UID:952dc895-cf84-4660-80eb-1a23200acbac
+UID:231ee07c-c639-45df-b18b-0b1f1a1ebd79
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260827T052255Z
+DTSTART:20260905T141500Z
+DTEND:20260905T161500Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Girona
+UID:9ee807e9-44ae-4eb6-af80-1ff963c869fd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
