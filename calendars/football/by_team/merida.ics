@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260820T003036Z
+DTSTAMP:20260828T035422Z
 DTSTART:20260829T171500Z
 DTEND:20260829T191500Z
 SUMMARY:Primera Federación - Mérida - Deportivo Fabril
-UID:d92ed3db-9093-498e-9828-4bc339d5dfd4
+UID:d3d9f461-09e9-4987-83cb-298eb22e0c4f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
  ></ul></body></html>
 DESCRIPTION:- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T035422Z
+DTSTART:20260906T140000Z
+DTEND:20260906T160000Z
+SUMMARY:Primera Federación - Cultural Leonesa - Mérida
+UID:f12163d1-48e9-4efa-b3f6-bcad48946122
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
+ n
 END:VEVENT
 END:VCALENDAR

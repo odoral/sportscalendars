@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260827T182808Z
+DTSTAMP:20260828T035422Z
 DTSTART:20260830T170000Z
 DTEND:20260830T190000Z
 SUMMARY:Liga F - Barcelona Femenino - UDG Tenerife
-UID:d66da1a4-57b8-4631-8462-d2787c2bff98
+UID:c0fc2382-be8d-4782-a903-9020282b58a9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PP
  V: DAZN 2</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: D
  AZN\n- PPV: DAZN 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T035422Z
+DTSTART:20260906T104500Z
+DTEND:20260906T124500Z
+SUMMARY:Liga F - UDG Tenerife - Deportivo Abanca
+UID:a6c611c0-c081-48d0-9ae3-a2f87178bcbe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

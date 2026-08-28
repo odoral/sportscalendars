@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260822T081503Z
+DTSTAMP:20260828T035422Z
 DTSTART:20260829T150000Z
 DTEND:20260829T170000Z
 SUMMARY:Liga F - Eibar Fem. - RCD Espanyol Fem.
-UID:c5f2b77c-cfb0-44d9-ad05-c70f199056d4
+UID:0ff6c267-942d-4432-83e7-33ba167f7030
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
  \n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Esport3 (Web)\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260828T035422Z
+DTSTART:20260906T183000Z
+DTEND:20260906T203000Z
+SUMMARY:Liga F - Real Madrid Fem. - Eibar Fem.
+UID:25244ec9-2f91-41bb-8759-8b2ee933daf4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
