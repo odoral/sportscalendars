@@ -16,51 +16,61 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260828T035428Z
-DTSTART:20260828T170000Z
-DTEND:20260828T190000Z
-SUMMARY:Amistoso - Casademont Zaragoza - ICG Força Lleida
-UID:bc5121e1-db34-4107-8ced-06ba1babfae5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: Aragón TV</li></ul></body></html>
-DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260828T035428Z
+DTSTAMP:20260829T103159Z
 DTSTART:20260829T180000Z
 DTEND:20260829T200000Z
 SUMMARY:Amistoso - Río Breogán - Real Madrid Baloncesto
-UID:43ffa964-fbea-4a8a-ba49-907f547a0103
+UID:c47ce7ca-9a97-4c11-8330-f14a4207076f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
  </ul></body></html>
 DESCRIPTION:- Open: RealMadrid TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T035428Z
+DTSTAMP:20260829T103159Z
+DTSTART:20260830T180000Z
+DTEND:20260830T200000Z
+SUMMARY:Amistoso - Melilla Sport Capital - Unicaja Málaga
+UID:902a593c-d01c-40fb-a7de-54a433b40984
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: 101TV</li>\n<li>Op
+ en: TV Melilla</li></ul></body></html>
+DESCRIPTION:- Open: 101TV\n- Open: TV Melilla
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T103159Z
 DTSTART:20260905T180000Z
 DTEND:20260905T200000Z
 SUMMARY:Amistoso - Baskonia - Real Madrid Baloncesto
-UID:0adf6486-aa89-404f-95cb-2746e036500d
+UID:1ff24b2b-ff28-49b3-b191-315be484d2ea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T035428Z
+DTSTAMP:20260829T103159Z
 DTSTART:20260905T183000Z
 DTEND:20260905T203000Z
 SUMMARY:Amistoso - Casademont Zaragoza - La Laguna Tenerife
-UID:2f92cf80-d07f-4822-b5fc-69d6aed214ee
+UID:dc2f9adc-5d65-4b85-989f-d1bf6258fdce
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260828T035428Z
+DTSTAMP:20260829T103159Z
 DTSTART:20260906T103000Z
 DTEND:20260906T123000Z
 SUMMARY:Amistoso - MoraBanc Andorra - Barça Basket
-UID:2e49b0b1-9929-44ee-90d5-e6b214ff3e34
+UID:4c64b6d5-321d-46ac-867b-8c58d0815131
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260829T103159Z
+DTSTART:20260907T180000Z
+DTEND:20260907T200000Z
+SUMMARY:Amistoso - Casademont Zaragoza - Valencia Basket
+UID:5af92a61-6549-4016-916d-0c5f5f18f460
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR

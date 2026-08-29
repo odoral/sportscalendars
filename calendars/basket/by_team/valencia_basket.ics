@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260721T092906Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260624T103847Z
-DTSTART:20260624T180000Z
-DTEND:20260624T200000Z
-SUMMARY:Liga Endesa - Barça Basket - Valencia Basket
-UID:13c337ca-e5ea-42ed-a402-156ddc014431
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: DAZN Baloncesto</li>\n<li>PPV: Movistar Plus+<
- /li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: DAZN Baloncesto\n- PPV:
-  Movistar Plus+
+DTSTAMP:20260829T103159Z
+DTSTART:20260907T180000Z
+DTEND:20260907T200000Z
+SUMMARY:Amistoso - Casademont Zaragoza - Valencia Basket
+UID:3d60d67d-0376-495a-8d99-0965b4e538f0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR
