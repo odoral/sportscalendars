@@ -16,31 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260831T015516Z
+DTSTAMP:20260902T081138Z
 DTSTART:20260904T154500Z
 DTEND:20260904T174500Z
 SUMMARY:FIBA Mundial Femenino - España - Alemania
-UID:069a178e-473e-4650-aa54-4e872fd2f471
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Baloncesto</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Baloncesto\n- PPV: M+ Vamos
+UID:2333fdca-fc31-407f-b97d-33d95ed73fd7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
+ >\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T015516Z
+DTSTAMP:20260902T081138Z
 DTSTART:20260905T160000Z
 DTEND:20260905T180000Z
 SUMMARY:FIBA Mundial Femenino - Alemania - Japón
-UID:198beb27-3507-4e4c-9fd0-a7f7c2eaeff7
+UID:9fcb7b1b-e9a7-41f6-b70d-086c46dc5683
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li><
  /ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T015516Z
+DTSTAMP:20260902T081138Z
 DTSTART:20260907T155000Z
 DTEND:20260907T175000Z
 SUMMARY:FIBA Mundial Femenino - Alemania - Mali
-UID:1ef95164-ccb6-4f5b-ab85-a53782aeca51
+UID:58ffe61a-2ae8-4961-9869-23f1d6c80699
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
