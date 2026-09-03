@@ -16,11 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260829T103159Z
+DTSTAMP:20260903T082122Z
 DTSTART:20260904T183000Z
 DTEND:20260904T203000Z
 SUMMARY:Otras competiciones - ICG Força Lleida - Ratiopharm Ulm
-UID:97166238-ba9a-45b2-bad6-766670b20d49
+UID:caf5cd2e-df10-43ff-ba65-1dd7c46f657a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T082122Z
+DTSTART:20260909T190000Z
+DTEND:20260909T210000Z
+SUMMARY:Otras competiciones - ICG Força Lleida - Joventut Badalona
+UID:8d4d239a-73e1-4ece-8b03-c02c30dd26df
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Esport3 (Web)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T082122Z
+DTSTART:20260910T190000Z
+DTEND:20260910T210000Z
+SUMMARY:Otras competiciones - Bàsquet Girona - ICG Força Lleida
+UID:65fc076d-7f81-489d-914c-367904dfd9b7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3

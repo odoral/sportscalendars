@@ -16,81 +16,125 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
+DTSTAMP:20260903T082114Z
 DTSTART:20260905T100000Z
 DTEND:20260905T120000Z
 SUMMARY:Liga F - Valencia Féminas - Madrid C.F.F.
-UID:fce76831-051a-4cbb-a00b-4d4dde4ffed7
+UID:6407ce0e-04a3-4def-9ef4-281d14bc9bac
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
- i>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: rtve Play\n- PPV: DAZN
+ i>PPV: DAZN</li>\n<li>PPV: DAZN 2</li></ul></body></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
+DTSTAMP:20260903T082114Z
 DTSTART:20260905T100000Z
 DTEND:20260905T120000Z
 SUMMARY:Liga F - RCD Espanyol Fem. - FC Badalona Women
-UID:393b749e-a36d-49e1-b734-7503b9539b50
+UID:be1c58c6-475f-48e9-964f-dec4ca298ec7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
+DTSTAMP:20260903T082114Z
 DTSTART:20260905T183000Z
 DTEND:20260905T203000Z
 SUMMARY:Liga F - Sevilla FC Fem. - Barcelona Femenino
-UID:4ceb1602-9471-45ad-83ba-d2b2c0b72939
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:1c0154f9-b90d-46f0-89f5-4187ce5aa4b6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
+DTSTAMP:20260903T082114Z
 DTSTART:20260906T100000Z
 DTEND:20260906T120000Z
 SUMMARY:Liga F - At. Madrid Fem. - Alavés Fem.
-UID:f2aae8a5-183e-4519-bef6-66b2ea073904
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:c1c1506c-25bd-4349-9217-f0aa4752f964
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
+DTSTAMP:20260903T082114Z
 DTSTART:20260906T104500Z
 DTEND:20260906T124500Z
 SUMMARY:Liga F - UDG Tenerife - Deportivo Abanca
-UID:32f8d6c2-0527-46cf-98f3-c943d3917677
+UID:c60a6ece-a0ea-47f7-a78d-5123c9209453
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 2</li></ul><
+ /body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: D
+ AZN 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T082114Z
+DTSTART:20260906T163000Z
+DTEND:20260906T183000Z
+SUMMARY:Liga F - DUX Logroño Fem. - Athletic Club Fem.
+UID:950a090a-bc91-4b2b-9589-21d9e0e430b8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T082114Z
+DTSTART:20260906T183000Z
+DTEND:20260906T203000Z
+SUMMARY:Liga F - Real Madrid Fem. - Eibar Fem.
+UID:e1b8a192-2997-4e37-bd15-202fe8f43ae7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li></ul><
+ /body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: D
+ AZN 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T082114Z
+DTSTART:20260907T173000Z
+DTEND:20260907T193000Z
+SUMMARY:Liga F - Granada Fem. - Real Sociedad F.
+UID:3a5f8fc3-cfb5-4c25-a2e9-f5793319455e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T082114Z
+DTSTART:20260911T184500Z
+DTEND:20260911T204500Z
+SUMMARY:Liga F - Deportivo Abanca - Real Madrid Fem.
+UID:4902fd2b-4d9d-4e34-82e0-77599fb104da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
-DTSTART:20260906T163000Z
-DTEND:20260906T183000Z
-SUMMARY:Liga F - DUX Logroño Fem. - Athletic Club Fem.
-UID:fb7a6ca8-902a-4133-829c-5ee290d627b0
+DTSTAMP:20260903T082114Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Liga F - Athletic Club Fem. - RCD Espanyol Fem.
+UID:75517ec4-94c7-4d28-b2ed-cb6a9062d7b3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T082114Z
+DTSTART:20260912T143000Z
+DTEND:20260912T163000Z
+SUMMARY:Liga F - Madrid C.F.F. - Sevilla FC Fem.
+UID:0fa28791-b2d3-42e7-86cf-7b6fa3ba32fe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
-DTSTART:20260906T183000Z
-DTEND:20260906T203000Z
-SUMMARY:Liga F - Real Madrid Fem. - Eibar Fem.
-UID:3e53e407-102f-41fa-990a-6cd80385b5e8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
-DTSTART:20260907T173000Z
-DTEND:20260907T193000Z
-SUMMARY:Liga F - Granada Fem. - Real Sociedad F.
-UID:a3fb272a-d47f-42c2-82c6-6c21f3f20454
+DTSTAMP:20260903T082114Z
+DTSTART:20260912T170000Z
+DTEND:20260912T190000Z
+SUMMARY:Liga F - Barcelona Femenino - At. Madrid Fem.
+UID:855bcb62-dc28-492d-9470-10eac2c1e39c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN

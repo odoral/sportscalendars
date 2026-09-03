@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260830T015945Z
+DTSTAMP:20260903T082115Z
 DTSTART:20260905T100000Z
 DTEND:20260905T120000Z
 SUMMARY:Liga F - RCD Espanyol Fem. - FC Badalona Women
-UID:49c4dee0-373c-4c32-94a6-2cc62211b107
+UID:27eb8503-9a0f-4775-bed5-843e0321f875
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T082115Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Liga F - Athletic Club Fem. - RCD Espanyol Fem.
+UID:066e12e2-f16b-4db0-b170-61bc72c63ba1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

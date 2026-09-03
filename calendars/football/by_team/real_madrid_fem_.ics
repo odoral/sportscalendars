@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260903T014435Z
+DTSTAMP:20260903T082115Z
 DTSTART:20260906T183000Z
 DTEND:20260906T203000Z
 SUMMARY:Liga F - Real Madrid Fem. - Eibar Fem.
-UID:dc9221fe-afa7-47c2-827d-cf4f4f79866f
+UID:8eb0b964-d0c1-43bc-a01d-808b4c4fe489
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li></ul><
+ /body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: D
+ AZN 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T082115Z
+DTSTART:20260911T184500Z
+DTEND:20260911T204500Z
+SUMMARY:Liga F - Deportivo Abanca - Real Madrid Fem.
+UID:3964b1b0-8dc3-411a-a2db-0ce8f6762e69
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN

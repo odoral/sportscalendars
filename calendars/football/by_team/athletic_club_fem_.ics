@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
+DTSTAMP:20260903T082115Z
 DTSTART:20260906T163000Z
 DTEND:20260906T183000Z
 SUMMARY:Liga F - DUX Logroño Fem. - Athletic Club Fem.
-UID:59cc64aa-adc1-4d4e-ac8d-bc60fb7e149b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:3f5f4e48-d292-45c8-b727-e4645c70eb07
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T082115Z
+DTSTART:20260912T100000Z
+DTEND:20260912T120000Z
+SUMMARY:Liga F - Athletic Club Fem. - RCD Espanyol Fem.
+UID:b21f3b99-e0a1-49ce-aedf-076086cc8fe0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
