@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260902T081133Z
+DTSTAMP:20260903T014435Z
 DTSTART:20260905T164500Z
 DTEND:20260905T184500Z
 SUMMARY:Primera Federación - Pontevedra - Arenas Club
-UID:f99a6294-3011-4fdb-b61a-c8abee318ef9
+UID:1d2d63e1-8449-4f2a-a1a8-df705cd9d31c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
  >\n<li>PPV: LaLiga TV Multi 5</li></ul></body></html>
 DESCRIPTION:- PPV: FootballClub TV\n- PPV: LaLiga TV Multi 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T014435Z
+DTSTART:20260912T143000Z
+DTEND:20260912T163000Z
+SUMMARY:Primera Federación - Pontevedra - Bilbao Athletic
+UID:c52f3221-40bb-442a-a2e4-3ebf20e08fe1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG 2</li>\n<li>PP
+ V: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG 2\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

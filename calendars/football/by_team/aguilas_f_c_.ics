@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
+DTSTAMP:20260903T014435Z
 DTSTART:20260905T161500Z
 DTEND:20260905T181500Z
 SUMMARY:Primera Federación - Sant Andreu - Águilas F.C.
-UID:bc716f73-e6a1-4524-afd3-d2e32f056c81
+UID:708de8ad-b64f-47fe-ba67-0ad466e08b61
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T014435Z
+DTSTART:20260912T110000Z
+DTEND:20260912T130000Z
+SUMMARY:Primera Federación - Águilas F.C. - R.M. Castilla
+UID:07054c4d-e533-48c5-b969-22dd48c8d33d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
+ n
 END:VEVENT
 END:VCALENDAR

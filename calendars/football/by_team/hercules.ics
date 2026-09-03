@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260830T015945Z
+DTSTAMP:20260903T014435Z
 DTSTART:20260906T161500Z
 DTEND:20260906T181500Z
 SUMMARY:Primera Federación - Hércules - At. Madrid B
-UID:af0cab83-c94d-42e3-8e36-a3a86e01b816
+UID:a77db3a3-6c72-4000-bb5f-e40c87c5c1a1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
  l>
 DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
  n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T014435Z
+DTSTART:20260912T143000Z
+DTEND:20260912T163000Z
+SUMMARY:Primera Federación - C.E. Europa - Hércules
+UID:c07d0333-a484-476f-a094-69f02069efe6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federac
+ ión</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FootballClub TV\n- PPV:
+  Primera Federación
 END:VEVENT
 END:VCALENDAR

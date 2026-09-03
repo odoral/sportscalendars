@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260902T081133Z
+DTSTAMP:20260903T014435Z
 DTSTART:20260906T161500Z
 DTEND:20260906T181500Z
 SUMMARY:Primera Federación - Alcorcón - C.E. Europa
-UID:ebc66621-6ab5-4d56-8f1b-5d0076b91758
+UID:c4c11a90-4538-4781-a004-7e14f2510144
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
  >\n<li>PPV: LaLiga TV Multi 5</li></ul></body></html>
 DESCRIPTION:- PPV: FootballClub TV\n- PPV: LaLiga TV Multi 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T014435Z
+DTSTART:20260912T143000Z
+DTEND:20260912T163000Z
+SUMMARY:Primera Federación - C.E. Europa - Hércules
+UID:0eeea2b7-718e-408f-b20e-ddcb2df1fe59
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federac
+ ión</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FootballClub TV\n- PPV:
+  Primera Federación
 END:VEVENT
 END:VCALENDAR

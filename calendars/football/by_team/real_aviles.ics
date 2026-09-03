@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260829T103153Z
+DTSTAMP:20260903T014435Z
 DTSTART:20260906T161500Z
 DTEND:20260906T181500Z
 SUMMARY:Primera Federación - Bilbao Athletic - Real Avilés
-UID:45dc8fc0-5d8d-4989-8877-3cfcb697ee73
+UID:46a17efc-c6bb-4837-bebc-5be045001703
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
  ></ul></body></html>
 DESCRIPTION:- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T014435Z
+DTSTART:20260912T164500Z
+DTEND:20260912T184500Z
+SUMMARY:Primera Federación - Real Avilés - Unionistas
+UID:965309d1-7bb8-4137-be8a-a825e978f203
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
+ n
 END:VEVENT
 END:VCALENDAR

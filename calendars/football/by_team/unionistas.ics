@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
+DTSTAMP:20260903T014435Z
 DTSTART:20260905T164500Z
 DTEND:20260905T184500Z
 SUMMARY:Primera Federación - Unionistas - Real Unión
-UID:36a1182a-b97c-4b55-a318-490df87ded28
+UID:bab921aa-2971-4911-8710-9fee792ffbcf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
  ></ul></body></html>
 DESCRIPTION:- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260903T014435Z
+DTSTART:20260912T164500Z
+DTEND:20260912T184500Z
+SUMMARY:Primera Federación - Real Avilés - Unionistas
+UID:a14d29e6-fe9d-4520-b554-d2f36eb8d86f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
+ n
 END:VEVENT
 END:VCALENDAR
