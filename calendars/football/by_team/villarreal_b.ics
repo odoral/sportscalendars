@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260830T015945Z
+DTSTAMP:20260904T013810Z
 DTSTART:20260904T170000Z
 DTEND:20260904T190000Z
 SUMMARY:Primera Federación - Villarreal B - Algeciras
-UID:a858d185-4ea3-4537-a261-6440000603d2
+UID:35de24d4-fd01-4380-8815-675f8acca076
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
  l>
 DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
  n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T013810Z
+DTSTART:20260913T100000Z
+DTEND:20260913T120000Z
+SUMMARY:Primera Federación - Huesca - Villarreal B
+UID:0fba309b-f39b-4d0a-85e5-ac73dec4c581
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: FootballClub T
+ V</li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: DAZN\n- PPV
+ : FootballClub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

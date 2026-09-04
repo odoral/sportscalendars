@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260902T081133Z
+DTSTAMP:20260904T013810Z
 DTSTART:20260905T190000Z
 DTEND:20260905T210000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Mallorca
-UID:ad0d60ee-ce1d-479b-a979-064d536d8600
+UID:8783741f-439e-4e8f-885e-a71420e7531a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T013810Z
+DTSTART:20260913T150000Z
+DTEND:20260913T170000Z
+SUMMARY:Liga Hypermotion - Mallorca - Sabadell
+UID:60c28b89-5a7a-4abe-91b5-d81f2be0a8a3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Gol Play</li>\n<li>Open: IB3</li>\n<li>PPV: DAZN</li>\n<li>PPV: L
+ aLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Gol Play\n- Open: IB3\n- PPV: DAZN\
+ n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

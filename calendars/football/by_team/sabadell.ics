@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260903T014435Z
+DTSTAMP:20260904T013810Z
 DTSTART:20260907T183000Z
 DTEND:20260907T203000Z
 SUMMARY:Liga Hypermotion - Sabadell - Córdoba
-UID:74d4a2b6-efb5-4f81-b5b6-3dcec4e21a96
+UID:2cc55188-0608-4657-8ae2-d41aaa7da529
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T013810Z
+DTSTART:20260913T150000Z
+DTEND:20260913T170000Z
+SUMMARY:Liga Hypermotion - Mallorca - Sabadell
+UID:10747d07-c2cb-4fb0-a0d8-eaa7605adc06
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Gol Play</li>\n<li>Open: IB3</li>\n<li>PPV: DAZN</li>\n<li>PPV: L
+ aLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Gol Play\n- Open: IB3\n- PPV: DAZN\
+ n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

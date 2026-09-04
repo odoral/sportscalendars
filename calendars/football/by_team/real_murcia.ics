@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260902T081133Z
+DTSTAMP:20260904T013810Z
 DTSTART:20260906T161500Z
 DTEND:20260906T181500Z
 SUMMARY:Primera Federación - Real Murcia - Teruel
-UID:87b03f04-31cb-4686-870f-afcc5cb56769
+UID:a8e64184-7a1b-467b-8354-ba0dc793ec66
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FootballClub TV</li
  >\n<li>PPV: LaLiga TV Multi 4</li></ul></body></html>
 DESCRIPTION:- PPV: FootballClub TV\n- PPV: LaLiga TV Multi 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T013810Z
+DTSTART:20260913T183000Z
+DTEND:20260913T203000Z
+SUMMARY:Primera Federación - At. Madrid B - Real Murcia
+UID:1d189662-05a1-4727-9d41-1591cd44791e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
+ n
 END:VEVENT
 END:VCALENDAR

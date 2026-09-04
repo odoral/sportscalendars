@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
+DTSTAMP:20260904T013810Z
 DTSTART:20260906T140000Z
 DTEND:20260906T160000Z
 SUMMARY:Primera Federación - Cultural Leonesa - Mérida
-UID:d90303f5-acd8-435f-8fe6-d4781da3a966
+UID:20be9979-df2d-4409-8dbd-1f1055cdaa8e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
+ n
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T013810Z
+DTSTART:20260913T161500Z
+DTEND:20260913T181500Z
+SUMMARY:Primera Federación - Cacereño - Cultural Leonesa
+UID:115aaa3f-9543-437c-9579-1059fc35caf8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
  l>

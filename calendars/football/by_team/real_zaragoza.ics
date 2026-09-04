@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260831T015512Z
+DTSTAMP:20260904T013810Z
 DTSTART:20260905T190000Z
 DTEND:20260905T210000Z
 SUMMARY:Primera Federación - Real Zaragoza - Antequera
-UID:048a6ecb-2e66-42e6-9c79-f96f3f06df0d
+UID:be94c580-aee8-4795-9750-df627b633cee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: FootballClub T
  V</li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: DAZN\n- PPV
  : FootballClub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260904T013810Z
+DTSTART:20260913T140000Z
+DTEND:20260913T160000Z
+SUMMARY:Primera Federación - Juv. Torremolinos - Real Zaragoza
+UID:bce1a3de-904a-49af-8953-d9541262fedc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></body></htm
+ l>
+DESCRIPTION:- PPV: DAZN\n- PPV: FootballClub TV\n- PPV: Primera Federació
+ n
 END:VEVENT
 END:VCALENDAR
