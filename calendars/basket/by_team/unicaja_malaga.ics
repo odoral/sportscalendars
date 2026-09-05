@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260904T081650Z
+DTSTAMP:20260905T075419Z
+DTSTART:20260905T180000Z
+DTEND:20260905T200000Z
+SUMMARY:Otras competiciones - Unicaja Málaga - Caja 87
+UID:9b36b0fd-ba63-43ac-af88-1ab92ed9babe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CanalSur Más</li>\
+ n<li>Open: FAB TV Youtube</li></ul></body></html>
+DESCRIPTION:- Open: CanalSur Más\n- Open: FAB TV Youtube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T075419Z
 DTSTART:20260910T180000Z
 DTEND:20260910T200000Z
 SUMMARY:Otras competiciones - Unicaja Málaga - La Laguna Tenerife
-UID:cbd00ed2-0034-461a-9639-db39c4fd03e0
+UID:798042e2-afba-4ca1-8b41-5520e5310b6c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportes TVCanaria
   YouTube</li></ul></body></html>
 DESCRIPTION:- Open: Deportes TVCanaria YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260904T081650Z
+DTSTAMP:20260905T075419Z
 DTSTART:20260912T170000Z
 DTEND:20260912T190000Z
 SUMMARY:Otras competiciones - Unicaja Málaga - Real Madrid Baloncesto
-UID:3e243157-ca52-4edc-8285-ba7d1e0b647b
+UID:f3b641c8-9c9e-41d8-8ea0-b143d4081116
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT

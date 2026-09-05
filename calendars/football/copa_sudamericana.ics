@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260823T081605Z
-DTSTART:20260827T003000Z
-DTEND:20260827T023000Z
-SUMMARY:Copa Sudamericana - River Plate - Santa Fe
-UID:c60bd186-f803-4a2a-9d45-dcb05b014287
+DTSTAMP:20260905T075414Z
+DTSTART:20260909T003000Z
+DTEND:20260909T023000Z
+SUMMARY:Copa Sudamericana - Boca Juniors - São Paulo
+UID:ca6b8c6f-40b4-4816-94f4-cc1ef38d8112
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones
+ s</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260905T075414Z
+DTSTART:20260909T220000Z
+DTEND:20260910T000000Z
+SUMMARY:Copa Sudamericana - Santos - Atlético Mineiro
+UID:db415a97-eaec-4d16-847e-a3804d50887b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 END:VCALENDAR
