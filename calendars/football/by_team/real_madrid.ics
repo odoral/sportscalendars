@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260905T075414Z
+DTSTAMP:20260906T013338Z
 DTSTART:20260908T190000Z
 DTEND:20260908T210000Z
 SUMMARY:Champions League - Real Madrid - Inter de Milan
-UID:54658f15-b8f4-42c5-b3bc-9f9fe1bf44b8
+UID:d671eed1-09e8-429c-8d4a-273905d3753e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
  i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
@@ -28,13 +28,25 @@ DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
   PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260905T075414Z
+DTSTAMP:20260906T013338Z
 DTSTART:20260912T190000Z
 DTEND:20260912T210000Z
 SUMMARY:Liga EA Sports - Real Madrid - Rayo Vallecano
-UID:3b37bc00-af61-4ead-a712-596d53aa4ec2
+UID:85323cb8-d27a-464c-b613-8cb3e5bae8df
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260906T013338Z
+DTSTART:20260915T193000Z
+DTEND:20260915T213000Z
+SUMMARY:Liga EA Sports - Elche - Real Madrid
+UID:97178529-2ce6-4142-b80b-b7cdb6163634
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR
