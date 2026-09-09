@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260907T013217Z
-DTSTART:20260907T093000Z
-DTEND:20260907T113000Z
-SUMMARY:FIBA Mundial Femenino - Bélgica - Australia
-UID:304db17c-a8b6-4bd6-94af-7c766f2873b9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Baloncesto</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Baloncesto
+DTSTAMP:20260909T082627Z
+DTSTART:20260909T184500Z
+DTEND:20260909T204500Z
+SUMMARY:FIBA Mundial Femenino - Italia - Australia
+UID:89ce56f8-caa2-4f58-9f05-d1c1d36ae3c8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + Baloncesto
 END:VEVENT
 END:VCALENDAR
