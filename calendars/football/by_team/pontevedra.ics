@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260906T013338Z
+DTSTAMP:20260909T014900Z
 DTSTART:20260912T143000Z
 DTEND:20260912T163000Z
 SUMMARY:Primera Federación - Pontevedra - Bilbao Athletic
-UID:3eca0c7d-7bd8-4778-808a-e90f2013d3b8
+UID:9e690c4b-def1-4727-af6f-b14a603c432d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260909T014900Z
+DTSTART:20260918T190000Z
+DTEND:20260918T210000Z
+SUMMARY:Primera Federación - U.D. Logroñés - Pontevedra
+UID:7dbd88c2-e053-46d8-afea-4889b42a6e5b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR
