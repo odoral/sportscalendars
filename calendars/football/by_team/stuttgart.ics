@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260905T075414Z
-DTSTART:20260909T164500Z
-DTEND:20260909T184500Z
-SUMMARY:Champions League - Stuttgart - Viking FK
-UID:ad62088e-28fd-4d3b-888f-a1d2911cacba
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 3</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260905T075414Z
+DTSTAMP:20260910T014437Z
 DTSTART:20260912T133000Z
 DTEND:20260912T153000Z
 SUMMARY:Bundesliga - Hoffenheim - Stuttgart
-UID:1db8066d-bc03-48d8-b67c-c38bd442c4ac
+UID:059f7355-c937-45a7-b551-29aac22bfe70
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T014437Z
+DTSTART:20260919T163000Z
+DTEND:20260919T183000Z
+SUMMARY:Bundesliga - Stuttgart - Borussia Dortmund
+UID:bc094810-7adb-4e00-8eed-bd2f64debd81
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR

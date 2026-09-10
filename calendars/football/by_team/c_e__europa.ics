@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260907T013213Z
+DTSTAMP:20260910T014437Z
 DTSTART:20260912T143000Z
 DTEND:20260912T163000Z
 SUMMARY:Primera Federación - C.E. Europa - Hércules
-UID:96d3fd6a-e34f-4f86-99fd-0794f6c0df30
+UID:0a3ad4d9-a718-4d38-af91-f3b6cd5a031a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>
+ \n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: Foot
+ ballClub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T014437Z
+DTSTART:20260919T143000Z
+DTEND:20260919T163000Z
+SUMMARY:Primera Federación - Real Murcia - C.E. Europa
+UID:6e1744da-b47f-414a-81fb-0fe67f637fbf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>
  \n<li>PPV: Primera Federación</li></ul></body></html>

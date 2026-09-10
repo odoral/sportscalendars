@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260907T013213Z
+DTSTAMP:20260910T014437Z
 DTSTART:20260911T184500Z
 DTEND:20260911T204500Z
 SUMMARY:Liga F - Deportivo Abanca - Real Madrid Fem.
-UID:95e8a3d8-32b9-49c7-815d-afd5b82baa43
+UID:28fa8315-284e-4e27-9a37-4a216c5c221c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T014437Z
+DTSTART:20260919T183000Z
+DTEND:20260919T203000Z
+SUMMARY:Liga F - Real Madrid Fem. - Valencia Féminas
+UID:bb73957d-03cc-4d53-8fc6-8e646918f143
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN

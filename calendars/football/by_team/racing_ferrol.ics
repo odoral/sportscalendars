@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260909T082621Z
+DTSTAMP:20260910T014437Z
 DTSTART:20260913T100000Z
 DTEND:20260913T120000Z
 SUMMARY:Primera Federación - Racing Ferrol - Real Unión
-UID:484d539e-62ec-4ad9-a85f-b81bd100183d
+UID:c38bbe3c-5b91-4451-a7bc-8aa7319cd5a0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T014437Z
+DTSTART:20260919T143000Z
+DTEND:20260919T163000Z
+SUMMARY:Primera Federación - Racing Ferrol - Barakaldo
+UID:ab041bec-c7d0-4611-9093-6d9c9f125d49
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

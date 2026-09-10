@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260906T013338Z
+DTSTAMP:20260910T014437Z
 DTSTART:20260913T173000Z
 DTEND:20260913T193000Z
 SUMMARY:Liga F - Eibar Fem. - FC Badalona Women
-UID:50056718-c9a2-42ea-9c6c-5ead7fa793a4
+UID:f289b01f-6784-4727-b0d7-79554d7135e8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T014437Z
+DTSTART:20260919T100000Z
+DTEND:20260919T120000Z
+SUMMARY:Liga F - FC Badalona Women - Real Sociedad F.
+UID:45144a4c-2b56-4556-826d-d42d2908a59d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN

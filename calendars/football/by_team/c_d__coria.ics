@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260909T082621Z
+DTSTAMP:20260910T014437Z
 DTSTART:20260913T161500Z
 DTEND:20260913T181500Z
 SUMMARY:Primera Federación - Lugo - C.D. Coria
-UID:cfc3c11b-690c-4b73-8cd0-1f12df243f80
+UID:b442e26e-e381-4f88-bb56-b8ef5e1837c8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T014437Z
+DTSTART:20260919T164500Z
+DTEND:20260919T184500Z
+SUMMARY:Primera Federación - C.D. Coria - Real Avilés
+UID:74a22a28-053b-4fc0-be26-b84179ade982
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

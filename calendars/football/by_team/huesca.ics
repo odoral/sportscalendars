@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260907T013213Z
+DTSTAMP:20260910T014437Z
 DTSTART:20260913T100000Z
 DTEND:20260913T120000Z
 SUMMARY:Primera Federación - Huesca - Villarreal B
-UID:713c261c-cf81-4891-a6ca-61e1a685b8e9
+UID:781b6a70-a53d-4452-84f2-2cafed0f23c0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: FanPlay TV</li
  >\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul><
  /body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: DAZN\n- PPV
  : FanPlay TV\n- PPV: FootballClub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T014437Z
+DTSTART:20260919T190000Z
+DTEND:20260919T210000Z
+SUMMARY:Primera Federación - Huesca - At. Madrid B
+UID:80f16022-8517-4c6c-bbf7-87b81b997647
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

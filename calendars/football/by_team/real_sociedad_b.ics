@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260909T082621Z
+DTSTAMP:20260910T014437Z
 DTSTART:20260912T120000Z
 DTEND:20260912T140000Z
 SUMMARY:Liga Hypermotion - F.C. Andorra - Real Sociedad B
-UID:ad9cc631-a4d0-4d6f-b14f-bfb43875748f
+UID:cc4b8f8d-7066-4314-8253-8242cfeae8de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T014437Z
+DTSTART:20260919T120000Z
+DTEND:20260919T140000Z
+SUMMARY:Liga Hypermotion - Real Sociedad B - Mallorca
+UID:2b1da6a0-0a95-4c9c-ad30-a0feb2a36580
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

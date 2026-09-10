@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260907T013213Z
+DTSTAMP:20260910T014437Z
 DTSTART:20260912T190000Z
 DTEND:20260912T210000Z
 SUMMARY:Primera Federación - Mérida - Mirandés
-UID:cbc0cbe8-641d-4d4a-91b2-a92988da49ea
+UID:9933d918-835c-471d-b5e8-4f28d4d773a6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T014437Z
+DTSTART:20260919T164500Z
+DTEND:20260919T184500Z
+SUMMARY:Primera Federación - Ponferradina - Mérida
+UID:1d88a96b-04af-4d97-829b-d66681af91c9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
