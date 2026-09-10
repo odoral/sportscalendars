@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260908T082335Z
-DTSTART:20260908T184500Z
-DTEND:20260908T204500Z
-SUMMARY:FIBA Mundial Femenino - Alemania - Corea del Sur
-UID:77da48bf-48ea-4d74-8633-a74c7bfd2a5c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Baloncesto</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Baloncesto
+DTSTAMP:20260910T082753Z
+DTSTART:20260910T154500Z
+DTEND:20260910T174500Z
+SUMMARY:FIBA Mundial Femenino - Bélgica - Alemania
+UID:719fd1d5-9029-4e29-b39f-c03ec71de376
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + Baloncesto
 END:VEVENT
 END:VCALENDAR

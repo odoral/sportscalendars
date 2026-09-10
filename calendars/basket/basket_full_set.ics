@@ -16,167 +16,214 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
+DTSTART:20260910T093000Z
+DTEND:20260910T113000Z
+SUMMARY:FIBA Mundial Femenino - Estados Unidos - Hungría
+UID:a0d234da-98f5-4035-b147-b4297e22467e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Baloncesto</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T082753Z
+DTSTART:20260910T123000Z
+DTEND:20260910T143000Z
+SUMMARY:FIBA Mundial Femenino - China - Francia
+UID:898ef1d0-e2be-48ad-891d-dd5ff1db3c87
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Baloncesto</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T082753Z
+DTSTART:20260910T154500Z
+DTEND:20260910T174500Z
+SUMMARY:FIBA Mundial Femenino - Bélgica - Alemania
+UID:17b67176-6df9-4bdc-8b37-8bafd60825df
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T082753Z
 DTSTART:20260910T163000Z
 DTEND:20260910T183000Z
 SUMMARY:Otras competiciones - Bàsquet Girona - ICG Força Lleida
-UID:04c1ac37-e2ce-4cc4-bb24-fcb45b887609
+UID:55a38b89-cadf-4c58-a732-a4793b8f597b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260910T180000Z
 DTEND:20260910T200000Z
 SUMMARY:Amistoso Femenino - Casademont Zaragoza - Lointek Gernika
-UID:c9573aa1-9dc1-414b-9803-7a05b637f508
+UID:3b5cbfec-0a75-4a3b-8a68-3dbee8f919e1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260910T180000Z
 DTEND:20260910T200000Z
 SUMMARY:Otras competiciones - Unicaja Málaga - La Laguna Tenerife
-UID:43e27956-74db-4356-ab0c-2406ff57d935
+UID:8b8d7163-5fba-4405-95e9-ab3745e2dd94
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportes TVCanaria
   YouTube</li></ul></body></html>
 DESCRIPTION:- Open: Deportes TVCanaria YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
+DTSTART:20260910T184500Z
+DTEND:20260910T204500Z
+SUMMARY:FIBA Mundial Femenino - Australia - España
+UID:06fc0fef-01af-437f-b8ba-e269dda86b16
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
+ >\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + Baloncesto\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260910T082753Z
 DTSTART:20260910T190000Z
 DTEND:20260910T210000Z
 SUMMARY:Otras competiciones - Barça Basket - MoraBanc Andorra
-UID:56df9c00-c6a0-4c05-a953-54c46031ea99
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
- </body></html>
-DESCRIPTION:- Open: Esport 3
+UID:4bbdd785-3a3c-4048-9c43-7a718e3770b0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Andorra TV</li>\n<
+ li>Open: Esport 3</li></ul></body></html>
+DESCRIPTION:- Open: Andorra TV\n- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260911T163000Z
 DTEND:20260911T183000Z
 SUMMARY:Otras competiciones - Joventut Badalona - Bàsquet Girona
-UID:bef4dfff-ec81-4731-af35-e2b2491beb96
+UID:c63ae705-5ddc-41bb-99ad-9a0cbf47b3b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260911T164500Z
 DTEND:20260911T184500Z
 SUMMARY:Otras competiciones - Baskonia - ALBA Berlin
-UID:c575c01c-a7dc-424d-9f1f-989bd8cbab8e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:61de4060-5f86-4f0b-8090-812d4d2d4135
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ADC EncestaRías Yo
+ uTube</li></ul></body></html>
+DESCRIPTION:- Open: ADC EncestaRías YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260911T180000Z
 DTEND:20260911T200000Z
 SUMMARY:Otras competiciones - Real Madrid Baloncesto - La Laguna Tenerife
  
-UID:ca6d9b6b-e8b5-40c5-890b-673759b79037
+UID:c7bbd74b-8248-4d73-8826-a8db23e4c86d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportes TVCanaria
-  YouTube</li></ul></body></html>
-DESCRIPTION:- Open: Deportes TVCanaria YouTube
+  YouTube</li>\n<li>Open: RealMadrid TV</li></ul></body></html>
+DESCRIPTION:- Open: Deportes TVCanaria YouTube\n- Open: RealMadrid TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260911T190000Z
 DTEND:20260911T210000Z
 SUMMARY:Otras competiciones - Kids&Us Manresa - Barça Basket
-UID:f18a688d-8e71-40c8-80af-ac25ac05ccc5
+UID:69f1de75-3d10-4e18-82ed-1e032f38ab3e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
  </body></html>
 DESCRIPTION:- Open: Esport 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260911T191500Z
 DTEND:20260911T211500Z
 SUMMARY:Otras competiciones - Monbus Obradoiro - Valencia Basket
-UID:e255c832-ddcf-4b33-9c04-3ca4046af628
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:495c5164-dc90-41e5-8733-b7cf3389714c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ADC EncestaRías Yo
+ uTube</li></ul></body></html>
+DESCRIPTION:- Open: ADC EncestaRías YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260912T170000Z
 DTEND:20260912T190000Z
 SUMMARY:Otras competiciones - Unicaja Málaga - Real Madrid Baloncesto
-UID:59ee7c31-a6d9-4407-9c39-dd3a1c1e7752
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:b11fa573-fe45-4faf-a16c-ec9a1398aae0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
+ </ul></body></html>
+DESCRIPTION:- Open: RealMadrid TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260912T183000Z
 DTEND:20260912T203000Z
 SUMMARY:Amistoso - Casademont Zaragoza - ÉB Pau-Orthez
-UID:bb7c3874-9804-462c-90ad-a751a6872b69
+UID:54bf549e-c52b-4654-b4c9-721b80c43d56
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260914T154500Z
 DTEND:20260914T174500Z
 SUMMARY:Basketball Champions League - Río Breogán - BC Rilski Sportist
-UID:f51c6cac-e84b-419a-aa8c-ee68ca4d64d0
+UID:0d802491-5795-4412-8349-1db843acde7e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260918T140000Z
 DTEND:20260918T160000Z
 SUMMARY:Supercopa Euroliga - Olympiacos Piraeus - Fenerbahçe S.K.
-UID:d6923a97-bc0f-49a6-8c71-3603fc006ece
+UID:bad3126f-8871-4bad-86b6-64c7e767598f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
  n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260918T170000Z
 DTEND:20260918T190000Z
 SUMMARY:Supercopa Euroliga - Dubai Basketball - Real Madrid Baloncesto
-UID:279f5b6a-3ae7-4968-a1a0-cfe782050dc7
+UID:e4b42efc-a2d4-41ae-9373-2821b7a4ef02
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
  n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260918T190000Z
 DTEND:20260918T210000Z
 SUMMARY:Amistoso - La Laguna Tenerife - Bilbao Basket
-UID:972f795d-0ea3-4d2b-aa93-ce7700ff41b2
+UID:d4fc3dff-e123-4074-a1ea-2a92dcbf40ba
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260919T160000Z
 DTEND:20260919T180000Z
 SUMMARY:Supercopa Endesa - Joventut Badalona - Baskonia
-UID:04d968d0-cf65-436a-ad28-c1a5a450de1e
+UID:f5db9127-9851-4efc-9efc-17fde452bf72
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T014442Z
+DTSTAMP:20260910T082753Z
 DTSTART:20260919T190000Z
 DTEND:20260919T210000Z
 SUMMARY:Supercopa Endesa - Valencia Basket - Barça Basket
-UID:575dc183-30d2-4c07-a18e-22b1dba391dd
+UID:78628e78-40c1-40cc-9395-fd787bc21d1c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
