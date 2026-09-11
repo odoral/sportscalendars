@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260910T082753Z
-DTSTART:20260910T123000Z
-DTEND:20260910T143000Z
-SUMMARY:FIBA Mundial Femenino - China - Francia
-UID:7f83deec-3812-47d8-bdcd-3a2555470486
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Baloncesto</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Baloncesto
+DTSTAMP:20260911T152256Z
+DTSTART:20260912T143000Z
+DTEND:20260912T163000Z
+SUMMARY:FIBA Mundial Femenino - Francia - Alemania
+UID:b3935513-bd6e-4ad9-8dbc-641feb592d2e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
+ ></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
+ + Baloncesto
 END:VEVENT
 END:VCALENDAR

@@ -16,31 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260910T082753Z
-DTSTART:20260910T093000Z
-DTEND:20260910T113000Z
-SUMMARY:FIBA Mundial Femenino - Estados Unidos - Hungría
-UID:adae4976-9db1-454b-917f-20bcbc01060d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Baloncesto</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Baloncesto
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260910T082753Z
-DTSTART:20260910T123000Z
-DTEND:20260910T143000Z
-SUMMARY:FIBA Mundial Femenino - China - Francia
-UID:6bce50e3-66d7-4f46-b257-4c30a5f70a0b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Baloncesto</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Baloncesto
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260910T082753Z
-DTSTART:20260910T154500Z
-DTEND:20260910T174500Z
-SUMMARY:FIBA Mundial Femenino - Bélgica - Alemania
-UID:b75389c3-9bba-4a8e-99b0-6aa3708ac33e
+DTSTAMP:20260911T152256Z
+DTSTART:20260912T143000Z
+DTEND:20260912T163000Z
+SUMMARY:FIBA Mundial Femenino - Francia - Alemania
+UID:5356b3c9-4719-483c-ab36-790729f765c0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
  ></ul></body></html>
@@ -48,15 +28,15 @@ DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
  + Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260910T082753Z
-DTSTART:20260910T184500Z
-DTEND:20260910T204500Z
-SUMMARY:FIBA Mundial Femenino - Australia - España
-UID:20ddd024-f158-4f78-aafc-489c5cc6361c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
- >\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
- + Baloncesto\n- PPV: M+ Vamos
+DTSTAMP:20260911T152256Z
+DTSTART:20260912T180000Z
+DTEND:20260912T200000Z
+SUMMARY:FIBA Mundial Femenino - España - Estados Unidos
+UID:50b263d5-4071-4f84-b27c-5a872a86a64b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>P
+ PV: M+ Baloncesto</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: 
+ DAZN\n- PPV: M+ Baloncesto
 END:VEVENT
 END:VCALENDAR
