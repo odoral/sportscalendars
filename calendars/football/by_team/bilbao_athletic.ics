@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260907T013213Z
+DTSTAMP:20260911T014348Z
 DTSTART:20260912T143000Z
 DTEND:20260912T163000Z
 SUMMARY:Primera Federación - Pontevedra - Bilbao Athletic
-UID:4f114266-4022-4fac-9516-087dddbba2dd
+UID:2a06fcd3-4240-4c58-b5c3-0dcac62dc927
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014348Z
+DTSTART:20260920T100000Z
+DTEND:20260920T120000Z
+SUMMARY:Primera Federación - Bilbao Athletic - Deportivo Fabril
+UID:aa1df925-6a08-4d97-8599-ce717e189450
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

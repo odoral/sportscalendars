@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260906T013338Z
+DTSTAMP:20260911T014348Z
 DTSTART:20260913T140000Z
 DTEND:20260913T160000Z
 SUMMARY:Primera Federación - Juv. Torremolinos - Real Zaragoza
-UID:05a0f6a2-67e3-40b4-b255-b0b67f696905
+UID:6b5ed539-d9c8-4046-a2f4-7a9c067eac4f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014348Z
+DTSTART:20260920T183000Z
+DTEND:20260920T203000Z
+SUMMARY:Primera Federación - Hércules - Juv. Torremolinos
+UID:b961a479-6a92-4c07-8070-1d3fe394de20
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

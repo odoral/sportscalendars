@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260909T082621Z
+DTSTAMP:20260911T014348Z
 DTSTART:20260912T143000Z
 DTEND:20260912T163000Z
 SUMMARY:Primera Federación - Antequera - Alcorcón
-UID:7af33251-224a-4f66-bb77-012649527eff
+UID:d0e5501d-746b-4e3d-a44b-57c2ebf6de28
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014348Z
+DTSTART:20260920T100000Z
+DTEND:20260920T120000Z
+SUMMARY:Primera Federación - Alcorcón - Nàstic Tarragona
+UID:4428a26b-cb19-4c4c-b003-de848dfa3242
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

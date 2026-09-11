@@ -16,15 +16,29 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260909T082621Z
+DTSTAMP:20260911T014348Z
 DTSTART:20260912T190000Z
 DTEND:20260912T210000Z
 SUMMARY:Primera Federación - Rayo Majadahonda - Cartagena
-UID:17a01c8a-24a9-4e02-8f5a-630d5b48960b
+UID:c3c034dd-28b4-4df2-a62e-eab0a2721b3f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014348Z
+DTSTART:20260920T183000Z
+DTEND:20260920T203000Z
+SUMMARY:Primera Federación - Real Zaragoza - Cartagena
+UID:fcea0336-8c30-4d39-aa01-c594225382d3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: La 7 Murcia</li>\n<li>PPV: DAZN</
+ li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: P
+ rimera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: La 7 Murci
+ a\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: Primer
+ a Federación
 END:VEVENT
 END:VCALENDAR

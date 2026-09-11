@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260909T082621Z
+DTSTAMP:20260911T014348Z
 DTSTART:20260913T140000Z
 DTEND:20260913T160000Z
 SUMMARY:Primera Federación - Deportivo Fabril - Ponferradina
-UID:bdfe49ca-b88b-48c4-9fa8-1351efadff6c
+UID:024e4f31-872f-42ce-9bf5-a7e9d526e6f2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014348Z
+DTSTART:20260920T100000Z
+DTEND:20260920T120000Z
+SUMMARY:Primera Federación - Bilbao Athletic - Deportivo Fabril
+UID:0ea663b2-ee46-4419-b74f-933ac6bf180f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

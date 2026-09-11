@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260909T082621Z
+DTSTAMP:20260911T014348Z
 DTSTART:20260911T183000Z
 DTEND:20260911T203000Z
 SUMMARY:Bundesliga - Union Berlin - Schalke 04
-UID:3c11a1ca-ea68-48f4-af45-52d6dfcb7689
+UID:c5f4e12b-ac2c-4913-93c3-9dceecd54d74
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Multi 3</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+
   Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 3\n- PPV: M+ Liga de Camp
  eones\n- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014348Z
+DTSTART:20260920T153000Z
+DTEND:20260920T173000Z
+SUMMARY:Bundesliga - Schalke 04 - SV Elversberg
+UID:6948afc1-e60e-4a5e-b5e6-bdd5b15fd401
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

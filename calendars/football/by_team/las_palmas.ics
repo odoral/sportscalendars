@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260909T082621Z
+DTSTAMP:20260911T014348Z
 DTSTART:20260912T141500Z
 DTEND:20260912T161500Z
 SUMMARY:Liga Hypermotion - Cádiz - Las Palmas
-UID:b4596ee1-35ac-4966-a51d-8d0bc28bab36
+UID:74f2f375-e7aa-471e-9620-0b6e0ce69c47
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014348Z
+DTSTART:20260920T163000Z
+DTEND:20260920T183000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Burgos C.F.
+UID:c62e2426-29af-4ae5-bcec-0bc325af9294
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

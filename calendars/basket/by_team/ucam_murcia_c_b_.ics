@@ -16,12 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260831T015516Z
-DTSTART:20260909T170000Z
-DTEND:20260909T190000Z
-SUMMARY:Amistoso - Albacete Basket - UCAM Murcia C.B.
-UID:04006679-bdb5-416d-a0ce-3dec0fa217f2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+DTSTAMP:20260911T014353Z
+DTSTART:20260920T101500Z
+DTEND:20260920T121500Z
+SUMMARY:Amistoso - Casademont Zaragoza - UCAM Murcia C.B.
+UID:de5d2e9a-6600-4882-815f-2161773472e5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014353Z
+DTSTART:20260920T101500Z
+DTEND:20260920T121500Z
+SUMMARY:Otras competiciones - Casademont Zaragoza - UCAM Murcia C.B.
+UID:32f68826-c84f-4b99-b147-dfc99c57ff96
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR

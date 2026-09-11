@@ -16,15 +16,29 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260906T013338Z
+DTSTAMP:20260911T014348Z
 DTSTART:20260913T140000Z
 DTEND:20260913T160000Z
 SUMMARY:Primera Federación - Juv. Torremolinos - Real Zaragoza
-UID:e0e4f7e6-1f63-48d4-a2f8-a2852c848f90
+UID:33278600-602f-42d5-b280-ab1963cf8b4f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014348Z
+DTSTART:20260920T183000Z
+DTEND:20260920T203000Z
+SUMMARY:Primera Federación - Real Zaragoza - Cartagena
+UID:1b7989ba-308d-4a25-8669-9101e30d025e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>Open: La 7 Murcia</li>\n<li>PPV: DAZN</
+ li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: P
+ rimera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: La 7 Murci
+ a\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: Primer
+ a Federación
 END:VEVENT
 END:VCALENDAR

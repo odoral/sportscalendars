@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260907T013213Z
+DTSTAMP:20260911T014348Z
 DTSTART:20260911T170000Z
 DTEND:20260911T190000Z
 SUMMARY:Primera Federación - Barakaldo - CD Extremadura 1924
-UID:ec0aa6dc-979f-4fc7-9352-44f284672835
+UID:804ea0c1-5885-46ec-9647-8970868cbc12
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014348Z
+DTSTART:20260920T140000Z
+DTEND:20260920T160000Z
+SUMMARY:Primera Federación - CD Extremadura 1924 - Cultural Leonesa
+UID:4259d7af-6461-49dc-8886-b14dfabc75a3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

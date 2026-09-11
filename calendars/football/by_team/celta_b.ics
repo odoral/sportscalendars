@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260908T082330Z
+DTSTAMP:20260911T014348Z
 DTSTART:20260914T183000Z
 DTEND:20260914T203000Z
 SUMMARY:Liga Hypermotion - Celta B - Eibar
-UID:91ea522f-ad25-4558-b9bf-b55849956886
+UID:b717c7b8-342a-4d76-962c-f2564a2ee803
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260911T014348Z
+DTSTART:20260920T163000Z
+DTEND:20260920T183000Z
+SUMMARY:Liga Hypermotion - Almería - Celta B
+UID:1443e530-d930-485b-8f69-bfa4371cedfa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</l
+ i></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TVG 2\n- PPV: DAZN\n- PPV: LaLiga T
+ V Hypermotion
 END:VEVENT
 END:VCALENDAR
