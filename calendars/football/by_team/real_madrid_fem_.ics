@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260913T014055Z
+DTSTAMP:20260913T083535Z
 DTSTART:20260919T183000Z
 DTEND:20260919T203000Z
 SUMMARY:Liga F - Real Madrid Fem. - Valencia Féminas
-UID:50ab939d-9055-4062-ae95-14a7bfa3cfba
+UID:ab393233-c37c-4209-9d17-8e41fb398b0f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260913T083535Z
+DTSTART:20260922T190000Z
+DTEND:20260922T210000Z
+SUMMARY:Women's Champions League - Real Madrid Fem. - PSG (Fem.)
+UID:48108ed7-6ed3-4869-b6ed-96ebb2fba6db
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
+ body></html>
+DESCRIPTION:- PPV: Disney+
 END:VEVENT
 END:VCALENDAR
