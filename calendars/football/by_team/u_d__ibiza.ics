@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260913T014055Z
+DTSTAMP:20260916T015827Z
 DTSTART:20260919T190000Z
 DTEND:20260919T210000Z
 SUMMARY:Primera Federación - Jaén - U.D. Ibiza
-UID:c391a19c-0a1d-403a-ad83-4e1e8639069c
+UID:d75cce57-6d2c-4aea-86e6-256b82b7e753
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T015827Z
+DTSTART:20260925T191500Z
+DTEND:20260925T211500Z
+SUMMARY:Primera Federación - U.D. Ibiza - Real Zaragoza
+UID:20b035d3-b0e1-4b8b-a6da-0ef0633b1efc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

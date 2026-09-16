@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260913T014055Z
+DTSTAMP:20260916T015827Z
 DTSTART:20260919T190000Z
 DTEND:20260919T210000Z
 SUMMARY:Liga Hypermotion - Cádiz - Girona
-UID:3ea5cb08-e1c9-472f-a644-735b822bb4aa
+UID:be9b00b0-0f68-43b0-bd64-dc44f9ad8521
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260916T015827Z
+DTSTART:20260925T183000Z
+DTEND:20260925T203000Z
+SUMMARY:Liga Hypermotion - Girona - Albacete
+UID:b0e07323-c0de-48b7-a885-801ca17f6a2f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
