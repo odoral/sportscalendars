@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260913T014055Z
+DTSTAMP:20260917T020237Z
 DTSTART:20260920T100000Z
 DTEND:20260920T120000Z
 SUMMARY:Primera Federación - Alcorcón - Nàstic Tarragona
-UID:1c6233be-35d7-4acd-b2ba-16e313445f81
+UID:dc6a4f7d-93bd-4e11-b04f-06980533c34d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T020237Z
+DTSTART:20260926T164500Z
+DTEND:20260926T184500Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Sant Andreu
+UID:dbaeb9b2-f4da-417f-852a-a2e35603a84f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>
+ \n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: Foot
+ ballClub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260913T014100Z
+DTSTAMP:20260917T020241Z
 DTSTART:20260920T101500Z
 DTEND:20260920T121500Z
 SUMMARY:Amistoso - Casademont Zaragoza - UCAM Murcia C.B.
-UID:b17e38dd-95fe-4880-8184-d2b2c278d7aa
+UID:b965d777-69a8-4d40-98da-bbf7e4f2297b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260913T014100Z
+DTSTAMP:20260917T020241Z
 DTSTART:20260920T101500Z
 DTEND:20260920T121500Z
 SUMMARY:Otras competiciones - Casademont Zaragoza - UCAM Murcia C.B.
-UID:5be36682-c0e0-45c1-9131-5dbea098246a
+UID:214f1c93-6442-4aad-a39c-64f0f71eb668
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T020241Z
+DTSTART:20260926T151500Z
+DTEND:20260926T171500Z
+SUMMARY:Otras competiciones - Casademont Zaragoza - Valencia Basket
+UID:b2ddfe04-53cb-443e-bad6-b0806ee11d0e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

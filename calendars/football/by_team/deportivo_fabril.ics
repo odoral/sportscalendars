@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260916T085358Z
+DTSTAMP:20260917T020237Z
 DTSTART:20260920T100000Z
 DTEND:20260920T120000Z
 SUMMARY:Primera Federación - Bilbao Athletic - Deportivo Fabril
-UID:f4ef0272-f524-441c-bfb0-b0905433eefb
+UID:7737f81d-f01b-48ae-be47-e07c17d82d6e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T020237Z
+DTSTART:20260926T164500Z
+DTEND:20260926T184500Z
+SUMMARY:Primera Federación - Deportivo Fabril - Real Unión
+UID:fe041df5-8b4f-4424-860f-baf2717ada2a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

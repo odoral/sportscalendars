@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260914T015854Z
+DTSTAMP:20260917T020237Z
 DTSTART:20260923T190000Z
 DTEND:20260923T210000Z
 SUMMARY:Primera Federación - Sant Andreu - R.M. Castilla
-UID:54efd97c-f16b-4f60-a7bb-cc1588bc806b
+UID:bf5deb8d-ad87-4a3d-84c6-13ea24337414
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T020237Z
+DTSTART:20260926T164500Z
+DTEND:20260926T184500Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Sant Andreu
+UID:b3818b9f-88fd-4b32-aed6-66d6310a5114
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>
+ \n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: Foot
+ ballClub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

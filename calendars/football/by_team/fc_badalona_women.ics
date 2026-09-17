@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260914T015854Z
+DTSTAMP:20260917T020237Z
 DTSTART:20260919T100000Z
 DTEND:20260919T120000Z
 SUMMARY:Liga F - FC Badalona Women - Real Sociedad F.
-UID:90bfa779-8726-4d12-8a6f-208ef8344fe3
+UID:257d28bf-aab1-485b-be3c-1db4d98dae39
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T020237Z
+DTSTART:20260926T100000Z
+DTEND:20260926T120000Z
+SUMMARY:Liga F - FC Badalona Women - Granada Fem.
+UID:bbfacc30-baef-4d16-9825-7bf93a2d26e0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN

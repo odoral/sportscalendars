@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260916T085359Z
+DTSTAMP:20260917T020237Z
 DTSTART:20260919T143000Z
 DTEND:20260919T163000Z
 SUMMARY:Primera Federación - Racing Ferrol - Barakaldo
-UID:0714a145-61e1-4a3e-b7d4-cf2079d06705
+UID:5aaa3603-ace9-4f9d-a08f-62dc06b4383f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Mult
  i 3</li></ul></body></html>
 DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : LaLiga TV Multi 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T020237Z
+DTSTART:20260926T143000Z
+DTEND:20260926T163000Z
+SUMMARY:Primera Federación - Lugo - Racing Ferrol
+UID:dc2a30ae-9096-48f7-80c8-45b5d9db51fe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

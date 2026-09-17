@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260916T085359Z
+DTSTAMP:20260917T020237Z
 DTSTART:20260920T100000Z
 DTEND:20260920T120000Z
 SUMMARY:Primera Federación - Algeciras - Águilas F.C.
-UID:77fa9c99-48c3-484b-8d10-f502b8398375
+UID:aeeef134-1bf7-4889-9209-2177c1680361
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260917T020237Z
+DTSTART:20260926T143000Z
+DTEND:20260926T163000Z
+SUMMARY:Primera Federación - Águilas F.C. - Hércules
+UID:9a21a05a-1cac-453a-ae4c-e80517c70cec
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR
