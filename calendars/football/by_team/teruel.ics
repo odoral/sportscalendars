@@ -16,15 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260916T085358Z
+DTSTAMP:20260918T014946Z
 DTSTART:20260919T143000Z
 DTEND:20260919T163000Z
 SUMMARY:Primera Federación - Rayo Majadahonda - Teruel
-UID:ef5b5e3b-8116-4b02-a7d6-cc32629a1f78
+UID:cf473dea-7ff8-40d0-a26c-57b5ec93c599
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T014946Z
+DTSTART:20260927T170000Z
+DTEND:20260927T190000Z
+SUMMARY:Primera Federación - Teruel - Huesca
+UID:c02e3511-bf27-4017-b686-fc8fb4037642
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
+ i>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
+ 
+DESCRIPTION:- Open: Aragón TV\n- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

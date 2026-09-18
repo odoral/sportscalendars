@@ -16,33 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260917T085847Z
-DTSTART:20260917T180000Z
-DTEND:20260917T200000Z
-SUMMARY:Amistoso - Unicaja Málaga - UCAM Murcia C.B.
-UID:80386504-faf4-48aa-bcec-7e43441172f9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Unicaja Baloncesto
-  YouTube</li></ul></body></html>
-DESCRIPTION:- Open: Unicaja Baloncesto YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260917T085847Z
+DTSTAMP:20260918T014951Z
 DTSTART:20260920T101500Z
 DTEND:20260920T121500Z
 SUMMARY:Amistoso - Casademont Zaragoza - UCAM Murcia C.B.
-UID:a5794d28-7d92-409b-ba4d-c67ef570b260
+UID:b4958845-2adf-4f4c-8c34-e56e8fe8ef1e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260917T085847Z
+DTSTAMP:20260918T014951Z
 DTSTART:20260920T101500Z
 DTEND:20260920T121500Z
 SUMMARY:Otras competiciones - Casademont Zaragoza - UCAM Murcia C.B.
-UID:5a755095-0aed-4040-be48-da3d1c798535
+UID:2ecae7c3-7e17-4268-9ca3-967f5b76b85e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T014951Z
+DTSTART:20260927T150000Z
+DTEND:20260927T170000Z
+SUMMARY:Liga Endesa - Bàsquet Girona - UCAM Murcia C.B.
+UID:7f154ec7-835c-482a-bc49-27d52b1df763
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

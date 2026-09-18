@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260913T014055Z
+DTSTAMP:20260918T014946Z
 DTSTART:20260918T190000Z
 DTEND:20260918T210000Z
 SUMMARY:Primera Federación - U.D. Logroñés - Pontevedra
-UID:fd6a2f7b-5457-4679-94f6-04cef1eab2b7
+UID:37048777-c5cf-4d70-97f1-e1582d24a36d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T014946Z
+DTSTART:20260927T161500Z
+DTEND:20260927T181500Z
+SUMMARY:Primera Federación - Mérida - U.D. Logroñés
+UID:47624e80-4a14-442a-8241-115a210a52a9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

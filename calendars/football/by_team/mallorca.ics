@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260916T085359Z
+DTSTAMP:20260918T014946Z
 DTSTART:20260919T120000Z
 DTEND:20260919T140000Z
 SUMMARY:Liga Hypermotion - Real Sociedad B - Mallorca
-UID:a049a9cf-10ef-49ea-a7ce-da3fbe1b7268
+UID:ff8b1674-0469-47f2-9319-45378e3fe210
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T014946Z
+DTSTART:20260927T141500Z
+DTEND:20260927T161500Z
+SUMMARY:Liga Hypermotion - Mallorca - Almería
+UID:b7b6fe10-7c6b-432e-8fb5-3a0257e6c513
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

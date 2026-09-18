@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260913T014055Z
+DTSTAMP:20260918T014946Z
 DTSTART:20260919T164500Z
 DTEND:20260919T184500Z
 SUMMARY:Primera Federación - Ponferradina - Mérida
-UID:a628875d-c98d-4f70-b9b5-343bb9fbfc0f
+UID:c5ec7f8b-7461-4271-b961-f03dc3edccfa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T014946Z
+DTSTART:20260927T161500Z
+DTEND:20260927T181500Z
+SUMMARY:Primera Federación - Mérida - U.D. Logroñés
+UID:09e0720e-2fe8-430f-9623-b0f28a8ebdc7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

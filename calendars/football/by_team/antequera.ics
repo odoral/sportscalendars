@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260913T014055Z
+DTSTAMP:20260918T014946Z
 DTSTART:20260919T164500Z
 DTEND:20260919T184500Z
 SUMMARY:Primera Federación - Villarreal B - Antequera
-UID:9cfb045c-649d-4e85-b8e6-2dafca4a8f2b
+UID:c8eb4e28-d1a3-44f3-aada-bd98dd4f3b9d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T014946Z
+DTSTART:20260927T161500Z
+DTEND:20260927T181500Z
+SUMMARY:Primera Federación - Antequera - Jaén
+UID:4f56f195-3f64-41a1-bcbe-0b4165b69fa5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
