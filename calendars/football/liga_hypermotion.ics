@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260918T183000Z
 DTEND:20260918T203000Z
 SUMMARY:Liga Hypermotion - Albacete - Córdoba
-UID:5c517969-9b8a-4697-a4cb-3be54dd3aced
+UID:131b7d20-1f81-49ba-9a8e-f03f0f882118
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -28,11 +28,11 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260919T120000Z
 DTEND:20260919T140000Z
 SUMMARY:Liga Hypermotion - Real Sociedad B - Mallorca
-UID:35489e41-9f1c-4412-b22a-2051b86750c4
+UID:8985cc37-4f26-4278-b877-7a57c86727d5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -40,11 +40,11 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260919T141500Z
 DTEND:20260919T161500Z
 SUMMARY:Liga Hypermotion - F.C. Andorra - Sporting de Gijón
-UID:0760279f-86b8-438f-8cd8-c6b37524974e
+UID:c3346d46-c39a-47cc-9558-54cab367d4d9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -52,11 +52,11 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260919T163000Z
 DTEND:20260919T183000Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Tenerife
-UID:957279af-8ad5-4c21-8936-223f1d199241
+UID:d294b1a3-1a0c-4ca5-abd1-efed6dd24f63
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -64,35 +64,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260919T163000Z
 DTEND:20260919T183000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Eibar
-UID:b9da5062-4db2-436f-a0c2-662f1f6f88af
+UID:5d8f3d5a-cc3a-4ffa-8d99-5f4d9409735b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
- </html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
- ulti 3
+  LaLiga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV
+  Multi 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260919T190000Z
 DTEND:20260919T210000Z
 SUMMARY:Liga Hypermotion - Cádiz - Girona
-UID:56d508c9-b77f-4128-8848-ecd7ec6b3a82
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
- html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
- ol 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
-DTSTART:20260920T120000Z
-DTEND:20260920T140000Z
-SUMMARY:Liga Hypermotion - Sabadell - Real Oviedo
-UID:b428766d-4c7c-4131-ba6b-c683fd04ea3f
+UID:36ddb548-baa5-44b3-a20b-086d5752efcc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
@@ -100,11 +88,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
+DTSTART:20260920T120000Z
+DTEND:20260920T140000Z
+SUMMARY:Liga Hypermotion - Sabadell - Real Oviedo
+UID:5307260d-2293-40c6-ab4a-24a363fe25a8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
+ range Fútbol 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2\n- PPV: Orange Fútbol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260918T083319Z
 DTSTART:20260920T141500Z
 DTEND:20260920T161500Z
 SUMMARY:Liga Hypermotion - AD Ceuta - Valladolid
-UID:311652a6-45a6-43df-a2ad-8a435eee8ca9
+UID:5bd3eeca-b3aa-4583-82f9-6bdc17546ae1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -112,23 +112,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260920T163000Z
 DTEND:20260920T183000Z
 SUMMARY:Liga Hypermotion - Almería - Celta B
-UID:1f6bca52-bb47-4e67-a727-caeaeb21aac4
+UID:8fd33c58-3427-49ba-a188-f5c3fb32493e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</l
- i>\n<li>PPV: LaLiga TV Multi 4</li></ul></body></html>
+ >Open: TVG 2</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion 2<
+ /li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- Open: TVG 2\n- PPV: DAZN\n- PPV: LaLiga T
- V Hypermotion\n- PPV: LaLiga TV Multi 4
+ V Hypermotion 2\n- PPV: LaLiga TV Multi 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260920T163000Z
 DTEND:20260920T183000Z
 SUMMARY:Liga Hypermotion - Las Palmas - Burgos C.F.
-UID:2b77c808-2e9e-41d2-a38f-0df7d3e26956
+UID:f0b6b8fa-8113-4d83-8bb7-9c6aecd6ca1b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
@@ -136,11 +136,11 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260920T190000Z
 DTEND:20260920T210000Z
 SUMMARY:Liga Hypermotion - Leganés - Granada C.F.
-UID:7870ca1c-3656-40cc-97cc-ca05eff5763d
+UID:c0247295-d924-4315-9ea8-e340668ccae4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -148,71 +148,71 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260925T183000Z
 DTEND:20260925T203000Z
 SUMMARY:Liga Hypermotion - Girona - Albacete
-UID:e3749a1f-4e0d-4fca-a3f4-63ed44e7f10c
+UID:8106e4bb-035c-4764-b068-1d7a8027c4da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260926T120000Z
 DTEND:20260926T140000Z
 SUMMARY:Liga Hypermotion - AD Ceuta - Real Sociedad B
-UID:e5122f84-651a-4df7-b54f-156f4dc37bb1
+UID:88a6e22a-05ac-4e88-b504-7cd48b4f99b0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260926T141500Z
 DTEND:20260926T161500Z
 SUMMARY:Liga Hypermotion - Granada C.F. - F.C. Andorra
-UID:c55dce78-78ef-45f8-b9b3-fe5d6d4e1fc5
+UID:4c66b77e-db9c-428d-aafc-a210ef8671aa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260926T163000Z
 DTEND:20260926T183000Z
 SUMMARY:Liga Hypermotion - Tenerife - Cádiz
-UID:8f6b8fca-ce49-4b77-9fc3-1266010de71a
+UID:9f141e7b-ec47-41cb-9992-06c1b4ee51cf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260926T163000Z
 DTEND:20260926T183000Z
 SUMMARY:Liga Hypermotion - Celta B - Sabadell
-UID:83808d86-254f-4578-8de1-1309242b9828
+UID:74107ea1-abca-4780-b641-86fd5519f612
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260927T120000Z
 DTEND:20260927T140000Z
 SUMMARY:Liga Hypermotion - Valladolid - Córdoba
-UID:11d7f749-9994-4620-9279-c725f689230a
+UID:68b75fba-6aaf-4e2e-b82b-3e6a000a3c24
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260927T141500Z
 DTEND:20260927T161500Z
 SUMMARY:Liga Hypermotion - Mallorca - Almería
-UID:31693755-214a-4724-b1b5-1664c2cf11fd
+UID:0ed03b51-4599-4bb8-a7a1-50c0079effa5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
@@ -220,31 +220,31 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260927T163000Z
 DTEND:20260927T183000Z
 SUMMARY:Liga Hypermotion - Eibar - Las Palmas
-UID:4b5358d7-9184-4ed4-9ac7-6345ebee54b0
+UID:0c05ee7a-250c-4b31-b9f6-6f38d825ae2b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260927T163000Z
 DTEND:20260927T183000Z
 SUMMARY:Liga Hypermotion - Burgos C.F. - C.D. Eldense
-UID:01fe0ba4-fcb5-44c1-82ce-2d4d09569a87
+UID:235e3c41-d69c-496e-96ea-b6a1bcd68a17
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260918T014946Z
+DTSTAMP:20260918T083319Z
 DTSTART:20260927T190000Z
 DTEND:20260927T210000Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Sporting de Gijón
-UID:2c71dda8-bd35-40a3-9e98-ea26ff423e68
+UID:53a840b4-525e-4fa7-b424-2a0f0d439fb6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
