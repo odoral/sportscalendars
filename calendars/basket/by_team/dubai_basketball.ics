@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260919T015456Z
+DTSTAMP:20260919T082050Z
+DTSTART:20260919T140000Z
+DTEND:20260919T160000Z
+SUMMARY:Supercopa Euroliga - Fenerbahçe S.K. - Dubai Basketball
+UID:44042204-2ed4-4aee-9b64-eadf5e1659c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T082050Z
 DTSTART:20260924T160000Z
 DTEND:20260924T180000Z
 SUMMARY:Euroliga - Dubai Basketball - Real Madrid Baloncesto
-UID:0c7393d9-3944-45ee-9350-51068d115752
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:b09ac729-da40-48c4-a20a-a261fec8f3a4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

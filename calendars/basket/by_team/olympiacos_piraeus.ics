@@ -16,12 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260919T015456Z
+DTSTAMP:20260919T082050Z
+DTSTART:20260919T170000Z
+DTEND:20260919T190000Z
+SUMMARY:Supercopa Euroliga - Olympiacos Piraeus - Real Madrid Baloncesto
+UID:174e8afb-40f7-4174-83cf-5c1a5be88fe6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260919T082050Z
 DTSTART:20260924T183000Z
 DTEND:20260924T203000Z
 SUMMARY:Euroliga - Baskonia - Olympiacos Piraeus
-UID:359397bf-48fb-4ac1-a842-32b00c3aac3c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:bdff516f-7ebf-4c0d-a54a-ac3fd4d61330
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 2</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto 2
 END:VEVENT
 END:VCALENDAR
