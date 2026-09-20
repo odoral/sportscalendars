@@ -16,33 +16,32 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260919T082050Z
-DTSTART:20260919T170000Z
-DTEND:20260919T190000Z
-SUMMARY:Supercopa Euroliga - Olympiacos Piraeus - Real Madrid Baloncesto
-UID:2fc27188-25a5-4d4b-8547-94e1a51b290f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
- n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260919T082050Z
+DTSTAMP:20260920T015753Z
 DTSTART:20260924T160000Z
 DTEND:20260924T180000Z
 SUMMARY:Euroliga - Dubai Basketball - Real Madrid Baloncesto
-UID:8ce73fdf-dc10-4c2f-8c31-caf1673ee68d
+UID:763cd596-7c71-4230-8259-fad20e92ccd0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
  n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260919T082050Z
+DTSTAMP:20260920T015753Z
 DTSTART:20260927T170000Z
 DTEND:20260927T190000Z
 SUMMARY:Liga Endesa - Real Madrid Baloncesto - Unicaja Málaga
-UID:1734c393-6e17-4014-ad00-311227d673d8
+UID:a1207ab8-da3d-4051-9eb1-9b0425e12b13
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T015753Z
+DTSTART:20260929T170000Z
+DTEND:20260929T190000Z
+SUMMARY:Euroliga - Anadolu Efes Istanbul - Real Madrid Baloncesto
+UID:e02cc291-b1a3-4e13-8164-f9ca263369a3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

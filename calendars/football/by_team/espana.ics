@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260917T020237Z
+DTSTAMP:20260920T015746Z
 DTSTART:20260926T184500Z
 DTEND:20260926T204500Z
 SUMMARY:UEFA Nations League - Inglaterra - España
-UID:7b5e6619-dc12-4bcc-a427-23877cddefa6
+UID:70c9206d-57f2-428e-8531-188bfbb23ae6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T015746Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:UEFA Nations League - España - Croacia
+UID:d86d5777-9b83-4ff4-baa9-53c8f057b12a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play

@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260919T082045Z
+DTSTAMP:20260920T015746Z
 DTSTART:20260924T184500Z
 DTEND:20260924T204500Z
 SUMMARY:UEFA Nations League - Holanda - Alemania
-UID:2e3985b1-aaf9-4082-9d2a-fee5d121d78f
+UID:c9b00955-6e97-42ae-ad04-291864a2d1af
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260919T082045Z
+DTSTAMP:20260920T015746Z
 DTSTART:20260926T184500Z
 DTEND:20260926T204500Z
 SUMMARY:UEFA Nations League - Inglaterra - España
-UID:b9f3e050-95f2-4474-8379-39295be71140
+UID:f3290334-7a9d-46d5-8292-1c480ad840fe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
+ n: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260920T015746Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:UEFA Nations League - España - Croacia
+UID:1957b828-a459-457d-8d57-43156f047b7f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
