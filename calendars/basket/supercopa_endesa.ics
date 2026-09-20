@@ -16,23 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260916T085403Z
-DTSTART:20260919T160000Z
-DTEND:20260919T180000Z
-SUMMARY:Supercopa Endesa - Joventut Badalona - Baskonia
-UID:cd04e109-4ce0-4e8d-aefd-0fc2727dafa8
+DTSTAMP:20260920T085241Z
+DTSTART:20260920T170000Z
+DTEND:20260920T190000Z
+SUMMARY:Supercopa Endesa - Joventut Badalona - Barça Basket
+UID:f73df05a-c4d5-4481-b5da-32338e944029
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN Baloncesto</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260916T085403Z
-DTSTART:20260919T190000Z
-DTEND:20260919T210000Z
-SUMMARY:Supercopa Endesa - Valencia Basket - Barça Basket
-UID:fc39b376-32bb-426f-915f-eaa28a071efd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN Baloncesto</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto
+  DAZN Baloncesto</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
