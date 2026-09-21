@@ -16,23 +16,22 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260919T015456Z
-DTSTART:20260920T110000Z
-DTEND:20260920T130000Z
-SUMMARY:Amistoso - La Laguna Tenerife - Bilbao Basket
-UID:50b1f8a3-fa4c-46ba-b1bc-66e772b47d81
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportes TVCanaria
-  YouTube</li>\n<li>Open: TV Canaria</li></ul></body></html>
-DESCRIPTION:- Open: Deportes TVCanaria YouTube\n- Open: TV Canaria
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260919T015456Z
+DTSTAMP:20260921T015839Z
 DTSTART:20260927T110000Z
 DTEND:20260927T130000Z
 SUMMARY:Liga Endesa - La Laguna Tenerife - Casademont Zaragoza
-UID:275a1a27-c625-4705-912c-fea9541a5aab
+UID:daf27d1e-2bce-47b0-af0b-6e5eb38e08ca
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260921T015839Z
+DTSTART:20260930T190000Z
+DTEND:20260930T210000Z
+SUMMARY:Eurocup - La Laguna Tenerife - Türk Telekom Ankara
+UID:d3d0d6ed-3977-4fb6-aab9-9f3049b4db66
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
