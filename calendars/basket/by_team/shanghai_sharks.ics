@@ -17,10 +17,20 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 DTSTAMP:20260922T192001Z
+DTSTART:20260923T073000Z
+DTEND:20260923T093000Z
+SUMMARY:FIBA Intercontinental Cup - Shanghai Sharks - RSSB Tigers
+UID:3ec41ecc-18be-41be-a90d-80ff1d46baa6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li>\
+ n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260922T192001Z
 DTSTART:20260924T073000Z
 DTEND:20260924T093000Z
 SUMMARY:FIBA Intercontinental Cup - Rytas Vilnius - Shanghai Sharks
-UID:7609de7d-e0cc-4782-a6c3-47c9f950e2c1
+UID:bc8e52ac-4c71-42dd-bd99-b30a878636c5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li>\
  n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: FIBA YouTube\n- PPV: DAZN
