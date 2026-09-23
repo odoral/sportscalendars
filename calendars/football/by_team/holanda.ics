@@ -16,13 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260919T082045Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260924T184500Z
 DTEND:20260924T204500Z
 SUMMARY:UEFA Nations League - Holanda - Alemania
-UID:da790ea7-1b47-41ee-bdb4-c71b9546f06e
+UID:db2f11d0-b106-43d2-81d7-61b3686afa40
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:UEFA Nations League - Serbia - Holanda
+UID:c17bbb65-a092-4bdc-a78a-e9c2c2b02a31
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:UEFA Nations League - Grecia - Holanda
+UID:a393860a-13ee-4856-b0b9-564f7b1d99ad
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

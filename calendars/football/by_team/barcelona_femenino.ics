@@ -16,33 +16,34 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260921T015835Z
+DTSTAMP:20260923T085311Z
 DTSTART:20260923T190000Z
 DTEND:20260923T210000Z
 SUMMARY:Women's Champions League - Barcelona Femenino - Paris FC Fem.
-UID:280608f8-c304-497a-852a-b377ecfaefd5
+UID:5dc512b2-87a2-4837-8648-7bd00749a368
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260921T015835Z
+DTSTAMP:20260923T085311Z
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
 SUMMARY:Liga F - Logroño United - Barcelona Femenino
-UID:0773af4c-9d6e-4122-a2f0-ba064e5bffff
+UID:4a1bcbf0-eca1-47a4-b901-8359cdc02993
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
- : rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: DAZN
+ : rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li></ul></body></
+ html>
+DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260921T015835Z
+DTSTAMP:20260923T085311Z
 DTSTART:20260930T164500Z
 DTEND:20260930T184500Z
 SUMMARY:Women's Champions League - A.S. Roma Fem. - Barcelona Femenino
-UID:2576a787-dbf4-4e14-8410-d4782f001fc7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
- body></html>
-DESCRIPTION:- PPV: Disney+
+UID:ec56ea68-37b9-43f8-80c6-35a1b1b215bd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  Disney+</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: Disney+
 END:VEVENT
 END:VCALENDAR

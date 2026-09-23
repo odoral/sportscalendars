@@ -16,22 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260921T015839Z
+DTSTAMP:20260923T085314Z
 DTSTART:20260926T160000Z
 DTEND:20260926T180000Z
 SUMMARY:Liga Endesa - Bilbao Basket - Kids&Us Manresa
-UID:b0718395-5ec6-450b-9988-366a724c426b
+UID:7a92c2f5-ed6a-4830-9b00-4ea664de1fb3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos
+  DAZN Baloncesto</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260921T015839Z
+DTSTAMP:20260923T085314Z
 DTSTART:20260930T170000Z
 DTEND:20260930T190000Z
 SUMMARY:Eurocup - PAOK Salónica - Kids&Us Manresa
-UID:3d09e68f-ff51-423a-935c-28d6fa74a855
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:659b73b3-c010-409e-bbf6-9b444c606e39
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

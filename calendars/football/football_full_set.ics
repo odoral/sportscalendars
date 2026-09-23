@@ -16,31 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260923T164500Z
 DTEND:20260923T184500Z
 SUMMARY:Women's Champions League - Servette F.C. - Olympique Lyon (Fem.)
-UID:72a354be-3302-49ae-b831-e530729a56eb
+UID:22fadb53-ba33-4220-9de0-6d013164134f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260923T164500Z
 DTEND:20260923T184500Z
 SUMMARY:Women's Champions League - OH Leuven Fem. - A.S. Roma Fem.
-UID:287b1bcb-2400-4c95-a4d5-17c021970d7f
+UID:55dcc853-766c-45a2-af40-06741cd1e9e5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260923T190000Z
 DTEND:20260923T210000Z
 SUMMARY:Primera Federación - Sant Andreu - R.M. Castilla
-UID:7d3f4bae-d1ba-48e9-af3d-2575874d0437
+UID:b1f1295a-19b5-471b-8693-c9b8ca53c8da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -48,71 +48,141 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260923T190000Z
 DTEND:20260923T210000Z
 SUMMARY:Women's Champions League - Barcelona Femenino - Paris FC Fem.
-UID:c99926b5-3e79-4708-9eb0-90a2f892bf8a
+UID:e9db85a6-f8f4-422b-8d6c-634814b6a8b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260923T190000Z
 DTEND:20260923T210000Z
 SUMMARY:Women's Champions League - Chelsea Women - Austria Wien Frauen
-UID:e2d38d61-679b-45b3-a162-ec6bb00df38b
+UID:c3d742c0-ec1c-4ebc-83ca-c131e1aa9205
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260924T160000Z
+DTEND:20260924T180000Z
+SUMMARY:UEFA Nations League - Andorra - Malta
+UID:9a953ca8-0b29-4805-9c90-a461ffad3375
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260924T184500Z
 DTEND:20260924T204500Z
 SUMMARY:UEFA Nations League - Holanda - Alemania
-UID:1791033a-1add-4cad-8be9-6bbae49a3e9c
+UID:da9cb364-211e-406b-b15c-11f8a28e8f0b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:UEFA Nations League - Portugal - Gales
+UID:fe348744-ebfa-4e46-9a2a-1f8683fd8271
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:UEFA Nations League - Liechtenstein - Lituania
+UID:6e413cda-8981-4fb7-a422-83a1434bb048
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:UEFA Nations League - Serbia - Grecia
+UID:13ae9e47-6e7f-4abe-8179-8a492c7dd7bf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:UEFA Nations League - Austria - Israel
+UID:2f374387-74e4-4992-8df8-a6cc34c52b89
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:UEFA Nations League - Kosovo - República de Irlanda
+UID:a90a3c00-ce89-45f6-9c5c-c149997da54d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260924T184500Z
+DTEND:20260924T204500Z
+SUMMARY:UEFA Nations League - Noruega - Dinamarca
+UID:10776b23-a6b8-4e8f-b9a5-098d9689c64c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260925T153000Z
 DTEND:20260925T173000Z
 SUMMARY:Europeo Sub-21 - Finlandia - España
-UID:43d48529-82fb-4973-b090-c81ea338497a
+UID:b467a3b5-a81f-4edb-8a7c-49e56b37cd5a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260925T160000Z
 DTEND:20260925T180000Z
 SUMMARY:UEFA Nations League - Georgia - Irlanda del Norte
-UID:5c0afa7c-4331-4f7f-8830-899e61554a4e
+UID:8c8e2645-49e0-4d48-a31f-54e3f5bf36b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260925T160000Z
 DTEND:20260925T180000Z
 SUMMARY:UEFA Nations League - Armenia - Letonia
-UID:75a8a0a3-f6b9-4a14-ae80-053b40f74a86
+UID:c1cdccc5-5790-461a-aabf-d58e448688a4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260925T170000Z
 DTEND:20260925T190000Z
 SUMMARY:Primera Federación - At. Madrid B - Villarreal B
-UID:41df8036-6298-443d-91a9-69ce30eec31c
+UID:1c4d56c9-c357-4d46-bebb-2c211e5593c4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -120,31 +190,81 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260925T183000Z
 DTEND:20260925T203000Z
 SUMMARY:Liga Hypermotion - Girona - Albacete
-UID:10a18c92-20d0-46ae-ac21-58d8b88fba9b
+UID:9f448045-eea7-4705-b7b8-1a854a5a7d3d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260925T184500Z
 DTEND:20260925T204500Z
 SUMMARY:UEFA Nations League - Hungría - Ucrania
-UID:9abc7adf-aaf2-4054-be5b-8c2abc313067
+UID:da792d31-e09c-41b5-baea-3d75debd3e0e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:UEFA Nations League - Italia - Bélgica
+UID:86d65728-7a7c-44e7-afb4-e3e32d0cec18
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:UEFA Nations League - Montenegro - Chipre
+UID:5c7707b6-0f0b-48ab-a36c-ac0c919a7f4c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:UEFA Nations League - Suecia - Rumanía
+UID:c60daa7f-1298-4cd0-b506-49b72c832c79
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:UEFA Nations League - Turquía - Francia
+UID:82740a52-9b08-43b7-8cf1-5b6c91245549
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260925T184500Z
+DTEND:20260925T204500Z
+SUMMARY:UEFA Nations League - Polonia - Bosnia
+UID:7d0d6bf2-acb4-4714-9594-03b3923e7bff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260925T191500Z
 DTEND:20260925T211500Z
 SUMMARY:Primera Federación - U.D. Ibiza - Real Zaragoza
-UID:a59e8e40-2a77-4bec-ae55-383f4111153e
+UID:50cab1e8-667b-4bcf-ac96-38b9aeef5f56
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -152,31 +272,33 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T100000Z
 DTEND:20260926T120000Z
 SUMMARY:Liga F - Real Sociedad F. - Real Madrid Fem.
-UID:f97f3ea4-fd62-47f2-a895-ebc09e4fa60b
+UID:e919e31a-5ced-424f-9d0e-8d97ffbd9b4b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: Movistar Plus+
+  DAZN 1</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T100000Z
 DTEND:20260926T120000Z
 SUMMARY:Liga F - FC Badalona Women - Granada Fem.
-UID:d6c70a73-b7b9-49f7-83fb-9c1eaf54b191
+UID:5fe2682b-a766-453e-b494-32d02403a76f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 2</li></ul></bo
+ dy></html>
+DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
+  2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T110000Z
 DTEND:20260926T130000Z
 SUMMARY:Primera Federación - CD Extremadura 1924 - Zamora C.F.
-UID:6a588d74-db63-4f96-9efe-59ca4354b1cf
+UID:b274ccec-9a77-4f94-b45d-629e6d3ad292
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -184,71 +306,88 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T120000Z
 DTEND:20260926T140000Z
 SUMMARY:Liga Hypermotion - AD Ceuta - Real Sociedad B
-UID:774bdfb1-a4b7-49e5-8619-903c41a79e73
+UID:d8f94e98-3c78-4782-80f8-a88116b25960
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260926T130000Z
+DTEND:20260926T150000Z
+SUMMARY:UEFA Nations League - Eslovenia - Escocia
+UID:beab1ba3-d5e8-4d51-b569-e9efb8517ac9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T141500Z
 DTEND:20260926T161500Z
 SUMMARY:Liga Hypermotion - Granada C.F. - F.C. Andorra
-UID:4f9e1ce2-f1d1-41ff-b902-ae2f82f45d56
+UID:910cd7b0-4958-4b5e-934c-1f0239553e13
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
 SUMMARY:Liga F - Logroño United - Barcelona Femenino
-UID:4e19bfc8-003c-4aba-9c91-2b0e51d23e38
+UID:2467450b-352d-4e71-ade4-365309a22fbb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
- : rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: DAZN
+ : rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li></ul></body></
+ html>
+DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
 SUMMARY:Primera Federación - Lugo - Racing Ferrol
-UID:5e2c7e16-f459-48b1-8b0b-3004eecf6cdd
+UID:c156181f-3277-4503-ac68-4a822591b757
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
-  FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Mult
+ i 3</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : LaLiga TV Multi 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
 SUMMARY:Primera Federación - Juv. Torremolinos - Algeciras
-UID:da285145-4cb7-4244-b739-5187a2c47e4e
+UID:1b9ce575-4979-41f2-9b84-ff0769ea53e3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 5</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
 SUMMARY:Primera Federación - Cultural Leonesa - C.D. Coria
-UID:f51cc5ef-11a5-4574-83ec-fc9ddbc99399
+UID:56b85fbc-9e65-4900-900f-91d57f3d8dcc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
 SUMMARY:Primera Federación - Águilas F.C. - Hércules
-UID:53b295fa-7254-433b-a219-c74f0b461d2f
+UID:d76ab864-2f13-4a82-a6fd-9c9d8b561bdb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -256,41 +395,83 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:UEFA Nations League - Islandia - Estonia
+UID:d183bd33-7c79-4bcd-9d7b-770ad06a767b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:UEFA Nations League - Bulgaria - Luxemburgo
+UID:41c7aa32-eed3-4c9b-83f4-067ce58f9c80
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:UEFA Nations League - Islas Feroe - Kazajistan
+UID:9e08098b-6813-4383-9cbb-d4fc80b103dc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260926T160000Z
+DTEND:20260926T180000Z
+SUMMARY:UEFA Nations League - San Marino - Finlandia
+UID:57668605-8ecb-4883-a483-cd20c7689c5f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T163000Z
 DTEND:20260926T183000Z
 SUMMARY:Liga F - Madrid C.F.F. - Alavés Fem.
-UID:51b6a0dc-af5f-41f2-8a2e-c5884ef7c6d2
+UID:d4ed3a19-16d3-4995-b5b2-8d2382d6329c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Vamos 3</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 3
+  DAZN 2</li>\n<li>PPV: M+ Vamos 3</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Vamos 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T163000Z
 DTEND:20260926T183000Z
 SUMMARY:Liga Hypermotion - Tenerife - Cádiz
-UID:0a0c86d3-1630-4558-a481-a782bb67309f
+UID:83b1f549-1dd2-45c1-9921-8d1f996d055b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T163000Z
 DTEND:20260926T183000Z
 SUMMARY:Liga Hypermotion - Celta B - Sabadell
-UID:6c7a1311-af91-4831-8b15-d711074951c0
+UID:2110895b-a945-41f5-82d4-ce43a610a0eb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T164500Z
 DTEND:20260926T184500Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Sant Andreu
-UID:bc6f8f89-1af9-449f-9da8-fa6ce9636398
+UID:78a2d9fc-fbe5-411c-8d77-fd77a33603a0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>
  \n<li>PPV: Primera Federación</li></ul></body></html>
@@ -298,61 +479,105 @@ DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: Foot
  ballClub TV\n- PPV: Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T164500Z
 DTEND:20260926T184500Z
 SUMMARY:Primera Federación - Deportivo Fabril - Real Unión
-UID:f63a7e85-37ba-49fb-8151-1a018c717c45
+UID:8312284b-9e4f-41e1-9d29-c9bdba9099d5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T164500Z
 DTEND:20260926T184500Z
 SUMMARY:Primera Federación - Arenas Club - Bilbao Athletic
-UID:9a5a4be4-ce4d-4bac-b869-0d696681095c
+UID:872fa4e6-c920-4409-a820-77c725796c1e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260926T184500Z
 DTEND:20260926T204500Z
 SUMMARY:UEFA Nations League - Inglaterra - España
-UID:f69618aa-af42-4b86-ae8d-de94e91a1ef9
+UID:33c845c2-d912-4b4f-bd7e-9d26a39f503e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260926T184500Z
+DTEND:20260926T204500Z
+SUMMARY:UEFA Nations League - República Checa - Croacia
+UID:00f0ed5b-dd6b-46d0-b160-95a9233c6fb6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260926T184500Z
+DTEND:20260926T204500Z
+SUMMARY:UEFA Nations League - Macedonia Norte - Suiza
+UID:17882407-5cb0-4db3-a8eb-d5e8dc63f06b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260926T184500Z
+DTEND:20260926T204500Z
+SUMMARY:UEFA Nations League - Eslovaquia - Moldavia
+UID:dbf16e01-0a61-43e4-9968-e9a0b8af5b19
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260926T184500Z
+DTEND:20260926T204500Z
+SUMMARY:UEFA Nations League - Albania - Bielorusia
+UID:d9fbf016-8168-48b9-9fdd-dd2e8ff6f5ee
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
 SUMMARY:Liga F - Athletic Club Fem. - At. Madrid Fem.
-UID:468ce2bc-945b-45ae-b329-59cb72c5f77d
+UID:a613b484-4dc3-4fc1-aefb-52f3f0d72389
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: Movistar Plus+
+  DAZN 1</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
 SUMMARY:Liga F - Valencia Féminas - UDG Tenerife
-UID:c65b5720-eb05-43c8-b0d3-21caf593d622
+UID:11190bd9-3735-4ea1-b0d5-4c80db619c4a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
- i>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: rtve Play\n- PPV: DAZN
+ i>PPV: DAZN</li>\n<li>PPV: DAZN 2</li></ul></body></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
 SUMMARY:Primera Federación - Barakaldo - Real Avilés
-UID:fd8f624b-862a-4e85-9864-fa67c63d8e9a
+UID:a728d5ee-6014-400f-8959-4add02a00c0c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -360,41 +585,53 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
 SUMMARY:Primera Federación - UD Ourense - Cacereño
-UID:1be32162-22e0-44ab-a8e4-e25bb89599f0
+UID:b188cd52-11da-4888-a170-ac21ab031eb5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T120000Z
 DTEND:20260927T140000Z
 SUMMARY:Liga Hypermotion - Valladolid - Córdoba
-UID:21753f1f-3740-4c60-a73b-1a4282d66128
+UID:9a10e22a-2fcf-44f6-9c75-e3ae36a8f21f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260927T130000Z
+DTEND:20260927T150000Z
+SUMMARY:UEFA Nations League - Lituania - Azerbaiyan
+UID:c9158155-4f63-4e4c-a9a3-61808a5caf03
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T140000Z
 DTEND:20260927T160000Z
 SUMMARY:Liga F - Sevilla FC Fem. - Eibar Fem.
-UID:2a26b95a-3285-4d3c-8a26-c1826e2ed0f1
+UID:860b3374-5f01-4987-81fd-8db5ee5507fe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
- i>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: rtve Play\n- PPV: DAZN
+ i>PPV: DAZN</li>\n<li>PPV: DAZN 1</li></ul></body></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T140000Z
 DTEND:20260927T160000Z
 SUMMARY:Primera Federación - Mirandés - Unionistas
-UID:0f82853b-dff9-46ae-aaf0-aa4b9e68b8d3
+UID:a81a8167-21f9-400a-8592-fcd14ff9eefa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -402,21 +639,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T140000Z
 DTEND:20260927T160000Z
 SUMMARY:Primera Federación - C.E. Europa - Rayo Majadahonda
-UID:83cbfa79-128a-45af-bb58-ba4f244b047e
+UID:0467e5b3-5801-442f-8179-e4950b6f4240
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T141500Z
 DTEND:20260927T161500Z
 SUMMARY:Liga Hypermotion - Mallorca - Almería
-UID:e8cd6945-e365-466d-ab2e-f43cbd7cd157
+UID:1b483e4b-4665-40ea-9675-5206513ed800
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
@@ -424,21 +663,61 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T160000Z
 DTEND:20260927T180000Z
 SUMMARY:Liga F - Deportivo Abanca - RCD Espanyol Fem.
-UID:b2c1843c-6d36-4b00-9f0b-a030d0ef67b4
+UID:b5120be1-c503-4593-83aa-c24da1d517d9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Vamos 3</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 3
+  DAZN 2</li>\n<li>PPV: M+ Vamos 3</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Vamos 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:UEFA Nations League - Dinamarca - Gales
+UID:91bb5b69-64a2-4bb5-9f4e-e3ab14d5f945
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:UEFA Nations League - Serbia - Holanda
+UID:75d48300-3cf0-4e08-87cf-216d091ae1ad
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:UEFA Nations League - Gibraltar - Andorra
+UID:6be5ddf7-2ca6-467a-bce8-dcd4338c5b69
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260927T160000Z
+DTEND:20260927T180000Z
+SUMMARY:UEFA Nations League - Austria - Kosovo
+UID:8ae95f59-1860-4f71-bebd-732545ceb525
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T161500Z
 DTEND:20260927T181500Z
 SUMMARY:Primera Federación - Pontevedra - Ponferradina
-UID:c55c5543-ca5e-4116-a623-3e1cb0a6490f
+UID:61f4f7cd-0d8b-4395-b953-9d673898987c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -446,62 +725,69 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T161500Z
 DTEND:20260927T181500Z
 SUMMARY:Primera Federación - Antequera - Jaén
-UID:be9a3a73-439a-4efd-96ca-169199385f7c
+UID:38e12413-f2dd-4ea4-8d41-c8ade4c5d8ab
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T161500Z
 DTEND:20260927T181500Z
 SUMMARY:Primera Federación - Mérida - U.D. Logroñés
-UID:061e6081-067d-425f-9dc1-e6aabd134185
+UID:824ad415-90af-424f-9c08-d938575620f7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T163000Z
 DTEND:20260927T183000Z
 SUMMARY:Liga Hypermotion - Eibar - Las Palmas
-UID:eb5d65fe-78a3-40f1-af8e-cf075c5ba866
+UID:5387a6ff-4876-4ccd-8fd7-41104de5ad3b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T163000Z
 DTEND:20260927T183000Z
 SUMMARY:Liga Hypermotion - Burgos C.F. - C.D. Eldense
-UID:26a84818-411c-4bee-a49c-d6fccae1edf2
+UID:c86d9e5c-a76d-4bb3-ac0a-1decb63cde9c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T170000Z
 DTEND:20260927T190000Z
 SUMMARY:Primera Federación - Teruel - Huesca
-UID:04231a98-c3c3-44cb-b94c-50d9977bb703
+UID:be9fe735-4818-4f37-b5b8-7df2c34fb31e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
- i>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
- 
-DESCRIPTION:- Open: Aragón TV\n- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: LaLiga T
+ V Multi 5</li></ul></body></html>
+DESCRIPTION:- Open: Aragón TV\n- PPV: FanPlay TV\n- PPV: FootballClub TV\
+ n- PPV: LaLiga TV Multi 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T183000Z
 DTEND:20260927T203000Z
 SUMMARY:Primera Federación - R.M. Castilla - Alcorcón
-UID:d9eb646f-ccaf-4ae6-9bfc-b05e02f9d26b
+UID:eb1a289d-a9e3-4200-9db0-aa568dfad729
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -509,21 +795,41 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T184500Z
 DTEND:20260927T204500Z
 SUMMARY:UEFA Nations League - Noruega - Portugal
-UID:c69ed089-f237-428d-a4d5-f39e52d96fce
+UID:5d61e706-e0dc-454c-b719-a30603a4c245
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260927T184500Z
+DTEND:20260927T204500Z
+SUMMARY:UEFA Nations League - Israel - República de Irlanda
+UID:c5890cc2-0125-407b-b0b9-d0de5be70c01
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260927T184500Z
+DTEND:20260927T204500Z
+SUMMARY:UEFA Nations League - Alemania - Grecia
+UID:0acca351-598a-4c2a-bb08-f90bc51479ca
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260927T190000Z
 DTEND:20260927T210000Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Sporting de Gijón
-UID:6da0f4d0-1e8e-4d75-af1f-2b281f7e1f51
+UID:b97e40aa-2582-428c-9ae3-a9861697bd94
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
@@ -531,11 +837,41 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260928T160000Z
+DTEND:20260928T180000Z
+SUMMARY:UEFA Nations League - Georgia - Ucrania
+UID:ec1adecb-c095-4d1a-842c-6140ca29af08
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260928T160000Z
+DTEND:20260928T180000Z
+SUMMARY:UEFA Nations League - Letonia - Chipre
+UID:d5ee0bf5-6c61-4275-aad7-50949310bf18
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260928T160000Z
+DTEND:20260928T180000Z
+SUMMARY:UEFA Nations League - Armenia - Montenegro
+UID:6bde2f72-9102-4c4c-abe1-2d01e37a7706
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260928T183000Z
 DTEND:20260928T203000Z
 SUMMARY:Liga Hypermotion - Leganés - C.D. Castellón
-UID:b798a0c1-18bf-4d0f-8f03-3618d09d5221
+UID:fde80627-1cce-4925-acc9-3a7e4d6a862c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
@@ -543,132 +879,382 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204500Z
+SUMMARY:UEFA Nations League - Suecia - Polonia
+UID:62ba602e-c450-485c-8ca4-b0196b85db1f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204500Z
+SUMMARY:UEFA Nations League - Bélgica - Francia
+UID:77b5ad82-9d4b-4d3f-9754-d8b5d9851f92
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204500Z
+SUMMARY:UEFA Nations League - Rumanía - Bosnia
+UID:281ffdf3-f95a-4304-9c37-951a41f955d0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204500Z
+SUMMARY:UEFA Nations League - Irlanda del Norte - Hungría
+UID:9a569e79-8497-48e0-9c2f-ad6163892e6c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260928T184500Z
+DTEND:20260928T204500Z
+SUMMARY:UEFA Nations League - Turquía - Italia
+UID:24dcfb91-e0bc-4911-8eeb-d34c8941b04a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260929T160000Z
+DTEND:20260929T180000Z
+SUMMARY:UEFA Nations League - Moldavia - Islas Feroe
+UID:ed8ead9f-be57-485f-95e9-10b058527b95
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260929T160000Z
+DTEND:20260929T180000Z
+SUMMARY:UEFA Nations League - Finlandia - Bielorusia
+UID:b7921d8d-c644-43ae-a17b-d10504bad79e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260929T184500Z
 DTEND:20260929T204500Z
 SUMMARY:UEFA Nations League - España - Croacia
-UID:84cfab44-ce2c-481b-a9ce-2fcda1d48a24
+UID:005c9944-fc26-475e-b9a7-3b0ddd6f7e1e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:UEFA Nations League - Eslovenia - Macedonia Norte
+UID:bae33945-461e-4c4a-8b10-306ab8a7ec53
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:UEFA Nations League - San Marino - Albania
+UID:d124f925-4e2d-4872-ae56-cb37ac0558ff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:UEFA Nations League - República Checa - Inglaterra
+UID:8e0d2917-8a2a-4ae9-bffc-587796085b3e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:UEFA Nations League - Bulgaria - Estonia
+UID:81e4eb61-9c60-4ada-82a2-7bc2c2ae96ba
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:UEFA Nations League - Escocia - Suiza
+UID:9c854cff-cff8-4cca-94b9-da5161c6523d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:UEFA Nations League - Eslovaquia - Kazajistan
+UID:a340ef05-5903-4ffe-a5db-94d23d6709ea
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20260929T184500Z
+DTEND:20260929T204500Z
+SUMMARY:UEFA Nations League - Luxemburgo - Islandia
+UID:fb6e1e8a-a447-4ce0-86a2-517f70fb045a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20260930T164500Z
 DTEND:20260930T184500Z
 SUMMARY:Women's Champions League - A.S. Roma Fem. - Barcelona Femenino
-UID:69fdc175-68ad-4e82-a99e-a26ac2b6d831
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
- body></html>
-DESCRIPTION:- PPV: Disney+
+UID:ac85938f-abdb-46d8-afb5-e30f2d7a1867
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  Disney+</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260930T164500Z
 DTEND:20260930T184500Z
 SUMMARY:Women's Champions League - BK Häcken Fem. - Juventus Women
-UID:0385dc18-6548-45f9-a8ad-2d3b62847a20
+UID:3ae36140-6231-4177-99e8-65962e77f287
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260930T164500Z
 DTEND:20260930T184500Z
 SUMMARY:Women's Champions League - Paris FC Fem. - Arsenal Fem.
-UID:e93b4d46-cdfa-4482-95ff-559c1f68d883
+UID:bbc1b013-a98c-47dd-885a-97c048376fa7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260930T190000Z
 DTEND:20260930T210000Z
 SUMMARY:Women's Champions League - Olympique Lyon (Fem.) - Chelsea Women
-UID:cda3ac7a-2e97-4fe1-93b0-fbc198e69735
+UID:250fa12f-5d26-4ffb-afe3-30634ef3652d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20260930T190000Z
 DTEND:20260930T210000Z
 SUMMARY:Women's Champions League - Benfica Fem. - FC Bayern Fem.
-UID:bcf1d4b8-dbfa-4be6-8f68-3434fb411d6d
+UID:6868f38e-56fa-4a6d-9aef-598f431df78e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20261001T160000Z
+DTEND:20261001T180000Z
+SUMMARY:UEFA Nations League - Azerbaiyan - Liechtenstein
+UID:7b9e5dbc-868d-4ace-8c18-c97de0fbe81f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20261001T164500Z
 DTEND:20261001T184500Z
 SUMMARY:Women's Champions League - HB Køge Kvinder - Servette F.C.
-UID:55d92c42-1d47-4e63-ae28-bad2f22ce6f4
+UID:fa89f5ef-ec14-406a-8ee0-eee5e2ab0eec
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20261001T164500Z
 DTEND:20261001T184500Z
 SUMMARY:Women's Champions League - Austria Wien Frauen - Inter de Milan F
  em.
-UID:d6d0a10d-38c4-4b0e-a9c3-d179b38afd99
+UID:a439a1b5-aba9-4a1f-87b3-6841000ced2a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20261001T181500Z
 DTEND:20261001T201500Z
 SUMMARY:Europeo Sub-21 - San Marino - España
-UID:b8812504-ed79-435e-bee5-83288ce5fb9a
+UID:da7783c5-ebec-477d-a75c-6c03341fe80b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:UEFA Nations League - Alemania - Serbia
+UID:f6e38996-2632-4f20-9e17-79e4e07d0bfd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:UEFA Nations League - Grecia - Holanda
+UID:393a978a-027e-4e49-968c-9b090c7ee863
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:UEFA Nations League - Dinamarca - Portugal
+UID:07ceb00c-36ca-41c1-90a0-c542962fffca
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:UEFA Nations League - Israel - Kosovo
+UID:f632b24f-4435-47ac-a5c1-24e0237a7684
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:UEFA Nations League - República de Irlanda - Austria
+UID:e173aafd-b445-4541-821b-e702c3ef4159
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:UEFA Nations League - Gales - Noruega
+UID:76a2110e-7013-472c-b92a-b433e403f6f6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261001T184500Z
+DTEND:20261001T204500Z
+SUMMARY:UEFA Nations League - Malta - Gibraltar
+UID:7014dd1c-9b70-4102-b98d-023d8a8389c0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20261001T190000Z
 DTEND:20261001T210000Z
 SUMMARY:Women's Champions League - Manchester City F. - Real Madrid Fem.
-UID:08f21497-6c30-48dd-bd10-7033c3731f05
+UID:195b5827-d9f6-4ea0-a23e-75e1efd5fe53
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20261001T190000Z
 DTEND:20261001T210000Z
 SUMMARY:Women's Champions League - PSG (Fem.) - OH Leuven Fem.
-UID:e440d9ad-6513-4ab5-89cd-150b2e94f3e8
+UID:a71cf108-4c49-470f-8aaa-c2820fdc20f8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
  body></html>
 DESCRIPTION:- PPV: Disney+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20261002T140000Z
+DTEND:20261002T160000Z
+SUMMARY:UEFA Nations League - Kazajistan - Moldavia
+UID:3b64f98b-b419-4591-998c-6b5bfde67acb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261002T160000Z
+DTEND:20261002T180000Z
+SUMMARY:UEFA Nations League - Letonia - Montenegro
+UID:ab373bf8-c240-456e-8f12-c694be6b4344
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261002T160000Z
+DTEND:20261002T180000Z
+SUMMARY:UEFA Nations League - Chipre - Armenia
+UID:b523d250-c6e8-4d7d-8339-ecd2a9e11341
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20261002T170000Z
 DTEND:20261002T190000Z
 SUMMARY:Otras competiciones - Real Sociedad - Athletic Club
-UID:d299ffb8-1b65-4fea-8f5e-3559f07e537f
+UID:0015f325-31e8-4270-858b-0e61e24e50c1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li></ul></bo
  dy></html>
 DESCRIPTION:- Open: ETB1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20261002T170000Z
 DTEND:20261002T190000Z
 SUMMARY:Primera Federación - Real Avilés - Lugo
-UID:61571826-3543-4cad-8f4f-3a8f4d980359
+UID:1ac1e757-060a-495a-a73a-d3070db082b1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -676,30 +1262,100 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20261002T183000Z
 DTEND:20261002T203000Z
 SUMMARY:Liga Hypermotion - C.D. Eldense - Real Oviedo
-UID:cf88c653-be73-422d-9421-863b33a44450
+UID:db86bece-3b4a-4b4b-806a-cfa156e449cb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
 DTSTART:20261002T183000Z
 DTEND:20261002T203000Z
 SUMMARY:Otras competiciones - Sevilla - Aston Villa
-UID:a3b95316-699f-4dac-b022-662787a02916
+UID:baffe063-3025-45a4-ad00-d8e3c921d07b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260923T020357Z
+DTSTAMP:20260923T085310Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:UEFA Nations League - Francia - Italia
+UID:22cad860-5d9e-42d7-8945-cfcb37ee2c05
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:UEFA Nations League - Bélgica - Turquía
+UID:51b354db-c1ba-4326-96d1-851ed2484a04
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:UEFA Nations League - Bosnia - Suecia
+UID:be1592af-0f3a-4909-a8ba-e7e7973021d4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:UEFA Nations League - Ucrania - Irlanda del Norte
+UID:bfe7f82b-b9ba-4401-b6de-6b8d3dd89e55
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:UEFA Nations League - Islas Feroe - Eslovaquia
+UID:48c67df8-dfba-420f-96c5-7cec590b3271
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:UEFA Nations League - Polonia - Rumanía
+UID:33b7385a-3122-4d52-9134-a6b0cd3b2ff2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
+DTSTART:20261002T184500Z
+DTEND:20261002T204500Z
+SUMMARY:UEFA Nations League - Hungría - Georgia
+UID:962dfcb1-dd66-47c1-a318-89a2ba3a816a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T085310Z
 DTSTART:20261002T191500Z
 DTEND:20261002T211500Z
 SUMMARY:Primera Federación - R.M. Castilla - At. Madrid B
-UID:992e9a7a-73ed-4604-b8e6-29547298a6bf
+UID:0bb18226-ce80-4db6-aa47-e56ed3a8e2ad
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
