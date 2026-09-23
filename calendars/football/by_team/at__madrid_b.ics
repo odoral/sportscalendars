@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260920T015746Z
+DTSTAMP:20260923T020357Z
 DTSTART:20260925T170000Z
 DTEND:20260925T190000Z
 SUMMARY:Primera Federación - At. Madrid B - Villarreal B
-UID:b0d97824-864a-4e88-9dbb-739f0433da2f
+UID:9d36d63e-cf1e-482d-8af9-011be8ed68af
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T020357Z
+DTSTART:20261002T191500Z
+DTEND:20261002T211500Z
+SUMMARY:Primera Federación - R.M. Castilla - At. Madrid B
+UID:55147843-e914-4733-94b9-88c033388f8f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

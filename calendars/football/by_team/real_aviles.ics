@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260920T015746Z
+DTSTAMP:20260923T020357Z
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
 SUMMARY:Primera Federación - Barakaldo - Real Avilés
-UID:c0f16f93-3819-4c9b-add2-5ab5191bda75
+UID:f74e62f4-b9b2-4127-9518-facd9ecd6c4d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260923T020357Z
+DTSTART:20261002T170000Z
+DTEND:20261002T190000Z
+SUMMARY:Primera Federación - Real Avilés - Lugo
+UID:1bdba278-1f60-48e5-9a69-8ea291f4d767
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
