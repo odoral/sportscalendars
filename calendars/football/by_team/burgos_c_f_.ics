@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T085311Z
+DTSTAMP:20260924T015239Z
 DTSTART:20260927T163000Z
 DTEND:20260927T183000Z
 SUMMARY:Liga Hypermotion - Burgos C.F. - C.D. Eldense
-UID:cfbc395b-ac2f-406e-8e82-ca4f04b51bc4
+UID:dd4cde7a-5e81-4f61-bc6c-270541afbb83
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T015239Z
+DTSTART:20261003T141500Z
+DTEND:20261003T161500Z
+SUMMARY:Liga Hypermotion - Almería - Burgos C.F.
+UID:50a223a1-7008-4fd9-83bd-e83c25d9016f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

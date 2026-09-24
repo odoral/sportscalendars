@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T085311Z
+DTSTAMP:20260924T015239Z
 DTSTART:20260926T164500Z
 DTEND:20260926T184500Z
 SUMMARY:Primera Federación - Arenas Club - Bilbao Athletic
-UID:dc583730-c4f4-4719-b3ce-36718fe8e373
+UID:1f1b6c0c-0e90-4986-a73f-cb192732cffc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T015239Z
+DTSTART:20261003T143000Z
+DTEND:20261003T163000Z
+SUMMARY:Primera Federación - Barakaldo - Arenas Club
+UID:38365fca-b4d2-4e55-aec7-0201789c5f78
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T085310Z
+DTSTAMP:20260924T015239Z
 DTSTART:20260927T161500Z
 DTEND:20260927T181500Z
 SUMMARY:Primera Federación - Antequera - Jaén
-UID:f94a0e8d-94c3-43cc-9be1-7b160b4f056e
+UID:198214ea-4398-49ae-8bed-77bc3a83937f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T015239Z
+DTSTART:20261003T110000Z
+DTEND:20261003T130000Z
+SUMMARY:Primera Federación - Hércules - Jaén
+UID:12a376c7-438b-45a9-a421-1511978cd95a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

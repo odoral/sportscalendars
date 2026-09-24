@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T085311Z
+DTSTAMP:20260924T015239Z
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
 SUMMARY:Primera Federación - Lugo - Racing Ferrol
-UID:36a7dd66-dd60-4cfb-bc7c-a66e34fd6438
+UID:9e93e3d4-b340-4b12-8f7f-844151565297
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Mult
  i 3</li></ul></body></html>
 DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : LaLiga TV Multi 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T015239Z
+DTSTART:20261003T143000Z
+DTEND:20261003T163000Z
+SUMMARY:Primera Federación - Racing Ferrol - Pontevedra
+UID:5db93a47-fd43-484d-af53-985c7ba53c46
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
+  DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li
+ >PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballC
+ lub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

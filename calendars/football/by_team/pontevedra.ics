@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260919T015451Z
+DTSTAMP:20260924T015239Z
 DTSTART:20260927T161500Z
 DTEND:20260927T181500Z
 SUMMARY:Primera Federación - Pontevedra - Ponferradina
-UID:d1c7cac3-b5ad-462e-bc0b-ae97da5f5385
+UID:b8c9a5ee-39d4-4f03-88eb-fb22dd7b154a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T015239Z
+DTSTART:20261003T143000Z
+DTEND:20261003T163000Z
+SUMMARY:Primera Federación - Racing Ferrol - Pontevedra
+UID:2f16a92c-341c-4259-a457-97ec95bd5897
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
+  DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li
+ >PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballC
+ lub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260920T015746Z
+DTSTAMP:20260924T015239Z
 DTSTART:20260926T163000Z
 DTEND:20260926T183000Z
 SUMMARY:Liga Hypermotion - Tenerife - Cádiz
-UID:e6f7e71e-96b1-4b83-95b1-50501b2c6bc4
+UID:0293b42b-812b-478f-a3da-441241b4ef08
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T015239Z
+DTSTART:20261003T163000Z
+DTEND:20261003T183000Z
+SUMMARY:Liga Hypermotion - Cádiz - Leganés
+UID:0015088c-7150-4be5-b0c6-e65aad4b66cf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

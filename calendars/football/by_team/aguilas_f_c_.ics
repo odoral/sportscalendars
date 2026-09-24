@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260921T015835Z
+DTSTAMP:20260924T015239Z
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
 SUMMARY:Primera Federación - Águilas F.C. - Hércules
-UID:2349d8c7-435b-427d-bd86-3b954efce8c2
+UID:53ba40fb-09e3-4532-b437-e307f018915e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T015239Z
+DTSTART:20261003T164500Z
+DTEND:20261003T184500Z
+SUMMARY:Primera Federación - Cartagena - Águilas F.C.
+UID:5206da81-c6e4-4748-b2cd-f4f45b99dc5b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></htm
+ l>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: FanPlay TV\n- PPV: FootballClub T
+ V
 END:VEVENT
 END:VCALENDAR

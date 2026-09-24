@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T085311Z
+DTSTAMP:20260924T015239Z
 DTSTART:20260927T161500Z
 DTEND:20260927T181500Z
 SUMMARY:Primera Federación - Antequera - Jaén
-UID:96d560d8-9f13-4793-86bd-edea3414c8c6
+UID:db89f358-f5b5-4dc0-8947-73cc30b567d2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T015239Z
+DTSTART:20261003T164500Z
+DTEND:20261003T184500Z
+SUMMARY:Primera Federación - Sant Andreu - Antequera
+UID:0f5e761f-619d-41b0-a42d-7cd0f02d69f4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

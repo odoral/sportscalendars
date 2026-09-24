@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20260912T221527Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,44 +16,12 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241109T003749Z
-DTSTART:20241114T183000Z
-DTEND:20241114T203000Z
-SUMMARY:Liga Femenina Endesa - IDK Euskotren - Perfumerías Avenida
-UID:0f766cb6-7804-4290-beaf-48645847416d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch BaloncestoE
- SP</li></ul></body></html>
-DESCRIPTION:- Open: Twitch BaloncestoESP
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241109T003749Z
-DTSTART:20241117T110000Z
-DTEND:20241117T130000Z
-SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - Celta Zorka
-UID:a9e5f089-1a6b-49c9-b0de-882ce5fc3d00
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
- body></html>
-DESCRIPTION:- Open: FEB TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241109T003749Z
-DTSTART:20241120T183000Z
-DTEND:20241120T203000Z
-SUMMARY:Euroliga Femenina - Basket Landes - Perfumerías Avenida
-UID:6b60d6bd-54ac-407e-b5a1-8ae2b2f55fdf
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: EuroLeague Women Y
- ouTube</li></ul></body></html>
-DESCRIPTION:- Open: EuroLeague Women YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241109T003749Z
-DTSTART:20241123T183000Z
-DTEND:20241123T203000Z
-SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Perfumerías Avenida
- 
-UID:bb19a812-bc1c-45a6-8b58-4d958999b212
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Twitch BaloncestoE
- SP</li></ul></body></html>
-DESCRIPTION:- Open: Twitch BaloncestoESP
+DTSTAMP:20260924T015243Z
+DTSTART:20261003T160000Z
+DTEND:20261003T180000Z
+SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - Cadi La Seu
+UID:92948e2e-30f9-4e08-a767-585112f1d8ac
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T085311Z
+DTSTAMP:20260924T015239Z
 DTSTART:20260927T100000Z
 DTEND:20260927T120000Z
 SUMMARY:Primera Federación - UD Ourense - Cacereño
-UID:3a6571e6-e552-4a56-ab2c-57ce99551250
+UID:57c934fe-1ea5-418c-83ec-e1b99d46a0f9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260924T015239Z
+DTSTART:20261003T143000Z
+DTEND:20261003T163000Z
+SUMMARY:Primera Federación - Real Unión - UD Ourense
+UID:a67a50a4-c4d2-4a98-b10e-1ba70545ef41
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR
