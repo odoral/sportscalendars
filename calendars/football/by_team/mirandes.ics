@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260920T015746Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260927T140000Z
 DTEND:20260927T160000Z
 SUMMARY:Primera Federación - Mirandés - Unionistas
-UID:62bfa518-c76e-4a31-9360-8c00f6af0984
+UID:e04e5923-48e8-4e70-9659-4cf59bc332cf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T143000Z
+DTEND:20261004T163000Z
+SUMMARY:Primera Federación - Ponferradina - Mirandés
+UID:cd49989d-4d24-4cf6-8ef8-60273bebf066
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

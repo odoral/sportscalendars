@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260920T015746Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260927T161500Z
 DTEND:20260927T181500Z
 SUMMARY:Primera Federación - Pontevedra - Ponferradina
-UID:70db4753-afaa-4918-9a74-74d76ba706f9
+UID:462ce96f-cbe1-4e0f-a1b4-85afc6730c55
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T143000Z
+DTEND:20261004T163000Z
+SUMMARY:Primera Federación - Ponferradina - Mirandés
+UID:9f4d1e1f-5e27-49d6-9749-1005d4e37028
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

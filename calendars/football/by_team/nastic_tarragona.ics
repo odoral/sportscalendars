@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260921T015835Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260926T164500Z
 DTEND:20260926T184500Z
 SUMMARY:Primera Federación - Nàstic Tarragona - Sant Andreu
-UID:f6d51a85-ca41-41e4-ab89-8007ed80d51b
+UID:60e21993-9838-4f3e-bb4b-2d024b48d0e9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>
  \n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: Foot
  ballClub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
+SUMMARY:Primera Federación - Real Murcia - Nàstic Tarragona
+UID:93e53a3b-a54a-4155-8274-3597dacc525e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

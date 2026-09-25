@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T085310Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260926T164500Z
 DTEND:20260926T184500Z
 SUMMARY:Primera Federación - Deportivo Fabril - Real Unión
-UID:5594fc72-2213-4ef6-9aea-74efbadd967b
+UID:512b5d21-ab80-4de4-82ff-60908d141174
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
+SUMMARY:Primera Federación - U.D. Logroñés - Deportivo Fabril
+UID:a0619335-b517-4cf3-8028-15c5dcfe4db6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

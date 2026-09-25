@@ -16,21 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260924T015243Z
+DTSTAMP:20260925T020903Z
 DTSTART:20260925T170000Z
 DTEND:20260925T190000Z
 SUMMARY:Euroliga - Besiktas JK Istanbul - Valencia Basket
-UID:7bff5f34-78a3-4777-a491-b5be025776d0
+UID:05010761-6251-4fb6-aa60-7fd3dab25d28
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li><
  /ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260924T015243Z
+DTSTAMP:20260925T020903Z
 DTSTART:20260926T151500Z
 DTEND:20260926T171500Z
 SUMMARY:Otras competiciones - Casademont Zaragoza - Valencia Basket
-UID:6181e46e-dd88-41ea-8fbc-57d10ef7a748
+UID:faa31679-7640-478a-954d-186ac2298c4c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
  i>Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Balonces
  to</li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
@@ -38,32 +38,42 @@ DESCRIPTION:- Open: Aragón TV\n- Open: Teledeporte\n- Open: rtve Play\n-
  PPV: M+ Baloncesto\n- PPV: M+ Vamos 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260924T015243Z
+DTSTAMP:20260925T020903Z
 DTSTART:20260927T160000Z
 DTEND:20260927T180000Z
 SUMMARY:Liga Endesa - Valencia Basket - iLERNA Lleida
-UID:ce389dc4-05ed-40cc-a78b-8af03c396f9a
+UID:cc943a4f-f852-49ae-bf90-5f1e1f73342b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260924T015243Z
+DTSTAMP:20260925T020903Z
 DTSTART:20260929T183000Z
 DTEND:20260929T203000Z
 SUMMARY:Euroliga - Valencia Basket - Baskonia
-UID:ceca4b0f-e370-457f-a09a-df7dbd76b071
+UID:1381e084-4aa3-4ee3-9178-51dff88404cb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260924T015243Z
+DTSTAMP:20260925T020903Z
 DTSTART:20261003T163000Z
 DTEND:20261003T183000Z
 SUMMARY:Liga Femenina Endesa - Palmer Mallorca Palma - Valencia Basket
-UID:f2ba18d9-b2ab-4f73-a06a-fe98281f321a
+UID:cc67e329-6e4e-498c-81e4-7af492fbd506
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020903Z
+DTSTART:20261004T150000Z
+DTEND:20261004T170000Z
+SUMMARY:Liga Endesa - Casademont Zaragoza - Valencia Basket
+UID:90ce2922-ac50-4d2e-a503-1a997e50d1a4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

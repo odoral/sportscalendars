@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260921T015835Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260927T120000Z
 DTEND:20260927T140000Z
 SUMMARY:Liga Hypermotion - Valladolid - Córdoba
-UID:100fa611-06c9-4fe4-ac43-6435ece38493
+UID:0302dbe4-78ea-42fb-834f-f7044210bc31
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T163000Z
+DTEND:20261004T183000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Valladolid
+UID:0464ca85-e732-4713-99bc-6cc2c011aa25
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermoti
+ on</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- PPV: DAZN\n- PPV: LaL
+ iga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

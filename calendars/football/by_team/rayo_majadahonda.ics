@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T085310Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260927T140000Z
 DTEND:20260927T160000Z
 SUMMARY:Primera Federación - C.E. Europa - Rayo Majadahonda
-UID:84cb86b8-10b9-4f1a-8305-367436fd7973
+UID:c0f6a04a-7c73-41e6-ab5e-cf88f54fc52c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T164500Z
+DTEND:20261004T184500Z
+SUMMARY:Primera Federación - Algeciras - Rayo Majadahonda
+UID:78c1f0fc-3427-433a-8494-260b42474898
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

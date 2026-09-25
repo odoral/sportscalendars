@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260920T015746Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260927T141500Z
 DTEND:20260927T161500Z
 SUMMARY:Liga Hypermotion - Mallorca - Almería
-UID:d329460e-9f2b-4fdf-a34c-5f1397e10d1f
+UID:14e195ec-1d40-4696-84a9-adc8cf25a706
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T190000Z
+DTEND:20261004T210000Z
+SUMMARY:Liga Hypermotion - Girona - Mallorca
+UID:c9a9b102-061a-47bf-abd3-514259154071
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>

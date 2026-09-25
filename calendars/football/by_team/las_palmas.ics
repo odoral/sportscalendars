@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260921T015835Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260927T163000Z
 DTEND:20260927T183000Z
 SUMMARY:Liga Hypermotion - Eibar - Las Palmas
-UID:8e9ed1b3-a30a-4a1b-8c2b-ee5e70416fd8
+UID:25373834-a93c-4630-93b5-db8899e5ddd9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T163000Z
+DTEND:20261004T183000Z
+SUMMARY:Liga Hypermotion - Las Palmas - Valladolid
+UID:9013720c-6868-4df7-83b0-d4721eddcd70
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermoti
+ on</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- Open: TV Canaria\n- PPV: DAZN\n- PPV: LaL
+ iga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

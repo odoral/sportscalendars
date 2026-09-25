@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260920T015746Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260927T190000Z
 DTEND:20260927T210000Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Sporting de Gijón
-UID:1973c668-660b-4458-8538-06208d8e15ea
+UID:b63e37fb-19a5-4ace-b09f-7487fe631c23
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T141500Z
+DTEND:20261004T161500Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Celta B
+UID:cd6bdb40-2ad4-4a70-9ccd-a4e741c50ba8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>

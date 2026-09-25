@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T085311Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260926T143000Z
 DTEND:20260926T163000Z
 SUMMARY:Primera Federación - Juv. Torremolinos - Algeciras
-UID:eba3387b-3c9f-447e-bc51-0e96e69f30f8
+UID:f2ba6627-20ef-4ad3-92a6-77ba8cdd4540
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 5</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T164500Z
+DTEND:20261004T184500Z
+SUMMARY:Primera Federación - Algeciras - Rayo Majadahonda
+UID:f8e70e06-79e2-4db1-9ac8-b1b95b23f703
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20260912T221527Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,33 +16,12 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241112T081210Z
-DTSTART:20241114T191500Z
-DTEND:20241114T211500Z
-SUMMARY:Liga Femenina Endesa - Ensino Lugo - Osés Construcción Ardoi
-UID:a6fbd068-d7b1-413a-9d11-9fb0771d2471
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li></ul></
- body></html>
-DESCRIPTION:- Open: FEB TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241112T081210Z
-DTSTART:20241117T111500Z
-DTEND:20241117T131500Z
-SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Ensino Lugo
-UID:5eabbdf6-dd9c-4e89-a139-181751172db3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: Aragón TV</li>\n<li>Open: FEB TV</li></ul></body></html>
-DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- Open: FEB TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241112T081210Z
-DTSTART:20241123T181500Z
-DTEND:20241123T201500Z
-SUMMARY:Liga Femenina Endesa - Ensino Lugo - Spar Girona
-UID:ddb49103-8173-4fda-9e72-544a3cb724c4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FEB TV</li>\n<li>P
- PV: LaLiga+</li></ul></body></html>
-DESCRIPTION:- Open: FEB TV\n- PPV: LaLiga+
+DTSTAMP:20260925T020903Z
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
+SUMMARY:Liga Femenina Endesa - Ensino Lugo - IDK Euskotren
+UID:b2c0ce61-cbc2-4811-81dd-abbad8bfd623
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

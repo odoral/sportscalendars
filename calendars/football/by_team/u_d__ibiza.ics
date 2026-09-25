@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260920T015746Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260925T191500Z
 DTEND:20260925T211500Z
 SUMMARY:Primera Federación - U.D. Ibiza - Real Zaragoza
-UID:edd804fd-c935-4343-86b8-4bc2bd546c26
+UID:4b9a7a9b-946c-4457-98a9-ece84106c234
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
+SUMMARY:Primera Federación - Villarreal B - U.D. Ibiza
+UID:5f0d2620-1cdc-4fd1-a220-97d9d312256f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

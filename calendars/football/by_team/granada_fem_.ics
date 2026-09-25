@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260923T085310Z
+DTSTAMP:20260925T020857Z
 DTSTART:20260926T100000Z
 DTEND:20260926T120000Z
 SUMMARY:Liga F - FC Badalona Women - Granada Fem.
-UID:3f7ad906-0050-4c5a-9efd-a2c08032146b
+UID:ee77e60a-9ec6-42f2-b755-95bcf7dde248
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 2</li></ul></bo
  dy></html>
 DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
   2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260925T020857Z
+DTSTART:20261004T100000Z
+DTEND:20261004T120000Z
+SUMMARY:Liga F - Granada Fem. - Eibar Fem.
+UID:dc24881c-2529-4be7-8b90-6cff5bb18ba8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
+ i>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
