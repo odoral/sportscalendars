@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260721T092906Z
+LAST-MODIFIED:20260912T221527Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,45 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260822T081503Z
-DTSTART:20260822T161500Z
-DTEND:20260822T181500Z
-SUMMARY:Amistoso - U.D. Barbastro - Huesca
-UID:dbe64976-64af-4290-b5a7-8a0409b40567
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: Aragón TV</li></ul></body></html>
-DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260822T081503Z
-DTSTART:20260822T180000Z
-DTEND:20260822T200000Z
-SUMMARY:Amistoso - Numancia - Real Zaragoza
-UID:cc3626a8-49a2-4044-be5f-eb99c0fd7ac7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: Aragón TV</li>\n<li>PPV: FootballClub TV</li></ul></body></
- html>
-DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FootballClu
- b TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260822T081503Z
-DTSTART:20260822T183000Z
-DTEND:20260822T203000Z
-SUMMARY:Amistoso - Sevilla At. - Antequera
-UID:ea32b8cc-59fa-4f32-8026-6bfe2595987e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Sevilla FC +</li></
- ul></body></html>
-DESCRIPTION:- PPV: Sevilla FC +
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260822T081503Z
-DTSTART:20260822T190000Z
-DTEND:20260822T210000Z
-SUMMARY:Amistoso - Teruel - Villarreal B
-UID:944e5152-596b-48d7-81ea-396fac4972df
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: Aragón TV</li></ul></body></html>
-DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV
+DTSTAMP:20260926T085300Z
+DTSTART:20260927T203000Z
+DTEND:20260927T223000Z
+SUMMARY:Amistoso - Bolivia - Paraguay
+UID:9c8f5d0c-f49b-4f06-8402-5b9a08f300e2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
