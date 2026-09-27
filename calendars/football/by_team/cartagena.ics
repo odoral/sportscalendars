@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260924T015239Z
+DTSTAMP:20260927T223828Z
 DTSTART:20261003T164500Z
 DTEND:20261003T184500Z
 SUMMARY:Primera Federación - Cartagena - Águilas F.C.
-UID:4a9a2e82-4e0a-4070-90c1-428198f1b519
+UID:8e28aeca-09ff-4f66-b70f-13aaf51bd8ea
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
  <li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></htm
  l>
 DESCRIPTION:- Open: La 7 Murcia\n- PPV: FanPlay TV\n- PPV: FootballClub T
  V
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T223828Z
+DTSTART:20261007T183000Z
+DTEND:20261007T203000Z
+SUMMARY:Primera Federación - Cartagena - Real Murcia
+UID:7867227b-4df5-4e81-bb08-b940607c36fa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

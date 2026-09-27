@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260925T020857Z
+DTSTAMP:20260927T223828Z
 DTSTART:20261004T100000Z
 DTEND:20261004T120000Z
 SUMMARY:Primera Federación - Real Murcia - Nàstic Tarragona
-UID:c030454b-bc0e-4b58-b763-c6f151fe67e5
+UID:807e3fd2-deef-40b4-a3c9-8559a167fefd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260927T223828Z
+DTSTART:20261007T183000Z
+DTEND:20261007T203000Z
+SUMMARY:Primera Federación - Cartagena - Real Murcia
+UID:a49660d7-81c7-4e3b-81d6-8bc012058bb9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
