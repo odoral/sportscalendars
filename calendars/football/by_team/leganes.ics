@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260927T223828Z
+DTSTAMP:20260928T021304Z
+DTSTART:20260928T183000Z
+DTEND:20260928T203000Z
+SUMMARY:Liga Hypermotion - Leganés - C.D. Castellón
+UID:3d2e5fa1-75be-4463-b041-afaab93205d6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260928T021304Z
 DTSTART:20261003T163000Z
 DTEND:20261003T183000Z
 SUMMARY:Liga Hypermotion - Cádiz - Leganés
-UID:a8395c29-062e-4408-958b-380340258d31
+UID:06280a82-78dd-4a6a-936c-1d47e46f740c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
