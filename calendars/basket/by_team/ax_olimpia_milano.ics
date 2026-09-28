@@ -16,22 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260925T225414Z
+DTSTAMP:20260928T101443Z
 DTSTART:20260929T183000Z
 DTEND:20260929T203000Z
 SUMMARY:Euroliga - AX Olimpia Milano - Virtus Bologna
-UID:1febf4ab-5116-4c60-b9d1-778d3db0ecb5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:433b1ba3-9512-418d-a556-aeb26915a58b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos 3</li></ul
+ ></body></html>
+DESCRIPTION:- PPV: M+ Vamos 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260925T225414Z
+DTSTAMP:20260928T101443Z
 DTSTART:20261002T183000Z
 DTEND:20261002T203000Z
 SUMMARY:Euroliga - Baskonia - AX Olimpia Milano
-UID:66424b1b-eaa1-40e5-ade2-a0e9dcee24a9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
- </ul></body></html>
-DESCRIPTION:- PPV: Movistar Plus+
+UID:35bd74ca-411b-416b-b4ab-1bac890fe874
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
