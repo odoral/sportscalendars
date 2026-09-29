@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20260912T221527Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,27 +16,93 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260607T074521Z
-DTSTART:20260607T080000Z
-DTEND:20260607T100000Z
-SUMMARY:LaLiga FC Futures - Sevilla - Elche
-UID:22d186e0-f014-42da-a493-1a563326257e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
- li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
- PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T130000Z
+DTEND:20261002T150000Z
+SUMMARY:LaLiga FC Futures - Sevilla - Barcelona
+UID:1d681b14-201f-40b0-811c-0b673dacfe2b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260607T074521Z
-DTSTART:20260607T083000Z
-DTEND:20260607T103000Z
-SUMMARY:LaLiga FC Futures - Real Madrid - Betis
-UID:f63fef9b-f6f7-492f-a0ef-3c5676172fa0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga+</li>\n<li>PPV: M+ LaLiga</
- li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga+\n- 
- PPV: M+ LaLiga\n- PPV: M+ Vamos 2
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T133000Z
+DTEND:20261002T153000Z
+SUMMARY:LaLiga FC Futures - Betis - Villarreal
+UID:2970f075-6695-4cee-afa0-9283c135cc2d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T140000Z
+DTEND:20261002T160000Z
+SUMMARY:LaLiga FC Futures - Palmeiras - Orlando City
+UID:4c51409e-f288-4bdb-8169-bc77b53ffe4f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T143000Z
+DTEND:20261002T163000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Getafe
+UID:e6f0a667-cf61-47d6-b7ca-f8a5e15194f9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T150000Z
+DTEND:20261002T170000Z
+SUMMARY:LaLiga FC Futures - Atlético de Madrid - Elche
+UID:49e5bea3-3019-48a8-bc80-04fd2a9b9b74
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T153000Z
+DTEND:20261002T173000Z
+SUMMARY:LaLiga FC Futures - C.R. Flamengo - Inter Miami C.F.
+UID:633ec395-9df4-481a-a386-083687c8a07b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T160000Z
+DTEND:20261002T180000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Betis
+UID:17cb1ee6-3da8-41fe-8af7-1c86a5a8e387
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T163000Z
+DTEND:20261002T183000Z
+SUMMARY:LaLiga FC Futures - Atlético de Madrid - Getafe
+UID:d89ca7ef-4725-4b38-a928-09cb9a52b477
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T170000Z
+DTEND:20261002T190000Z
+SUMMARY:LaLiga FC Futures - Real Madrid - Elche
+UID:e4e745d7-b9c1-4df8-b6d3-a316dbc0aed3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
 END:VEVENT
 END:VCALENDAR

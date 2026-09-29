@@ -16,15 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260917T020237Z
-DTSTART:20260919T190000Z
-DTEND:20260919T210000Z
-SUMMARY:Liga EA Sports - Sevilla - Barcelona
-UID:fbc9fcc9-e41c-430d-869a-928239db5b02
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
- >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
- ml>
-DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
-  1
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T130000Z
+DTEND:20261002T150000Z
+SUMMARY:LaLiga FC Futures - Sevilla - Barcelona
+UID:5cf064a6-6457-4964-95bc-d8c64037a518
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260929T142503Z
+DTSTART:20261002T160000Z
+DTEND:20261002T180000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Betis
+UID:c724184a-e1c5-4582-95ac-f58f91cbe3b2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play
 END:VEVENT
 END:VCALENDAR
