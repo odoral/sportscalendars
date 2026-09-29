@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20260912T221527Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,33 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241106T041206Z
-DTSTART:20241120T183000Z
-DTEND:20241120T203000Z
-SUMMARY:Euroliga Femenina - Basket Landes - Perfumerías Avenida
-UID:095779cc-d86d-4cb5-802f-94ef9c6ee58d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: EuroLeague Women Y
- ouTube</li></ul></body></html>
-DESCRIPTION:- Open: EuroLeague Women YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241106T041206Z
-DTSTART:20241120T190000Z
-DTEND:20241120T210000Z
-SUMMARY:Euroliga Femenina - Casademont Zaragoza - Fenerbahçe S.K.
-UID:b9f21843-ca0f-4b71-9c8f-dd8031ba14e5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: EuroLeague Women Y
- ouTube</li></ul></body></html>
-DESCRIPTION:- Open: EuroLeague Women YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241106T041206Z
-DTSTART:20241120T190000Z
-DTEND:20241120T210000Z
-SUMMARY:Euroliga Femenina - Valencia Basket - Umana Reyer Venice
-UID:6674ce28-cc25-478f-b2b4-11a07fd8517c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: EuroLeague Women Y
- ouTube</li></ul></body></html>
-DESCRIPTION:- Open: EuroLeague Women YouTube
+DTSTAMP:20260929T044213Z
+DTSTART:20260930T180000Z
+DTEND:20260930T200000Z
+SUMMARY:Euroliga Femenina - Spar Girona - Emlak Konut SK
+UID:bf77a61f-8b1c-4909-a7ec-103f8c354cd2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
 END:VEVENT
 END:VCALENDAR
