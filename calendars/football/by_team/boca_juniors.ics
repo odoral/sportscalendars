@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260915T090128Z
-DTSTART:20260916T003000Z
-DTEND:20260916T023000Z
-SUMMARY:Copa Sudamericana - São Paulo - Boca Juniors
-UID:37e08252-476f-4d48-80c8-7b8d781d0b55
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Vamos
+DTSTAMP:20260930T100335Z
+DTSTART:20261003T143000Z
+DTEND:20261003T163000Z
+SUMMARY:LaLiga FC Futures - C.R. Flamengo - Boca Juniors
+UID:11559e8a-990d-499f-946b-d945c9b43ba3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: M+ 
+ LaLiga
 END:VEVENT
 END:VCALENDAR

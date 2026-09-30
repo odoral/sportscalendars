@@ -16,32 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260929T044213Z
+DTSTAMP:20260930T100342Z
 DTSTART:20261004T101500Z
 DTEND:20261004T121500Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - CAB Estepona
-UID:20fc3446-d4fb-4baf-bea4-2c0927e2f0f3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li></ul
- ></body></html>
-DESCRIPTION:- Open: Aragón TV
+UID:15b7df55-4264-419d-9a8e-94a3e640ec08
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
+ i>Open: Siroko TV</li>\n<li>PPV: M+ Baloncesto</li></ul></body></html>
+DESCRIPTION:- Open: Aragón TV\n- Open: Siroko TV\n- PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260929T044213Z
+DTSTAMP:20260930T100342Z
 DTSTART:20261004T150000Z
 DTEND:20261004T170000Z
 SUMMARY:Liga Endesa - Casademont Zaragoza - Valencia Basket
-UID:7d37f52c-8047-4a18-82c3-fb1d1b8f30cf
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:145515cd-25d0-4678-a0a2-e99e67470a86
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Vamos 3</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260929T044213Z
+DTSTAMP:20260930T100342Z
 DTSTART:20261008T180000Z
 DTEND:20261008T200000Z
 SUMMARY:Liga Femenina Endesa - Lointek Gernika - Casademont Zaragoza
-UID:65b10b67-b39a-4e65-907b-c01aae090e8c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:9e20716a-1d15-4850-a75f-437e158750f5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR

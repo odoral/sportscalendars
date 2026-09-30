@@ -16,23 +16,45 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260929T142503Z
+DTSTAMP:20260930T100335Z
+DTSTART:20261001T180000Z
+DTEND:20261001T200000Z
+SUMMARY:Amistoso - Betis - AD Ceuta
+UID:a3aa1286-1a36-4b6e-aa46-80df92cf82da
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Canal Sur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T100335Z
 DTSTART:20261002T133000Z
 DTEND:20261002T153000Z
 SUMMARY:LaLiga FC Futures - Betis - Villarreal
-UID:1b44f2cb-3846-40d3-b10f-7236fe9d2b9e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
- </body></html>
-DESCRIPTION:- Open: Gol Play
+UID:a84d6ef0-f97c-49c1-ae06-051105be9181
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260929T142503Z
+DTSTAMP:20260930T100335Z
 DTSTART:20261002T160000Z
 DTEND:20261002T180000Z
 SUMMARY:LaLiga FC Futures - Barcelona - Betis
-UID:9ba7bd06-efd8-40d1-929c-a07b7b8c88c9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+UID:b037b4f8-a711-47e8-a92f-893c97233c32
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T100335Z
+DTSTART:20261003T150000Z
+DTEND:20261003T170000Z
+SUMMARY:LaLiga FC Futures - Sevilla - Betis
+UID:4e955eae-9acc-4435-8252-d23d89c35819
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: M+ LaLiga</li></ul>
  </body></html>
-DESCRIPTION:- Open: Gol Play
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: M+ 
+ LaLiga
 END:VEVENT
 END:VCALENDAR

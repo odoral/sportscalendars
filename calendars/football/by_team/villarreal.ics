@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260929T142503Z
+DTSTAMP:20260930T100335Z
 DTSTART:20261002T133000Z
 DTEND:20261002T153000Z
 SUMMARY:LaLiga FC Futures - Betis - Villarreal
-UID:c4c5b977-96bc-4887-b44d-5ff32949e1c4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li></ul>
+UID:42343329-0b4e-42a7-b5b1-2327d53f9a6d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T100335Z
+DTSTART:20261003T153000Z
+DTEND:20261003T173000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Villarreal
+UID:110c9fb7-13e4-4e5b-ad00-8ffe8acfdcd9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: M+ LaLiga</li></ul>
  </body></html>
-DESCRIPTION:- Open: Gol Play
+DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: M+ 
+ LaLiga
 END:VEVENT
 END:VCALENDAR
