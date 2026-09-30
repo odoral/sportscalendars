@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261003T164500Z
 DTEND:20261003T184500Z
 SUMMARY:Primera Federación - Alcorcón - Juv. Torremolinos
-UID:46b9eca6-811b-4dae-8246-ad38383d61df
+UID:1ef11e83-4a57-430e-af1b-61ca6e170c5d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 5</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T231652Z
+DTSTART:20261010T143000Z
+DTEND:20261010T163000Z
+SUMMARY:Primera Federación - Juv. Torremolinos - Nàstic Tarragona
+UID:cf3f0339-83fb-415b-afd1-dae7dbaa2804
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

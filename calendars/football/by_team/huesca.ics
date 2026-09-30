@@ -16,15 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260928T021304Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261004T121500Z
 DTEND:20261004T141500Z
 SUMMARY:Primera Federación - Huesca - C.E. Europa
-UID:21bc180d-4787-4d6e-862a-20a484fcb451
+UID:2b5b5004-3c7f-46e7-98ff-169a4a502ebb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T231652Z
+DTSTART:20261010T143000Z
+DTEND:20261010T163000Z
+SUMMARY:Primera Federación - Águilas F.C. - Huesca
+UID:bbf741e2-855e-4f15-a34b-240aac0ad1c6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
+ i>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
+ 
+DESCRIPTION:- Open: Aragón TV\n- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

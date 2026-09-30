@@ -16,35 +16,47 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261002T143000Z
 DTEND:20261002T163000Z
 SUMMARY:LaLiga FC Futures - Real Madrid - Getafe
-UID:25a856f9-cb11-46e8-9521-dc3dc792a697
+UID:cd89053e-122b-4562-9e96-410ca63e7a56
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261002T170000Z
 DTEND:20261002T190000Z
 SUMMARY:LaLiga FC Futures - Real Madrid - Elche
-UID:f2d2c667-64ff-4a8c-820d-8ef5a0a76b6d
+UID:6c79e1e8-846d-43e6-87b1-66a6af7b57bd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: M+ LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261003T160000Z
 DTEND:20261003T180000Z
 SUMMARY:LaLiga FC Futures - Real Madrid - Atlético de Madrid
-UID:e33285a6-7b38-4d32-b195-cbc9ddb4a4bb
+UID:3ceb6390-21e6-445d-978a-e2aba301f21f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: M+ 
  LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T231652Z
+DTSTART:20261010T190000Z
+DTEND:20261010T210000Z
+SUMMARY:Liga EA Sports - Real Madrid - Villarreal
+UID:e155d7a1-d8e3-45f7-95f8-8f23ae8879a9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR

@@ -16,63 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
-DTSTART:20260930T150000Z
-DTEND:20260930T170000Z
-SUMMARY:Otras competiciones - Canada - España
-UID:a7d783ca-64ff-4645-8119-160aa43d4849
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: SEFutbol Youtube</
- li>\n<li>Open: UEFA TV</li></ul></body></html>
-DESCRIPTION:- Open: SEFutbol Youtube\n- Open: UEFA TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
-DTSTART:20260930T183000Z
-DTEND:20260930T203000Z
-SUMMARY:Otras competiciones - España - México
-UID:d4975b57-5028-4d4e-bff6-341ff7e0a056
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261001T181500Z
 DTEND:20261001T201500Z
 SUMMARY:Europeo Sub-21 - San Marino - España
-UID:0a12c6df-e7ff-4c3a-bd94-27eb285bd29f
+UID:b41959f0-3326-4010-bd84-8b4ec2e5893f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261003T184500Z
 DTEND:20261003T204500Z
 SUMMARY:UEFA Nations League - España - República Checa
-UID:abb708e5-585d-4bea-804c-e5917562a4c9
+UID:705dfbb1-bafa-4827-8010-be70fe3c625e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261006T170000Z
 DTEND:20261006T190000Z
 SUMMARY:Europeo Sub-21 - España - Rumanía
-UID:0ba6dbce-4a9a-45f0-a516-faf222428576
+UID:90861d52-27e3-4532-b629-c847765fd238
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261006T184500Z
 DTEND:20261006T204500Z
 SUMMARY:UEFA Nations League - Croacia - España
-UID:717b7b84-a3d2-40a3-ad04-3228530a0050
+UID:5a116c69-aa64-4306-b962-f99711285d02
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
  n: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: La 1\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T231652Z
+DTSTART:20261010T183000Z
+DTEND:20261010T203000Z
+SUMMARY:Amistoso Femenino - Estados Unidos - España
+UID:bfe7b047-07f3-48ae-a730-15f36b6bafff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

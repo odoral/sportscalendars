@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261003T143000Z
 DTEND:20261003T163000Z
 SUMMARY:Primera Federación - Real Unión - UD Ourense
-UID:1bfa555b-eea5-4528-89a9-36d3b84ba823
+UID:ccbff715-744b-445c-ace7-199902bf2550
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T231652Z
+DTSTART:20261010T164500Z
+DTEND:20261010T184500Z
+SUMMARY:Primera Federación - UD Ourense - Barakaldo
+UID:4efbbf31-4b5e-4d49-9049-71d391906919
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260721T092906Z
+LAST-MODIFIED:20260912T221527Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260816T003204Z
-DTSTART:20260816T180000Z
-DTEND:20260816T200000Z
-SUMMARY:Amistoso Femenino - Real Madrid Fem. - Deportivo Abanca
-UID:ba2f6b92-a944-470d-8d00-e62d489cddc9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: RealMadrid TV</li>
- </ul></body></html>
-DESCRIPTION:- Open: RealMadrid TV
+DTSTAMP:20260930T231652Z
+DTSTART:20261010T183000Z
+DTEND:20261010T203000Z
+SUMMARY:Amistoso Femenino - Estados Unidos - España
+UID:f3e63e0b-da8a-4a71-974f-4c5719e392ed
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

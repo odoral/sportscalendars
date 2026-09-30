@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260928T021304Z
+DTSTAMP:20260930T231652Z
 DTSTART:20261004T143000Z
 DTEND:20261004T163000Z
 SUMMARY:Primera Federación - Ponferradina - Mirandés
-UID:356e23ad-964d-435f-8588-789349a69a49
+UID:c9b312b3-a167-40c3-8da8-af04e48a4cd4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260930T231652Z
+DTSTART:20261010T190000Z
+DTEND:20261010T210000Z
+SUMMARY:Primera Federación - Mirandés - Zamora C.F.
+UID:051c1e38-aa44-416f-b25d-1278d25d86fe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
