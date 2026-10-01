@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260930T100342Z
+DTSTAMP:20261001T233142Z
 DTSTART:20261003T160000Z
 DTEND:20261003T180000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Spar Girona
-UID:47046459-0d43-4332-847d-2ff53ab60a3c
+UID:3772ed06-775f-4b37-8c96-142fa0fd833a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Balonces
  to 2</li></ul></body></html>
@@ -28,23 +28,43 @@ DESCRIPTION:- Open: Siroko TV\n- Open: Teledeporte\n- Open: rtve Play\n-
  PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T100342Z
+DTSTAMP:20261001T233142Z
 DTSTART:20261003T173000Z
 DTEND:20261003T193000Z
 SUMMARY:Primera FEB - C.B. Zamora - Movistar Estudiantes
-UID:f04c7e51-f359-4fa8-a5be-a36a5723ea07
+UID:2d098a0a-8471-4b61-bef5-50de4598db9e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: BalONcesto TV</li><
  /ul></body></html>
 DESCRIPTION:- PPV: BalONcesto TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T100342Z
+DTSTAMP:20261001T233142Z
 DTSTART:20261008T170000Z
 DTEND:20261008T190000Z
 SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Movistar Estudiantes
-UID:44b05c3e-3bd4-44b6-a4a9-ed64389c1ecb
+UID:98e764d7-190c-4903-9eeb-2a4d6c347a8d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T233142Z
+DTSTART:20261011T100000Z
+DTEND:20261011T120000Z
+SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Valencia Basket
+UID:06028bde-46be-4fa1-80c9-1a4d229d1342
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T233142Z
+DTSTART:20261011T163000Z
+DTEND:20261011T183000Z
+SUMMARY:Primera FEB - Movistar Estudiantes - Gipuzkoa Basket
+UID:65a02fae-b2f0-456a-a79e-719b068316d1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: BalONcesto TV</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: BalONcesto TV
 END:VEVENT
 END:VCALENDAR

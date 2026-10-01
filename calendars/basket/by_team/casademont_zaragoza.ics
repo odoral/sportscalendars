@@ -16,43 +16,53 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260930T231657Z
+DTSTAMP:20261001T233142Z
 DTSTART:20261004T101500Z
 DTEND:20261004T121500Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - CAB Estepona
-UID:b1f9a7aa-5a56-4aa1-bcfb-7e4def4fe7ae
+UID:2bb19378-9bd4-481e-a3e8-013a4d33028a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
  i>Open: Siroko TV</li>\n<li>PPV: M+ Baloncesto</li></ul></body></html>
 DESCRIPTION:- Open: Aragón TV\n- Open: Siroko TV\n- PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T231657Z
+DTSTAMP:20261001T233142Z
 DTSTART:20261004T150000Z
 DTEND:20261004T170000Z
 SUMMARY:Liga Endesa - Casademont Zaragoza - Valencia Basket
-UID:13971a01-80b6-4010-a92d-d6075eb60a14
+UID:aea6be93-3796-4376-8d09-99500a7127be
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Vamos 3</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T231657Z
+DTSTAMP:20261001T233142Z
 DTSTART:20261008T180000Z
 DTEND:20261008T200000Z
 SUMMARY:Liga Femenina Endesa - Lointek Gernika - Casademont Zaragoza
-UID:601d6c34-efbd-47ad-88af-8001706f27ef
+UID:9e4bee20-58af-4dc1-a4d3-787c565fc56a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T231657Z
+DTSTAMP:20261001T233142Z
 DTSTART:20261010T160000Z
 DTEND:20261010T180000Z
 SUMMARY:Liga Endesa - Basquet Coruña - Casademont Zaragoza
-UID:1460b77d-fb3b-4b8f-9efc-095baaae95b2
+UID:a115e4f1-5c42-4f71-ae4d-bbc36beba87e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261001T233142Z
+DTSTART:20261011T103000Z
+DTEND:20261011T123000Z
+SUMMARY:Liga Femenina Endesa - Celta Zorka - Casademont Zaragoza
+UID:6de0fcb2-6318-4dfa-b33b-1b8989d8b250
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR
