@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20261002T024840Z
 DTSTART:20261004T164500Z
 DTEND:20261004T184500Z
 SUMMARY:Primera Federación - Algeciras - Rayo Majadahonda
-UID:4d75f09a-f896-496c-bc52-5bbc8d5c2df4
+UID:fb170790-8b52-409b-afd7-00a9b5188b3d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T024840Z
+DTSTART:20261011T164500Z
+DTEND:20261011T184500Z
+SUMMARY:Primera Federación - Rayo Majadahonda - Real Murcia
+UID:bf5cdef0-5bb1-48db-8aba-31e5ea973f36
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

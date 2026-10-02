@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260928T021304Z
+DTSTAMP:20261002T024840Z
 DTSTART:20261003T143000Z
 DTEND:20261003T163000Z
 SUMMARY:Primera Federación - Racing Ferrol - Pontevedra
-UID:22603974-b1cd-4b4d-9458-7a1cc316348b
+UID:bb6c8560-b4c5-4fac-9ace-550332f03b43
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
   DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li
  >PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: TVG\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballC
  lub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T024840Z
+DTSTART:20261011T143000Z
+DTEND:20261011T163000Z
+SUMMARY:Primera Federación - Pontevedra - Mérida
+UID:efe2b20b-bacb-4bf4-b22c-d58f79c89db3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

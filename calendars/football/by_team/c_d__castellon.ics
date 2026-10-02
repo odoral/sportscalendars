@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261001T103141Z
+DTSTAMP:20261002T024840Z
 DTSTART:20261004T163000Z
 DTEND:20261004T183000Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - AD Ceuta
-UID:810d1a80-ceda-453f-adf0-eabb38cd2140
+UID:f85f7f20-6267-41e3-9a8c-79e897f543d2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion 2</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion 2\n- PPV: LaLiga TV
   Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261002T024840Z
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:Liga Hypermotion - F.C. Andorra - C.D. Castellón
+UID:f3bba3e6-2b27-4a4a-a2ac-63e4dd9ef5ef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
