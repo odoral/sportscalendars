@@ -16,21 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260930T024027Z
+DTSTAMP:20261002T100658Z
 DTSTART:20261002T183000Z
 DTEND:20261002T203000Z
 SUMMARY:Euroliga - Baskonia - AX Olimpia Milano
-UID:91d629be-8057-4d7b-a858-95e8fef59e7e
+UID:efd7beec-f7a4-4f3f-ba8a-13377d5c4383
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
- n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: Movistar Plus+
+ n<li>PPV: M+ Baloncesto 2</li>\n<li>PPV: Movistar Plus+</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Baloncesto 2\n- PPV: Movistar
+  Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260930T024027Z
+DTSTAMP:20261002T100658Z
 DTSTART:20261008T180000Z
 DTEND:20261008T200000Z
 SUMMARY:Euroliga - Maccabi Tel Aviv BC - AX Olimpia Milano
-UID:261d67bc-0e82-438b-b8ac-5da6d587202f
+UID:efd9e7c5-14dc-4732-a7eb-9eb6203d9218
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
