@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261002T100652Z
+DTSTAMP:20261003T092930Z
 DTSTART:20261003T000000Z
 DTEND:20261003T020000Z
 SUMMARY:Amistoso - Colombia - Paraguay
-UID:d07b3853-ea81-47c3-9cc1-f9083eed916e
+UID:c0c53f06-42b7-459b-b238-eece81d9c616
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 2</li>\n<
  li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: M+ Vamos</li></ul></body><
  /html>
 DESCRIPTION:- PPV: M+ LaLiga 2\n- PPV: M+ Liga de Campeones 2\n- PPV: M+ 
  Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T092930Z
+DTSTART:20261006T234500Z
+DTEND:20261007T014500Z
+SUMMARY:Amistoso - Colombia - Perú
+UID:8f7ebf01-4520-469b-83f2-f0a79c024adb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
