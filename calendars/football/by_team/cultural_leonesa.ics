@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260927T020814Z
+DTSTAMP:20261003T023454Z
 DTSTART:20261003T164500Z
 DTEND:20261003T184500Z
 SUMMARY:Primera Federación - Unionistas - Cultural Leonesa
-UID:b54732d7-707a-435c-9bae-b76f6500716e
+UID:559acdae-01fd-40b9-a00e-1f91d116fa30
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T023454Z
+DTSTART:20261012T140000Z
+DTEND:20261012T160000Z
+SUMMARY:Primera Federación - Cultural Leonesa - Arenas Club
+UID:41f520b8-3cf5-4d13-8300-4b4364f0192e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

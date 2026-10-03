@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260927T020814Z
+DTSTAMP:20261003T023454Z
 DTSTART:20261003T110000Z
 DTEND:20261003T130000Z
 SUMMARY:Primera Federación - Hércules - Jaén
-UID:ec08188d-321f-40ae-8287-fb03ea5e4c6c
+UID:5c930a65-8fd1-4a7f-9382-55dc1a27c67a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T023454Z
+DTSTART:20261012T161500Z
+DTEND:20261012T181500Z
+SUMMARY:Primera Federación - Hércules - Sant Andreu
+UID:2125d54c-add0-4506-81b1-5d6c5fd5b240
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

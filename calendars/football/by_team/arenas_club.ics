@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20261003T023454Z
 DTSTART:20261003T143000Z
 DTEND:20261003T163000Z
 SUMMARY:Primera Federación - Barakaldo - Arenas Club
-UID:9dd4138c-f05c-424b-9aa4-d8292999ded7
+UID:bfb576b0-cc9e-4292-9568-07325a7efa31
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T023454Z
+DTSTART:20261012T140000Z
+DTEND:20261012T160000Z
+SUMMARY:Primera Federación - Cultural Leonesa - Arenas Club
+UID:282f75d8-c974-47ea-af88-1eca80a8738a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

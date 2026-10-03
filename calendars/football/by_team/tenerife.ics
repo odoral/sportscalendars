@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260927T020814Z
+DTSTAMP:20261003T023454Z
 DTSTART:20261005T183000Z
 DTEND:20261005T203000Z
 SUMMARY:Liga Hypermotion - Córdoba - Tenerife
-UID:b261c98a-2590-469e-a0a8-b27b8cac8b04
+UID:2211afda-ef42-4529-9d78-e34a285ad11f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T023454Z
+DTSTART:20261012T190000Z
+DTEND:20261012T210000Z
+SUMMARY:Liga Hypermotion - Tenerife - Girona
+UID:0e6cac14-c32b-478c-bfbf-5124d7463597
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Gol Play</li>\n<li>Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li
+ >PPV: LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Gol Play\n- Open: TV Canaria\n- PPV
+ : DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

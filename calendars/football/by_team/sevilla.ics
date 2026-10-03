@@ -16,35 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
-DTSTART:20261002T130000Z
-DTEND:20261002T150000Z
-SUMMARY:LaLiga FC Futures - Sevilla - Barcelona
-UID:d0913dd3-eeb8-44d9-9981-98f1e901494f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: M+ LaLiga
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
-DTSTART:20261002T183000Z
-DTEND:20261002T203000Z
-SUMMARY:Otras competiciones - Sevilla - Aston Villa
-UID:3319415f-d844-4173-96a9-8e8d4dd80441
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li></ul
- ></body></html>
-DESCRIPTION:- Open: Canal Sur
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260930T100335Z
+DTSTAMP:20261003T023454Z
 DTSTART:20261003T150000Z
 DTEND:20261003T170000Z
 SUMMARY:LaLiga FC Futures - Sevilla - Betis
-UID:4b307268-2e9f-4e20-b9bf-06e13ee8eccb
+UID:bee9e523-0e2f-4cab-b672-1e7386ba8dd3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: M+ 
  LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261003T023454Z
+DTSTART:20261012T190000Z
+DTEND:20261012T210000Z
+SUMMARY:Liga EA Sports - Levante - Sevilla
+UID:6baf822d-04bd-4d00-9e50-d44fe623a68f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR
