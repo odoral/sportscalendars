@@ -16,21 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261004T030615Z
+DTSTAMP:20261004T101647Z
+DTSTART:20261003T222000Z
+DTEND:20261004T002000Z
+SUMMARY:LaLiga FC Futures - Barcelona - Atlético de Madrid
+UID:a13e9f55-17cc-4b1a-ad76-817acd6ad89f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN LaLiga</li>\n<li>PPV: M+ LaLiga</li>\n<li>PPV: M+ Vamos 2</li></ul
+ ></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: M+ LaLiga\n- PPV: M+ 
+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T101647Z
 DTSTART:20261010T163000Z
 DTEND:20261010T183000Z
 SUMMARY:Liga EA Sports - Barcelona - Getafe
-UID:162f62a3-4c29-45ac-888a-5a8f6dc2054f
+UID:17ad4e88-92fb-4888-a6e8-6e9485e9b1fa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261004T030615Z
+DTSTAMP:20261004T101647Z
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
 SUMMARY:Champions League - Galatasaray - Barcelona
-UID:1963f997-4e60-47f9-a72a-7912e98c5e0a
+UID:54a3ff52-9ff1-4510-a934-ebf04a750654
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
  </body></html>

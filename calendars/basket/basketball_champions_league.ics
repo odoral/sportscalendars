@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261003T092935Z
+DTSTAMP:20261004T101652Z
+DTSTART:20261006T163000Z
+DTEND:20261006T183000Z
+SUMMARY:Basketball Champions League - Hapoel Holon - Cholet Basket
+UID:ccfb86b2-b81d-4654-8ba2-b75ac67fb582
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T101652Z
 DTSTART:20261006T183000Z
 DTEND:20261006T203000Z
 SUMMARY:Basketball Champions League - Joventut Badalona - Bnei Herzliya
-UID:f1bef440-d0c2-4c58-a46f-17b9b0f9368f
+UID:f8013a8b-47c3-4874-b462-10e59b5f34ee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
