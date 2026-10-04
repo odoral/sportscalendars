@@ -16,27 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261003T023454Z
-DTSTART:20261003T153000Z
-DTEND:20261003T173000Z
-SUMMARY:LaLiga FC Futures - Barcelona - Villarreal
-UID:2dfa58b5-9867-473c-a5a7-60f30c7ae09c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Gol Play</li>\n<li
- >PPV: DAZN</li>\n<li>PPV: DAZN LaLiga</li>\n<li>PPV: M+ LaLiga</li></ul>
- </body></html>
-DESCRIPTION:- Open: Gol Play\n- PPV: DAZN\n- PPV: DAZN LaLiga\n- PPV: M+ 
- LaLiga
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261003T023454Z
+DTSTAMP:20261004T030615Z
 DTSTART:20261010T190000Z
 DTEND:20261010T210000Z
 SUMMARY:Liga EA Sports - Real Madrid - Villarreal
-UID:338b00c4-25be-4ecd-9d6f-8111a095e4a2
+UID:d095a943-68d4-4740-a820-635fe07b9f68
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261004T030615Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Champions League - Villarreal - Nápoles
+UID:e7feae3b-75af-4c28-8ddc-342adf6ee9a0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
