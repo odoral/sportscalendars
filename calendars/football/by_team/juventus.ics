@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261003T092930Z
+DTSTAMP:20261006T010109Z
 DTSTART:20261011T184500Z
 DTEND:20261011T204500Z
 SUMMARY:Serie A Italia - Cagliari - Juventus
-UID:156a30c8-3576-4367-b48b-3e3069ce09e5
+UID:0827e6ca-84e1-4632-8d32-4dada31643d6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Vamos 3</li>\n<li>PPV: Orange Fútbol 3</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 3\n- PPV: Orange Fútbol 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T010109Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Europa League - Celta - Juventus
+UID:228f64ff-01e7-453b-ba5f-4effc80ff9de
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
