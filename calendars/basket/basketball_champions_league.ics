@@ -16,23 +16,54 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261004T101652Z
+DTSTAMP:20261006T105125Z
 DTSTART:20261006T163000Z
 DTEND:20261006T183000Z
 SUMMARY:Basketball Champions League - Hapoel Holon - Cholet Basket
-UID:ccfb86b2-b81d-4654-8ba2-b75ac67fb582
+UID:bbac806d-ad2e-43d9-9e53-072110e8a8b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
  ></body></html>
 DESCRIPTION:- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261004T101652Z
+DTSTAMP:20261006T105125Z
+DTSTART:20261006T180000Z
+DTEND:20261006T200000Z
+SUMMARY:Basketball Champions League - KK Igokea - Bilbao Basket
+UID:3242e0e7-def3-4e60-84ba-5b0d222cfa03
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T105125Z
 DTSTART:20261006T183000Z
 DTEND:20261006T203000Z
 SUMMARY:Basketball Champions League - Joventut Badalona - Bnei Herzliya
-UID:f8013a8b-47c3-4874-b462-10e59b5f34ee
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
+UID:91fea23b-9fab-4d27-ac64-0f8031013f7b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
+ \n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html
+ >
+DESCRIPTION:- Open: Esport3 (Web)\n- Open: Teledeporte\n- Open: rtve Play
+ 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T105125Z
+DTSTART:20261007T170000Z
+DTEND:20261007T190000Z
+SUMMARY:Basketball Champions League - Juventus Utena - Unicaja Málaga
+UID:d7cce9f2-19f4-42d4-a2d5-37e635f9ba4d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T105125Z
+DTSTART:20261007T183000Z
+DTEND:20261007T203000Z
+SUMMARY:Basketball Champions League - UCAM Murcia C.B. - Pallacanestro Va
+ rese
+UID:b691b4d5-be37-4d20-b240-b74539e2e947
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

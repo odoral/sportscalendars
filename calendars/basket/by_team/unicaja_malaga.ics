@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261004T030620Z
+DTSTAMP:20261006T105125Z
+DTSTART:20261007T170000Z
+DTEND:20261007T190000Z
+SUMMARY:Basketball Champions League - Juventus Utena - Unicaja Málaga
+UID:d0ec6c8d-a5e3-4413-bd68-c28b4bea5cb4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261006T105125Z
 DTSTART:20261010T173000Z
 DTEND:20261010T193000Z
 SUMMARY:Liga Endesa - Unicaja Málaga - MoraBanc Andorra
-UID:9163262c-558a-47e4-bb32-28c4eb49c58d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:1b91452f-a73e-4e18-ad33-f64a9f5306d3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Baloncesto 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto 2
 END:VEVENT
 END:VCALENDAR
