@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261004T030615Z
+DTSTAMP:20261007T025711Z
 DTSTART:20261010T163000Z
 DTEND:20261010T183000Z
 SUMMARY:Primera Federación - Teruel - Alcorcón
-UID:f37425b4-806a-4e2e-930a-16a067b5af02
+UID:abd82364-5feb-4840-a972-fe70bce4ee3a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T025711Z
+DTSTART:20261016T191500Z
+DTEND:20261016T211500Z
+SUMMARY:Primera Federación - Alcorcón - Huesca
+UID:b2452fdb-00e2-43f6-b00d-51e3d9732e94
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,14 +16,26 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261005T023915Z
+DTSTAMP:20261007T025711Z
 DTSTART:20261010T143000Z
 DTEND:20261010T163000Z
 SUMMARY:Primera Federación - Águilas F.C. - Huesca
-UID:4990b3b1-f1a3-4ec0-8f02-0fde7bb8648d
+UID:3563d3a3-cc95-40cb-a391-ba78922bc6b9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
  i>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
  
 DESCRIPTION:- Open: Aragón TV\n- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T025711Z
+DTSTART:20261016T191500Z
+DTEND:20261016T211500Z
+SUMMARY:Primera Federación - Alcorcón - Huesca
+UID:9bfbd251-3e39-4f1b-ae71-44ee74c8537c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR
