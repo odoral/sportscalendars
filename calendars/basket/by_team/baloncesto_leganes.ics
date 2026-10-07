@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103824Z
+DTSTAMP:20261007T235456Z
 DTSTART:20261008T190000Z
 DTEND:20261008T210000Z
 SUMMARY:Liga Femenina Endesa - Cadi La Seu - Baloncesto Leganés
-UID:47ff759c-5113-47eb-bfbf-0984f59c0b99
+UID:dbdc0911-f136-4d4b-90a5-bc380a06d094
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 4</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261007T103824Z
+DTSTAMP:20261007T235456Z
 DTSTART:20261011T150000Z
 DTEND:20261011T170000Z
 SUMMARY:Liga Femenina Endesa - Baloncesto Leganés - IDK Euskotren
-UID:df4f0a60-abb4-4954-8241-97897610ac39
+UID:3fbdf78d-863b-4aa1-8b29-90d79347aac7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 3</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T235456Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:Liga Femenina Endesa - Lointek Gernika - Baloncesto Leganés
+UID:9bf8925f-d615-4703-a3ef-7ac1f838880c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR

@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103824Z
+DTSTAMP:20261007T235455Z
 DTSTART:20261008T180000Z
 DTEND:20261008T200000Z
 SUMMARY:Liga Femenina Endesa - CAB Estepona - Ensino Lugo
-UID:9c6a3fe1-e3e1-42f7-a238-0416cc1b6ec0
+UID:91fa9170-7060-4451-94e1-f56cc96d85a5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 5</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261007T103824Z
+DTSTAMP:20261007T235455Z
 DTSTART:20261011T100000Z
 DTEND:20261011T120000Z
 SUMMARY:Liga Femenina Endesa - Ensino Lugo - Kutxabank Araski
-UID:61c4fccd-241e-43e9-ae35-ce9108d5c88c
+UID:768213bc-241e-4158-9ac3-54d17fbb5b1b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 4</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T235455Z
+DTSTART:20261017T160000Z
+DTEND:20261017T180000Z
+SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Ensino Lugo
+UID:781c95e9-3e70-4f9c-9246-a7a4117aeb27
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto
 END:VEVENT
 END:VCALENDAR

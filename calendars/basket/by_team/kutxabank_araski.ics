@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103824Z
+DTSTAMP:20261007T235456Z
 DTSTART:20261008T170000Z
 DTEND:20261008T190000Z
 SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Movistar Estudiantes
-UID:4d764189-8fa3-4163-b44e-3627acda15a2
+UID:2f3cf327-a7ca-4e07-a449-f1de599a8dcf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 3</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261007T103824Z
+DTSTAMP:20261007T235456Z
 DTSTART:20261011T100000Z
 DTEND:20261011T120000Z
 SUMMARY:Liga Femenina Endesa - Ensino Lugo - Kutxabank Araski
-UID:90488cd6-48e5-4f05-a080-70a787e0478f
+UID:79e41ce0-c622-4e49-b8a2-4f9787b6ea28
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 4</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261007T235456Z
+DTSTART:20261017T170000Z
+DTEND:20261017T190000Z
+SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Spar Girona
+UID:1e9c0323-34d8-479d-8bfa-3670e59d7b55
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR
