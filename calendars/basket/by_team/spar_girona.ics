@@ -16,21 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T235456Z
+DTSTAMP:20261008T105959Z
 DTSTART:20261008T180000Z
 DTEND:20261008T200000Z
 SUMMARY:Liga Femenina Endesa - Spar Girona - Azulmarino Basket Mallorca
-UID:966e8b02-6762-466d-88f4-7b7449939295
+UID:58934caf-e0c7-4905-b693-9966026bc9a0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
- i>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Siroko TV\n- Open: Teledeporte\n- Open: rtve Play
+ i>Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Vamos 2<
+ /li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- Open: Teledeporte\n- Open: rtve Play\n- 
+ PPV: M+ Vamos 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261007T235456Z
+DTSTAMP:20261008T105959Z
 DTSTART:20261011T163000Z
 DTEND:20261011T183000Z
 SUMMARY:Liga Femenina Endesa - Spar Girona - C.B. Jairis
-UID:1949c377-899f-48d6-b142-e55ab0164d5a
+UID:b4d9e72a-50be-4ee8-a416-3ddf3a970a04
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Balonces
  to</li></ul></body></html>
@@ -38,11 +40,21 @@ DESCRIPTION:- Open: Siroko TV\n- Open: Teledeporte\n- Open: rtve Play\n-
  PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261007T235456Z
+DTSTAMP:20261008T105959Z
+DTSTART:20261014T181500Z
+DTEND:20261014T201500Z
+SUMMARY:Eurocup Women - Spar Girona - SBS Ostrava
+UID:53bd8aed-5b6d-47ee-b1a6-adde8265c551
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T105959Z
 DTSTART:20261017T170000Z
 DTEND:20261017T190000Z
 SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Spar Girona
-UID:9343f10c-4bfa-4b57-96a3-07bef68d99a6
+UID:bcaaf2d1-6501-40b4-9e84-5073f7e822cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
