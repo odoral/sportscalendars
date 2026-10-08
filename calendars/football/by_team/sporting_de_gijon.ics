@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103820Z
+DTSTAMP:20261008T031433Z
 DTSTART:20261011T190000Z
 DTEND:20261011T210000Z
 SUMMARY:Liga Hypermotion - Cádiz - Sporting de Gijón
-UID:b422da74-1a41-4e3c-85de-0f0e22281891
+UID:a54cc458-b3e4-496a-809d-e4aaca8f133a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031433Z
+DTSTART:20261017T163000Z
+DTEND:20261017T183000Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Albacete
+UID:2f475362-03e9-4b77-ad8e-dabcae51620a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

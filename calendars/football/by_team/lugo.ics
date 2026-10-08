@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261003T023454Z
+DTSTAMP:20261008T031433Z
 DTSTART:20261012T183000Z
 DTEND:20261012T203000Z
 SUMMARY:Primera Federación - Lugo - U.D. Logroñés
-UID:9ba26e1a-bfee-4c4d-9592-a903aff6e1be
+UID:8f771500-3dcb-4123-baf1-bf331012ba4c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031433Z
+DTSTART:20261017T143000Z
+DTEND:20261017T163000Z
+SUMMARY:Primera Federación - Lugo - Deportivo Fabril
+UID:d81b23c1-7ad6-4d8b-895a-8e67220a9a2f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

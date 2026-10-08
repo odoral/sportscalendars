@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261004T030615Z
+DTSTAMP:20261008T031433Z
 DTSTART:20261012T161500Z
 DTEND:20261012T181500Z
 SUMMARY:Primera Federación - Hércules - Sant Andreu
-UID:ba2c2b27-86fd-487f-8b8e-82f9aaea2d8d
+UID:b1fce50a-fa57-4a21-be22-784b040f31b6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031433Z
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:Primera Federación - Algeciras - Hércules
+UID:e635b944-0625-4253-bbab-a9a107022675
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

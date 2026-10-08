@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103820Z
+DTSTAMP:20261008T031434Z
 DTSTART:20261011T161500Z
 DTEND:20261011T181500Z
 SUMMARY:Primera Federación - C.E. Europa - Algeciras
-UID:cd58f847-384c-42ad-b8ab-d2983229822c
+UID:25a71010-1344-45c1-9374-7d817d214985
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV
   Multi 4</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n
  - PPV: LaLiga TV Multi 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031434Z
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:Primera Federación - Algeciras - Hércules
+UID:a42f3d60-5e7b-4901-bcc8-081eff67005b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

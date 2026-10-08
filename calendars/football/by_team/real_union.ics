@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103820Z
+DTSTAMP:20261008T031433Z
 DTSTART:20261011T100000Z
 DTEND:20261011T120000Z
 SUMMARY:Primera Federación - Bilbao Athletic - Real Unión
-UID:b0836d52-8471-49c4-a0bb-b1d4fceb1300
+UID:3102bcd2-2cb5-4171-90ee-ce9f2e8ebf1d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031433Z
+DTSTART:20261017T164500Z
+DTEND:20261017T184500Z
+SUMMARY:Primera Federación - CD Extremadura - Real Unión
+UID:1fdae8e0-bb27-4a24-a6b3-25ec27981550
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

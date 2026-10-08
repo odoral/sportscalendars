@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261004T030615Z
+DTSTAMP:20261008T031433Z
 DTSTART:20261010T164500Z
 DTEND:20261010T184500Z
 SUMMARY:Primera Federación - Cacereño - Unionistas
-UID:16a289c5-475b-460b-af0a-2089382b8a7d
+UID:6f56d046-6295-4afe-931b-96316e26402b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031433Z
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
+SUMMARY:Primera Federación - Racing Ferrol - Unionistas
+UID:a09f6cd9-b071-456b-b50b-bea7c69f869d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

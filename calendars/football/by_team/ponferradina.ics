@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261005T023915Z
+DTSTAMP:20261008T031433Z
 DTSTART:20261011T143000Z
 DTEND:20261011T163000Z
 SUMMARY:Primera Federación - Ponferradina - Real Avilés
-UID:9aaf5ce4-5254-4ba8-95e9-4124ff362315
+UID:af1cb769-aa83-4fb0-afd6-f7f45f6fdf41
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031433Z
+DTSTART:20261017T164500Z
+DTEND:20261017T184500Z
+SUMMARY:Primera Federación - Zamora C.F. - Ponferradina
+UID:44c5c822-feb4-4772-bcb8-ede1e80255d9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

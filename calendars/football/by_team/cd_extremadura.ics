@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103820Z
+DTSTAMP:20261008T031433Z
 DTSTART:20261010T180000Z
 DTEND:20261010T200000Z
 SUMMARY:Primera Federación - C.D. Coria - CD Extremadura
-UID:7ae69a48-c1d0-40bd-af68-75ea7ba4b9da
+UID:f9b2861e-440b-4629-914f-6b0db1adc6fe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 5</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031433Z
+DTSTART:20261017T164500Z
+DTEND:20261017T184500Z
+SUMMARY:Primera Federación - CD Extremadura - Real Unión
+UID:b817919f-caf5-409b-afb3-03818b38fbf3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

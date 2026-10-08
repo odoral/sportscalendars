@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103820Z
+DTSTAMP:20261008T031434Z
 DTSTART:20261010T143000Z
 DTEND:20261010T163000Z
 SUMMARY:Primera Federación - Águilas F.C. - Huesca
-UID:dc6f9684-d537-45ea-9089-7904a957e3bc
+UID:53cafe5f-1b51-458b-8b4a-dcebcf8b482c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
  i>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: LaLiga T
  V Multi 4</li></ul></body></html>
 DESCRIPTION:- Open: Aragón TV\n- PPV: FanPlay TV\n- PPV: FootballClub TV\
  n- PPV: LaLiga TV Multi 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031434Z
+DTSTART:20261017T164500Z
+DTEND:20261017T184500Z
+SUMMARY:Primera Federación - Águilas F.C. - U.D. Ibiza
+UID:7bca6332-e769-4942-8a73-301150abc183
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

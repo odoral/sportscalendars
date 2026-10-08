@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261004T030615Z
+DTSTAMP:20261008T031434Z
 DTSTART:20261010T164500Z
 DTEND:20261010T184500Z
 SUMMARY:Primera Federación - UD Ourense - Barakaldo
-UID:f8eca625-c6d1-48a5-8353-cd1eec2f08db
+UID:f532ffc4-2307-46d5-bc08-e1b5e82740b9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031434Z
+DTSTART:20261017T143000Z
+DTEND:20261017T163000Z
+SUMMARY:Primera Federación - Barakaldo - Mirandés
+UID:f3624030-0044-4ab1-9162-d771e50ed83d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

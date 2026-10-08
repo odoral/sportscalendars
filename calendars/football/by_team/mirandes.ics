@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261005T023915Z
+DTSTAMP:20261008T031433Z
 DTSTART:20261010T190000Z
 DTEND:20261010T210000Z
 SUMMARY:Primera Federación - Mirandés - Zamora C.F.
-UID:d399e3bf-8ca8-403e-a498-c1dd2475227c
+UID:35a03aa4-2bb4-40a5-8bb6-5f20845a7218
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031433Z
+DTSTART:20261017T143000Z
+DTEND:20261017T163000Z
+SUMMARY:Primera Federación - Barakaldo - Mirandés
+UID:59ea878b-7508-4673-b207-b22a173aee22
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261004T030615Z
+DTSTAMP:20261008T031433Z
 DTSTART:20261010T143000Z
 DTEND:20261010T163000Z
 SUMMARY:Primera Federación - Deportivo Fabril - Racing Ferrol
-UID:ead82a75-0387-4f92-9687-10cc61746dab
+UID:b2f7a69f-a347-4a3f-b372-58361b291fb5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
   DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li
  >PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: TVG\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballC
  lub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261008T031433Z
+DTSTART:20261017T110000Z
+DTEND:20261017T130000Z
+SUMMARY:Primera Federación - Racing Ferrol - Unionistas
+UID:2fc3314e-e604-4576-83f8-07c00050f186
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR
