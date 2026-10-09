@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261009T000146Z
+DTSTAMP:20261009T105846Z
+DTSTART:20261009T190000Z
+DTEND:20261009T210000Z
+SUMMARY:Primera Federación - U.D. Ibiza - R.M. Castilla
+UID:52817d7f-a943-4a30-aa67-2f2003e8c09f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T105846Z
 DTSTART:20261018T100000Z
 DTEND:20261018T120000Z
 SUMMARY:Primera Federación - R.M. Castilla - Antequera
-UID:83c34fbe-a718-4b92-ba6d-6560a73d2058
+UID:51b1ab7f-62ca-470c-a800-eeea6841fcbf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

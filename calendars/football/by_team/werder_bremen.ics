@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261009T000146Z
+DTSTAMP:20261009T105846Z
+DTSTART:20261009T183000Z
+DTEND:20261009T203000Z
+SUMMARY:Bundesliga - Borussia Dortmund - Werder Bremen
+UID:9225b7b7-a006-4ff9-9f91-14fbd0161ac8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Multi 2</li>\n<li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: 
+ M+ Vamos 2</li>\n<li>PPV: Orange Fútbol 3</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 2\n- PPV: M+ Liga de Camp
+ eones 2\n- PPV: M+ Vamos 2\n- PPV: Orange Fútbol 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T105846Z
 DTSTART:20261017T133000Z
 DTEND:20261017T153000Z
 SUMMARY:Bundesliga - Werder Bremen - Paderborn 07
-UID:414d85e1-7d4b-4af3-913e-55bd431e78ce
+UID:89724424-9576-425b-aca1-13159a02e30c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
