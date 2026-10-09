@@ -16,43 +16,42 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261008T105959Z
-DTSTART:20261008T170000Z
-DTEND:20261008T190000Z
-SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Movistar Estudiantes
-UID:3fb501bf-f916-4cdf-94af-569ae48d19cc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
- i>PPV: M+ Baloncesto 3</li></ul></body></html>
-DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261008T105959Z
+DTSTAMP:20261009T000153Z
 DTSTART:20261011T100000Z
 DTEND:20261011T120000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Valencia Basket
-UID:d7f82ddc-0167-4915-8a38-4a44fb0bb84b
+UID:1de1adfa-2a7f-46c5-9f65-fcc5540bca85
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
  n<li>PPV: M+ Vamos 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261008T105959Z
+DTSTAMP:20261009T000153Z
 DTSTART:20261011T163000Z
 DTEND:20261011T183000Z
 SUMMARY:Primera FEB - Movistar Estudiantes - Gipuzkoa Basket
-UID:99337f9f-3ee5-4ee0-9e80-5131fcccd583
+UID:6346c4a1-72ba-45f6-98f0-d0c4d90feb9d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: BalONcesto TV</li><
  /ul></body></html>
 DESCRIPTION:- PPV: BalONcesto TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261008T105959Z
+DTSTAMP:20261009T000153Z
 DTSTART:20261017T173000Z
 DTEND:20261017T193000Z
 SUMMARY:Liga Femenina Endesa - Cadi La Seu - Movistar Estudiantes
-UID:3bdd136a-8b7c-4424-9df3-a998497c55b0
+UID:050ebe55-6a1f-4574-b4b0-8d8ab0ddbfe9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T000153Z
+DTSTART:20261018T163000Z
+DTEND:20261018T183000Z
+SUMMARY:Primera FEB - Movistar Estudiantes - Súper Agropal Palencia
+UID:50270d4b-65e0-433d-96b3-170f412ca9d2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

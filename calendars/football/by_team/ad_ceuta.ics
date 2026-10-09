@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103820Z
+DTSTAMP:20261009T000146Z
 DTSTART:20261010T141500Z
 DTEND:20261010T161500Z
 SUMMARY:Liga Hypermotion - AD Ceuta - Sabadell
-UID:8a83fea8-3c20-4dcb-9f45-e0dda118b595
+UID:618cb226-f289-4d64-84bd-e839527ed293
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T000146Z
+DTSTART:20261018T120000Z
+DTEND:20261018T140000Z
+SUMMARY:Liga Hypermotion - AD Ceuta - Real Oviedo
+UID:d80f5d7d-3afa-4d3e-8aed-7b26f4b70ebc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261004T030615Z
+DTSTAMP:20261009T000146Z
 DTSTART:20261012T140000Z
 DTEND:20261012T160000Z
 SUMMARY:Primera Federación - Cultural Leonesa - Arenas Club
-UID:c9881f90-e92c-4625-a3ef-5be58461db7a
+UID:723e6a6e-c461-4704-b183-b89a25af2721
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T000146Z
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
+SUMMARY:Primera Federación - Arenas Club - Mérida
+UID:92d605ef-5060-4e9e-a569-1ac8ae9584b5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

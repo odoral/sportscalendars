@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103820Z
+DTSTAMP:20261009T000146Z
 DTSTART:20261010T143000Z
 DTEND:20261010T163000Z
 SUMMARY:Primera Federación - Juv. Torremolinos - Nàstic Tarragona
-UID:541dc211-eb2e-48c6-9239-1f86d835920c
+UID:64f8d85e-e957-4496-8680-3c8b715ba6b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 5</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T000146Z
+DTSTART:20261018T140000Z
+DTEND:20261018T160000Z
+SUMMARY:Primera Federación - Nàstic Tarragona - At. Madrid B
+UID:66e66518-35d6-4921-8380-50677efda397
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>
+ \n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: Foot
+ ballClub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

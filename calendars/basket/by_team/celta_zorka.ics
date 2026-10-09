@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261007T103824Z
-DTSTART:20261008T170000Z
-DTEND:20261008T190000Z
-SUMMARY:Liga Femenina Endesa - IDK Euskotren - Celta Zorka
-UID:988b89cc-8481-4033-9045-081ef6cdf9e1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
- i>PPV: M+ Baloncesto 4</li></ul></body></html>
-DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261007T103824Z
+DTSTAMP:20261009T000153Z
 DTSTART:20261011T103000Z
 DTEND:20261011T123000Z
 SUMMARY:Liga Femenina Endesa - Celta Zorka - Casademont Zaragoza
-UID:f2167919-e057-4002-8b0b-e8d833f8c93f
+UID:6bfd7027-3faf-4251-9c21-e8127229bdaa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T000153Z
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
+SUMMARY:Liga Femenina Endesa - C.B. Jairis - Celta Zorka
+UID:1157047d-b039-4b01-942b-102217f3561c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR

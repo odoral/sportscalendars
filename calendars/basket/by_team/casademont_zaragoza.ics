@@ -16,42 +16,52 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261008T105959Z
+DTSTAMP:20261009T000153Z
 DTSTART:20261010T160000Z
 DTEND:20261010T180000Z
 SUMMARY:Liga Endesa - Basquet Coruña - Casademont Zaragoza
-UID:b6f48215-3cfe-4ccc-acc7-57a7519cdd7c
+UID:e856b47e-3c0f-4687-a3af-84a233463d25
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN Baloncesto</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261008T105959Z
+DTSTAMP:20261009T000153Z
 DTSTART:20261011T103000Z
 DTEND:20261011T123000Z
 SUMMARY:Liga Femenina Endesa - Celta Zorka - Casademont Zaragoza
-UID:85c8c7fd-c102-4682-82f8-da2d0cd18f8c
+UID:92920d93-3f92-4f7b-8486-27a0d135081e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261008T105959Z
+DTSTAMP:20261009T000153Z
 DTSTART:20261014T180000Z
 DTEND:20261014T200000Z
 SUMMARY:Euroliga Femenina - Casademont Zaragoza - Basket Landes
-UID:d9b4b8a9-43e3-4c43-af3c-c339e86009fa
+UID:c43347fc-4c15-4a45-a014-f76db5e0c4f4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261008T105959Z
+DTSTAMP:20261009T000153Z
 DTSTART:20261017T160000Z
 DTEND:20261017T180000Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Ensino Lugo
-UID:d35afd57-06ef-4f80-8ce3-733d01b0244a
+UID:8d2c7d85-42bd-4418-bfd2-68f2c254f6af
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
  n<li>PPV: M+ Vamos 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261009T000153Z
+DTSTART:20261018T100000Z
+DTEND:20261018T120000Z
+SUMMARY:Liga Endesa - Casademont Zaragoza - iLERNA Lleida
+UID:3e96e0f6-75e8-48f0-9f41-05df1b9ef8d6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
+ >\n<li>Open: Aragón TV</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
