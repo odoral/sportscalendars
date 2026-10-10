@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260912T221527Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,23 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261009T105846Z
-DTSTART:20261009T190000Z
-DTEND:20261009T210000Z
-SUMMARY:Primera Federación - U.D. Ibiza - R.M. Castilla
-UID:7fdaf000-9dd5-43a7-94c9-df0178f24449
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
- ción</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
- : Primera Federación
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261009T105846Z
+DTSTAMP:20261010T030032Z
 DTSTART:20261017T164500Z
 DTEND:20261017T184500Z
 SUMMARY:Primera Federación - Águilas F.C. - U.D. Ibiza
-UID:6e5b6e0c-0c65-447d-8ee7-aa05dcbf9da1
+UID:d079382e-9c31-48b5-834e-0624606fe01f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV

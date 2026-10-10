@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260912T221527Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261009T000146Z
+DTSTAMP:20261010T030032Z
 DTSTART:20261012T161500Z
 DTEND:20261012T181500Z
 SUMMARY:Primera Federación - Hércules - Sant Andreu
-UID:ae40b8b0-1ed5-4a85-86ba-a02d742fe90d
+UID:b6c4e1bd-e426-4c93-bef3-c7a44f8cae32
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
@@ -28,11 +28,11 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261009T000146Z
+DTSTAMP:20261010T030032Z
 DTSTART:20261018T140000Z
 DTEND:20261018T160000Z
 SUMMARY:Primera Federación - Sant Andreu - Juv. Torremolinos
-UID:55ed297f-df45-447e-b27d-e167f13b0e17
+UID:d35ba52d-ca6c-4f00-a60d-16dbd282eccc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
