@@ -16,175 +16,185 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261013T164500Z
 DTEND:20261013T184500Z
 SUMMARY:Champions League - Sabah FK - Slavia Praha
-UID:5108a97f-32f9-4df3-b912-3e258b69302f
+UID:0d70d574-b6b5-4f02-ab4b-14fa0445fd39
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261013T164500Z
 DTEND:20261013T184500Z
 SUMMARY:Champions League - Lens - Sporting Portugal
-UID:c6d7e969-9086-4918-94a6-8a8dd544d037
+UID:76aa17db-176f-4641-a732-38939d6f79ca
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
 SUMMARY:Champions League - Arsenal - Lille
-UID:7f6d355f-44d6-498c-9a71-28a64c938dfc
+UID:e5d2424b-e4d9-4692-948c-a7ff225df272
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 5
+ s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
 SUMMARY:Champions League - Atlético de Madrid - Manchester United
-UID:3a98cac9-52fb-4d20-b302-c9695fe910aa
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:5ff480ff-7a68-4132-9980-a8148b8529b5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
 SUMMARY:Champions League - Villarreal - Nápoles
-UID:6851c112-5025-4615-8f97-babdfde1bfa0
+UID:586ccd13-b332-4a94-84d7-d6d86a0ac304
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T101104Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Champions League - Inter de Milan - Club Brugge
+UID:6f91fc4b-3529-4061-ac76-241ad8eb1a5a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T101104Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Champions League - RB Leipzig - PSV Eindhoven
+UID:8e59bd3d-0b9b-4e34-b2b1-0e4a1420389d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T101104Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Champions League - Galatasaray - Barcelona
+UID:99e87a12-c9ec-41c6-9840-a5ca49d33f06
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+<
+ /li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
+ n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T101104Z
+DTSTART:20261013T190000Z
+DTEND:20261013T210000Z
+SUMMARY:Champions League - Viking FK - FC Bayern
+UID:58e283c5-d484-4caa-ad8c-a84871087e85
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T101104Z
+DTSTART:20261014T164500Z
+DTEND:20261014T184500Z
+SUMMARY:Champions League - Feyenoord - Como 1907
+UID:329e1054-b178-43f1-ad76-48aef250f743
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
-DTSTART:20261013T190000Z
-DTEND:20261013T210000Z
-SUMMARY:Champions League - Inter de Milan - Club Brugge
-UID:eadfd916-3e72-480a-94d6-5b9e61587f51
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 7</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
-DTSTART:20261013T190000Z
-DTEND:20261013T210000Z
-SUMMARY:Champions League - RB Leipzig - PSV Eindhoven
-UID:fdca3b31-5b73-4bb2-9c9c-e7c8556717f6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 8</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
-DTSTART:20261013T190000Z
-DTEND:20261013T210000Z
-SUMMARY:Champions League - Galatasaray - Barcelona
-UID:df02573c-c2af-4c64-9696-a3e5ed5449b2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: Movistar Plus+</l
- i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 2\n-
-  PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
-DTSTART:20261013T190000Z
-DTEND:20261013T210000Z
-SUMMARY:Champions League - Viking FK - FC Bayern
-UID:4ab7ac54-04e0-4e44-9fa9-40c482785d1a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 6</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 6
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
-DTSTART:20261014T164500Z
-DTEND:20261014T184500Z
-SUMMARY:Champions League - Feyenoord - Como 1907
-UID:dafa2006-825a-458a-a968-af7672521f6d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261014T164500Z
 DTEND:20261014T184500Z
 SUMMARY:Champions League - LASK Linz - Liverpool
-UID:0e782845-289b-443f-bee7-8e2e57166878
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:c87d18f9-aff5-44a6-b2b5-238a53095770
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
 SUMMARY:Champions League - Betis - Porto
-UID:92c98d70-864d-4b75-bcd7-136eeab7ec38
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:74c33a41-6d98-4269-b543-51451ec3867d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
 SUMMARY:Champions League - Aston Villa - Fenerbahçe
-UID:40299c3f-3459-45cb-a82f-41b4b628c6fb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:8b2a46c5-eaa4-43d2-ac5b-ac4d55554be8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
 SUMMARY:Champions League - Roma - Real Madrid
-UID:048ebce2-4487-45cb-a569-3aea164dbaa5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:eedfbc58-d683-4363-b0aa-4d515b0d058e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
 SUMMARY:Champions League - Bodø/Glimt - Borussia Dortmund
-UID:43b39711-4915-47f8-9f48-aed067109df4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:1e8d029c-7b21-4467-8c51-80bcc8c31590
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 7
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
 SUMMARY:Champions League - Manchester City - PSG
-UID:edb5c031-d64f-400a-9f00-8b11155703e8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:b6fc75f5-a5e6-41c5-8573-deca452ce9d1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
 SUMMARY:Champions League - Slovan Bratislava - Stuttgart
-UID:c7cd8c27-1538-4ebc-ac17-5aae1c118597
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:fe09d4f6-2467-4d46-aff9-cad4c4e50efa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T101104Z
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
 SUMMARY:Champions League - Shaktar Donetsk - AEK F.C.
-UID:2ec62773-1541-491a-9de7-785800a72abc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:d2cd7f5f-c9f5-4da5-a140-32934aacef90
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li>\n<li>PPV: M+ Liga de Campeones 6</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 6
 END:VEVENT
 END:VCALENDAR
