@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T230131Z
 DTSTART:20261011T163000Z
 DTEND:20261011T183000Z
 SUMMARY:Liga Hypermotion - Mallorca - Las Palmas
-UID:a622ef84-e730-40f3-b91a-b01e87ba54d5
+UID:43eb47a8-c316-4d3d-bed5-5fa8bcfbe598
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T230131Z
+DTSTART:20261011T163000Z
+DTEND:20261011T183000Z
+SUMMARY:Liga Hypermotion - Mallorca - Las Palmas
+UID:f203bee7-b170-49cd-88de-8c59e5e73961
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T230131Z
 DTSTART:20261017T141500Z
 DTEND:20261017T161500Z
 SUMMARY:Liga Hypermotion - Eibar - Mallorca
-UID:fa5ec604-5798-4ee8-b470-ff2761fd40d3
+UID:8b2b6cde-94d9-4793-9e89-bcd9ac985b2e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li>\n<li>PPV:
   DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- Open: IB3\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion

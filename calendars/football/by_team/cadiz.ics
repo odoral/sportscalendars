@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T230131Z
 DTSTART:20261011T190000Z
 DTEND:20261011T210000Z
 SUMMARY:Liga Hypermotion - Cádiz - Sporting de Gijón
-UID:1899b43c-c894-4692-b028-7d7474973c27
+UID:d791124b-9c6c-4785-911a-649ab10d0bf6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T230131Z
+DTSTART:20261011T190000Z
+DTEND:20261011T210000Z
+SUMMARY:Liga Hypermotion - Cádiz - Sporting de Gijón
+UID:0eecfa15-3b85-44a7-b4c2-1471b12e92ef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T230131Z
 DTSTART:20261018T141500Z
 DTEND:20261018T161500Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Cádiz
-UID:079509c7-0325-4af0-8ddf-0240a006664d
+UID:724cafbd-d00b-4e87-83b5-7363b907e123
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion

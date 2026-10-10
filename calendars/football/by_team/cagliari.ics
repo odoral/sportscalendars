@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T230131Z
 DTSTART:20261011T184500Z
 DTEND:20261011T204500Z
 SUMMARY:Serie A Italia - Cagliari - Juventus
-UID:33b5ccc5-8432-4eab-84d4-c214742ae6da
+UID:9101b0b9-2e8f-42f5-b97a-b4ac6e6000be
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones 3</li>\n<li>PPV: M+ Vamos 3</li>\n<li>PPV: Movista
  r Plus+</li>\n<li>PPV: Orange Fútbol 3</li></ul></body></html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones 3\n- PPV: M+ Vamos 3
  \n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T230131Z
+DTSTART:20261011T184500Z
+DTEND:20261011T204500Z
+SUMMARY:Serie A Italia - Cagliari - Juventus
+UID:156b3b35-dfc9-4a69-9edc-c7f71b7c3c66
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones 3</li>\n<li>PPV: M+ Vamos 3</li>\n<li>PPV: Movista
+ r Plus+</li>\n<li>PPV: Orange Fútbol 3</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones 3\n- PPV: M+ Vamos 3
+ \n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T230131Z
 DTSTART:20261019T163000Z
 DTEND:20261019T183000Z
 SUMMARY:Serie A Italia - A.C. Monza - Cagliari
-UID:bdb77ad1-34c1-4e9f-a27a-a4c762e19be1
+UID:013f5bf9-e2f5-4c1a-b99b-65886412bbe4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN

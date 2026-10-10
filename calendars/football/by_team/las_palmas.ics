@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T230131Z
 DTSTART:20261011T163000Z
 DTEND:20261011T183000Z
 SUMMARY:Liga Hypermotion - Mallorca - Las Palmas
-UID:c5211853-47db-4d13-b373-c755deb3e0b8
+UID:abed76fe-9fda-436f-bb45-dc41ff10a5ef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
@@ -28,11 +28,23 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261010T230131Z
+DTSTART:20261011T163000Z
+DTEND:20261011T183000Z
+SUMMARY:Liga Hypermotion - Mallorca - Las Palmas
+UID:be8bec9c-b23a-48c4-844f-703325616eef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T230131Z
 DTSTART:20261017T190000Z
 DTEND:20261017T210000Z
 SUMMARY:Liga Hypermotion - Las Palmas - C.D. Castellón
-UID:7c90aaf0-496d-489b-993d-aaa47a0b6ec1
+UID:8f736a30-0b2c-449a-9e46-d2e2f84c4253
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion

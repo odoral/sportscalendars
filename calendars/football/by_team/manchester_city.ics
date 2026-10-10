@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261010T101104Z
+DTSTAMP:20261010T230131Z
 DTSTART:20261011T153000Z
 DTEND:20261011T173000Z
 SUMMARY:Premier League - Liverpool - Manchester City
-UID:0fc04346-5cdb-468c-ab48-44e1a089277f
+UID:9193e462-47e4-4d53-8442-06ed2ce91f36
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
  +</li></ul></body></html>
@@ -28,21 +28,33 @@ DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
  V: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T101104Z
+DTSTAMP:20261010T230131Z
+DTSTART:20261011T153000Z
+DTEND:20261011T173000Z
+SUMMARY:Premier League - Liverpool - Manchester City
+UID:cb72488d-ff50-4371-a685-ff5b0ce8d099
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus
+ +</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
+ V: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261010T230131Z
 DTSTART:20261014T190000Z
 DTEND:20261014T210000Z
 SUMMARY:Champions League - Manchester City - PSG
-UID:058ddbe1-6abd-42fe-84ab-c3944f8f8122
+UID:f2c81abf-8ba2-4495-8166-c6c17638b6ce
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 3</li>\n<li>PPV: M+ Liga de Campeones 4</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T101104Z
+DTSTAMP:20261010T230131Z
 DTSTART:20261017T140000Z
 DTEND:20261017T160000Z
 SUMMARY:Premier League - Manchester City - Ipswich Town
-UID:f53f2077-14de-4b78-b6c7-75eb0e040038
+UID:b8abad3f-c146-4d6c-9022-c131d1a892d9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
