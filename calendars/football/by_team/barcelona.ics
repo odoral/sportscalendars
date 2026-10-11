@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261010T230131Z
+DTSTAMP:20261011T023018Z
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
 SUMMARY:Champions League - Galatasaray - Barcelona
-UID:684ebf85-b3a2-4bfd-be6e-24ee354fb20e
+UID:45e2861f-60e7-4204-beb3-cffdeeb3c4cb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 2</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+<
  /li>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
@@ -28,13 +28,22 @@ DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 4\
  n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T230131Z
+DTSTAMP:20261011T023018Z
 DTSTART:20261017T163000Z
 DTEND:20261017T183000Z
 SUMMARY:Liga EA Sports - Betis - Barcelona
-UID:e2389cb0-fa82-475b-a612-fedab8b4adbc
+UID:95425954-9170-4755-a98d-49ca09fa2215
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   DAZN LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: DAZN LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261011T023018Z
+DTSTART:20261020T190000Z
+DTEND:20261020T210000Z
+SUMMARY:Champions League - PSG - Barcelona
+UID:dbfa5b60-dded-4890-a9f6-678e0951b2ca
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
