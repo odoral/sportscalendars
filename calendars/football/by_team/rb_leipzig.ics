@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261010T230131Z
+DTSTAMP:20261012T025438Z
 DTSTART:20261013T190000Z
 DTEND:20261013T210000Z
 SUMMARY:Champions League - RB Leipzig - PSV Eindhoven
-UID:bb33ea54-3c81-4a16-955c-a2984ac30524
+UID:7e2c8c11-bae9-4441-9877-14b5dc6ccbae
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s 4</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T230131Z
+DTSTAMP:20261012T025438Z
 DTSTART:20261017T163000Z
 DTEND:20261017T183000Z
 SUMMARY:Bundesliga - FC Bayern - RB Leipzig
-UID:ab673f73-5e10-4209-a1d5-f23940838c16
+UID:ea91e558-43f2-484a-bd8c-02d086cd5e4f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261012T025438Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:Champions League - Real Madrid - RB Leipzig
+UID:c31b65e2-024c-4828-8275-1197ae1b5bbf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR
