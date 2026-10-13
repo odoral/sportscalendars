@@ -16,25 +16,44 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261010T101104Z
+DTSTAMP:20261013T041010Z
 DTSTART:20261015T164500Z
 DTEND:20261015T184500Z
 SUMMARY:Europa League - Union Saint-Gilloise - Real Sociedad
-UID:f1aed78d-92b4-4131-8f41-fb5c91a87ed0
+UID:d4185545-b8e8-4c2a-b80d-c42a6b5f3da1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261010T101104Z
+DTSTAMP:20261013T041010Z
 DTSTART:20261015T190000Z
 DTEND:20261015T210000Z
 SUMMARY:Europa League - Celta - Juventus
-UID:e18a5e47-f9e5-42a9-a085-24a93665385b
+UID:0fed4f67-7a82-4fce-a154-c3ebe1a299d5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li>\n<li>PPV: Movistar Plus+</l
  i></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3\n-
   PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T041010Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Europa League - Celtic FC - Celta
+UID:8185e3b9-4004-4e5f-bc10-eee9d4b202c6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T041010Z
+DTSTART:20261022T190000Z
+DTEND:20261022T210000Z
+SUMMARY:Europa League - Lillestrøm SK - Real Sociedad
+UID:61fac2cd-a1ab-4794-a807-62903b42c986
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
