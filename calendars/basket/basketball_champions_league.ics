@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260912T221527Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,23 +16,75 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261006T232449Z
-DTSTART:20261007T170000Z
-DTEND:20261007T190000Z
-SUMMARY:Basketball Champions League - Juventus Utena - Unicaja Málaga
-UID:3caa878b-3168-4122-9c12-e2ebfeb73e6a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+DTSTAMP:20261013T152130Z
+DTSTART:20261013T180000Z
+DTEND:20261013T200000Z
+SUMMARY:Basketball Champions League - Nanterre 92 - Rytas Vilnius
+UID:58a268eb-4179-4a76-bd82-0d003fe3d639
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261006T232449Z
-DTSTART:20261007T183000Z
-DTEND:20261007T203000Z
-SUMMARY:Basketball Champions League - UCAM Murcia C.B. - Pallacanestro Va
- rese
-UID:0cd1013b-838d-49d7-9df5-2963efb239c9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+DTSTAMP:20261013T152130Z
+DTSTART:20261013T180000Z
+DTEND:20261013T200000Z
+SUMMARY:Basketball Champions League - ALBA Berlin - KK Igokea
+UID:50cd8c41-f8e0-4cb1-b05c-6ea2fb55e345
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T152130Z
+DTSTART:20261013T180000Z
+DTEND:20261013T200000Z
+SUMMARY:Basketball Champions League - Pallacanestro Varese - Peristeri BC
+ 
+UID:50490b65-7fa9-4f6b-b57b-30ab8c290687
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T152130Z
+DTSTART:20261014T170000Z
+DTEND:20261014T190000Z
+SUMMARY:Basketball Champions League - Bamberg Baskets - UCAM Murcia C.B.
+UID:d31ec6eb-db3c-4abe-80e0-9ee8ba4bb74e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
+ i>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T152130Z
+DTSTART:20261014T180000Z
+DTEND:20261014T200000Z
+SUMMARY:Basketball Champions League - Bilbao Basket - Slavia Prague ERA N
+ BK
+UID:7936e85a-dfa3-43ee-b033-a6529a7c3472
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
+ i>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T152130Z
+DTSTART:20261014T180000Z
+DTEND:20261014T200000Z
+SUMMARY:Basketball Champions League - Cholet Basket - Rasta Vechta
+UID:e0b485b8-d772-47fc-af59-ff4acee3afaf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261013T152130Z
+DTSTART:20261014T180000Z
+DTEND:20261014T200000Z
+SUMMARY:Basketball Champions League - KK Spartak Subotica - Hapoel Holon
+UID:204d351a-7e4c-49b1-839e-d45fbdf69e62
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
