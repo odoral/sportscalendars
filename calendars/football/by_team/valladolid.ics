@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261013T041010Z
+DTSTAMP:20261014T022324Z
 DTSTART:20261018T163000Z
 DTEND:20261018T183000Z
 SUMMARY:Liga Hypermotion - Valladolid - C.D. Eldense
-UID:02f5ac7e-cce4-43c1-9ac9-c0af5d06c629
+UID:8b84dcb1-9509-486a-a7a6-8154deba2c8f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T022324Z
+DTSTART:20261023T183000Z
+DTEND:20261023T203000Z
+SUMMARY:Liga Hypermotion - Granada C.F. - Valladolid
+UID:13302b4a-5d09-4e02-af9a-deac3f36cabc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion

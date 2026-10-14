@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261013T041011Z
+DTSTAMP:20261014T022324Z
 DTSTART:20261017T143000Z
 DTEND:20261017T163000Z
 SUMMARY:Primera Federación - Lugo - Deportivo Fabril
-UID:ea44e415-ce7a-4c37-a74e-3e77ce6477fd
+UID:5a420a3d-c3b0-4ee0-809e-33da4adab0cf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T022324Z
+DTSTART:20261023T170000Z
+DTEND:20261023T190000Z
+SUMMARY:Primera Federación - Real Unión - Lugo
+UID:7d57e869-fcbc-4657-807d-7a8ad43f20d8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

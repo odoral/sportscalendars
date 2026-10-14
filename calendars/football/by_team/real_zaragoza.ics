@@ -16,16 +16,28 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261012T025438Z
+DTSTAMP:20261014T022324Z
 DTSTART:20261018T161500Z
 DTEND:20261018T181500Z
 SUMMARY:Primera Federación - Real Murcia - Real Zaragoza
-UID:c8ba41f0-f815-4064-8789-2d55c885d5d2
+UID:2ab29bf1-094f-4eb7-8562-3dd6ea3630b0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
  i>Open: La 7 Murcia</li>\n<li>PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n
  <li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></bo
  dy></html>
 DESCRIPTION:- Open: Aragón TV\n- Open: La 7 Murcia\n- PPV: DAZN\n- PPV: F
  anPlay TV\n- PPV: FootballClub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T022324Z
+DTSTART:20261023T191500Z
+DTEND:20261023T211500Z
+SUMMARY:Primera Federación - C.E. Europa - Real Zaragoza
+UID:823a315e-e84b-4759-9102-30557ff79f4f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>
+ \n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: Foot
+ ballClub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
