@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261011T231718Z
+DTSTAMP:20261014T090537Z
+DTSTART:20261014T180000Z
+DTEND:20261014T200000Z
+SUMMARY:Eurocup Women - C.B. Jairis - ZKK Brod Na Savi
+UID:6ad19c74-d7f5-41b7-b97d-cb27f80c8271
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261014T090537Z
 DTSTART:20261018T100000Z
 DTEND:20261018T120000Z
 SUMMARY:Liga Femenina Endesa - C.B. Jairis - Celta Zorka
-UID:f0b992ab-3b4b-4425-acd2-59a5fe924ed6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
- ></body></html>
-DESCRIPTION:- Open: Siroko TV
+UID:3d718ae2-521b-4c11-9b6e-3e09566fc200
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto 2</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
 END:VEVENT
 END:VCALENDAR

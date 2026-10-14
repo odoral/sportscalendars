@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260912T221527Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260915T090128Z
-DTSTART:20260917T190000Z
-DTEND:20260917T210000Z
-SUMMARY:Europa League - Viktoria Plzen - Union Saint-Gilloise
-UID:60797ddd-7cfc-49e0-a42a-12c76669df8a
+DTSTAMP:20261014T090532Z
+DTSTART:20261015T190000Z
+DTEND:20261015T210000Z
+SUMMARY:Europa League - Ferencvaros - Viktoria Plzen
+UID:f2f1837f-a070-4efd-8fd0-c4f86855addf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 7
+ s 3</li>\n<li>PPV: M+ Liga de Campeones 8</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 3\n- PPV: M+ Liga de Campeones 8
 END:VEVENT
 END:VCALENDAR

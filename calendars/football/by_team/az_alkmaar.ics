@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260912T221527Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,13 +16,14 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260915T090128Z
-DTSTART:20260916T190000Z
-DTEND:20260916T210000Z
-SUMMARY:Europa League - Sunderland - AZ Alkmaar
-UID:419aad46-ce06-48fc-9ffc-034a427cf631
+DTSTAMP:20261014T090532Z
+DTSTART:20261015T164500Z
+DTEND:20261015T184500Z
+SUMMARY:Europa League - AZ Alkmaar - Hapoel Beer Sheva
+UID:d555fb02-9423-4110-a229-9c5fac9c39dd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 7
+ s 10</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 10\n- PPV: M+ Liga de Campeones 3
+ 
 END:VEVENT
 END:VCALENDAR
