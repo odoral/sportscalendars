@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
+DTSTAMP:20261015T020415Z
 DTSTART:20261018T100000Z
 DTEND:20261018T120000Z
 SUMMARY:Primera Federación - Arenas Club - Mérida
-UID:1a1ec5fa-a851-40f8-bcc5-6a20b1f3f710
+UID:d58f663b-318d-4f67-b393-10ef35a321f6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T020415Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Primera Federación - Arenas Club - UD Ourense
+UID:89ca07e2-6683-480f-be5d-d566bd578c3d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

@@ -16,21 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
-DTSTART:20261014T190000Z
-DTEND:20261014T210000Z
-SUMMARY:Champions League - Bodø/Glimt - Borussia Dortmund
-UID:4e4bd912-1f9e-452f-803c-ef533a062040
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li>\n<li>PPV: M+ Liga de Campeones 7</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 7
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
+DTSTAMP:20261015T020415Z
 DTSTART:20261017T133000Z
 DTEND:20261017T153000Z
 SUMMARY:Bundesliga - Union Berlin - Borussia Dortmund
-UID:ffe8c690-c79f-4d5f-b912-6fc10be68514
+UID:9b825500-eef0-4091-a26a-d3560615ddd1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Multi 5</li>\n<li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: 
  M+ Vamos 3</li>\n<li>PPV: Orange Fútbol 3</li></ul></body></html>
@@ -38,12 +28,22 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 5\n- PPV: M+ Liga de Camp
  eones 2\n- PPV: M+ Vamos 3\n- PPV: Orange Fútbol 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
+DTSTAMP:20261015T020415Z
 DTSTART:20261020T164500Z
 DTEND:20261020T184500Z
 SUMMARY:Champions League - Sabah FK - Borussia Dortmund
-UID:e10233f9-f77b-41a5-be33-89f6b601b44a
+UID:333d0833-665a-428b-b72a-f99353aec212
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T020415Z
+DTSTART:20261024T163000Z
+DTEND:20261024T183000Z
+SUMMARY:Bundesliga - Borussia Dortmund - Eintracht Frankfurt
+UID:575a670b-394b-471b-be47-312480e862fd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

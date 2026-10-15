@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
+DTSTAMP:20261015T020415Z
 DTSTART:20261018T140000Z
 DTEND:20261018T160000Z
 SUMMARY:Primera Federación - Pontevedra - Cacereño
-UID:f1cdaec3-504f-4b6d-85be-d68cb0bcb5e8
+UID:6d464017-3919-4842-9264-bb6460a91adb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T020415Z
+DTSTART:20261024T164500Z
+DTEND:20261024T184500Z
+SUMMARY:Primera Federación - Cacereño - Zamora C.F.
+UID:b7c6cea3-06b8-4467-8881-84e416bf6295
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

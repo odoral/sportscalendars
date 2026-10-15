@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
+DTSTAMP:20261015T020415Z
 DTSTART:20261017T164500Z
 DTEND:20261017T184500Z
 SUMMARY:Primera Federación - CD Extremadura - Real Unión
-UID:dd0231c5-368d-4018-a613-18b9a86569e1
+UID:d20219ba-b001-41a0-a53d-f2e78127cbce
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T020415Z
+DTSTART:20261024T143000Z
+DTEND:20261024T163000Z
+SUMMARY:Primera Federación - Deportivo Fabril - CD Extremadura
+UID:b24cb8dd-9806-4d4c-9fa6-c0c8b4020015
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

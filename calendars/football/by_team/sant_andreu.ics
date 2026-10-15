@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
+DTSTAMP:20261015T020415Z
 DTSTART:20261018T140000Z
 DTEND:20261018T160000Z
 SUMMARY:Primera Federación - Sant Andreu - Juv. Torremolinos
-UID:8741a32e-7d74-48ed-9656-03540811c0b5
+UID:929f7825-e0fa-4447-862c-bfe577663e81
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T020415Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Primera Federación - Rayo Majadahonda - Sant Andreu
+UID:ece88a74-7dea-4c9c-86f1-98ecfdbcc531
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

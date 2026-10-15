@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261010T030032Z
+DTSTAMP:20261015T020415Z
 DTSTART:20261017T100000Z
 DTEND:20261017T120000Z
 SUMMARY:Liga F - FC Badalona Women - UDG Tenerife
-UID:a40c3213-d77d-492b-ad76-59db8b3f63d3
+UID:c10b4cd4-9603-4f08-bed5-be6c2f0021bc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T020415Z
+DTSTART:20261024T161500Z
+DTEND:20261024T181500Z
+SUMMARY:Liga F - Logroño United - FC Badalona Women
+UID:70393056-7c01-4f65-8c89-856cb18a4d54
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN

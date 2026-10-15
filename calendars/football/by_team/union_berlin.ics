@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
+DTSTAMP:20261015T020415Z
 DTSTART:20261017T133000Z
 DTEND:20261017T153000Z
 SUMMARY:Bundesliga - Union Berlin - Borussia Dortmund
-UID:0035d8d0-65c1-4489-8698-af76e16edaea
+UID:11d12610-831d-4f05-a25f-f65565926d57
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Multi 5</li>\n<li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: 
  M+ Vamos 3</li>\n<li>PPV: Orange Fútbol 3</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 5\n- PPV: M+ Liga de Camp
  eones 2\n- PPV: M+ Vamos 3\n- PPV: Orange Fútbol 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T020415Z
+DTSTART:20261024T133000Z
+DTEND:20261024T153000Z
+SUMMARY:Bundesliga - Augsburgo - Union Berlin
+UID:4688eb14-52bb-4c94-b272-42cc19ccd239
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

@@ -16,32 +16,34 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261012T025438Z
-DTSTART:20261014T190000Z
-DTEND:20261014T210000Z
-SUMMARY:Champions League - Aston Villa - Fenerbahçe
-UID:83b8e4ca-03bf-4190-8be7-d06e1a0d9a41
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261012T025438Z
+DTSTAMP:20261015T020415Z
 DTSTART:20261017T163000Z
 DTEND:20261017T183000Z
 SUMMARY:Premier League - Newcastle - Aston Villa
-UID:a45c7d37-9cbe-47d9-9eb5-d6df6dfefb75
+UID:1304aa15-a960-4245-a14b-43a445290001
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261012T025438Z
+DTSTAMP:20261015T020415Z
 DTSTART:20261021T190000Z
 DTEND:20261021T210000Z
 SUMMARY:Champions League - Aston Villa - Viking FK
-UID:32f5e150-7d24-46e4-a2a1-e047731d3f29
+UID:e036d923-fad7-4b7f-acbf-28d9dfb77c29
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T020415Z
+DTSTART:20261024T113000Z
+DTEND:20261024T133000Z
+SUMMARY:Premier League - Aston Villa - Manchester City
+UID:8ead5f18-dc6e-47dc-ac65-501fa59d84d4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
+ s+
 END:VEVENT
 END:VCALENDAR
