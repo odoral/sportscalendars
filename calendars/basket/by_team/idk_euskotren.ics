@@ -16,14 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261014T090537Z
+DTSTAMP:20261015T224453Z
 DTSTART:20261017T163000Z
 DTEND:20261017T183000Z
 SUMMARY:Liga Femenina Endesa - IDK Euskotren - Azulmarino Basket Mallorca
  
-UID:acf1e89d-d86e-4e6b-963f-36a44a7bf47f
+UID:37fb72a0-0c4b-4f1f-9b06-395c0b036cfd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T224453Z
+DTSTART:20261025T170000Z
+DTEND:20261025T190000Z
+SUMMARY:Liga Femenina Endesa - Spar Girona - IDK Euskotren
+UID:5a47bb65-48fe-4fba-92cc-eb2d68a8d5e3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR

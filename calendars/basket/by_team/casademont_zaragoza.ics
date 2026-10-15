@@ -16,33 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261015T083904Z
+DTSTAMP:20261015T224453Z
 DTSTART:20261017T150000Z
 DTEND:20261017T170000Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Ensino Lugo
-UID:1d14670d-501c-47be-b56f-a6dae34104d7
+UID:f93bf046-58ae-4c9a-b13f-f9dde2848af6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
  n<li>PPV: M+ Vamos 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T083904Z
+DTSTAMP:20261015T224453Z
 DTSTART:20261018T100000Z
 DTEND:20261018T120000Z
 SUMMARY:Liga Endesa - Casademont Zaragoza - iLERNA Lleida
-UID:7b765f52-38f5-463c-9384-afa7f87030fc
+UID:b60e5749-3527-4185-95dc-b23ba0a13500
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
  >\n<li>Open: Aragón TV</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T083904Z
+DTSTAMP:20261015T224453Z
 DTSTART:20261024T190000Z
 DTEND:20261024T210000Z
 SUMMARY:Liga Endesa - Barça Basket - Casademont Zaragoza
-UID:849489f3-e101-49ed-80a6-db99fd3484f8
+UID:ed7784a1-0e14-45a4-96f2-e7ef0649a03e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
  i>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Aragón TV\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261015T224453Z
+DTSTART:20261025T110000Z
+DTEND:20261025T130000Z
+SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - Casademont Zaragoza
+UID:d6393d5f-6a2e-4632-a549-b54b6d7d7ae3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR
