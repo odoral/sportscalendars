@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
+DTSTAMP:20261016T015456Z
 DTSTART:20261018T130000Z
 DTEND:20261018T150000Z
 SUMMARY:Serie A Italia - Fiorentina - Como 1907
-UID:a9a09ec7-4c62-4aee-bde1-db9bb4bc1ba6
+UID:9c5dc1e1-5b9b-41e9-8e8b-aa2bcf7f98cf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Multi 5</li>\n<li>PPV: M+ Vamos 3</li>\n<li>PPV: Movistar Plu
  s+</li>\n<li>PPV: Orange Fútbol 3</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 5\n- PPV: M+ Vamos 3\n- P
  PV: Movistar Plus+\n- PPV: Orange Fútbol 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T015456Z
+DTSTART:20261025T113000Z
+DTEND:20261025T133000Z
+SUMMARY:Serie A Italia - Inter de Milan - Fiorentina
+UID:aa8d8588-0a97-4991-849c-16a985a6a530
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

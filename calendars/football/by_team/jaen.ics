@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
+DTSTAMP:20261016T015455Z
 DTSTART:20261018T161500Z
 DTEND:20261018T181500Z
 SUMMARY:Primera Federación - Jaén - Rayo Majadahonda
-UID:de00f4e2-6ced-4b25-aa39-35d5906fd5be
+UID:0242c637-05ce-406a-bd63-acf2da601f04
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 5</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T015455Z
+DTSTART:20261025T110000Z
+DTEND:20261025T130000Z
+SUMMARY:Primera Federación - At. Madrid B - Jaén
+UID:19306a19-ee7a-4c4e-8c9f-2575c3fae813
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

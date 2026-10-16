@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261014T090532Z
+DTSTAMP:20261016T015456Z
 DTSTART:20261017T190000Z
 DTEND:20261017T210000Z
 SUMMARY:Liga Hypermotion - Las Palmas - C.D. Castellón
-UID:4d2967b2-f877-4b35-b5c1-f5024348e9b6
+UID:bcc2eeaf-b2da-42f9-8cd2-9c624c285e95
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T015456Z
+DTSTART:20261025T173000Z
+DTEND:20261025T193000Z
+SUMMARY:Liga Hypermotion - C.D. Castellón - Sporting de Gijón
+UID:874c2857-e93e-40e9-bd1d-ef8967107631
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR
