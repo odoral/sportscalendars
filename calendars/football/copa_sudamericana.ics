@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261015T020415Z
-DTSTART:20261014T220000Z
-DTEND:20261015T000000Z
-SUMMARY:Copa Sudamericana - Atlético Mineiro - Montevideo City Torque
-UID:b3f7a420-32eb-4468-b9cd-b969bc2b2e45
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Vamos
+DTSTAMP:20261016T083357Z
+DTSTART:20261021T003000Z
+DTEND:20261021T023000Z
+SUMMARY:Copa Sudamericana - Vasco da Gama - Boca Juniors
+UID:21b83da0-96b4-4895-8102-b4e68deb8c45
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T083357Z
+DTSTART:20261021T220000Z
+DTEND:20261022T000000Z
+SUMMARY:Copa Sudamericana - Montevideo City Torque - Atlético Mineiro
+UID:b661d188-cb52-4d82-97a0-e95b0c2b7e1b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos 2</li></ul
+ ></body></html>
+DESCRIPTION:- PPV: M+ Vamos 2
 END:VEVENT
 END:VCALENDAR

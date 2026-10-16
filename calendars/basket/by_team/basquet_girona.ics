@@ -16,21 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261015T224453Z
+DTSTAMP:20261016T083402Z
 DTSTART:20261018T100000Z
 DTEND:20261018T120000Z
 SUMMARY:Liga Endesa - Bàsquet Girona - Basquet Coruña
-UID:8d460135-e101-4407-981a-b14bd487d542
+UID:4da3f798-c05c-468f-864e-a344b270184b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
- : TVG</li>\n<li>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: TV3\n- Open: TVG\n- PPV: DAZN
+ : TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Baloncesto</li></ul></body
+ ></html>
+DESCRIPTION:- Open: TV3\n- Open: TVG\n- PPV: DAZN\n- PPV: DAZN Baloncesto
+ 
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261015T224453Z
+DTSTAMP:20261016T083402Z
+DTSTART:20261020T180000Z
+DTEND:20261020T200000Z
+SUMMARY:FIBA Europe Cup - Bàsquet Girona - Zastal Zielona Góra
+UID:39cd044a-2769-4bb2-b51f-ca3152bceda7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
+ </ul></body></html>
+DESCRIPTION:- Open: Esport3 (Web)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261016T083402Z
 DTSTART:20261025T110000Z
 DTEND:20261025T130000Z
 SUMMARY:Liga Endesa - Bàsquet Girona - Joventut Badalona
-UID:14dbced5-39af-42c9-ba38-f007c82b894d
+UID:f4d30458-f689-4036-868a-21ef51d91edb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
   DAZN</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- PPV: DAZN
