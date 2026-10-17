@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261016T083402Z
+DTSTAMP:20261017T080605Z
 DTSTART:20261020T183000Z
 DTEND:20261020T203000Z
 SUMMARY:Eurocup - Kids&Us Manresa - BC Roma SPQR
-UID:7683400b-17bd-48b9-b54f-f1cb6ff6a8c5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
- </body></html>
-DESCRIPTION:- Open: Esport 3
+UID:e930450e-a1bc-4fd1-89d2-0103958fca59
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: M+ Baloncesto</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: M+ Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T080605Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Eurocup - Derthona Basket - San Pablo Burgos
+UID:1b29704f-5d4e-4772-b21e-8ead8fd52277
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

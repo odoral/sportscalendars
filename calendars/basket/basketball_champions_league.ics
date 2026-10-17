@@ -16,14 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261016T083402Z
+DTSTAMP:20261017T080605Z
+DTSTART:20261020T160000Z
+DTEND:20261020T180000Z
+SUMMARY:Basketball Champions League - Kvis Pardubice - Unicaja Málaga
+UID:fcdd05b8-bf3c-4a94-a8ac-0ebc090ef03e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261017T080605Z
 DTSTART:20261021T180000Z
 DTEND:20261021T200000Z
 SUMMARY:Basketball Champions League - Joventut Badalona - Telekom Baskets
   Bonn
-UID:36fd06ed-a2df-4795-a715-0600aa929b06
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
- </body></html>
-DESCRIPTION:- Open: Esport 3
+UID:02ab5d02-81fb-488a-9685-a4c162aab2d1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
