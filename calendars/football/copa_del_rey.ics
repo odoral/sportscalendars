@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260414T055406Z
-DTSTART:20260418T190000Z
-DTEND:20260418T210000Z
-SUMMARY:Copa del Rey - Atlético de Madrid - Real Sociedad
-UID:df96e49a-0107-4cc8-a1f0-d2b336ac700f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
- n: La 1</li>\n<li>Open: TV3</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ 
- LaLiga</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- Open: ETB1\n- Open: La 1\n- Open: TV3\n- Open: rtve Play\n-
-  PPV: M+ LaLiga\n- PPV: Movistar Plus+
+DTSTAMP:20261020T085658Z
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+SUMMARY:Copa del Rey - Navalcarnero - Betis
+UID:aaec785f-7afa-49a0-951d-7bfc97e140b9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
