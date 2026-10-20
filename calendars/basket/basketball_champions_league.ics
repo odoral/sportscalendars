@@ -16,22 +16,32 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261019T231142Z
+DTSTAMP:20261020T022104Z
+DTSTART:20261020T160000Z
+DTEND:20261020T180000Z
+SUMMARY:Basketball Champions League - Kvis Pardubice - Unicaja Málaga
+UID:249f71a1-497f-45e4-a0e0-7a3c94baa687
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261020T022104Z
 DTSTART:20261021T180000Z
 DTEND:20261021T200000Z
 SUMMARY:Basketball Champions League - Joventut Badalona - Telekom Baskets
   Bonn
-UID:cf224a29-11a8-4e29-a8b3-d0ade28b0be8
+UID:506d8ea7-5d2e-4c3a-87bd-5d8396b77577
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261019T231142Z
+DTSTAMP:20261020T022104Z
 DTSTART:20261027T193000Z
 DTEND:20261027T213000Z
 SUMMARY:Basketball Champions League - UCAM Murcia C.B. - Peristeri BC
-UID:de61c902-06ab-47f2-b6ca-1d99e5a26883
+UID:cc5cf50d-4c9f-4cb4-b03c-baf3f26b61fc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Popular TV Murcia<
  /li></ul></body></html>
 DESCRIPTION:- Open: Popular TV Murcia
