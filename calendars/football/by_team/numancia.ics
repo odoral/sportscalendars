@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260721T092906Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260822T081503Z
-DTSTART:20260822T180000Z
-DTEND:20260822T200000Z
-SUMMARY:Amistoso - Numancia - Real Zaragoza
-UID:4c0af445-9962-453c-9bad-6f52d1bdafc4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Deporte</li
- >\n<li>Open: Aragón TV</li>\n<li>PPV: FootballClub TV</li></ul></body></
- html>
-DESCRIPTION:- Open: Aragón Deporte\n- Open: Aragón TV\n- PPV: FootballClu
- b TV
+DTSTAMP:20261021T085632Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Copa del Rey - Numancia - Real Oviedo
+UID:b99ca1a6-7aa7-40a2-bcec-a2e4e61e11b4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA7</li></ul></bo
+ dy></html>
+DESCRIPTION:- Open: TPA7
 END:VEVENT
 END:VCALENDAR

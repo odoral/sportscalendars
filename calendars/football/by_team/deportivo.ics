@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261017T014933Z
+DTSTAMP:20261021T085632Z
 DTSTART:20261024T190000Z
 DTEND:20261024T210000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Deportivo
-UID:03866fb6-4ba4-4bdd-be66-20f4d4c65225
+UID:4dadf044-efa0-4898-9105-8351162fdf51
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085632Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:Copa del Rey - Auriense Cented Academy - Deportivo
+UID:fb21a89b-5f4f-4758-9c49-aacbb7fee873
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 END:VCALENDAR

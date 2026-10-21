@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261019T020420Z
+DTSTAMP:20261021T085632Z
 DTSTART:20261023T191500Z
 DTEND:20261023T211500Z
 SUMMARY:Primera Federación - C.E. Europa - Real Zaragoza
-UID:5ba8ec34-a093-480d-a642-2a87aac82a1c
+UID:63ae9500-5c57-4391-aacd-a14c503a809e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>
  \n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: Foot
  ballClub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085632Z
+DTSTART:20261027T200000Z
+DTEND:20261027T220000Z
+SUMMARY:Copa del Rey - Tudelano - Real Zaragoza
+UID:e297903b-dfd4-4d24-97be-2634cb96ee3a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
+ <li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261019T231136Z
+DTSTAMP:20261021T085632Z
 DTSTART:20261025T130000Z
 DTEND:20261025T150000Z
 SUMMARY:Liga Hypermotion - Sabadell - Tenerife
-UID:801c3c4c-1f0a-432c-91e5-897f9495dbea
+UID:d2209da8-0c73-497a-90fe-0b45d4c99a80
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermoti
- on</li></ul></body></html>
+ on</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: TV Canaria\n- PPV: DAZN\n- PPV: LaL
- iga TV Hypermotion
+ iga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085632Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Copa del Rey - Badajoz - Tenerife
+UID:effc9b2b-873f-4b51-9871-73e6d8b3f8c4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
+ l></body></html>
+DESCRIPTION:- Open: TV Canaria
 END:VEVENT
 END:VCALENDAR

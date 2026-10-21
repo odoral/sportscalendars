@@ -16,14 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261017T014933Z
+DTSTAMP:20261021T085632Z
 DTSTART:20261024T143000Z
 DTEND:20261024T163000Z
 SUMMARY:Primera Federación - Huesca - Antequera
-UID:296c921c-9111-452b-819a-13fa892f953a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón TV</li>\n<l
- i>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
- 
-DESCRIPTION:- Open: Aragón TV\n- PPV: FanPlay TV\n- PPV: FootballClub TV
+UID:3d696020-624e-439e-8cf8-fe498bca8f42
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
+ <li>Open: Aragón TV</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClu
+ b TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: FanPlay TV\n- 
+ PPV: FootballClub TV\n- PPV: LaLiga TV Multi 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085632Z
+DTSTART:20261028T180000Z
+DTEND:20261028T200000Z
+SUMMARY:Copa del Rey - Peña Sport - Huesca
+UID:88b68a7e-1f09-49ac-a502-a79d540781b9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
+ <li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV
 END:VEVENT
 END:VCALENDAR

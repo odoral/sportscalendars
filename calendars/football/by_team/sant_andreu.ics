@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261019T020420Z
+DTSTAMP:20261021T085632Z
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
 SUMMARY:Primera Federación - Rayo Majadahonda - Sant Andreu
-UID:be9681b5-ebe1-4dcd-92c4-d9d7d917db44
+UID:ce428ab6-4a4e-40a3-9db5-12425473df94
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085632Z
+DTSTART:20261027T183000Z
+DTEND:20261027T203000Z
+SUMMARY:Copa del Rey - C.E. Manresa - Sant Andreu
+UID:f9e14168-d824-47f7-aadf-0be60e223b87
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
 END:VEVENT
 END:VCALENDAR

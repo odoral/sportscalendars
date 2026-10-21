@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261018T014715Z
+DTSTAMP:20261021T085639Z
+DTSTART:20261021T160000Z
+DTEND:20261021T180000Z
+SUMMARY:Eurocup Women - Ensino Lugo - Gorzów Basketball
+UID:4b0b5b11-36aa-4567-adc0-7946c884e22e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085639Z
 DTSTART:20261025T110000Z
 DTEND:20261025T130000Z
 SUMMARY:Liga Femenina Endesa - Ensino Lugo - Valencia Basket
-UID:3672b627-4ebf-46c1-8193-b6a3f5ec36a2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
- ></body></html>
-DESCRIPTION:- Open: Siroko TV
+UID:26adfe25-dcdf-46e7-a2dd-e2d9f70b9cb8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto 2</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
 END:VEVENT
 END:VCALENDAR

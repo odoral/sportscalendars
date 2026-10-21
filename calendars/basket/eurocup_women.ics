@@ -16,13 +16,54 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261017T080605Z
+DTSTAMP:20261021T085638Z
+DTSTART:20261021T160000Z
+DTEND:20261021T180000Z
+SUMMARY:Eurocup Women - Ensino Lugo - Gorzów Basketball
+UID:9f7f6069-b0d0-46f2-9570-540e97b1469b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085638Z
+DTSTART:20261021T170000Z
+DTEND:20261021T190000Z
+SUMMARY:Eurocup Women - C’Chartres Métropole Basket - Perfumerías Avenida
+ 
+UID:0bed2d56-aa1c-4c98-86c6-6d50d8ba8edb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085638Z
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:Eurocup Women - C.B. Jairis - Panathlitikos Sykeon
+UID:00273938-b7f4-46fa-91b9-92abd66b923c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085638Z
+DTSTART:20261021T181500Z
+DTEND:20261021T201500Z
+SUMMARY:Eurocup Women - BAXI Ferrol - Mersin Yenisehir Bld
+UID:62a71734-149d-476b-9f48-8816ee789efd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085638Z
 DTSTART:20261022T163000Z
 DTEND:20261022T183000Z
 SUMMARY:Eurocup Women - BC Montana 2003 - Spar Girona
-UID:8b483f6f-709f-4913-a060-d00df16283e3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
- </body></html>
-DESCRIPTION:- Open: Esport 3
+UID:3e3f4ffe-b7f6-4194-b80d-7a9b6dbf5b88
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: FIBA YouTube</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR

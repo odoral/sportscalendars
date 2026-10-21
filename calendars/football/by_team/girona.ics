@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261019T020420Z
+DTSTAMP:20261021T085632Z
 DTSTART:20261024T163000Z
 DTEND:20261024T183000Z
 SUMMARY:Liga Hypermotion - Girona - Celta B
-UID:d72b1401-7e30-46ac-963d-1196b7c13b7b
+UID:8aa439e6-18ec-499c-83af-b55510055abf
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085632Z
+DTSTART:20261027T173000Z
+DTEND:20261027T193000Z
+SUMMARY:Copa del Rey - C.D. Cuarte - Girona
+UID:f7043d89-376e-4c56-ac14-af3332e9262a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li></
+ ul></body></html>
+DESCRIPTION:- Open: Aragón Play
 END:VEVENT
 END:VCALENDAR

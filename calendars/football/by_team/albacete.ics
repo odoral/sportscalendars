@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261018T014710Z
+DTSTAMP:20261021T085632Z
 DTSTART:20261025T151500Z
 DTEND:20261025T171500Z
 SUMMARY:Liga Hypermotion - Albacete - C.D. Eldense
-UID:8aae68b4-0718-4bd8-a24b-a96fa4745d28
+UID:d699e191-b32e-4964-a190-1f973247e45c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085632Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Copa del Rey - Calvo Sotelo Puertollano - Albacete
+UID:ccde3fa1-b7d9-498e-a8a4-61a47ab71c5a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMM (Castilla-LM)<
+ /li></ul></body></html>
+DESCRIPTION:- Open: CMM (Castilla-LM)
 END:VEVENT
 END:VCALENDAR

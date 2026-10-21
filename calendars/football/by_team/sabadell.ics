@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261019T020420Z
+DTSTAMP:20261021T085632Z
 DTSTART:20261025T130000Z
 DTEND:20261025T150000Z
 SUMMARY:Liga Hypermotion - Sabadell - Tenerife
-UID:19bb0492-a2f4-4a32-a138-e083ec8c91cf
+UID:a9372242-3a36-4977-b324-cf2925dcabda
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermoti
- on</li></ul></body></html>
+ on</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: TV Canaria\n- PPV: DAZN\n- PPV: LaL
- iga TV Hypermotion
+ iga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085632Z
+DTSTART:20261028T180000Z
+DTEND:20261028T200000Z
+SUMMARY:Copa del Rey - Utebo C.F. - Sabadell
+UID:c876f800-f83b-4c47-b234-13c5d3f7f346
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li></
+ ul></body></html>
+DESCRIPTION:- Open: Aragón Play
 END:VEVENT
 END:VCALENDAR

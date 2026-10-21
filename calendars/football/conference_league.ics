@@ -16,13 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261017T080559Z
+DTSTAMP:20261021T085632Z
 DTSTART:20261022T164500Z
 DTEND:20261022T184500Z
 SUMMARY:Conference League - Getafe - FC Lugano
-UID:93bed6bb-5b1e-4163-a695-68be912a73e0
+UID:26664e49-8d74-4dc6-aeed-a03ff6154baa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085632Z
+DTSTART:20261022T164500Z
+DTEND:20261022T184500Z
+SUMMARY:Conference League - Inter Club d'Escaldes - FCU Craiova 1948
+UID:21032c60-c876-42ab-99c4-e3f65a138549
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 12</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 12\n- PPV: M+ Liga de Campeones 3
+ 
 END:VEVENT
 END:VCALENDAR

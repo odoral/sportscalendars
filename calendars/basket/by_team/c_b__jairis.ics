@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261019T020426Z
+DTSTAMP:20261021T085639Z
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:Eurocup Women - C.B. Jairis - Panathlitikos Sykeon
+UID:d89cf857-fb08-412e-9a35-a6cd643dd091
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261021T085639Z
 DTSTART:20261024T170000Z
 DTEND:20261024T190000Z
 SUMMARY:Liga Femenina Endesa - Azulmarino Basket Mallorca - C.B. Jairis
-UID:446e739e-f354-4f15-8e73-3e8f0b4eef4c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li><
- /ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto
+UID:71dc44a4-db2e-46c4-ab52-d8548ca44e2e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos 2
 END:VEVENT
 END:VCALENDAR
