@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261022T020852Z
+DTSTAMP:20261022T085900Z
 DTSTART:20261025T120000Z
 DTEND:20261025T140000Z
 SUMMARY:Liga Endesa - La Laguna Tenerife - Monbus Obradoiro
-UID:e44a0cc3-211b-4432-981e-1e4a4b73b8ff
+UID:f762c72f-036b-43a1-9a59-b42a3d195ff0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
-  DAZN</li></ul></body></html>
-DESCRIPTION:- Open: TVG\n- PPV: DAZN
+  DAZN</li>\n<li>PPV: DAZN Baloncesto 3</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: DAZN\n- PPV: DAZN Baloncesto 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T020852Z
+DTSTAMP:20261022T085900Z
+DTSTART:20261028T200000Z
+DTEND:20261028T220000Z
+SUMMARY:Eurocup - La Laguna Tenerife - Umana Reyer Venice
+UID:9dc42d8c-c316-4d76-8f3c-e17eb3b82bef
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos 2</li></ul
+ ></body></html>
+DESCRIPTION:- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T085900Z
 DTSTART:20261031T200000Z
 DTEND:20261031T220000Z
 SUMMARY:Liga Endesa - Basquet Coruña - La Laguna Tenerife
-UID:c658cf08-77dd-4ba0-ac25-565a93a2b8db
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:a6864897-383b-432d-96be-fa5823c4632a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

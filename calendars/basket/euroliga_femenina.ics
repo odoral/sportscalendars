@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261022T020852Z
+DTSTAMP:20261022T085900Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Euroliga Femenina - Valencia Basket - CS Rapid Bucuresti (Fem.)
-UID:51890cbf-ea4d-44fb-b941-ae8c7fb6ba8f
+UID:7f559926-f8bf-4894-8ba5-307d71d9fde7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li><
  /ul></body></html>
 DESCRIPTION:- Open: À Punt Mèdia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T085900Z
+DTSTART:20261028T190000Z
+DTEND:20261028T210000Z
+SUMMARY:Euroliga Femenina - Casademont Zaragoza - Kibirkstis Vilnius
+UID:2f29878b-7aa5-4503-ae6e-26c107984e01
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
+ <li>Open: Aragón TV</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

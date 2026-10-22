@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261019T020420Z
+DTSTAMP:20261022T085856Z
 DTSTART:20261025T153000Z
 DTEND:20261025T173000Z
 SUMMARY:Primera Federación - Algeciras - R.M. Castilla
-UID:572a15c6-bfb1-49aa-9a38-ad048c8a494f
+UID:4f149481-1ec2-478d-8c80-5359072393ec
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T085856Z
+DTSTART:20261031T174500Z
+DTEND:20261031T194500Z
+SUMMARY:Primera Federación - R.M. Castilla - Cartagena
+UID:b0178392-f946-4862-b8a6-904a500cf50b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</
+ li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: F
+ ootballClub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261018T014710Z
+DTSTAMP:20261022T085856Z
 DTSTART:20261023T170000Z
 DTEND:20261023T190000Z
 SUMMARY:Primera Federación - Real Unión - Lugo
-UID:1918c104-71cf-4901-9de9-485f03fa5c40
+UID:4dec60fa-44fe-4378-8544-e0426f6fb990
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T085856Z
+DTSTART:20261031T174500Z
+DTEND:20261031T194500Z
+SUMMARY:Primera Federación - Real Unión - Real Avilés
+UID:e41f2f47-b644-457f-8545-1ce729e5f42f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261018T014710Z
+DTSTAMP:20261022T085856Z
 DTSTART:20261024T100000Z
 DTEND:20261024T120000Z
 SUMMARY:Liga F - Real Sociedad F. - RCD Espanyol Fem.
-UID:98059f5f-906d-40dd-b251-b25d5d261043
+UID:092da104-569b-4e3f-8f9e-939e8da77456
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T085856Z
+DTSTART:20261031T150000Z
+DTEND:20261031T170000Z
+SUMMARY:Liga F - RCD Espanyol Fem. - Logroño United
+UID:d84ac4b9-ede1-4ed9-9a64-4a0b9004a076
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li></u
+ l></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play\n- P
+ PV: DAZN
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261020T224549Z
+DTSTAMP:20261022T085856Z
 DTSTART:20261024T190000Z
 DTEND:20261024T210000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Deportivo
-UID:ee9c0dc0-dd7d-4163-807d-d50c464bfd1a
+UID:7486ce13-c5cb-4d97-95cb-9a0018edd95a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T085856Z
+DTSTART:20261031T130000Z
+DTEND:20261031T150000Z
+SUMMARY:Liga EA Sports - Levante - Atlético de Madrid
+UID:be0a96b6-8eb8-4374-88f4-9b75dc5b985d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR

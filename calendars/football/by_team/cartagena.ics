@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261017T014933Z
+DTSTAMP:20261022T085856Z
 DTSTART:20261025T131500Z
 DTEND:20261025T151500Z
 SUMMARY:Primera Federación - Villarreal B - Cartagena
-UID:10d66f6a-415a-4af0-bd97-6c2512b78732
+UID:ccb12add-25d0-47d8-ba3d-0e0b8cc3efa8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T085856Z
+DTSTART:20261031T174500Z
+DTEND:20261031T194500Z
+SUMMARY:Primera Federación - R.M. Castilla - Cartagena
+UID:dad30a2c-bbd4-4c31-aaca-e597416e27a9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
+ <li>PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</
+ li>\n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: La 7 Murcia\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: F
+ ootballClub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
