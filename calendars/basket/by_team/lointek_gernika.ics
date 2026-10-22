@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261021T085639Z
+DTSTAMP:20261022T020852Z
 DTSTART:20261024T163000Z
 DTEND:20261024T183000Z
 SUMMARY:Liga Femenina Endesa - BAXI Ferrol - Lointek Gernika
-UID:4b08ee49-51a6-432d-9ed2-3b23c48212ea
+UID:4ffffd42-28c8-49ea-98cb-b4479af0b949
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Balonces
  to</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- Open: Teledeporte\n- Open: rtve Play\n- 
  PPV: M+ Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T020852Z
+DTSTART:20261031T173000Z
+DTEND:20261031T193000Z
+SUMMARY:Liga Femenina Endesa - Lointek Gernika - Movistar Estudiantes
+UID:681a7032-ff4f-4544-9fda-f0317c777a9c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto
 END:VEVENT
 END:VCALENDAR

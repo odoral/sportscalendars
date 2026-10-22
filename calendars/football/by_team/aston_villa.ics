@@ -16,25 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261018T014710Z
-DTSTART:20261021T190000Z
-DTEND:20261021T210000Z
-SUMMARY:Champions League - Aston Villa - Viking FK
-UID:876b63e0-69b4-4b54-9079-43dfaf236aac
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 4</li>\n<li>PPV: M+ Liga de Campeones 5</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261018T014710Z
+DTSTAMP:20261022T020844Z
 DTSTART:20261024T113000Z
 DTEND:20261024T133000Z
 SUMMARY:Premier League - Aston Villa - Manchester City
-UID:43ebe255-c0c4-498a-8345-b6fe806e9a41
+UID:31dc2f8d-3b67-44d9-8aa1-d663a12a7425
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Liga de Campeones</li>\n<li>PPV: Movistar Plus+</li></ul></body></ht
  ml>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Liga de Campeones\n- PPV: Movistar Plu
  s+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T020844Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Premier League - Aston Villa - Fulham
+UID:2bd3114f-24e5-4bd6-bdb2-cc7329f98046
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

@@ -16,23 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261018T014710Z
-DTSTART:20261021T190000Z
-DTEND:20261021T210000Z
-SUMMARY:Champions League - Real Madrid - RB Leipzig
-UID:27f2cc91-d216-4208-8396-e9b71d841654
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s</li>\n<li>PPV: M+ Liga de Campeones 4</li>\n<li>PPV: Movistar Plus+</l
- i>\n<li>PPV: Orange Fútbol 1</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 4\n-
-  PPV: Movistar Plus+\n- PPV: Orange Fútbol 1
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261018T014710Z
+DTSTAMP:20261022T020844Z
 DTSTART:20261024T133000Z
 DTEND:20261024T153000Z
 SUMMARY:Bundesliga - RB Leipzig - SV Elversberg
-UID:5fef71b3-d746-4bc7-9053-afbf70c96874
+UID:b3d60cda-85fb-4dea-81b9-18419daadeb7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T020844Z
+DTSTART:20261031T143000Z
+DTEND:20261031T163000Z
+SUMMARY:Bundesliga - Schalke 04 - RB Leipzig
+UID:a4609369-1779-4d99-b538-795e12af0e84
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN

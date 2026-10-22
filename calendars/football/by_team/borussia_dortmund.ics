@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261021T085632Z
+DTSTAMP:20261022T020845Z
 DTSTART:20261024T163000Z
 DTEND:20261024T183000Z
 SUMMARY:Bundesliga - Borussia Dortmund - Eintracht Frankfurt
-UID:c35c959d-f3de-4960-918e-464e1e01be51
+UID:2b6ea250-2d8c-42fb-b5ae-51bb96dce284
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Vamos 3</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 3
  </li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 3\n- PPV: Movistar Plus+\n- PPV:
   Orange Fútbol 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261022T020845Z
+DTSTART:20261031T173000Z
+DTEND:20261031T193000Z
+SUMMARY:Bundesliga - FC Bayern - Borussia Dortmund
+UID:c7e6130b-0e96-4f27-b8d6-1e3dc2e1d15c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
