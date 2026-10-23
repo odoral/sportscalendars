@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261022T085856Z
+DTSTAMP:20261023T021406Z
 DTSTART:20261024T161500Z
 DTEND:20261024T181500Z
 SUMMARY:Liga F - Logroño United - FC Badalona Women
-UID:077a2ea6-2388-4752-bb59-af1baf393277
+UID:43568dec-2496-4903-b960-b12d0f582653
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 2</li></ul></bo
  dy></html>
 DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
   2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T021406Z
+DTSTART:20261101T113000Z
+DTEND:20261101T133000Z
+SUMMARY:Liga F - FC Badalona Women - Barcelona Femenino
+UID:7424dc88-3fa5-447a-a823-7750bd2070c1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: D
+ AZN
 END:VEVENT
 END:VCALENDAR

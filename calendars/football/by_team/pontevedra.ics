@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261019T020420Z
+DTSTAMP:20261023T021406Z
 DTSTART:20261024T190000Z
 DTEND:20261024T210000Z
 SUMMARY:Primera Federación - Cultural Leonesa - Pontevedra
-UID:f0dad980-18b3-4ab5-b9d9-1ea0a1e9fc22
+UID:4a08cdc2-3d48-4aae-8522-f81ca2ebdb88
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T021406Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Primera Federación - Barakaldo - Pontevedra
+UID:7f074acb-4232-484d-a33b-9a56e13786f3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

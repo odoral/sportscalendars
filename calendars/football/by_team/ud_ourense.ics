@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261019T020420Z
+DTSTAMP:20261023T021406Z
 DTSTART:20261024T140000Z
 DTEND:20261024T160000Z
 SUMMARY:Primera Federación - Arenas Club - UD Ourense
-UID:8c2d07e0-7b1c-4181-a257-21b040341930
+UID:5487e4a0-f8f3-4ab6-91f4-f12d3b5dd88e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T021406Z
+DTSTART:20261101T153000Z
+DTEND:20261101T173000Z
+SUMMARY:Primera Federación - UD Ourense - Cultural Leonesa
+UID:3eb3e001-acb6-42bd-8993-b3287ed4d68b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261021T085632Z
+DTSTAMP:20261023T021406Z
 DTSTART:20261024T164500Z
 DTEND:20261024T184500Z
 SUMMARY:Primera Federación - Ponferradina - Barakaldo
-UID:1b7c7958-8d11-4cce-a3f9-38678a9991bc
+UID:9f30c311-ff42-4e75-8319-b392ea803e39
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261023T021406Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Primera Federación - Barakaldo - Pontevedra
+UID:6bfc99d1-9004-4d10-8aba-0bb99cfd427e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR
