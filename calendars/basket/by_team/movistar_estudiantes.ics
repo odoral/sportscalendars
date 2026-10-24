@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261023T224220Z
+DTSTAMP:20261024T021241Z
+DTSTART:20261024T173000Z
+DTEND:20261024T193000Z
+SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - CAB Estepona
+UID:99891b0b-8dad-4475-913a-95de9a324f39
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto 3</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T021241Z
 DTSTART:20261025T170000Z
 DTEND:20261025T190000Z
 SUMMARY:Primera FEB - Fibwi Palma - Movistar Estudiantes
-UID:a70b7ed0-4593-4b67-b308-edca1b0ce597
+UID:1816a2a1-d71d-434a-b3b7-a52e2cbcf6a7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: BalONcesto TV</li><
  /ul></body></html>
 DESCRIPTION:- PPV: BalONcesto TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261023T224220Z
+DTSTAMP:20261024T021241Z
 DTSTART:20261031T173000Z
 DTEND:20261031T193000Z
 SUMMARY:Liga Femenina Endesa - Lointek Gernika - Movistar Estudiantes
-UID:6bb28812-e13c-48e6-bed4-5d20da685f8a
+UID:c30124f8-e9e0-4370-83ff-9b203c9a4fe2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
  n<li>PPV: M+ Vamos 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos 2

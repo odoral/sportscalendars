@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261023T224220Z
+DTSTAMP:20261024T021241Z
+DTSTART:20261024T173000Z
+DTEND:20261024T193000Z
+SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - CAB Estepona
+UID:c7792050-c7d9-4b7a-8c6c-3706eed39785
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto 3</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T021241Z
 DTSTART:20261031T180000Z
 DTEND:20261031T200000Z
 SUMMARY:Liga Femenina Endesa - CAB Estepona - Spar Girona
-UID:76a77aa1-cae4-452f-ad6c-2a23acc8c186
+UID:d4be9ef3-f9fa-4dc1-911f-06e6224b9624
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV

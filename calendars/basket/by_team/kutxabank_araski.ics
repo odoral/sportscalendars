@@ -16,12 +16,22 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261023T224220Z
+DTSTAMP:20261024T021241Z
+DTSTART:20261024T150000Z
+DTEND:20261024T170000Z
+SUMMARY:Liga Femenina Endesa - Baloncesto Leganés - Kutxabank Araski
+UID:af2e3aa8-1730-4f4d-abcf-20818176932e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto 4</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T021241Z
 DTSTART:20261031T180000Z
 DTEND:20261031T200000Z
 SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Azulmarino Basket Mallo
  rca
-UID:42164ed7-87a3-4d32-b658-0445d2a6061f
+UID:5ad81c2e-215b-436c-bbfe-24fb878548b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV

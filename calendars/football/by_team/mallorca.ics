@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261021T085632Z
+DTSTAMP:20261024T021235Z
 DTSTART:20261024T141500Z
 DTEND:20261024T161500Z
 SUMMARY:Liga Hypermotion - Leganés - Mallorca
-UID:5185f607-9311-40cd-8a98-d40ed11d3103
+UID:b9b81413-0564-4307-addf-af578e384f11
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li>\n<li>PPV: O
  range Fútbol 2</li></ul></body></html>
@@ -28,13 +28,25 @@ DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2\n- PPV: Orange Fútbol 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261021T085632Z
+DTSTAMP:20261024T021235Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Copa del Rey - Alcoyano - Mallorca
-UID:6ae45902-f88b-40e1-a0d3-1c18e911d7e9
+UID:7c75b8ea-6a2f-4f1c-b3e5-9808cb3efc9d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li>\n<li>Open
  : À Punt (València)</li></ul></body></html>
 DESCRIPTION:- Open: IB3\n- Open: À Punt (València)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T021235Z
+DTSTART:20261102T200000Z
+DTEND:20261102T220000Z
+SUMMARY:Liga Hypermotion - Mallorca - Cádiz
+UID:82f9f039-3ac9-4c04-83bf-7e5c0cdcfe9c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

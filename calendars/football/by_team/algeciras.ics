@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261018T014710Z
+DTSTAMP:20261024T021235Z
 DTSTART:20261025T153000Z
 DTEND:20261025T173000Z
 SUMMARY:Primera Federación - Algeciras - R.M. Castilla
-UID:ad2ac0bf-81ab-4b97-b4c9-920f3f4bc6d6
+UID:5a0be523-26af-4318-89a8-dd1527084973
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T021235Z
+DTSTART:20261102T171500Z
+DTEND:20261102T191500Z
+SUMMARY:Primera Federación - Jaén - Algeciras
+UID:0e47c3f9-0ccc-4528-84aa-b4db081e18be
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
