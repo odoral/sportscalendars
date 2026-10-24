@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261024T150000Z
 DTEND:20261024T170000Z
 SUMMARY:Liga Femenina Endesa - Baloncesto Leganés - Kutxabank Araski
-UID:9bdab7ae-3a2f-4f9f-b247-8f9cf832dd73
+UID:02e51a2f-02a2-407c-a585-cae0ea57d13a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 4</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
+DTSTART:20261024T150000Z
+DTEND:20261024T170000Z
+SUMMARY:Liga Femenina Endesa - Azulmarino Basket Mallorca - C.B. Jairis
+UID:665677cf-b50d-4d15-9c20-b26ad9d56a8c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T082744Z
 DTSTART:20261024T163000Z
 DTEND:20261024T183000Z
 SUMMARY:Liga Femenina Endesa - BAXI Ferrol - Lointek Gernika
-UID:5a60926f-13dd-435f-9d66-7fc9db849976
+UID:7c04b5d3-9ddd-42b7-8281-ad9efdbd83d4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Balonces
  to</li></ul></body></html>
@@ -38,51 +48,41 @@ DESCRIPTION:- Open: Siroko TV\n- Open: Teledeporte\n- Open: rtve Play\n-
  PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261024T170000Z
 DTEND:20261024T190000Z
 SUMMARY:Liga Femenina Endesa - Celta Zorka - Cadi La Seu
-UID:ba2f094d-e555-4ec4-86d1-38b4844b3f0c
+UID:75e42326-4034-46b2-ba34-2c7fbcb4a325
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
-DTSTART:20261024T170000Z
-DTEND:20261024T190000Z
-SUMMARY:Liga Femenina Endesa - Azulmarino Basket Mallorca - C.B. Jairis
-UID:91c58499-f103-48f8-888f-4c3a5f0a719b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
- n<li>PPV: M+ Vamos 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261024T173000Z
 DTEND:20261024T193000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - CAB Estepona
-UID:f8f547d6-cf9f-4541-a4d5-06dd3f371dc5
+UID:8910eaac-f447-4038-a333-da86f3ee0293
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 3</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261025T110000Z
 DTEND:20261025T130000Z
 SUMMARY:Liga Femenina Endesa - Ensino Lugo - Valencia Basket
-UID:e764c103-b452-4b7d-89b4-f3748f69a78e
+UID:40bdc0b4-1f4d-4c42-96dd-8257360e3104
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261025T110000Z
 DTEND:20261025T130000Z
 SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - Casademont Zaragoza
-UID:6309b400-8e20-4956-8a9f-78be2bf642a1
+UID:add39845-9de0-4212-bb7b-e5a2d7d6134d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>Open: Siroko TV</li>\n<li>PPV: M+ Balonces
  to</li></ul></body></html>
@@ -90,62 +90,92 @@ DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- Open: Siroko TV\n-
  PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
-DTSTART:20261025T170000Z
-DTEND:20261025T190000Z
+DTSTAMP:20261024T082744Z
+DTSTART:20261025T173000Z
+DTEND:20261025T193000Z
 SUMMARY:Liga Femenina Endesa - Spar Girona - IDK Euskotren
-UID:9a5fdc78-0e31-4886-873a-0487ce806cd8
+UID:074ac051-b8f2-46b8-baf7-8afd135c0f69
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
-DTSTART:20261031T170000Z
-DTEND:20261031T190000Z
-SUMMARY:Liga Femenina Endesa - Cadi La Seu - Ensino Lugo
-UID:d7b93e08-9537-4ae5-b12b-3f58f43095f8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
- ></body></html>
-DESCRIPTION:- Open: Siroko TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
-DTSTART:20261031T170000Z
-DTEND:20261031T190000Z
-SUMMARY:Liga Femenina Endesa - IDK Euskotren - BAXI Ferrol
-UID:19df5421-a6bf-4bd3-8cd6-1dd332132a96
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
- ></body></html>
-DESCRIPTION:- Open: Siroko TV
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
-DTSTART:20261031T173000Z
-DTEND:20261031T193000Z
+DTSTAMP:20261024T082744Z
+DTSTART:20261031T160000Z
+DTEND:20261031T180000Z
 SUMMARY:Liga Femenina Endesa - Lointek Gernika - Movistar Estudiantes
-UID:bdd8f679-f0f1-4a9b-8cac-fc05367dc4ae
+UID:af3cd7cc-a230-49fc-87cd-d226573b1da9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
  n<li>PPV: M+ Vamos 2</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
-DTSTART:20261031T180000Z
-DTEND:20261031T200000Z
-SUMMARY:Liga Femenina Endesa - CAB Estepona - Spar Girona
-UID:c442a4ea-e3ea-4527-b38a-addd3568f7f7
+DTSTAMP:20261024T082744Z
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+SUMMARY:Liga Femenina Endesa - Cadi La Seu - Ensino Lugo
+UID:5651f2c5-9f99-4ed9-8f22-4ab0e2205e1c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+SUMMARY:Liga Femenina Endesa - IDK Euskotren - BAXI Ferrol
+UID:a85cdb9b-0063-4c4a-b5c2-b2f92f3f1af0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T082744Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:Liga Femenina Endesa - CAB Estepona - Spar Girona
+UID:ce0e4b69-4131-4d9f-a6bb-e654cb38dbb1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T082744Z
 DTSTART:20261031T180000Z
 DTEND:20261031T200000Z
 SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Azulmarino Basket Mallo
  rca
-UID:aa6a40a5-3909-4168-8e7f-0b6f9fa55e5c
+UID:739b0ede-1671-4f3d-b4fc-eb0cffffcd36
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T082744Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Liga Femenina Endesa - C.B. Jairis - Perfumerías Avenida
+UID:c90aa964-bb32-4fd1-a7c9-f0bc06ba87e5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T082744Z
+DTSTART:20261101T111500Z
+DTEND:20261101T131500Z
+SUMMARY:Liga Femenina Endesa - Valencia Basket - Celta Zorka
+UID:119d3935-9ecb-4176-8360-79faaddd6947
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T082744Z
+DTSTART:20261101T111500Z
+DTEND:20261101T131500Z
+SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Baloncesto Leganés
+UID:78268248-c309-46d0-bb0a-3e9bb6b0ba57
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV

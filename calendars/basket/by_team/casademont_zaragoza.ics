@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261024T190000Z
 DTEND:20261024T210000Z
 SUMMARY:Liga Endesa - Barça Basket - Casademont Zaragoza
-UID:086cebbe-ac6b-40c3-9562-748f0f1c088f
+UID:d266573b-429a-4917-aa9d-14d8f66dc0d7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Baloncesto 3
  </li></ul></body></html>
@@ -28,11 +28,11 @@ DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: DAZN\n- PPV: D
  AZN Baloncesto 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261025T110000Z
 DTEND:20261025T130000Z
 SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - Casademont Zaragoza
-UID:9619d141-d018-40c9-8b14-77c7dbe03db2
+UID:726530dd-00aa-4721-889a-c8c3a2d42111
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>Open: Siroko TV</li>\n<li>PPV: M+ Balonces
  to</li></ul></body></html>
@@ -40,23 +40,33 @@ DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- Open: Siroko TV\n-
  PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Euroliga Femenina - Casademont Zaragoza - Kibirkstis Vilnius
-UID:72fee4f0-c962-4f6c-a719-8276d5ca485c
+UID:036d0a91-0cb2-4608-9dc5-664b43e1a776
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T021241Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261031T170000Z
 DTEND:20261031T190000Z
 SUMMARY:Liga Endesa - Casademont Zaragoza - Bàsquet Girona
-UID:881793d3-755a-40ce-98e4-4a1673118d6e
+UID:fa308b45-5ae7-4a64-9a48-33709efee8b0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T082744Z
+DTSTART:20261101T111500Z
+DTEND:20261101T131500Z
+SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Baloncesto Leganés
+UID:f206b0b6-e9cf-4929-81c2-61dcd430d9df
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR

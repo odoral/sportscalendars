@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261021T085639Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261024T150000Z
 DTEND:20261024T170000Z
 SUMMARY:Liga Femenina Endesa - Baloncesto Leganés - Kutxabank Araski
-UID:6f48f6de-cc1f-4b58-901f-282c43e262f8
+UID:0bbd642b-c1fa-4e72-a383-bf09bb7e95b6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 4</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T082744Z
+DTSTART:20261101T111500Z
+DTEND:20261101T131500Z
+SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Baloncesto Leganés
+UID:6e402326-4c92-4b10-9805-c0ee1c988c39
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR

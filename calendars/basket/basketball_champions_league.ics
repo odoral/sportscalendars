@@ -16,22 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261022T020852Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261027T193000Z
 DTEND:20261027T213000Z
 SUMMARY:Basketball Champions League - UCAM Murcia C.B. - Peristeri BC
-UID:861c0f8f-594f-4b1c-8c5f-a12841046cb2
+UID:7b243d3e-536d-4b96-897e-71b7f9c186a7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Popular TV Murcia<
- /li></ul></body></html>
-DESCRIPTION:- Open: Popular TV Murcia
+ /li>\n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></
+ html>
+DESCRIPTION:- Open: Popular TV Murcia\n- Open: Teledeporte\n- Open: rtve 
+ Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T020852Z
+DTSTAMP:20261024T082744Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Basketball Champions League - ALBA Berlin - Bilbao Basket
-UID:61d4655e-9007-4b15-95c9-7bf71d8011bb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:243900a6-2fff-4ca8-a8a3-ab6be7893d51
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
