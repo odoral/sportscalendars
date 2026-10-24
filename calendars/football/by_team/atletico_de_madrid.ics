@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261022T085856Z
+DTSTAMP:20261024T220322Z
 DTSTART:20261024T190000Z
 DTEND:20261024T210000Z
 SUMMARY:Liga EA Sports - Atlético de Madrid - Deportivo
-UID:7486ce13-c5cb-4d97-95cb-9a0018edd95a
+UID:8697797b-8dcc-4251-9c84-b98ec13b879b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
  ml>
@@ -28,13 +28,25 @@ DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261022T085856Z
+DTSTAMP:20261024T220322Z
 DTSTART:20261031T130000Z
 DTEND:20261031T150000Z
 SUMMARY:Liga EA Sports - Levante - Atlético de Madrid
-UID:be0a96b6-8eb8-4374-88f4-9b75dc5b985d
+UID:ff727fbe-fe5f-4e6b-8fee-e396627eb424
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
  </body></html>
 DESCRIPTION:- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T220322Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Champions League - Atlético de Madrid - FC Bayern
+UID:84a33416-6349-4e12-81fe-edece19fc855
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR

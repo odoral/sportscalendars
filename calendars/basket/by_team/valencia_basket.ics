@@ -16,73 +16,63 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T082744Z
-DTSTART:20261025T110000Z
-DTEND:20261025T130000Z
-SUMMARY:Liga Femenina Endesa - Ensino Lugo - Valencia Basket
-UID:c010245e-2c20-4fa6-8285-5c1dfb5af4b6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
- i>PPV: M+ Baloncesto 2</li></ul></body></html>
-DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261024T082744Z
-DTSTART:20261025T160000Z
-DTEND:20261025T180000Z
-SUMMARY:Liga Endesa - Valencia Basket - Baskonia
-UID:40a3e795-f187-4e90-b5d3-7aa94b86f6e4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN Baloncesto</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261024T082744Z
+DTSTAMP:20261024T220327Z
 DTSTART:20261027T193000Z
 DTEND:20261027T213000Z
 SUMMARY:Euroliga - Valencia Basket - Fenerbahçe S.K.
-UID:c2b4ee90-8678-4c7e-b580-77bc4e06239b
+UID:b5a8c5f7-a63f-4fd4-b160-a818ece5a1ff
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
  /body></html>
 DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T082744Z
+DTSTAMP:20261024T220327Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Euroliga Femenina - Valencia Basket - CS Rapid Bucuresti (Fem.)
-UID:a1381709-874d-4d0f-857e-6accd00413da
+UID:7bfd05d2-587b-4079-a621-adfcc495e52f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li>\
  n<li>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: À Punt Mèdia\n- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T082744Z
+DTSTAMP:20261024T220327Z
 DTSTART:20261030T193000Z
 DTEND:20261030T213000Z
 SUMMARY:Euroliga - Barça Basket - Valencia Basket
-UID:29d52a00-3ee3-4817-8bbc-401bd474adef
+UID:6bf5ee1a-f7b2-48f9-b4dd-b4346d518fc4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T082744Z
+DTSTAMP:20261024T220327Z
 DTSTART:20261101T111500Z
 DTEND:20261101T131500Z
 SUMMARY:Liga Femenina Endesa - Valencia Basket - Celta Zorka
-UID:73394d0e-b66c-4eea-9c1a-1f3584f8dd9e
+UID:9d74de33-4b69-4b0c-b812-60b0673eba4b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T082744Z
+DTSTAMP:20261024T220327Z
 DTSTART:20261101T170000Z
 DTEND:20261101T190000Z
 SUMMARY:Liga Endesa - MoraBanc Andorra - Valencia Basket
-UID:4d53372c-70d6-4cea-91df-a7a62f44bb93
+UID:ee38b735-6762-4516-a3bd-3d1ac9bcc4c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T220327Z
+DTSTART:20261103T170000Z
+DTEND:20261103T190000Z
+SUMMARY:Euroliga Femenina - Valencia Basket - Fenerbahçe S.K.
+UID:32aec080-81ef-4c23-a4ae-f168eea91bcc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li><
+ /ul></body></html>
+DESCRIPTION:- Open: À Punt Mèdia
 END:VEVENT
 END:VCALENDAR

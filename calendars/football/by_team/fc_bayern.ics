@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261022T020844Z
-DTSTART:20261025T163000Z
-DTEND:20261025T183000Z
-SUMMARY:Bundesliga - Friburgo - FC Bayern
-UID:194986d4-0ada-44fe-af26-050fa338ec0f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Multi 4</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261022T020844Z
+DTSTAMP:20261024T220322Z
 DTSTART:20261031T173000Z
 DTEND:20261031T193000Z
 SUMMARY:Bundesliga - FC Bayern - Borussia Dortmund
-UID:49f5d5a7-ea1c-4f4a-804e-9420d49f94c4
+UID:c01d4ffa-909c-4484-b94b-79720e2315cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T220322Z
+DTSTART:20261103T200000Z
+DTEND:20261103T220000Z
+SUMMARY:Champions League - Atlético de Madrid - FC Bayern
+UID:5ea69db8-1919-4534-ae95-8789fa534c44
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR

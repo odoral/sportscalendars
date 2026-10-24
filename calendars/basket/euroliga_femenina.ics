@@ -16,23 +16,42 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261023T085347Z
+DTSTAMP:20261024T220327Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Euroliga Femenina - Valencia Basket - CS Rapid Bucuresti (Fem.)
-UID:bc5cca5d-b28f-4201-ade2-ab3379590f64
+UID:3645aba3-73fe-4298-bd36-43249dddd2d3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li>\
  n<li>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: À Punt Mèdia\n- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261023T085347Z
+DTSTAMP:20261024T220327Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Euroliga Femenina - Casademont Zaragoza - Kibirkstis Vilnius
-UID:3715b23c-5ac0-4303-aefe-5fc7e2cb6781
+UID:e8a0884f-5ace-4a08-b09b-21cf031e48f8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T220327Z
+DTSTART:20261103T170000Z
+DTEND:20261103T190000Z
+SUMMARY:Euroliga Femenina - Valencia Basket - Fenerbahçe S.K.
+UID:028c5f81-fbb1-41de-bca8-09c19057d64b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li><
+ /ul></body></html>
+DESCRIPTION:- Open: À Punt Mèdia
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261024T220327Z
+DTSTART:20261103T183000Z
+DTEND:20261103T203000Z
+SUMMARY:Euroliga Femenina - Basket Landes - Casademont Zaragoza
+UID:eb7225bc-bb94-46a0-b55a-66cb354a8f84
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR
