@@ -16,21 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015855Z
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
+SUMMARY:Liga Hypermotion - Sabadell - Tenerife
+UID:1039b5c5-b28b-4515-bb40-76eb13caaee5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: TV Canaria</li>\n<li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermoti
+ on</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: TV Canaria\n- PPV: DAZN\n- PPV: LaL
+ iga TV Hypermotion\n- PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T015855Z
 DTSTART:20261028T190000Z
 DTEND:20261028T210000Z
 SUMMARY:Copa del Rey - Badajoz - Tenerife
-UID:d12820f2-2152-453f-9257-fe3b806b7c5a
+UID:5177e04e-7fa5-4f30-b4de-7b8988f49f8f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
  l></body></html>
 DESCRIPTION:- Open: TV Canaria
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015855Z
 DTSTART:20261101T200000Z
 DTEND:20261101T220000Z
 SUMMARY:Liga Hypermotion - Tenerife - F.C. Andorra
-UID:1360967b-3530-4b0d-97bb-1f9c01c4b603
+UID:13212961-0390-45b3-a215-3041f2c8c46f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion

@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015854Z
+DTSTART:20261025T174500Z
+DTEND:20261025T194500Z
+SUMMARY:Primera Federación - Nàstic Tarragona - Hércules
+UID:7eee51f8-7676-4db0-9b74-934d96edf40b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T015854Z
 DTSTART:20261102T193000Z
 DTEND:20261102T213000Z
 SUMMARY:Primera Federación - Huesca - Nàstic Tarragona
-UID:e9615102-0cf8-467f-85a2-5bce74e18483
+UID:5ee8d99e-d563-49cc-8045-2d07b2bd8086
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

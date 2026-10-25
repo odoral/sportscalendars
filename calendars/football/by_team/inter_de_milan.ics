@@ -16,31 +16,44 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015854Z
+DTSTART:20261025T113000Z
+DTEND:20261025T133000Z
+SUMMARY:Serie A Italia - Inter de Milan - Fiorentina
+UID:c551d03d-26d6-4aba-acee-1d13a4786a6f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Multi 4</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+
+  Vamos 3</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 3</l
+ i></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 4\n- PPV: M+ Liga de Camp
+ eones\n- PPV: M+ Vamos 3\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T015854Z
 DTSTART:20261028T173000Z
 DTEND:20261028T193000Z
 SUMMARY:Serie A Italia - Venezia F.C. - Inter de Milan
-UID:54489d09-9b6e-4c72-96c6-d34e776afe1b
+UID:def710f9-e302-4c12-a7b6-8825c34de840
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   Movistar Plus+</li>\n<li>PPV: Orange Fútbol 3</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015854Z
 DTSTART:20261031T194500Z
 DTEND:20261031T214500Z
 SUMMARY:Serie A Italia - A.C. Milan - Inter de Milan
-UID:28d17d59-1408-4494-8360-8483fa540724
+UID:fd044384-94d1-4e30-8f6b-c9c2cca5d3e4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015854Z
 DTSTART:20261103T200000Z
 DTEND:20261103T220000Z
 SUMMARY:Champions League - Feyenoord - Inter de Milan
-UID:c98d59fd-898a-4cea-86da-ba71718d2e12
+UID:62f7c8a8-dad0-4906-b574-fa7d599e93bb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT

@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015855Z
+DTSTART:20261025T110000Z
+DTEND:20261025T130000Z
+SUMMARY:Primera Federación - Alcorcón - U.D. Ibiza
+UID:319db9cc-f80b-4102-a3b4-83bf408d1b5f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T015855Z
 DTSTART:20261030T200000Z
 DTEND:20261030T220000Z
 SUMMARY:Primera Federación - U.D. Ibiza - C.E. Europa
-UID:b852937d-1303-41fe-906e-2c0ab4f21dcd
+UID:726cdeab-0f87-41c3-b25b-9550994d4add
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FanPlay TV\n- PPV: FootballClub TV

@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015854Z
+DTSTART:20261025T174500Z
+DTEND:20261025T194500Z
+SUMMARY:Primera Federación - Mérida - C.D. Coria
+UID:65e172c8-3483-4d3d-ab5e-a948663c5921
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T015854Z
 DTSTART:20261101T153000Z
 DTEND:20261101T173000Z
 SUMMARY:Primera Federación - C.D. Coria - Arenas Club
-UID:a7236c3b-29a7-4083-8fa8-b2bde1412bbc
+UID:91a11472-9236-4f75-8082-f02839fc43c9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV

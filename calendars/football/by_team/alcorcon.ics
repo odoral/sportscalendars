@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015854Z
+DTSTART:20261025T110000Z
+DTEND:20261025T130000Z
+SUMMARY:Primera Federación - Alcorcón - U.D. Ibiza
+UID:91c7dcdb-db54-4910-8e77-23b43026d870
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T015854Z
 DTSTART:20261030T200000Z
 DTEND:20261030T220000Z
 SUMMARY:Primera Federación - At. Madrid B - Alcorcón
-UID:6562e1a9-f0d8-4a0f-a73a-1f9dc40d1542
+UID:a1bc9d97-8f31-4dc8-b3a2-c372b1677ecd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

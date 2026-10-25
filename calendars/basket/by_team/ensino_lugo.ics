@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T220327Z
+DTSTAMP:20261025T015901Z
+DTSTART:20261025T110000Z
+DTEND:20261025T130000Z
+SUMMARY:Liga Femenina Endesa - Ensino Lugo - Valencia Basket
+UID:0a813ebb-f1e7-4dc6-b0dd-544cefd08e5f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto 2</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T015901Z
 DTSTART:20261031T170000Z
 DTEND:20261031T190000Z
 SUMMARY:Liga Femenina Endesa - Cadi La Seu - Ensino Lugo
-UID:1d066f83-3324-4f63-8fb6-9238df805e58
+UID:71251ef6-2dc9-4a03-a907-381cb1a2d457
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV

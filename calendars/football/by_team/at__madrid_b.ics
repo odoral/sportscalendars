@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015855Z
+DTSTART:20261025T110000Z
+DTEND:20261025T130000Z
+SUMMARY:Primera Federación - At. Madrid B - Jaén
+UID:287f6ee6-5c95-4c4b-9afb-bad46d4a4143
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T015855Z
 DTSTART:20261030T200000Z
 DTEND:20261030T220000Z
 SUMMARY:Primera Federación - At. Madrid B - Alcorcón
-UID:3ac7208c-13d7-4604-a284-5134a5789dee
+UID:bc554774-cf4b-40af-8974-895bebe99db9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T220322Z
+DTSTAMP:20261025T015854Z
+DTSTART:20261025T131500Z
+DTEND:20261025T151500Z
+SUMMARY:Primera Federación - Villarreal B - Cartagena
+UID:87deae00-c6d5-4967-994f-e98695b1ed46
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261025T015854Z
 DTSTART:20261031T200000Z
 DTEND:20261031T220000Z
 SUMMARY:Primera Federación - Real Zaragoza - Villarreal B
-UID:c4af790f-ad99-430d-8f80-594ecdc5f3d1
+UID:f0ce0be6-33ab-4b61-92e3-c6e0c32cb66c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n
  <li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></bo
