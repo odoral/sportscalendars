@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260515T064833Z
-DTSTART:20260516T190000Z
-DTEND:20260516T210000Z
-SUMMARY:Copa de la Reina - Barcelona Femenino - At. Madrid Fem.
-UID:7e61e0b5-f52d-4d2a-ba8e-42f3ab1209b6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 2</li>\n<li>Ope
- n: TV3</li>\n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></
- body></html>
-DESCRIPTION:- Open: La 2\n- Open: TV3\n- Open: Teledeporte\n- Open: rtve 
- Play
+DTSTAMP:20261026T232529Z
+DTSTART:20261105T190000Z
+DTEND:20261105T210000Z
+SUMMARY:Copa de la Reina - Sporting Huelva - FC Badalona Women
+UID:9cb8bd10-d749-42d4-a8a4-4e5676503dd9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T232529Z
+DTSTART:20261105T190000Z
+DTEND:20261105T210000Z
+SUMMARY:Copa de la Reina - C.E. Europa Fem. - Deportivo Abanca
+UID:40e62db9-d259-49e6-a05b-5139577fbdc3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betevé (Bcn)</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Betevé (Bcn)
 END:VEVENT
 END:VCALENDAR
