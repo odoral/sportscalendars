@@ -16,44 +16,43 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261025T084702Z
-DTSTART:20261025T180000Z
-DTEND:20261025T200000Z
-SUMMARY:Liga Endesa - iLERNA Lleida - Real Madrid Baloncesto
-UID:bb243e09-6f95-4f05-a2ec-881391a95bf5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN Baloncesto 3</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
- 
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto 3\n- PPV: Movistar Plus+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261025T084702Z
+DTSTAMP:20261026T020023Z
 DTSTART:20261027T200000Z
 DTEND:20261027T220000Z
 SUMMARY:Euroliga - Baskonia - Real Madrid Baloncesto
-UID:87a50273-ad44-405f-854a-07bfcf836411
+UID:bdb4a824-27ac-4904-98ba-7211cad15992
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 2</li
  >\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto 2\n- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T084702Z
+DTSTAMP:20261026T020023Z
 DTSTART:20261029T194500Z
 DTEND:20261029T214500Z
 SUMMARY:Euroliga - Real Madrid Baloncesto - Fenerbahçe S.K.
-UID:5ffc2328-a410-40cc-ac71-7fee62cc4b24
+UID:bad01950-0f2d-4700-b901-cb76608253da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
  n<li>PPV: M+ Vamos</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261025T084702Z
+DTSTAMP:20261026T020023Z
 DTSTART:20261101T113000Z
 DTEND:20261101T133000Z
 SUMMARY:Liga Endesa - Real Madrid Baloncesto - San Pablo Burgos
-UID:54fd3460-b510-4445-9fc9-1cdad929b1fd
+UID:ee097a5b-082a-4e7b-af8f-8247b80c23dc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261026T020023Z
+DTSTART:20261104T194500Z
+DTEND:20261104T214500Z
+SUMMARY:Euroliga - Real Madrid Baloncesto - Panathinaikos B.C.
+UID:220ccbab-3509-4458-9ba3-1aacd076dac9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR
