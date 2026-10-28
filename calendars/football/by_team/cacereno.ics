@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261025T015855Z
+DTSTAMP:20261028T024645Z
 DTSTART:20261031T153000Z
 DTEND:20261031T173000Z
 SUMMARY:Primera Federación - Bilbao Athletic - Cacereño
-UID:61712fd3-9a3d-4278-be23-9215d7958710
+UID:5f834838-84da-44c8-9e93-68726b35abaa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T024645Z
+DTSTART:20261106T180000Z
+DTEND:20261106T200000Z
+SUMMARY:Primera Federación - Cacereño - Lugo
+UID:ceae8764-4b1b-4315-a2fc-c61fd3323bcf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

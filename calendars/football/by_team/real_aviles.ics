@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261025T015854Z
+DTSTAMP:20261028T024644Z
 DTSTART:20261031T174500Z
 DTEND:20261031T194500Z
 SUMMARY:Primera Federación - Real Unión - Real Avilés
-UID:6c38ec0b-e18b-46f4-99f3-b852326cfa99
+UID:1e8a1d3f-93b2-47aa-a935-92752073bf31
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261028T024644Z
+DTSTART:20261106T201500Z
+DTEND:20261106T221500Z
+SUMMARY:Primera Federación - Real Avilés - CD Extremadura
+UID:7f357691-2935-4583-bcd9-8a74664f860f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR
