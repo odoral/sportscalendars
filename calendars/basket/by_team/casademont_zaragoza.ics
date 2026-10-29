@@ -16,31 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261029T030753Z
+DTSTAMP:20261029T234149Z
 DTSTART:20261029T190000Z
 DTEND:20261029T210000Z
 SUMMARY:Euroliga Femenina - Casademont Zaragoza - Kibirkstis Vilnius
-UID:8d1c5342-adc3-4dd9-9d9f-6cdb2d8829f0
+UID:d1eea7d7-a954-4154-85b6-87195a69672f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>PPV: M+ Vamos 3</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: M+ Vamos 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261029T030753Z
+DTSTAMP:20261029T234149Z
 DTSTART:20261031T170000Z
 DTEND:20261031T190000Z
 SUMMARY:Liga Endesa - Casademont Zaragoza - Bàsquet Girona
-UID:fb230c1b-8836-44c6-bf06-fc5432f80ba0
+UID:ba1f1adf-09e6-40d4-b823-e78ffc7893ee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261029T030753Z
+DTSTAMP:20261029T234149Z
 DTSTART:20261101T111500Z
 DTEND:20261101T131500Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Baloncesto Leganés
-UID:f4fdd708-f26f-49e1-9379-bf9735af46e1
+UID:fb0ebbe4-5175-4aa1-a5fb-e65806ecb41f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>Open: Siroko TV</li>\n<li>PPV: M+ Balonces
  to 3</li></ul></body></html>
@@ -48,23 +48,33 @@ DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- Open: Siroko TV\n-
  PPV: M+ Baloncesto 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261029T030753Z
+DTSTAMP:20261029T234149Z
 DTSTART:20261103T183000Z
 DTEND:20261103T203000Z
 SUMMARY:Euroliga Femenina - Basket Landes - Casademont Zaragoza
-UID:d2e14d83-2908-473d-b172-094f08a65b12
+UID:fb602520-ea6d-4ec5-ae00-b7024a386128
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261029T030753Z
+DTSTAMP:20261029T234149Z
 DTSTART:20261106T183000Z
 DTEND:20261106T203000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Casademont Zaragoza
  
-UID:d07343a5-4c7e-4d8f-a9ad-3fb38f939e4e
+UID:1ac68eb2-bbb7-4eb4-a9c5-5bd7a9a053de
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T234149Z
+DTSTART:20261108T160000Z
+DTEND:20261108T180000Z
+SUMMARY:Liga Endesa - Casademont Zaragoza - Unicaja Málaga
+UID:f4d9a58d-374f-47c8-9c51-4664bf246999
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
