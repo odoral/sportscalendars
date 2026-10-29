@@ -16,11 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T024644Z
+DTSTAMP:20261029T030745Z
 DTSTART:20261031T200000Z
 DTEND:20261031T220000Z
 SUMMARY:Primera Federación - Real Zaragoza - Villarreal B
-UID:01144578-806b-4ad5-a856-a458a00eab05
+UID:dc3e5708-34ac-43d6-b2b9-d81e42039ea9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
+ <li>Open: Aragón TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n
+ <li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></bo
+ dy></html>
+DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: DAZN\n- PPV: F
+ anPlay TV\n- PPV: FootballClub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030745Z
+DTSTART:20261107T200000Z
+DTEND:20261107T220000Z
+SUMMARY:Primera Federación - Real Zaragoza - Huesca
+UID:8d44bc39-0d13-4b1f-82fb-e6564f546d53
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n
  <li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federación</li></ul></bo

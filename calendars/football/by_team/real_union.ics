@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
+DTSTAMP:20261029T030745Z
 DTSTART:20261031T174500Z
 DTEND:20261031T194500Z
 SUMMARY:Primera Federación - Real Unión - Real Avilés
-UID:9f33d1b5-d2c4-44fc-9cd4-9be2669c3af2
+UID:e8c2db45-44eb-48e0-a89a-c688309af5da
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030745Z
+DTSTART:20261107T153000Z
+DTEND:20261107T173000Z
+SUMMARY:Primera Federación - Barakaldo - Real Unión
+UID:9c5c75f2-a1f3-4c0d-954d-92971557dcac
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

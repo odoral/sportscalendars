@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
+DTSTAMP:20261029T030745Z
 DTSTART:20261101T193000Z
 DTEND:20261101T213000Z
 SUMMARY:Primera Federación - Hércules - Rayo Majadahonda
-UID:0465f3b0-dbc4-48e6-a75f-44ce022b3706
+UID:419b2631-0616-4774-8761-d1aa43989fbe
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030745Z
+DTSTART:20261107T153000Z
+DTEND:20261107T173000Z
+SUMMARY:Primera Federación - Antequera - Rayo Majadahonda
+UID:726e480c-724e-4e38-9c1e-7704a1960716
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

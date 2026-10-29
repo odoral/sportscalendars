@@ -16,566 +16,646 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261028T170000Z
-DTEND:20261028T190000Z
-SUMMARY:FIBA Europe Cup - Szolnoki Olaj - Bàsquet Girona
-UID:1a8560f3-6aab-4ed3-9572-4162285fe9a2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
- \n<li>Open: FIBA YouTube</li></ul></body></html>
-DESCRIPTION:- Open: Esport3 (Web)\n- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261028T173000Z
-DTEND:20261028T193000Z
-SUMMARY:Eurocup Women - Sleza Wroclaw - BAXI Ferrol
-UID:21d31cbe-a480-4451-a914-843d98bab277
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261028T173000Z
-DTEND:20261028T193000Z
-SUMMARY:Euroliga - Besiktas JK Istanbul - Olympiacos Piraeus
-UID:b58f67e1-99a0-4d57-a3c4-bb8ab2620e37
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos 3</li></ul
- ></body></html>
-DESCRIPTION:- PPV: M+ Vamos 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261028T180000Z
-DTEND:20261028T200000Z
-SUMMARY:Euroliga - Hapoel Tel Aviv B.C. - Anadolu Efes Istanbul
-UID:e4c962a5-c77e-4470-a6a7-e5e675e0bbe8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 3</li
- ></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261028T190000Z
-DTEND:20261028T210000Z
-SUMMARY:Basketball Champions League - ALBA Berlin - Bilbao Basket
-UID:000656e4-b022-47a6-ad3e-09e9866e55d0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261028T190000Z
-DTEND:20261028T210000Z
-SUMMARY:Eurocup Women - C.B. Jairis - DVTK HUN-Therm
-UID:3f735259-1683-423c-a5cf-87a4331b75d8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261028T190000Z
-DTEND:20261028T210000Z
-SUMMARY:Euroliga - ASVEL Lyon-Villeurbanne - KK Partizan Beograd
-UID:47871985-3c58-4648-96a9-21ffcccb69f8
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 5</li
- ></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto 5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261028T190000Z
-DTEND:20261028T210000Z
-SUMMARY:Euroliga Femenina - Valencia Basket - CS Rapid Bucuresti (Fem.)
-UID:fbeebe7b-0fbc-4997-9b43-be8c56b93880
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li>\
- n<li>PPV: M+ Baloncesto 2</li></ul></body></html>
-DESCRIPTION:- Open: À Punt Mèdia\n- PPV: M+ Baloncesto 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261028T193000Z
-DTEND:20261028T213000Z
-SUMMARY:Euroliga - Virtus Bologna - Zalgiris Kaunas
-UID:79ab6f86-13dc-49b9-b125-974a30ea7ff0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 4</li
- ></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261028T200000Z
-DTEND:20261028T220000Z
-SUMMARY:Eurocup - La Laguna Tenerife - Umana Reyer Venice
-UID:6a5b7753-891e-405d-ab79-e4cea9865af1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
- /body></html>
-DESCRIPTION:- PPV: M+ Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261029T230000Z
-DTEND:20261030T010000Z
-SUMMARY:NBA - Atlanta Hawks - Cleveland Cavaliers
-UID:7b6e5004-bc8f-4b6a-9c5c-f614ba8bd517
+DTSTAMP:20261029T030753Z
+DTSTART:20261028T230000Z
+DTEND:20261029T010000Z
+SUMMARY:NBA - Indiana Pacers - Philadelphia 76ers
+UID:e8e79b90-e9d6-40a9-9641-edd5edf6ba56
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T000000Z
-DTEND:20261030T020000Z
-SUMMARY:NBA - New Orleans Pelicans - Sacramento Kings
-UID:1610a65d-3723-4d2d-9599-e01b62f73ab1
+DTSTAMP:20261029T030753Z
+DTSTART:20261028T230000Z
+DTEND:20261029T010000Z
+SUMMARY:NBA - Detroit Pistons - Charlotte Hornets
+UID:9d92d9fd-2588-4050-a5a3-0aed93f26905
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T020000Z
-DTEND:20261030T040000Z
-SUMMARY:NBA - Portland Trail Blazers - Memphis Grizzlies
-UID:010bf831-ec2d-4e47-958d-dc1171ebf431
+DTSTAMP:20261029T030753Z
+DTSTART:20261028T230000Z
+DTEND:20261029T010000Z
+SUMMARY:NBA - Cleveland Cavaliers - Washington Wizards
+UID:151737eb-1740-490c-9919-cbd4dd785474
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T160000Z
-DTEND:20261030T180000Z
-SUMMARY:Euroliga - Dubai Basketball - Hapoel Tel Aviv B.C.
-UID:c23ebe44-5fce-42b3-b637-fbe5e3568282
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li><
- /ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T173000Z
-DTEND:20261030T193000Z
-SUMMARY:Euroliga - Anadolu Efes Istanbul - Panathinaikos B.C.
-UID:39c14abb-8462-4e3b-ab5a-9c4c456fdb7f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 3</li
+DTSTAMP:20261029T030753Z
+DTSTART:20261028T230000Z
+DTEND:20261029T010000Z
+SUMMARY:NBA - Atlanta Hawks - Miami Heat
+UID:d4ccaf83-af4a-43db-acb5-6cbe247526b6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto 3
+DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T180000Z
-DTEND:20261030T200000Z
-SUMMARY:Euroliga - Zalgiris Kaunas - KK Partizan Beograd
-UID:71ba4edd-63cd-4ed4-a9b3-ff0b9756e4b2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 5</li
+DTSTAMP:20261029T030753Z
+DTSTART:20261028T233000Z
+DTEND:20261029T013000Z
+SUMMARY:NBA - Toronto Raptors - Orlando Magic
+UID:1adb5289-5b50-45db-9af0-cbfd155ade72
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto 5
+DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T190000Z
-DTEND:20261030T210000Z
-SUMMARY:Euroliga - ASVEL Lyon-Villeurbanne - Baskonia
-UID:c17f91ff-b98f-4109-a6c8-6114fc744b98
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T000000Z
+DTEND:20261029T020000Z
+SUMMARY:NBA - Chicago Bulls - New York Knicks
+UID:cfd194a7-fa4c-40e2-b78c-716167967096
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T000000Z
+DTEND:20261029T020000Z
+SUMMARY:NBA - Milwaukee Bucks - Houston Rockets
+UID:0e196df0-debf-4cc4-9c87-e59511d4ac65
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T000000Z
+DTEND:20261029T020000Z
+SUMMARY:NBA - Minnesota Timberwolves - Golden State Warriors
+UID:cd4186a3-bb92-4f17-92d1-fbc81209330b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T000000Z
+DTEND:20261029T020000Z
+SUMMARY:NBA - New Orleans Pelicans - Denver Nuggets
+UID:667efaf9-0ac9-4cfa-8adb-2ac9fe0c116a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T010000Z
+DTEND:20261029T030000Z
+SUMMARY:NBA - Utah Jazz - San Antonio Spurs
+UID:f6369ab8-90db-4cd9-b30a-ffc88924eb0e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T013000Z
+DTEND:20261029T033000Z
+SUMMARY:NBA - Dallas Mavericks - Oklahoma C. Thunder
+UID:dce614ec-fc3d-4635-8331-fae2211bf656
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T023000Z
+DTEND:20261029T043000Z
+SUMMARY:NBA - Los Angeles Clippers - Los Angeles Lakers
+UID:ec706edc-3b3b-41e1-89fa-4eef36beb589
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T173000Z
+DTEND:20261029T193000Z
+SUMMARY:Eurocup Women - Rutronik Stars Keltern - Spar Girona
+UID:81eed8a7-339a-43c4-87a0-1adea2c63aeb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: FIBA YouTube</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:Euroliga - Crvena Zvezda MTS Belgrade - FC Bayern Basketball
+UID:73b732a8-fd32-43f7-982b-4d64215ce7b3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 2</li
  ></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T191500Z
-DTEND:20261030T211500Z
-SUMMARY:Euroliga - Olympiacos Piraeus - AX Olimpia Milano
-UID:b0baa4c6-e052-4c8d-afbd-e93c958f789c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos 2</li></ul
- ></body></html>
-DESCRIPTION:- PPV: M+ Vamos 2
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:Euroliga Femenina - Casademont Zaragoza - Kibirkstis Vilnius
+UID:0346a1bb-1030-4d52-9d73-54b31047252a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
+ <li>Open: Aragón TV</li>\n<li>PPV: M+ Vamos 3</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: M+ Vamos 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T193000Z
-DTEND:20261030T213000Z
-SUMMARY:Euroliga - Barça Basket - Valencia Basket
-UID:a616aaca-29bd-4b08-8994-c22ebb3ed71c
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T190500Z
+DTEND:20261029T210500Z
+SUMMARY:Euroliga - Maccabi Tel Aviv BC - Paris Basketball
+UID:eda698e2-4107-4af3-8afe-343104c4b250
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 3</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T193000Z
+DTEND:20261029T213000Z
+SUMMARY:Eurocup Women - Basket Namur Capitale - Perfumerías Avenida
+UID:5ab1ba4b-2d58-48af-9bf3-1ed33369dc0d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T194500Z
+DTEND:20261029T214500Z
+SUMMARY:Euroliga - Real Madrid Baloncesto - Fenerbahçe S.K.
+UID:f3c18335-0276-4ac0-8557-acc54a24801d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
- n<li>PPV: Movistar Plus+</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: Movistar Plus+
+ n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T193000Z
-DTEND:20261030T213000Z
-SUMMARY:Euroliga - Virtus Bologna - Besiktas JK Istanbul
-UID:38078445-be28-46b6-a0c8-7d501ef69938
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 4</li
- ></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T194500Z
-DTEND:20261030T214500Z
-SUMMARY:Primera FEB - C.B. Tizona - HLA Alicante
-UID:854d816f-7f7b-4476-8947-7922d45a522f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T230000Z
-DTEND:20261031T010000Z
-SUMMARY:NBA - Washington Wizards - Charlotte Hornets
-UID:91a9ed5e-1360-4621-a301-bf09b33ab278
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T233000Z
-DTEND:20261031T013000Z
-SUMMARY:NBA - Boston Celtics - Chicago Bulls
-UID:7d0d8247-9f2f-49d1-a42d-c7d38849d3fd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T233000Z
-DTEND:20261031T013000Z
-SUMMARY:NBA - Philadelphia 76ers - New York Knicks
-UID:5d1c6165-7384-49da-9f6f-1136ac492880
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T233000Z
-DTEND:20261031T013000Z
-SUMMARY:NBA - Boston Celtics - Chicago Bulls
-UID:476c9c2a-d23d-4280-91e6-25a62a019ac7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T233000Z
-DTEND:20261031T013000Z
-SUMMARY:NBA - Brooklyn Nets - Detroit Pistons
-UID:cc16e6c6-0d08-421c-8ced-89649f9fc6a7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261030T233000Z
-DTEND:20261031T013000Z
-SUMMARY:NBA - Toronto Raptors - Orlando Magic
-UID:723b4a17-aaef-4458-b88d-0560e9b45621
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T000000Z
-DTEND:20261031T020000Z
-SUMMARY:NBA - Dallas Mavericks - Houston Rockets
-UID:12f628f8-b607-44d5-857c-fecad772d008
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T000000Z
-DTEND:20261031T020000Z
-SUMMARY:NBA - Minnesota Timberwolves - Los Angeles Clippers
-UID:44af8d0e-7b94-4201-8869-eedda4e9326f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T000000Z
-DTEND:20261031T020000Z
-SUMMARY:NBA - Miami Heat - Indiana Pacers
-UID:1095b42b-d151-408f-8cbb-537c38ee9a3e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T020000Z
-DTEND:20261031T040000Z
-SUMMARY:NBA - Phoenix Suns - Denver Nuggets
-UID:b3873e36-7d1f-4517-9c2b-3383e0a416c0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
- ></ul></body></html>
-DESCRIPTION:- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T020000Z
-DTEND:20261031T040000Z
-SUMMARY:NBA - Golden State Warriors - Los Angeles Lakers
-UID:f90c8927-5531-4c9f-a886-f59d0b9ba698
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
- /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
-DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T160000Z
-DTEND:20261031T180000Z
-SUMMARY:Liga Femenina Endesa - Lointek Gernika - Movistar Estudiantes
-UID:f6808c41-8ebd-465a-8d2a-0cf42117163e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
- n<li>PPV: M+ Vamos 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T170000Z
-DTEND:20261031T190000Z
-SUMMARY:Liga Endesa - Casademont Zaragoza - Bàsquet Girona
-UID:a2b14184-4438-4bbf-809a-250c50707ad4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T170000Z
-DTEND:20261031T190000Z
-SUMMARY:Liga Femenina Endesa - Cadi La Seu - Ensino Lugo
-UID:782da376-fd4e-4b32-8d04-80875c1703f7
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
- i>PPV: M+ Baloncesto</li></ul></body></html>
-DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T170000Z
-DTEND:20261031T190000Z
-SUMMARY:Liga Femenina Endesa - IDK Euskotren - BAXI Ferrol
-UID:cbf34184-4d7d-4d76-96dc-6a21ebab3fe3
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
- i>PPV: M+ Baloncesto 4</li></ul></body></html>
-DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 4
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T170000Z
-DTEND:20261031T190000Z
-SUMMARY:Primera FEB - Coviran Granada - Partizan Fuenlabrada
-UID:f29f1c0b-9292-4026-b69e-404a4af9c7d6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T180000Z
-DTEND:20261031T200000Z
-SUMMARY:Liga Femenina Endesa - CAB Estepona - Spar Girona
-UID:f3d98989-d712-4299-aca8-0740342064d4
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
- i>PPV: M+ Baloncesto 2</li></ul></body></html>
-DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T180000Z
-DTEND:20261031T200000Z
-SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Azulmarino Basket Mallo
- rca
-UID:30da929e-c62d-4c5d-a6af-84dbf7acb4cd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
- i>PPV: M+ Baloncesto 3</li></ul></body></html>
-DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T180000Z
-DTEND:20261031T200000Z
-SUMMARY:Primera FEB - Club Ourense Baloncesto - Fibwi Palma
-UID:55278387-9c48-465f-a2b2-ae504a88aa48
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T180000Z
-DTEND:20261031T200000Z
-SUMMARY:Primera FEB - G.A. Cantabria - Súper Agropal Palencia
-UID:dbf618b2-b4e2-431d-a8ed-1e1e0762d01b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T183000Z
-DTEND:20261031T203000Z
-SUMMARY:Liga Endesa - UCAM Murcia C.B. - iLERNA Lleida
-UID:8a5945d6-be74-436a-9169-0bc464895670
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T183000Z
-DTEND:20261031T203000Z
-SUMMARY:Primera FEB - Hestia Menorca - Caja 87
-UID:0db4ab6a-c369-4868-9809-7353252aa6b1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T183000Z
-DTEND:20261031T203000Z
-SUMMARY:Primera FEB - C.B. Zamora - Albacete Basket
-UID:52011f84-0c75-4e2a-93a8-d3bde9ef7055
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T190000Z
-DTEND:20261031T210000Z
-SUMMARY:NBA - Utah Jazz - Portland Trail Blazers
-UID:b113839e-83be-4f72-bf9e-2049f7cab5dc
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T230000Z
+DTEND:20261030T010000Z
+SUMMARY:NBA - Atlanta Hawks - Cleveland Cavaliers
+UID:56cf2847-e6fc-4124-9890-f4449f847edd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T200000Z
-DTEND:20261031T220000Z
-SUMMARY:Liga Endesa - Basquet Coruña - La Laguna Tenerife
-UID:aa9fe19e-9bac-46b6-9dc8-bb44d1a4f07d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Vamos</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T220000Z
-DTEND:20261101T000000Z
-SUMMARY:NBA - Charlotte Hornets - Philadelphia 76ers
-UID:e6d4845a-5f49-4504-ac43-c3b25df2cf62
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T000000Z
+DTEND:20261030T020000Z
+SUMMARY:NBA - New Orleans Pelicans - Sacramento Kings
+UID:a22beb63-861a-4083-ae02-41656885a3fd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261031T230000Z
-DTEND:20261101T010000Z
-SUMMARY:NBA - New Orleans Pelicans - Atlanta Hawks
-UID:a8ed6a4c-dc71-40b4-95df-5fd4d8ae5124
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T020000Z
+DTEND:20261030T040000Z
+SUMMARY:NBA - Portland Trail Blazers - Memphis Grizzlies
+UID:ce7506c7-0cac-4382-893a-ff443b956850
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261101T000000Z
-DTEND:20261101T020000Z
-SUMMARY:NBA - Milwaukee Bucks - Cleveland Cavaliers
-UID:6302212b-d237-4034-a74d-53b8b4222a37
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T160000Z
+DTEND:20261030T180000Z
+SUMMARY:Euroliga - Dubai Basketball - Hapoel Tel Aviv B.C.
+UID:5fc26ef6-a4f1-4e95-a5a7-036a23ee0de5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li><
+ /ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T173000Z
+DTEND:20261030T193000Z
+SUMMARY:Euroliga - Anadolu Efes Istanbul - Panathinaikos B.C.
+UID:afb6a356-502f-4a91-b3aa-122a1c744306
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 3</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T180000Z
+DTEND:20261030T200000Z
+SUMMARY:Euroliga - Zalgiris Kaunas - KK Partizan Beograd
+UID:1bdf6318-d22c-4ee7-b32c-de7e56ef584b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 5</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T190000Z
+DTEND:20261030T210000Z
+SUMMARY:Euroliga - ASVEL Lyon-Villeurbanne - Baskonia
+UID:e2705cf9-3a18-489f-9525-fe6f4540b840
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 2</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T191500Z
+DTEND:20261030T211500Z
+SUMMARY:Euroliga - Olympiacos Piraeus - AX Olimpia Milano
+UID:18ea165f-e312-4f90-ab07-99df43821144
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos 2</li></ul
+ ></body></html>
+DESCRIPTION:- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T193000Z
+DTEND:20261030T213000Z
+SUMMARY:Euroliga - Barça Basket - Valencia Basket
+UID:160763d7-7885-4adb-8f66-a345d80fc7c7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T193000Z
+DTEND:20261030T213000Z
+SUMMARY:Euroliga - Virtus Bologna - Besiktas JK Istanbul
+UID:6f544318-342e-496d-9fce-0cfb4b10afd2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 4</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T194500Z
+DTEND:20261030T214500Z
+SUMMARY:Primera FEB - C.B. Tizona - HLA Alicante
+UID:5ecd9192-ec70-48e3-8720-3b2d89fc4b3e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T230000Z
+DTEND:20261031T010000Z
+SUMMARY:NBA - Washington Wizards - Charlotte Hornets
+UID:2eb95962-de87-49be-ac22-a212f8090a44
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261101T000000Z
-DTEND:20261101T020000Z
-SUMMARY:NBA - San Antonio Spurs - Minnesota Timberwolves
-UID:aa2422c9-114e-4392-a5e2-2b117efc918d
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T233000Z
+DTEND:20261031T013000Z
+SUMMARY:NBA - Boston Celtics - Chicago Bulls
+UID:29cd4e3d-48a3-4c4a-9ef2-f4a865d2baf1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261101T000000Z
-DTEND:20261101T020000Z
-SUMMARY:NBA - Memphis Grizzlies - Sacramento Kings
-UID:62850bcb-f8a2-453c-94c5-0594b0559536
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T233000Z
+DTEND:20261031T013000Z
+SUMMARY:NBA - Philadelphia 76ers - New York Knicks
+UID:4cc6283e-ba7a-4cde-8009-5df481a98438
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T233000Z
+DTEND:20261031T013000Z
+SUMMARY:NBA - Boston Celtics - Chicago Bulls
+UID:7e333ba4-c92f-4fc9-a008-f041f4dfa62d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261101T003000Z
-DTEND:20261101T023000Z
-SUMMARY:NBA - Houston Rockets - Oklahoma C. Thunder
-UID:17e883df-bd25-455e-827c-6a0f0cfb0e45
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T233000Z
+DTEND:20261031T013000Z
+SUMMARY:NBA - Brooklyn Nets - Detroit Pistons
+UID:e7964771-5b64-411a-bf5b-fbdf4c4e5017
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261101T110000Z
-DTEND:20261101T130000Z
-SUMMARY:Liga Endesa - Joventut Badalona - Bilbao Basket
-UID:aaa85864-81fa-464c-a2a2-f3c88e10523e
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
- n: Esport 3</li>\n<li>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: ETB1\n- Open: Esport 3\n- PPV: DAZN
+DTSTAMP:20261029T030753Z
+DTSTART:20261030T233000Z
+DTEND:20261031T013000Z
+SUMMARY:NBA - Toronto Raptors - Orlando Magic
+UID:5e252a08-64da-4540-8a5f-a2cec0aed98e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261101T110000Z
-DTEND:20261101T130000Z
-SUMMARY:Liga Endesa - Monbus Obradoiro - Río Breogán
-UID:12ed37aa-ff0d-4e67-98c4-057c88b5438c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
-  DAZN</li></ul></body></html>
-DESCRIPTION:- Open: TVG\n- PPV: DAZN
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:NBA - Dallas Mavericks - Houston Rockets
+UID:8a4dd2ad-accf-4886-826b-1f790082601e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261101T110000Z
-DTEND:20261101T130000Z
-SUMMARY:Liga Femenina Endesa - C.B. Jairis - Perfumerías Avenida
-UID:14125dfa-aa16-4d42-a5ba-bf196c2cdf8a
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:NBA - Minnesota Timberwolves - Los Angeles Clippers
+UID:55e27908-17b4-42f1-9055-91d1b9d65bcb
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T000000Z
+DTEND:20261031T020000Z
+SUMMARY:NBA - Miami Heat - Indiana Pacers
+UID:e58d6826-150d-41b5-996c-692fe8a1f777
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T020000Z
+DTEND:20261031T040000Z
+SUMMARY:NBA - Phoenix Suns - Denver Nuggets
+UID:faa47d9d-10e3-4f67-ad34-0fee386ddf94
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T020000Z
+DTEND:20261031T040000Z
+SUMMARY:NBA - Golden State Warriors - Los Angeles Lakers
+UID:375af1ce-6032-4a92-841f-8db95865cd92
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
+ /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T160000Z
+DTEND:20261031T180000Z
+SUMMARY:Liga Femenina Endesa - Lointek Gernika - Movistar Estudiantes
+UID:863a6f47-5813-4976-bafb-b1def680fecf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+SUMMARY:Liga Endesa - Casademont Zaragoza - Bàsquet Girona
+UID:1ed7b08e-1d4b-49ab-a851-94de0b94e68b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+SUMMARY:Liga Femenina Endesa - Cadi La Seu - Ensino Lugo
+UID:d007bac7-8099-4881-bc3a-2487c277b510
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
-DTSTART:20261101T111500Z
-DTEND:20261101T131500Z
-SUMMARY:Liga Femenina Endesa - Valencia Basket - Celta Zorka
-UID:9bac0633-98de-45b7-9c53-11187e9f48e5
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+SUMMARY:Liga Femenina Endesa - IDK Euskotren - BAXI Ferrol
+UID:2cfc4aa1-0cb7-4e53-8f8d-c6ac6e842b79
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto 4</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T170000Z
+DTEND:20261031T190000Z
+SUMMARY:Primera FEB - Coviran Granada - Partizan Fuenlabrada
+UID:c8ed921e-86fe-488d-a9a6-90e6f0468f47
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:Liga Femenina Endesa - CAB Estepona - Spar Girona
+UID:bb5cffa3-bbf2-4328-a60d-c0151a0ac547
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Azulmarino Basket Mallo
+ rca
+UID:7ab79811-7521-47d0-b5d8-35d6bedfc8b4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto 3</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:Primera FEB - Club Ourense Baloncesto - Fibwi Palma
+UID:af39c9b6-dd79-4f41-acf4-d9b1c3b1673b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T180000Z
+DTEND:20261031T200000Z
+SUMMARY:Primera FEB - G.A. Cantabria - Súper Agropal Palencia
+UID:3235a760-f683-468a-928a-ca6473234dfc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T183000Z
+DTEND:20261031T203000Z
+SUMMARY:Liga Endesa - UCAM Murcia C.B. - iLERNA Lleida
+UID:e3c5de7c-0fd4-41e1-8e90-c07407918c19
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T183000Z
+DTEND:20261031T203000Z
+SUMMARY:Primera FEB - Hestia Menorca - Caja 87
+UID:69015116-2209-42e8-9b3c-dd1bbb24df41
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T183000Z
+DTEND:20261031T203000Z
+SUMMARY:Primera FEB - C.B. Zamora - Albacete Basket
+UID:a063b01e-924e-4102-a7ac-d45684138864
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T190000Z
+DTEND:20261031T210000Z
+SUMMARY:NBA - Utah Jazz - Portland Trail Blazers
+UID:14578782-baef-49be-a63b-3b5970ba2dd2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  NBA League Pass</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T200000Z
+DTEND:20261031T220000Z
+SUMMARY:Liga Endesa - Basquet Coruña - La Laguna Tenerife
+UID:a02f8533-34c4-425b-8d8b-85022655afde
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T220000Z
+DTEND:20261101T000000Z
+SUMMARY:NBA - Charlotte Hornets - Philadelphia 76ers
+UID:ceefd275-e61d-42d1-bd87-c72565d5d426
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261031T230000Z
+DTEND:20261101T010000Z
+SUMMARY:NBA - New Orleans Pelicans - Atlanta Hawks
+UID:d27f12b3-1dba-4ce0-9f11-da6c8cda3dff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:NBA - Milwaukee Bucks - Cleveland Cavaliers
+UID:2c0253a7-de45-424e-95ef-640785f17b1b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:NBA - San Antonio Spurs - Minnesota Timberwolves
+UID:4ff4bc48-bc3a-43be-a961-070ea7f07c69
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261101T000000Z
+DTEND:20261101T020000Z
+SUMMARY:NBA - Memphis Grizzlies - Sacramento Kings
+UID:5d99a191-a812-4ff9-8277-b2766423c25b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261101T003000Z
+DTEND:20261101T023000Z
+SUMMARY:NBA - Houston Rockets - Oklahoma C. Thunder
+UID:2c323254-0c87-4c8e-9025-31065b156e82
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: NBA League Pass
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Liga Endesa - Joventut Badalona - Bilbao Basket
+UID:21c1c28c-f1c0-4fb9-acb8-49e936799412
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Esport 3</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Esport 3\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Liga Endesa - Monbus Obradoiro - Río Breogán
+UID:344400e4-c2be-4e61-8d99-2732bc8ae5c6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
+  DAZN</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261101T110000Z
+DTEND:20261101T130000Z
+SUMMARY:Liga Femenina Endesa - C.B. Jairis - Perfumerías Avenida
+UID:235f4169-6b47-4b34-b697-42c9db2bb86b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
+DTSTART:20261101T111500Z
+DTEND:20261101T131500Z
+SUMMARY:Liga Femenina Endesa - Valencia Basket - Celta Zorka
+UID:9ca9919f-3061-4e57-b698-2b34520d8f6c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto 2</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T111500Z
 DTEND:20261101T131500Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Baloncesto Leganés
-UID:ba85e0e3-f97b-42c8-96e5-250ee7932593
+UID:ec95a53a-8cf9-439e-a712-a056bed5fc77
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>Open: Siroko TV</li>\n<li>PPV: M+ Balonces
  to 3</li></ul></body></html>
@@ -583,759 +663,759 @@ DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- Open: Siroko TV\n-
  PPV: M+ Baloncesto 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T113000Z
 DTEND:20261101T133000Z
 SUMMARY:Liga Endesa - Real Madrid Baloncesto - San Pablo Burgos
-UID:4f6bc6c4-4f68-48c2-b238-d436d1cb2a59
+UID:9e64a2b8-866d-41b5-a49e-034bee463309
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T160000Z
 DTEND:20261101T180000Z
 SUMMARY:Liga Endesa - Baskonia - Kids&Us Manresa
-UID:8750f9dd-6ed9-49ac-830b-b705e5d9f1a5
+UID:cc6b9b8b-b8c4-4688-8cf0-86a8b192b7f6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   M+ Vamos 2</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T170000Z
 DTEND:20261101T190000Z
 SUMMARY:Liga Endesa - MoraBanc Andorra - Valencia Basket
-UID:227018fb-c898-4d09-8863-1ed59e015961
+UID:edad571c-6468-4699-a15d-f8db6a63b6cc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T170000Z
 DTEND:20261101T190000Z
 SUMMARY:Primera FEB - Gipuzkoa Basket - Córdoba CB
-UID:7f31c2f1-d343-4d41-be5a-829aeae5f3d6
+UID:20d0eb16-2323-4a11-abe5-c2762c97ad40
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T170000Z
 DTEND:20261101T190000Z
 SUMMARY:Primera FEB - Palmer Mallorca Palma - Oviedo Baloncesto
-UID:b1174d7d-688b-4ca0-9f66-f5e08e6bed97
+UID:a4f942d2-6b88-4f63-8e93-a08b97ea84d3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T173000Z
 DTEND:20261101T193000Z
 SUMMARY:Primera FEB - Movistar Estudiantes - Dreamland Gran Canaria
-UID:7a7a4cf5-2657-494b-8dcf-46adbea8a82d
+UID:51b81fb7-2107-4b89-9ce6-f54c28b98366
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T180000Z
 DTEND:20261101T200000Z
 SUMMARY:Liga Endesa - Unicaja Málaga - Barça Basket
-UID:f29c5c5e-c03b-481e-83e1-967684f1c4f4
+UID:1ac6eecf-4e2c-4d8b-a874-6a0881605c20
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T203000Z
 DTEND:20261101T223000Z
 SUMMARY:NBA - Orlando Magic - Boston Celtics
-UID:3754abe5-edf4-4b55-8fbc-254ba01064c8
+UID:dd555670-980b-4381-a579-7404d6abb8c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T220000Z
 DTEND:20261102T000000Z
 SUMMARY:NBA - Indiana Pacers - Brooklyn Nets
-UID:b3bab498-d0d2-4ba3-b149-20c0a8ed07e9
+UID:641510bb-f0b9-436c-8a24-ccf5e6f85ffb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261102T013000Z
 DTEND:20261102T033000Z
 SUMMARY:NBA - Golden State Warriors - Los Angeles Clippers
-UID:2597ba99-3aac-4470-b493-eb47d8237c3e
+UID:7c10b239-b6c7-44dd-a4a0-ecf65f62bf90
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261102T020000Z
 DTEND:20261102T040000Z
 SUMMARY:NBA - Los Angeles Lakers - Toronto Raptors
-UID:41fdf1b8-a332-45fd-aaec-9cbf702a494d
+UID:6ce1210b-5199-427d-8119-54bced86e46f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T000000Z
 DTEND:20261103T020000Z
 SUMMARY:NBA - Cleveland Cavaliers - Oklahoma C. Thunder
-UID:f4ade313-9ebf-4b09-bb27-5e0b10d2dc31
+UID:dd52415d-8bb1-4b08-8243-2baf7d374703
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T003000Z
 DTEND:20261103T023000Z
 SUMMARY:NBA - Orlando Magic - Washington Wizards
-UID:3d3b6928-895b-47a0-a5e4-123d2c4a2444
+UID:4c76a24b-78b8-455c-9697-b18b348c552e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T003000Z
 DTEND:20261103T023000Z
 SUMMARY:NBA - Indiana Pacers - Atlanta Hawks
-UID:a80d4412-0ed2-41b6-b9d9-a7ef9e5b327a
+UID:4210ad38-cfb6-4c0c-a14d-c56a4e0ea940
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T003000Z
 DTEND:20261103T023000Z
 SUMMARY:NBA - Philadelphia 76ers - Chicago Bulls
-UID:30bdce34-dda9-4a91-8aa6-c492299d89fe
+UID:fb6295b2-fa3f-486b-b316-73f03d4d8930
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T003000Z
 DTEND:20261103T023000Z
 SUMMARY:NBA - Charlotte Hornets - Detroit Pistons
-UID:4332395b-556b-4fe9-a7aa-29736bae863f
+UID:e0ce28fc-b967-4c01-b765-259b7082a6e8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T003000Z
 DTEND:20261103T023000Z
 SUMMARY:NBA - New York Knicks - Brooklyn Nets
-UID:4d02307a-710a-48e8-a61f-f3b95a0b6b46
+UID:53acbd35-b206-4ee2-a18a-e33d7ffa0372
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T010000Z
 DTEND:20261103T030000Z
 SUMMARY:NBA - Memphis Grizzlies - New Orleans Pelicans
-UID:3c7e02f0-db0e-40aa-afe5-66580111941a
+UID:d7815c10-c647-4444-a199-b7775aff0676
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T010000Z
 DTEND:20261103T030000Z
 SUMMARY:NBA - Dallas Mavericks - Sacramento Kings
-UID:209eeec3-3778-4084-b7e4-adac910983b1
+UID:1aec08d2-12d4-4f5c-a1bb-fc3e5b7f9f7a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T010000Z
 DTEND:20261103T030000Z
 SUMMARY:NBA - Minnesota Timberwolves - Milwaukee Bucks
-UID:bad25701-fdec-474d-b280-75f58f191deb
+UID:ecd10aef-94da-47ef-be7c-575c00fe5846
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T013000Z
 DTEND:20261103T033000Z
 SUMMARY:NBA - San Antonio Spurs - Utah Jazz
-UID:fc28e791-dd35-4a8d-83c5-aa38d34bbc8f
+UID:df829d7c-3407-4f87-b625-97e55747113c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T013000Z
 DTEND:20261103T033000Z
 SUMMARY:NBA - Houston Rockets - Boston Celtics
-UID:ef804458-b827-48c2-9692-c4b8f48a5492
+UID:de2c620e-2741-475e-bcd9-c309f1eb299f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T020000Z
 DTEND:20261103T040000Z
 SUMMARY:NBA - Denver Nuggets - Portland Trail Blazers
-UID:503af728-8b9b-4874-b2a2-ef868f4c6113
+UID:ee4eebd2-2398-42b4-834b-de5e6a9e954f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T030000Z
 DTEND:20261103T050000Z
 SUMMARY:NBA - Golden State Warriors - Phoenix Suns
-UID:7e0bbfad-d5d1-4260-a162-76d73ca56f11
+UID:7ce0f4a1-ebd0-4532-a923-680800082216
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T030000Z
 DTEND:20261103T050000Z
 SUMMARY:NBA - Los Angeles Lakers - Miami Heat
-UID:76eb8407-0074-406a-877d-bc7ef1539cdd
+UID:fcffc2af-a5cc-4356-8464-a1c83b862f58
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T030000Z
 DTEND:20261103T050000Z
 SUMMARY:NBA - Los Angeles Clippers - Toronto Raptors
-UID:86cf8c35-bebf-4e42-b77e-135a4532ff7c
+UID:9656198e-da3d-4059-ba75-97fe18cba4c2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T170000Z
 DTEND:20261103T190000Z
 SUMMARY:Euroliga Femenina - Valencia Basket - Fenerbahçe S.K.
-UID:8119195a-489a-481d-9433-1535cf068f0f
+UID:995f2d51-59fb-4588-a395-53aac7a9e07f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li><
  /ul></body></html>
 DESCRIPTION:- Open: À Punt Mèdia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T183000Z
 DTEND:20261103T203000Z
 SUMMARY:Euroliga Femenina - Basket Landes - Casademont Zaragoza
-UID:7a16b06c-8ea7-464d-8039-f8434a95c592
+UID:4858c161-ed05-49a5-8107-c7149c998f48
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T190000Z
 DTEND:20261103T210000Z
 SUMMARY:FIBA Europe Cup - Bàsquet Girona - Patrioti Levice
-UID:8884ecf7-2461-4318-8303-a16a313ed612
+UID:4d9f2e71-6581-4269-9391-a6452af94615
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T193000Z
 DTEND:20261103T213000Z
 SUMMARY:Basketball Champions League - FC Porto - Joventut Badalona
-UID:26e0eda5-cf3d-4540-8ea2-10f557732a95
+UID:1ea12b33-1ff3-480a-93ff-ef327263dfcd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T193000Z
 DTEND:20261103T213000Z
 SUMMARY:Basketball Champions League - Unicaja Málaga - Reggio Emilia
-UID:9862fd12-cd65-46ae-889c-09ce2025fea9
+UID:32cff9c1-0b4f-49e3-9823-f08f658a9c77
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261104T194500Z
 DTEND:20261104T214500Z
 SUMMARY:Euroliga - Real Madrid Baloncesto - Panathinaikos B.C.
-UID:d25d83d2-2a5c-422c-8249-58a3a2809dcb
+UID:7aa5f977-28a7-41d5-88c9-246129162579
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar Plus+</li>
  </ul></body></html>
 DESCRIPTION:- PPV: Movistar Plus+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
 SUMMARY:NBA - Washington Wizards - Atlanta Hawks
-UID:b1dfd004-94e0-46f9-9d2d-e7e55963f70b
+UID:496aaae4-1a50-4ece-bcd4-2fdb74b23e22
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T000000Z
 DTEND:20261105T020000Z
 SUMMARY:NBA - Detroit Pistons - Philadelphia 76ers
-UID:273fb8cb-a4f7-4114-a9bc-8934e3f72dce
+UID:ef621089-5c4e-4591-bcde-1453bdeac5c6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T003000Z
 DTEND:20261105T023000Z
 SUMMARY:NBA - Brooklyn Nets - Charlotte Hornets
-UID:818786fe-5c1f-4b29-91a0-ce7d3d073513
+UID:b24e61a6-9286-4fed-b37c-e6337cb8a579
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T003000Z
 DTEND:20261105T023000Z
 SUMMARY:NBA - New York Knicks - Chicago Bulls
-UID:13090dce-262c-4377-a96e-f3889b1513e8
+UID:36c2428c-9a06-42ec-af17-e072eb88dd1e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T003000Z
 DTEND:20261105T023000Z
 SUMMARY:NBA - Boston Celtics - Milwaukee Bucks
-UID:14c78767-6367-4f75-b233-036003f6949e
+UID:80174c38-31a2-4255-a7d5-b3c766fc7d1a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T010000Z
 DTEND:20261105T030000Z
 SUMMARY:NBA - New Orleans Pelicans - Utah Jazz
-UID:d4ac6890-7c5a-4337-bbdc-26959feaca69
+UID:2282cd3d-b65c-4ad4-afa5-efe01d3db0b8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T010000Z
 DTEND:20261105T030000Z
 SUMMARY:NBA - Memphis Grizzlies - Indiana Pacers
-UID:95013f1d-4b14-4ab0-844a-a3620907df49
+UID:ac14d35b-380f-4ab1-a142-2da289b9c0aa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T010000Z
 DTEND:20261105T030000Z
 SUMMARY:NBA - Oklahoma C. Thunder - Cleveland Cavaliers
-UID:8a5c5e6d-e69e-45a9-9bb0-db6d04df1ad9
+UID:d66b3f1a-1368-47ac-b9b8-a5f10689d8e8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T013000Z
 DTEND:20261105T033000Z
 SUMMARY:NBA - Houston Rockets - Minnesota Timberwolves
-UID:0f6005eb-ed31-46f7-b425-a69b9954a4e7
+UID:37794d71-6a1f-411e-a997-b9bddd0f3f09
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T020000Z
 DTEND:20261105T040000Z
 SUMMARY:NBA - Denver Nuggets - Toronto Raptors
-UID:91b13aa9-65e7-47f6-86ba-0796905147ae
+UID:315543a4-eafa-4da2-8ea2-38320fad140d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T020000Z
 DTEND:20261105T040000Z
 SUMMARY:NBA - Phoenix Suns - Portland Trail Blazers
-UID:e4c5a406-3375-4ad1-8620-ea08b024001b
+UID:cb62ccae-2b87-4561-bc6c-07fb6641f5d1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T023000Z
 DTEND:20261105T043000Z
 SUMMARY:NBA - San Antonio Spurs - Dallas Mavericks
-UID:f9d2c234-b015-4929-9cd8-244b2aaf4424
+UID:529717e4-4e98-4190-a85b-d31a7a072c49
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T030000Z
 DTEND:20261105T050000Z
 SUMMARY:NBA - Sacramento Kings - Los Angeles Lakers
-UID:0d686187-f0c9-402f-9af5-cdc10b255151
+UID:f4d94cbb-4ba7-485d-882a-1e2a82514c3e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T033000Z
 DTEND:20261105T053000Z
 SUMMARY:NBA - Los Angeles Clippers - Miami Heat
-UID:32b55147-b45e-4643-b97e-278fcabde0ce
+UID:833a5065-1cba-400f-87c7-f74c3c6486db
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261105T180000Z
 DTEND:20261105T200000Z
 SUMMARY:Euroliga - Hapoel Tel Aviv B.C. - Barça Basket
-UID:311dc7e3-e5de-483f-a016-900e1f114438
+UID:97955796-4875-4d1b-93f7-f5b6d94e81a5
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
  /body></html>
 DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T020000Z
 DTEND:20261106T040000Z
 SUMMARY:NBA - Phoenix Suns - Orlando Magic
-UID:c81809b3-2b8b-422c-a064-8aeba94c7285
+UID:6b99c782-88fb-4a5c-9137-d5368cbbe8bd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T030000Z
 DTEND:20261106T050000Z
 SUMMARY:NBA - Golden State Warriors - Miami Heat
-UID:73d9fccf-9e8d-4406-b9b9-2a5fc9ef7375
+UID:ba899c55-ff96-486d-901a-bd9a108bfb74
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T180000Z
 DTEND:20261106T200000Z
 SUMMARY:Liga Femenina Endesa - Baloncesto Leganés - BAXI Ferrol
-UID:9e03f79f-68e9-43b1-a959-97c43c29fbfc
+UID:c324ee79-1fec-45c0-b9a9-bb0d3d6dd902
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T183000Z
 DTEND:20261106T203000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Casademont Zaragoza
  
-UID:4646571a-ef58-43c9-b5b4-d0cc2cad8ff5
+UID:9fe4c138-a5b5-48ed-8410-85a40b8601ec
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T183000Z
 DTEND:20261106T203000Z
 SUMMARY:Liga Femenina Endesa - Azulmarino Basket Mallorca - CAB Estepona
-UID:5e3fd86f-19c0-43c1-9824-8b32e4fbae1a
+UID:a28ce716-d535-47fd-bb6f-ed9245268752
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T190000Z
 DTEND:20261106T210000Z
 SUMMARY:Liga Femenina Endesa - Ensino Lugo - Lointek Gernika
-UID:9f60f87d-97b7-48d1-8972-05482534e3d6
+UID:c9dfb756-49dc-43e7-818a-2707c13ff649
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T190000Z
 DTEND:20261106T210000Z
 SUMMARY:Liga Femenina Endesa - Cadi La Seu - C.B. Jairis
-UID:4c7f34e0-44b6-4557-b273-3e4c9398143b
+UID:6f34ce63-457f-4e02-b6f8-40c9ad5ca5b2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T190000Z
 DTEND:20261106T210000Z
 SUMMARY:Liga Femenina Endesa - Spar Girona - Valencia Basket
-UID:4ff75706-f369-4053-a1f6-3db779fdcff1
+UID:9754ac2c-e4c0-4780-85a6-32941ef582bc
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li><
  /ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T193000Z
 DTEND:20261106T213000Z
 SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - IDK Euskotren
-UID:3dd51d74-ccca-4dda-85e9-2b0c38cc0238
+UID:d927d99d-d1b6-4dff-966d-3d786cd34fa6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T194500Z
 DTEND:20261106T214500Z
 SUMMARY:Liga Femenina Endesa - Celta Zorka - Kutxabank Araski
-UID:996d5292-faf5-4680-85b5-93f5b6379414
+UID:02cabc2c-9b4b-490c-a1a0-371e8cea39a9
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T200000Z
 DTEND:20261106T220000Z
 SUMMARY:Primera FEB - Súper Agropal Palencia - Coviran Granada
-UID:3955f9cc-4bb5-4e0d-ac53-6301da2dc970
+UID:67ed97e0-2f9d-4129-9485-0ff980bcfa98
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T000000Z
 DTEND:20261107T020000Z
 SUMMARY:NBA - Charlotte Hornets - Boston Celtics
-UID:4a6db03c-4690-4b8e-98e3-d475e6797dbc
+UID:2db4c922-adc2-4a3f-8377-2f023454ea0a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T000000Z
 DTEND:20261107T020000Z
 SUMMARY:NBA - Atlanta Hawks - Washington Wizards
-UID:23f75ae2-a176-48ff-88c1-efbdc16e3e56
+UID:4ccb132a-2fd6-4e81-8974-5bf12fed54f2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T003000Z
 DTEND:20261107T023000Z
 SUMMARY:NBA - Cleveland Cavaliers - Philadelphia 76ers
-UID:e5688287-e499-436b-9073-5b60cf9ee48e
+UID:a1632e9b-b73a-4d62-a577-460613fc944e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T010000Z
 DTEND:20261107T030000Z
 SUMMARY:NBA - Milwaukee Bucks - Toronto Raptors
-UID:21d6246f-35e4-4a8f-b5dd-eff10a4bf514
+UID:7165fe73-81af-45e6-9930-39c3ee57af79
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T010000Z
 DTEND:20261107T030000Z
 SUMMARY:NBA - New Orleans Pelicans - Minnesota Timberwolves
-UID:90ef9616-856e-4683-8388-8112bd4bd1a9
+UID:e1761724-1fe8-4c82-b9bc-32c8fe2eebfa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T010000Z
 DTEND:20261107T030000Z
 SUMMARY:NBA - Dallas Mavericks - Utah Jazz
-UID:d4e43e0f-07a7-4297-a83c-3a892c8ed9a9
+UID:5ed85f42-ec1f-44db-947c-a0d04653b2a1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T010000Z
 DTEND:20261107T030000Z
 SUMMARY:NBA - Memphis Grizzlies - Oklahoma C. Thunder
-UID:96e8cb7a-09bc-4a80-9ef0-67485341c6e8
+UID:fe26e35d-3d4a-4afa-90ea-f2fe27c93f3f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T030000Z
 DTEND:20261107T050000Z
 SUMMARY:NBA - Los Angeles Lakers - Portland Trail Blazers
-UID:adc8ed63-d73d-4668-b292-af0fe668b9e8
+UID:135de49c-447d-4f36-a911-52d3c5980a19
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T030000Z
 DTEND:20261107T050000Z
 SUMMARY:NBA - Sacramento Kings - San Antonio Spurs
-UID:0e4449dd-5982-4819-8ddc-60d558e4b17d
+UID:5607e9a9-8e3e-40c6-b7d7-2b550ce0b076
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T030000Z
 DTEND:20261107T050000Z
 SUMMARY:NBA - Los Angeles Lakers - Portland Trail Blazers
-UID:13f766d6-b8ce-449d-bb69-1de35e3564b6
+UID:a0c1beaf-bd59-48a5-a428-5d498424dd27
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Amazon Prime Video<
  /li>\n<li>PPV: NBA League Pass</li></ul></body></html>
 DESCRIPTION:- PPV: Amazon Prime Video\n- PPV: NBA League Pass
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T170000Z
 DTEND:20261107T190000Z
 SUMMARY:Liga Endesa - Kids&Us Manresa - Monbus Obradoiro
-UID:e4409977-b3f0-4bb8-9f94-b4df4df0cc5a
+UID:56cc6c61-39db-41a5-b3b9-cd3e3d04b737
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T173000Z
 DTEND:20261107T193000Z
 SUMMARY:Primera FEB - Partizan Fuenlabrada - Club Ourense Baloncesto
-UID:f00e80f1-1096-451e-91ff-1ac37ae89c39
+UID:34528f27-7135-4d13-9982-85d90cb7a417
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T180000Z
 DTEND:20261107T200000Z
 SUMMARY:Primera FEB - Albacete Basket - Hestia Menorca
-UID:015bad23-fc73-4d4c-83ed-56546609b96a
+UID:df76bbcd-4b4a-4319-a251-b4a4bb235865
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T180000Z
 DTEND:20261107T200000Z
 SUMMARY:Primera FEB - HLA Alicante - Palmer Mallorca Palma
-UID:1c07cd7a-df5c-4749-ade2-e315f6702758
+UID:5a762754-708c-44da-ae7c-593597714717
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T180000Z
 DTEND:20261107T200000Z
 SUMMARY:Primera FEB - G.A. Cantabria - Movistar Estudiantes
-UID:58e3f925-4b98-415a-9363-ef9f6529eb21
+UID:8f1ddf97-3998-49f0-9321-5883041836a1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T183000Z
 DTEND:20261107T203000Z
 SUMMARY:Liga Endesa - Bàsquet Girona - Bilbao Basket
-UID:64e7f3ca-44aa-4823-96f3-869bff49d9ac
+UID:64ed32c1-dd15-479d-bce7-b451ddd31f1d
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T200000Z
 DTEND:20261107T220000Z
 SUMMARY:Liga Endesa - iLERNA Lleida - Baskonia
-UID:e618ef53-0bf9-4d3f-abdf-a976b235894a
+UID:abe61c5d-ec2d-4a51-8cda-5ddb84c8979f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T200000Z
 DTEND:20261107T220000Z
 SUMMARY:Primera FEB - Dreamland Gran Canaria - Gipuzkoa Basket
-UID:38751d9c-04ce-48f8-9ec2-540e1a27bec0
+UID:5860ec8d-de5b-490c-8669-efb99941bf6e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261107T220000Z
 DTEND:20261108T000000Z
 SUMMARY:NBA - Indiana Pacers - Denver Nuggets
-UID:4cde9b2d-5181-4c57-a7f8-a747b4030adb
+UID:be961039-af52-420f-ad43-31f5dea9d96b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: NBA League Pass</li
  ></ul></body></html>
 DESCRIPTION:- PPV: NBA League Pass

@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
+DTSTART:20261029T190000Z
+DTEND:20261029T210000Z
+SUMMARY:Euroliga Femenina - Casademont Zaragoza - Kibirkstis Vilnius
+UID:8d1c5342-adc3-4dd9-9d9f-6cdb2d8829f0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
+ <li>Open: Aragón TV</li>\n<li>PPV: M+ Vamos 3</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: M+ Vamos 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030753Z
 DTSTART:20261031T170000Z
 DTEND:20261031T190000Z
 SUMMARY:Liga Endesa - Casademont Zaragoza - Bàsquet Girona
-UID:e885412d-ec71-434d-b7a2-3bdf4e29c012
+UID:fb230c1b-8836-44c6-bf06-fc5432f80ba0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261101T111500Z
 DTEND:20261101T131500Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - Baloncesto Leganés
-UID:6245af64-3196-48ef-a670-a3ddbb52da68
+UID:f4fdd708-f26f-49e1-9379-bf9735af46e1
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  <li>Open: Aragón TV</li>\n<li>Open: Siroko TV</li>\n<li>PPV: M+ Balonces
  to 3</li></ul></body></html>
@@ -38,21 +48,21 @@ DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- Open: Siroko TV\n-
  PPV: M+ Baloncesto 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261103T183000Z
 DTEND:20261103T203000Z
 SUMMARY:Euroliga Femenina - Basket Landes - Casademont Zaragoza
-UID:3d073cad-62ad-4621-9211-e95bdc99a19d
+UID:d2e14d83-2908-473d-b172-094f08a65b12
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261029T030753Z
 DTSTART:20261106T183000Z
 DTEND:20261106T203000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Casademont Zaragoza
  
-UID:83800f37-102f-4770-b11a-f04db203d388
+UID:d07343a5-4c7e-4d8f-a9ad-3fb38f939e4e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV

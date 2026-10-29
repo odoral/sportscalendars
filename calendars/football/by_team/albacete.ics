@@ -16,25 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
-DTSTART:20261028T190000Z
-DTEND:20261028T210000Z
-SUMMARY:Copa del Rey - Calvo Sotelo Puertollano - Albacete
-UID:8ff49916-5dae-4ad1-9ff9-6e6988effe8f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMM (Castilla-LM)<
- /li></ul></body></html>
-DESCRIPTION:- Open: CMM (Castilla-LM)
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
+DTSTAMP:20261029T030745Z
 DTSTART:20261031T200000Z
 DTEND:20261031T220000Z
 SUMMARY:Liga Hypermotion - Albacete - Sabadell
-UID:52b5b66d-05d5-494d-bb54-2be0eea6a85f
+UID:32fae1c7-08d0-4897-a075-0cd66d888dfd
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030745Z
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:Liga Hypermotion - Leganés - Albacete
+UID:0030b897-8c0d-46d0-8f91-af143d84de58
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
+DTSTAMP:20261029T030745Z
 DTSTART:20261031T110000Z
 DTEND:20261031T130000Z
 SUMMARY:Liga F - Valencia Féminas - Eibar Fem.
-UID:8d92dfe6-dbf8-45f3-aa8c-9d9f77e1ffdf
+UID:36641409-6d95-46b3-8bee-7b9b13d7f371
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li>\n<l
  i>PPV: DAZN</li>\n<li>PPV: DAZN 3</li></ul></body></html>
 DESCRIPTION:- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030745Z
+DTSTART:20261107T161500Z
+DTEND:20261107T181500Z
+SUMMARY:Liga F - Eibar Fem. - Real Sociedad F.
+UID:efc9ea64-7cbf-4005-8423-d9e0c6f64006
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

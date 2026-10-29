@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
+DTSTAMP:20261029T030745Z
 DTSTART:20261101T110000Z
 DTEND:20261101T130000Z
 SUMMARY:Primera Federación - Barakaldo - Pontevedra
-UID:0281e24d-088a-49be-a854-4eca52fb83de
+UID:ba337468-0b23-4aa5-9624-846bb8789a62
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030745Z
+DTSTART:20261107T153000Z
+DTEND:20261107T173000Z
+SUMMARY:Primera Federación - Pontevedra - UD Ourense
+UID:9a9cb63d-f28c-4a2f-8efe-37ee583e6256
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

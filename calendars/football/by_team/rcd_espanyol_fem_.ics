@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261025T015855Z
+DTSTAMP:20261029T030745Z
 DTSTART:20261031T150000Z
 DTEND:20261031T170000Z
 SUMMARY:Liga F - RCD Espanyol Fem. - Logroño United
-UID:fd71f42f-23c7-4716-bba6-27b27170a867
+UID:1ff8f549-c3f6-4a69-8011-1489b9b66d7e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li></u
  l></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play\n- P
  PV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261029T030745Z
+DTSTART:20261107T110000Z
+DTEND:20261107T130000Z
+SUMMARY:Liga F - Granada Fem. - RCD Espanyol Fem.
+UID:8a2926f3-a22c-4e35-908f-5acb32b043e3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
