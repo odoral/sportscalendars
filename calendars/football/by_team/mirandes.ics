@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261025T015855Z
+DTSTAMP:20261030T031137Z
 DTSTART:20261031T153000Z
 DTEND:20261031T173000Z
 SUMMARY:Primera Federación - U.D. Logroñés - Mirandés
-UID:b054483b-7583-42a5-bbbf-5e1a264ce0c5
+UID:f8dc96fa-04da-495a-a764-e2fcaf754cb2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031137Z
+DTSTART:20261108T171500Z
+DTEND:20261108T191500Z
+SUMMARY:Primera Federación - Mirandés - C.D. Coria
+UID:066efd38-b064-4b2d-b46c-45b92086940b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

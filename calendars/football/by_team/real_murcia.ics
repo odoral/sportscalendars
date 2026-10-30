@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261025T015854Z
+DTSTAMP:20261030T031137Z
 DTSTART:20261101T110000Z
 DTEND:20261101T130000Z
 SUMMARY:Primera Federación - Antequera - Real Murcia
-UID:f632914c-84e3-42b4-b0f9-902933b325fd
+UID:84d42c60-8002-4357-9836-3208927d94de
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031137Z
+DTSTART:20261108T193000Z
+DTEND:20261108T213000Z
+SUMMARY:Primera Federación - Real Murcia - Algeciras
+UID:569d601b-93b4-45f0-bbb8-5e7e758c8202
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

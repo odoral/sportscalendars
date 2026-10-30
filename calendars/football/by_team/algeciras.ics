@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261026T020015Z
+DTSTAMP:20261030T031138Z
 DTSTART:20261102T171500Z
 DTEND:20261102T191500Z
 SUMMARY:Primera Federación - Jaén - Algeciras
-UID:3355da94-2464-498a-b614-5b907117021b
+UID:ddb82ad1-5cd4-4ac9-a11a-7b62e6a4d5ca
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031138Z
+DTSTART:20261108T193000Z
+DTEND:20261108T213000Z
+SUMMARY:Primera Federación - Real Murcia - Algeciras
+UID:017bd666-fb28-4ec5-b0de-ff21030aae25
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

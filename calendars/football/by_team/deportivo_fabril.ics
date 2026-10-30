@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
+DTSTAMP:20261030T031137Z
 DTSTART:20261101T174500Z
 DTEND:20261101T194500Z
 SUMMARY:Primera Federación - Zamora C.F. - Deportivo Fabril
-UID:5f5123be-e68c-4af0-a60b-1cd45a9cad50
+UID:f3a1b8dc-2cb3-415a-bee8-b20ebe4c2c2a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031137Z
+DTSTART:20261108T110000Z
+DTEND:20261108T130000Z
+SUMMARY:Primera Federación - Arenas Club - Deportivo Fabril
+UID:959529bc-f4fc-4739-ac97-36c86363471b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

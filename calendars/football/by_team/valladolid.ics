@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261024T021235Z
+DTSTAMP:20261030T031137Z
 DTSTART:20261102T173000Z
 DTEND:20261102T193000Z
 SUMMARY:Liga Hypermotion - Valladolid - Leganés
-UID:3f264a1b-2aac-499e-9dc0-3ce166848418
+UID:b518decc-04f0-49ae-973c-0f95473a814a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031137Z
+DTSTART:20261108T173000Z
+DTEND:20261108T193000Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Valladolid
+UID:54adce03-bb44-45d5-b870-c8e06603044b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261029T030746Z
+DTSTAMP:20261030T031138Z
 DTSTART:20261102T200000Z
 DTEND:20261102T220000Z
 SUMMARY:Liga Hypermotion - Mallorca - Cádiz
-UID:023e2f91-7aba-4811-a0a0-e07b826ee6a8
+UID:a84c2021-eab5-4741-9a52-8022ac952969
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031138Z
+DTSTART:20261108T130000Z
+DTEND:20261108T150000Z
+SUMMARY:Liga Hypermotion - F.C. Andorra - Mallorca
+UID:98f99668-ea21-4a7b-acae-db205ad0285d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li>\n<li>PPV:
+  DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- Open: IB3\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

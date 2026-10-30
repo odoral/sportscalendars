@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T024644Z
+DTSTAMP:20261030T031137Z
 DTSTART:20261102T151500Z
 DTEND:20261102T171500Z
 SUMMARY:Liga Hypermotion - Real Oviedo - Las Palmas
-UID:d870345d-e2bb-4f04-85c5-8310efc77404
+UID:ad6d167a-3831-47cd-acc1-48eb55498cec
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
  html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
  ol 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031137Z
+DTSTART:20261108T173000Z
+DTEND:20261108T193000Z
+SUMMARY:Liga Hypermotion - Las Palmas - C.D. Eldense
+UID:85926b21-0bc7-43ac-ab72-5de06768ab67
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261026T020015Z
+DTSTAMP:20261030T031138Z
 DTSTART:20261031T174500Z
 DTEND:20261031T194500Z
 SUMMARY:Primera Federación - R.M. Castilla - Cartagena
-UID:dbcb1acb-27c6-431c-bd96-52315f496900
+UID:49c95025-863e-47ec-ac25-a9175c873c29
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 7 Murcia</li>\n
  <li>PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</
  li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: La 7 Murcia\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: F
  ootballClub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031138Z
+DTSTART:20261108T150000Z
+DTEND:20261108T170000Z
+SUMMARY:Primera Federación - R.M. Castilla - Hércules
+UID:cb98b604-5a25-4430-b3d6-61066cb3cc55
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR

@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261026T020015Z
+DTSTAMP:20261030T031137Z
 DTSTART:20261102T193000Z
 DTEND:20261102T213000Z
 SUMMARY:Primera Federación - Huesca - Nàstic Tarragona
-UID:7e3830c9-e625-4dba-a5d7-8c95cac28dc4
+UID:f3a92239-a6ac-4281-b76f-78a06431d4cb
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031137Z
+DTSTART:20261108T110000Z
+DTEND:20261108T130000Z
+SUMMARY:Primera Federación - Águilas F.C. - Nàstic Tarragona
+UID:7ddcd94b-dbe0-4ede-b118-1075606348d4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

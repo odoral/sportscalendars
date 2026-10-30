@@ -16,25 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
-DTSTART:20261029T200000Z
-DTEND:20261029T220000Z
-SUMMARY:Women's Champions League - HB Køge Kvinder - Barcelona Femenino
-UID:3ddacc56-28c6-47e4-9ab1-02435ce10a2f
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Disney+</li></ul></
- body></html>
-DESCRIPTION:- PPV: Disney+
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
+DTSTAMP:20261030T031137Z
 DTSTART:20261101T113000Z
 DTEND:20261101T133000Z
 SUMMARY:Liga F - FC Badalona Women - Barcelona Femenino
-UID:9838b9f3-f16a-4493-9547-6873f14e08f0
+UID:3315c26a-bf6c-4bf0-9298-193753083703
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PP
  V: DAZN 1</li></ul></body></html>
 DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: D
  AZN\n- PPV: DAZN 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031137Z
+DTSTART:20261108T150000Z
+DTEND:20261108T170000Z
+SUMMARY:Liga F - Barcelona Femenino - Madrid C.F.F.
+UID:451d4d2d-890c-4f1e-a0dc-edb3b5ec466e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
+ : Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></b
+ ody></html>
+DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: D
+ AZN
 END:VEVENT
 END:VCALENDAR

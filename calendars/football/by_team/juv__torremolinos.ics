@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
+DTSTAMP:20261030T031138Z
 DTSTART:20261101T150000Z
 DTEND:20261101T170000Z
 SUMMARY:Primera Federación - Juv. Torremolinos - Águilas F.C.
-UID:05564213-1a5a-409c-9ca2-8437e4c8e9f6
+UID:9b61cb04-a374-4595-9177-0f6117796da8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 4</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031138Z
+DTSTART:20261108T110000Z
+DTEND:20261108T130000Z
+SUMMARY:Primera Federación - Villarreal B - Juv. Torremolinos
+UID:de246463-ee34-4a62-9fe6-d599fc373cff
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

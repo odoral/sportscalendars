@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261025T015854Z
+DTSTAMP:20261030T031137Z
 DTSTART:20261101T153000Z
 DTEND:20261101T173000Z
 SUMMARY:Primera Federación - UD Ourense - Cultural Leonesa
-UID:4d046af3-464c-445d-b517-775eb4a53f73
+UID:7c3035c4-0808-48d8-bac7-eb1d82777735
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031137Z
+DTSTART:20261108T171500Z
+DTEND:20261108T191500Z
+SUMMARY:Primera Federación - Cultural Leonesa - Ponferradina
+UID:a50ac8d7-cb59-4295-a273-9891d19aa9e2
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

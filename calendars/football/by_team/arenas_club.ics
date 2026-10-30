@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T100539Z
+DTSTAMP:20261030T031138Z
 DTSTART:20261101T153000Z
 DTEND:20261101T173000Z
 SUMMARY:Primera Federación - C.D. Coria - Arenas Club
-UID:ede2c1ee-831b-4d04-aa35-57547cc0bbcf
+UID:ad6261b3-7933-4516-a17f-106871a479d8
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
  </html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T031138Z
+DTSTART:20261108T110000Z
+DTEND:20261108T130000Z
+SUMMARY:Primera Federación - Arenas Club - Deportivo Fabril
+UID:5845ebcc-cc34-49c5-9108-0884d40778b8
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR
