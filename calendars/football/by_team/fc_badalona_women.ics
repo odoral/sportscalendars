@@ -16,11 +16,11 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261030T103048Z
+DTSTAMP:20261030T232025Z
 DTSTART:20261101T113000Z
 DTEND:20261101T133000Z
 SUMMARY:Liga F - FC Badalona Women - Barcelona Femenino
-UID:40cddd8a-98c8-47e6-b029-aa9b22f8d8a8
+UID:c52f9ffb-8fe6-4ffd-b661-6f8c3d84c90a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
  : Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PP
  V: DAZN 1</li></ul></body></html>
@@ -28,13 +28,23 @@ DESCRIPTION:- Open: TV3\n- Open: Teledeporte\n- Open: rtve Play\n- PPV: D
  AZN\n- PPV: DAZN 1
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T103048Z
+DTSTAMP:20261030T232025Z
 DTSTART:20261105T190000Z
 DTEND:20261105T210000Z
 SUMMARY:Copa de la Reina - Sporting Huelva - FC Badalona Women
-UID:90758025-ce31-43da-a471-08902089c2b0
+UID:5298b650-aaee-4d1b-aca6-b302d694e2e0
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T232025Z
+DTSTART:20261109T180000Z
+DTEND:20261109T200000Z
+SUMMARY:Liga F - At. Madrid Fem. - FC Badalona Women
+UID:55bbba40-f9c6-4abc-86ce-219fed8ae474
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
