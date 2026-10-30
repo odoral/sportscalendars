@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261030T103052Z
 DTSTART:20261101T160000Z
 DTEND:20261101T180000Z
 SUMMARY:Liga Endesa - Baskonia - Kids&Us Manresa
-UID:84b57869-ef51-415c-8c63-f6b591d6b614
+UID:a09706da-fee7-4bda-ad7e-8c7bb2c55ffa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  M+ Vamos 2</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 2
+  DAZN Baloncesto</li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto\n- PPV: M+ Vamos 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261028T234143Z
+DTSTAMP:20261030T103052Z
 DTSTART:20261107T200000Z
 DTEND:20261107T220000Z
 SUMMARY:Liga Endesa - iLERNA Lleida - Baskonia
-UID:9ae13422-834f-4d0a-a0f1-38ead15acafc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:10877c79-c8a8-4ac1-baa9-a78e57ee26a1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

@@ -16,22 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261030T031143Z
+DTSTAMP:20261030T103052Z
 DTSTART:20261103T170000Z
 DTEND:20261103T190000Z
 SUMMARY:Euroliga Femenina - Valencia Basket - Fenerbahçe S.K.
-UID:324aecd5-b811-4fd8-af2b-1033cbb814bd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li><
- /ul></body></html>
-DESCRIPTION:- Open: À Punt Mèdia
+UID:f5dc918f-2b34-465c-90b6-c6fc51c914a7
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li>\
+ n<li>PPV: M+ Baloncesto 2</li></ul></body></html>
+DESCRIPTION:- Open: À Punt Mèdia\n- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T031143Z
+DTSTAMP:20261030T103052Z
 DTSTART:20261103T183000Z
 DTEND:20261103T203000Z
 SUMMARY:Euroliga Femenina - Basket Landes - Casademont Zaragoza
-UID:2cb2d916-5617-4b66-9027-78f132900083
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:4249e30d-66bc-4bfc-a57b-602ccea48402
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

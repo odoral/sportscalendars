@@ -16,23 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261030T031143Z
+DTSTAMP:20261030T103052Z
 DTSTART:20261031T180000Z
 DTEND:20261031T200000Z
 SUMMARY:Liga Femenina Endesa - CAB Estepona - Spar Girona
-UID:b3c07f53-c036-4168-8b1f-c042b7feceb9
+UID:5e1449c4-5ac8-4acc-bdf8-c6811735d17e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261030T031143Z
+DTSTAMP:20261030T103052Z
+DTSTART:20261104T161500Z
+DTEND:20261104T181500Z
+SUMMARY:Eurocup Women - SBS Ostrava - Spar Girona
+UID:6b6bc256-d1ba-4cac-9526-bcb7948d308e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261030T103052Z
 DTSTART:20261106T190000Z
 DTEND:20261106T210000Z
 SUMMARY:Liga Femenina Endesa - Spar Girona - Valencia Basket
-UID:14acfd4b-1646-457c-8416-035980132f74
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li><
- /ul></body></html>
-DESCRIPTION:- PPV: M+ Baloncesto
+UID:86f5dcff-c8ea-45be-8f26-bf785c80526b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR
