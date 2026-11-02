@@ -16,13 +16,33 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261031T100046Z
+DTSTAMP:20261102T114544Z
 DTSTART:20261104T170000Z
 DTEND:20261104T190000Z
 SUMMARY:Eurocup - Lietkabelis Panevezys - Kids&Us Manresa
-UID:bd5630df-d15c-4c45-b173-43289d0a8559
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
- /body></html>
-DESCRIPTION:- PPV: M+ Vamos
+UID:8bf900ac-4b3b-4363-bc1a-1f3934c05410
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto</li>\
+ n<li>PPV: M+ Vamos</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto\n- PPV: M+ Vamos
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T114544Z
+DTSTART:20261104T193000Z
+DTEND:20261104T213000Z
+SUMMARY:Eurocup - San Pablo Burgos - Rostock Seawolves
+UID:1b5e4a5a-b3f9-47a7-8410-3f11b7f7097b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 2</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261102T114544Z
+DTSTART:20261105T200000Z
+DTEND:20261105T220000Z
+SUMMARY:Eurocup - La Laguna Tenerife - U-BT Cluj Napoca
+UID:a498a6dc-0402-4db3-9d60-c15e618cd5c5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 3</li
+ ></ul></body></html>
+DESCRIPTION:- PPV: M+ Baloncesto 3
 END:VEVENT
 END:VCALENDAR
