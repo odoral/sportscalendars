@@ -20,8 +20,8 @@ dependencies {
     implementation("org.mnode.ical4j:ical4j:3.2.18")
     implementation("org.slf4j:slf4j-api:2.0.13")
     implementation("com.google.guava:guava:33.2.1-jre")
-    runtimeOnly("ch.qos.logback:logback-core:1.5.6")
-    runtimeOnly("ch.qos.logback:logback-classic:1.5.6")
+    runtimeOnly("ch.qos.logback:logback-core:1.5.34")
+    runtimeOnly("ch.qos.logback:logback-classic:1.5.34")
 
     compileOnly("org.projectlombok:lombok:1.18.32")
     annotationProcessor("org.projectlombok:lombok:1.18.32")
