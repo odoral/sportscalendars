@@ -1,5 +1,11 @@
 #!/usr/bin/env bash
 
+TARGET_BRANCH="${1:?Usage: $0 <target-branch>}"
+if ! git check-ref-format --branch "$TARGET_BRANCH" >/dev/null; then
+  echo "Invalid target branch: $TARGET_BRANCH" >&2
+  exit 1
+fi
+
 echo "Print environment variables"
 env | sort
 
@@ -17,7 +23,7 @@ java -jar ./sportcalendars-web-scraper/build/libs/sportcalendars-web-scraper-all
 UPDATED_CALENDARS=0
 
 echo "Checking for new calendars"
-for calendar in $(git ls-files --others --exclude-standard | grep -e '^calendars\/'); do 
+for calendar in $(git ls-files --others --exclude-standard | grep -e '^calendars\/'); do
   echo "Adding new calendar: ${calendar}"
   git add ${calendar}
   UPDATED_CALENDARS=$(expr ${UPDATED_CALENDARS} + 1)
@@ -42,7 +48,7 @@ if [ ${UPDATED_CALENDARS} -gt 0 ]; then
   echo "Commit"
   git add README.md || true
   git commit -m "[AUTOMATION] ${TIMESTAMP} execution"
-  git push origin HEAD
+  git push origin "HEAD:refs/heads/${TARGET_BRANCH}"
   git tag "${TIMESTAMP}"
   git push origin --tags
 fi
