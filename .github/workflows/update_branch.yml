@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
 
       - name: Set up JDK 21
         uses: actions/setup-java@v2
@@ -23,7 +25,7 @@ jobs:
         run: chmod a+x run.sh
 
       - name: Run build and update script
-        run: ./run.sh
-
+        run: ./run.sh "$TARGET_BRANCH"
         env:
+          TARGET_BRANCH: ${{ github.head_ref || github.ref_name }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
