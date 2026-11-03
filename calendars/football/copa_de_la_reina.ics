@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+VERSION:2.0
+PRODID:-//Sport Events App//iCal4j 1.0//ES
+BEGIN:VTIMEZONE
+TZID:Etc/UTC
+LAST-MODIFIED:20261009T235635Z
+TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
+X-LIC-LOCATION:Etc/UTC
+X-PROLEPTIC-TZNAME:UTC
+BEGIN:STANDARD
+TZNAME:UTC
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+DTSTART:16010101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20261103T155407Z
+DTSTART:20261103T170000Z
+DTEND:20261103T190000Z
+SUMMARY:Copa de la Reina - Celta Fem. - RCD Espanyol Fem.
+UID:4dd9f918-0204-43e8-a894-73f16d79b093
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T155407Z
+DTSTART:20261104T190000Z
+DTEND:20261104T210000Z
+SUMMARY:Copa de la Reina - C.D. Argual - Madrid C.F.F.
+UID:54623b98-7116-4520-97e6-02afa22355a3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Deportes TVCanaria
+  YouTube</li></ul></body></html>
+DESCRIPTION:- Open: Deportes TVCanaria YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T155407Z
+DTSTART:20261105T190000Z
+DTEND:20261105T210000Z
+SUMMARY:Copa de la Reina - Sporting Huelva - FC Badalona Women
+UID:d3c99c3a-7d67-478d-b9cf-3bcf0383743b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261103T155407Z
+DTSTART:20261105T190000Z
+DTEND:20261105T210000Z
+SUMMARY:Copa de la Reina - C.E. Europa Fem. - Deportivo Abanca
+UID:d70a2707-8d00-4e7d-8886-33e8153be65f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betevé (Bcn)</li><
+ /ul></body></html>
+DESCRIPTION:- Open: Betevé (Bcn)
+END:VEVENT
+END:VCALENDAR
