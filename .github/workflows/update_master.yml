@@ -25,7 +25,7 @@ jobs:
         run: chmod a+x run.sh
 
       - name: Run build and update script
-        run: ./run.sh
-
+        run: ./run.sh "$TARGET_BRANCH"
         env:
+          TARGET_BRANCH: master
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
