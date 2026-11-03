@@ -5,8 +5,8 @@ import net.fortuna.ical4j.model.*;
 import net.fortuna.ical4j.model.component.VEvent;
 import net.fortuna.ical4j.model.parameter.XParameter;
 import net.fortuna.ical4j.model.property.Description;
+import net.fortuna.ical4j.model.property.Uid;
 import net.fortuna.ical4j.model.property.XProperty;
-import net.fortuna.ical4j.util.RandomUidGenerator;
 import org.apache.commons.lang3.time.DateUtils;
 import org.doral.sportcalendars.webscraper.model.calendar.Channel;
 import org.doral.sportcalendars.webscraper.model.calendar.SportEvent;
@@ -16,8 +16,10 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 import java.io.OutputStream;
+import java.nio.charset.StandardCharsets;
 import java.util.Comparator;
 import java.util.List;
+import java.util.UUID;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -64,10 +66,23 @@ public class ICal4jWriter implements ICalendarWriter {
                 buildDateTime(sportEvent.getStartTimestamp()),
                 buildDateTime(DateUtils.addHours(sportEvent.getStartTimestamp(), 2)),
                 sportEvent.getName())
-                .withProperty(new RandomUidGenerator().generateUid())
+                .withProperty(buildUid(sportEvent))
                 .withProperty(htmlProp)
                 .withProperty(new Description(toPlain(sportEvent, sportEvent.getChannels())))
                 .getFluentTarget();
+    }
+
+    private static Uid buildUid(SportEvent sportEvent) {
+        String identity = String.join("|",
+                normalized(sportEvent.getName()),
+                Long.toString(sportEvent.getStartTimestamp().getTime()),
+                normalized(sportEvent.getTeamA()),
+                normalized(sportEvent.getTeamB()));
+        return new Uid(UUID.nameUUIDFromBytes(identity.getBytes(StandardCharsets.UTF_8)).toString());
+    }
+
+    private static String normalized(String value) {
+        return value == null ? "" : value.trim();
     }
 
     private static DateTime buildDateTime(java.util.Date timestamp) {
