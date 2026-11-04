@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261103T041652Z
+DTSTAMP:20261104T033524Z
 DTSTART:20261108T110000Z
 DTEND:20261108T130000Z
 SUMMARY:Primera Federación - Águilas F.C. - Nàstic Tarragona
-UID:6625951d-37a9-4d41-afc1-3349dbdfd0d3
+UID:6c1c809f-4905-3ce4-93b3-d334741efe04
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261104T033524Z
+DTSTART:20261113T201500Z
+DTEND:20261113T221500Z
+SUMMARY:Primera Federación - Nàstic Tarragona - R.M. Castilla
+UID:6083b9d4-80e4-3d78-bf37-d769fed7e6b4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR
