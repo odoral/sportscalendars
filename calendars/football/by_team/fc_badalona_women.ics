@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261102T025832Z
-DTSTART:20261105T190000Z
-DTEND:20261105T210000Z
+DTSTAMP:20261104T114030Z
+DTSTART:20261104T230000Z
+DTEND:20261105T010000Z
 SUMMARY:Copa de la Reina - Sporting Huelva - FC Badalona Women
-UID:300a8cb1-ecff-471d-a57b-8af00e4960c0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
- >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
+UID:cf818af7-b8be-3661-b23f-0584995cb09a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><b>Atención: </b>Pendiente de co
+ nfirmar\n<ul><li>Open: Esport 3</li>\n<li>Open: Teledeporte</li>\n<li>Op
+ en: rtve Play</li></ul></body></html>
+DESCRIPTION:Atención: Pendiente de confirmar\n- Open: Esport 3\n- Open: T
+ eledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261102T025832Z
+DTSTAMP:20261104T114030Z
 DTSTART:20261109T180000Z
 DTEND:20261109T200000Z
 SUMMARY:Liga F - At. Madrid Fem. - FC Badalona Women
-UID:145c3a46-cf73-4ccd-8546-92e342013902
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:f5917122-a1f2-39b5-9bd6-a7c3cc7b4037
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 2
 END:VEVENT
 END:VCALENDAR

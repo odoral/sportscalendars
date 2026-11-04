@@ -16,13 +16,14 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261103T122244Z
+DTSTAMP:20261104T114030Z
 DTSTART:20261105T200000Z
 DTEND:20261105T220000Z
 SUMMARY:Europa League - Benfica - Lech Poznan
-UID:d85aa915-2bf4-48eb-a33c-75167ac01473
+UID:7b37e2cd-9ada-3453-9726-226d57e8c322
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 10</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 10
+ s 10</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 10\n- PPV: M+ Liga de Campeones 3
+ 
 END:VEVENT
 END:VCALENDAR

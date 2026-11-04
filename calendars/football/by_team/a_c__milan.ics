@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261103T122244Z
+DTSTAMP:20261104T114029Z
 DTSTART:20261105T174500Z
 DTEND:20261105T194500Z
 SUMMARY:Europa League - A.C. Milan - Ferencvaros
-UID:d5acc1f0-0d80-44db-aada-0d629e1a8790
+UID:5d212806-5c39-32b8-84c9-34f16ecf37ab
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261103T122244Z
+DTSTAMP:20261104T114029Z
 DTSTART:20261108T140000Z
 DTEND:20261108T160000Z
 SUMMARY:Serie A Italia - Genoa - A.C. Milan
-UID:56c853a6-2f3b-4a6d-8fc5-d0c09b948e86
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+UID:c91d873f-95c4-31f1-b370-3be149177486
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Multi 3</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 3
 END:VEVENT
 END:VCALENDAR

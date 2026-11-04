@@ -16,23 +16,24 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261102T114537Z
+DTSTAMP:20261104T114029Z
 DTSTART:20261105T174500Z
 DTEND:20261105T194500Z
 SUMMARY:Conference League - Crvena Zvezda - Inter Club d'Escaldes
-UID:498e82cf-7b5e-4aed-a6a8-2d6ea4a5dbfb
+UID:57dfe69e-2615-3a69-9800-1af35966f9d3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 11</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 11
+ s 11</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 11\n- PPV: M+ Liga de Campeones 3
+ 
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261102T114537Z
+DTSTAMP:20261104T114029Z
 DTSTART:20261105T200000Z
 DTEND:20261105T220000Z
 SUMMARY:Conference League - Getafe - Brighton
-UID:f7fa9360-d34e-4709-b6d9-5740110aa957
+UID:855153ee-c8a1-310d-880d-f286abc68135
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 2</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 2
+ s 2</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 END:VCALENDAR

@@ -16,22 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261101T025133Z
+DTSTAMP:20261104T114030Z
 DTSTART:20261105T200000Z
 DTEND:20261105T220000Z
 SUMMARY:Europa League - Celta - Union Saint-Gilloise
-UID:9dbe675a-d408-493f-bf1f-41deaf64ff14
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+UID:c4e1532a-c514-3b79-92bb-c4b6fda608dc
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: M+ Liga de Campeones 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261101T025133Z
+DTSTAMP:20261104T114030Z
 DTSTART:20261108T173000Z
 DTEND:20261108T193000Z
 SUMMARY:Liga EA Sports - Celta - Levante
-UID:7e25a70c-3c12-42f7-be6d-cbc8952dc036
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li></ul>
- </body></html>
-DESCRIPTION:- PPV: M+ LaLiga
+UID:f5723b03-7166-306f-b7a3-55db6f9d1fb1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
+ li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
+DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga
 END:VEVENT
 END:VCALENDAR
