@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261104T114030Z
+DTSTAMP:20261105T114137Z
 DTSTART:20261107T174500Z
 DTEND:20261107T194500Z
 SUMMARY:Primera Federación - Cartagena - Sant Andreu
@@ -26,5 +26,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
   Multi 4</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n
  - PPV: LaLiga TV Multi 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T114137Z
+DTSTART:20261114T173000Z
+DTEND:20261114T193000Z
+SUMMARY:Primera Federación - C.E. Europa - Sant Andreu
+UID:f148c2ed-846a-302c-b251-a58f94ed332a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

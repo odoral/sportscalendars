@@ -16,24 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261104T114035Z
-DTSTART:20261104T170000Z
-DTEND:20261104T190000Z
-SUMMARY:Eurocup - Lietkabelis Panevezys - Kids&Us Manresa
-UID:de17ac7c-931e-3030-9d1d-3d55408e0e51
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
- \n<li>PPV: M+ Baloncesto</li>\n<li>PPV: M+ Vamos</li></ul></body></html>
- 
-DESCRIPTION:- Open: Esport3 (Web)\n- PPV: M+ Baloncesto\n- PPV: M+ Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261104T114035Z
+DTSTAMP:20261105T114143Z
 DTSTART:20261107T170000Z
 DTEND:20261107T190000Z
 SUMMARY:Liga Endesa - Kids&Us Manresa - Monbus Obradoiro
 UID:e808a562-05bc-391a-b42a-d969a01704fd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Baloncesto 3</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto 3
 END:VEVENT
 END:VCALENDAR
