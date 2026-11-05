@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261101T025133Z
+DTSTAMP:20261105T094757Z
 DTSTART:20261107T120000Z
 DTEND:20261107T140000Z
 SUMMARY:Primera Federación - Racing Ferrol - U.D. Logroñés
-UID:d2382480-b5b7-4c5e-ae21-f1a539ff103b
+UID:ff2fa706-b510-350c-82e4-a07435f93292
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T094757Z
+DTSTART:20261114T120000Z
+DTEND:20261114T140000Z
+SUMMARY:Primera Federación - Bilbao Athletic - Racing Ferrol
+UID:b85cd915-c351-32ef-bcb7-d3b882df1217
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

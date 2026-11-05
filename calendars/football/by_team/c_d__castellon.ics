@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261102T114537Z
+DTSTAMP:20261105T094757Z
 DTSTART:20261106T193000Z
 DTEND:20261106T213000Z
 SUMMARY:Liga Hypermotion - C.D. Castellón - Eibar
-UID:b7f107fc-d6ae-467f-9e46-3cfc8e4a2786
+UID:27e94e64-df5b-3d38-900c-3ce2d4f42778
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T094757Z
+DTSTART:20261114T130000Z
+DTEND:20261114T150000Z
+SUMMARY:Liga Hypermotion - Valladolid - C.D. Castellón
+UID:b2eb28f2-281e-3939-a105-c6f1a9e794ad
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR

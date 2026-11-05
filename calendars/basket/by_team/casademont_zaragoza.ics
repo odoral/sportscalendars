@@ -16,24 +16,36 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261104T033531Z
+DTSTAMP:20261105T094803Z
 DTSTART:20261106T183000Z
 DTEND:20261106T203000Z
 SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - Casademont Zaragoza
  
 UID:b370cca0-530c-3fac-a599-08a7fb29e669
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
- i>PPV: M+ Baloncesto 3</li></ul></body></html>
-DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
+ <li>Open: Aragón TV</li>\n<li>Open: Siroko TV</li>\n<li>PPV: M+ Balonces
+ to 3</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- Open: Siroko TV\n- 
+ PPV: M+ Baloncesto 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261104T033531Z
+DTSTAMP:20261105T094803Z
 DTSTART:20261108T160000Z
 DTEND:20261108T180000Z
 SUMMARY:Liga Endesa - Casademont Zaragoza - Unicaja Málaga
 UID:a3da07ff-d117-372f-b49a-7afe2131247c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN Baloncesto 3</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN Baloncesto 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T094803Z
+DTSTART:20261114T200000Z
+DTEND:20261114T220000Z
+SUMMARY:Liga Endesa - Joventut Badalona - Casademont Zaragoza
+UID:6e8401dd-776a-33dc-a476-387f017a7800
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  Movistar Plus+</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: Movistar Plus+
 END:VEVENT
 END:VCALENDAR

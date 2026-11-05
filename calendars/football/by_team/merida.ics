@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261102T025832Z
+DTSTAMP:20261105T094757Z
 DTSTART:20261108T171500Z
 DTEND:20261108T191500Z
 SUMMARY:Primera Federación - Mérida - Bilbao Athletic
-UID:c1eaba1d-0e78-4cfe-a004-5ca6302c2e68
+UID:eabe502a-b703-3f64-a8be-e5d66712fb70
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T094757Z
+DTSTART:20261114T153000Z
+DTEND:20261114T173000Z
+SUMMARY:Primera Federación - UD Ourense - Mérida
+UID:3a36f471-3a14-34e1-8a76-aab0a79136b3
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV

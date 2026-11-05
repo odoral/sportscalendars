@@ -16,13 +16,27 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261103T041652Z
+DTSTAMP:20261105T094757Z
 DTSTART:20261108T130000Z
 DTEND:20261108T150000Z
 SUMMARY:Liga Hypermotion - F.C. Andorra - Mallorca
-UID:06df812d-3d5a-4e0a-ae98-8e96dec26560
+UID:aeb2b2cd-7fd6-3de7-9c86-6fead9c90e3b
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li>\n<li>PPV:
-  DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- Open: IB3\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Mult
+ i 2</li></ul></body></html>
+DESCRIPTION:- Open: IB3\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV
+ : LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T094757Z
+DTSTART:20261114T173000Z
+DTEND:20261114T193000Z
+SUMMARY:Liga Hypermotion - Mallorca - Córdoba
+UID:c247d797-74d6-33e8-9fd5-e1a0dc4a765f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

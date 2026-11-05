@@ -16,11 +16,21 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261102T025832Z
+DTSTAMP:20261105T094756Z
 DTSTART:20261107T153000Z
 DTEND:20261107T173000Z
 SUMMARY:Primera Federación - Antequera - Rayo Majadahonda
-UID:62adb951-48bf-46b4-8e4c-2cec6e624adf
+UID:811ee58c-053f-3a81-b298-703ab68bc2f5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T094756Z
+DTSTART:20261114T153000Z
+DTEND:20261114T173000Z
+SUMMARY:Primera Federación - Rayo Majadahonda - Águilas F.C.
+UID:def71850-bdde-3aea-b1a3-b5a8d0d47f34
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV

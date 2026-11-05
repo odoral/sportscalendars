@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261104T033524Z
+DTSTAMP:20261105T094757Z
 DTSTART:20261108T163000Z
 DTEND:20261108T183000Z
 SUMMARY:Premier League - Manchester United - Aston Villa
 UID:01619a81-17e8-34e2-8a30-90ce127935e5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  DAZN 2</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li>
+ </ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 2\n- PPV: M+ Liga de Campeones\n- PP
+ V: M+ Vamos
 END:VEVENT
 END:VCALENDAR

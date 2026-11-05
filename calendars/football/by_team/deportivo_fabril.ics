@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261102T025832Z
+DTSTAMP:20261105T094757Z
 DTSTART:20261108T110000Z
 DTEND:20261108T130000Z
 SUMMARY:Primera Federación - Arenas Club - Deportivo Fabril
-UID:39adcfbb-b3d6-4507-81a0-c647a8b8ba5a
+UID:21dd2cd7-712b-3865-9999-2a2a2f767a01
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+ i>PPV: FootballClub TV</li>\n<li>PPV: LaLiga TV Multi 3</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
+ ulti 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T094757Z
+DTSTART:20261114T174500Z
+DTEND:20261114T194500Z
+SUMMARY:Primera Federación - Deportivo Fabril - Barakaldo
+UID:64b422f3-2ff1-32b6-9a64-cac992961f59
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

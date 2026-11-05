@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261102T025832Z
+DTSTAMP:20261105T094757Z
 DTSTART:20261108T150000Z
 DTEND:20261108T170000Z
 SUMMARY:Primera Federación - R.M. Castilla - Hércules
-UID:3a550279-a043-422a-855e-4a75e2c7def9
+UID:dc751f37-efa3-30ee-a13a-630b36d6ee78
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261105T094757Z
+DTSTART:20261114T174500Z
+DTEND:20261114T194500Z
+SUMMARY:Primera Federación - Hércules - Villarreal B
+UID:48a0c737-e07d-328d-be22-947049c6877a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
