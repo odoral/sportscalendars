@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261105T114137Z
+DTSTAMP:20261106T003546Z
 DTSTART:20261107T110000Z
 DTEND:20261107T130000Z
 SUMMARY:Liga F - Granada Fem. - RCD Espanyol Fem.
@@ -26,5 +26,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
  dy></html>
 DESCRIPTION:- Open: Esport 3\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN
   2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T003546Z
+DTSTART:20261115T171500Z
+DTEND:20261115T191500Z
+SUMMARY:Liga F - Valencia Féminas - Granada Fem.
+UID:f6eee255-7ab3-3df0-a4c9-90619e8ec92b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

@@ -16,13 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261101T025133Z
+DTSTAMP:20261106T003547Z
 DTSTART:20261108T110000Z
 DTEND:20261108T130000Z
 SUMMARY:Primera Federación - Teruel - U.D. Ibiza
-UID:409e47f5-37e9-4e30-8a68-c1ff02a086c8
+UID:4e3c9be8-cd00-3b5d-974e-376e3180e549
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
  i>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T003547Z
+DTSTART:20261115T110000Z
+DTEND:20261115T130000Z
+SUMMARY:Primera Federación - At. Madrid B - Teruel
+UID:fb556244-d436-3860-83eb-ed97102a7107
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
+ <li>Open: Aragón TV</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClu
+ b TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: FanPlay TV\n- 
+ PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

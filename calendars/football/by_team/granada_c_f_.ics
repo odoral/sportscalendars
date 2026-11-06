@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261104T114030Z
+DTSTAMP:20261106T003547Z
 DTSTART:20261107T200000Z
 DTEND:20261107T220000Z
 SUMMARY:Liga Hypermotion - Granada C.F. - Tenerife
@@ -26,5 +26,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
  </html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
  ulti 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T003547Z
+DTSTART:20261115T151500Z
+DTEND:20261115T171500Z
+SUMMARY:Liga Hypermotion - Granada C.F. - Las Palmas
+UID:90e9b58b-b3f3-3cc2-ae68-a18267bf6168
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li>\n<
+ li>PPV: DAZN</li>\n<li>PPV: LaLiga TV Hypermotion</li></ul></body></html
+ >
+DESCRIPTION:- Open: TV Canaria\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+ 
 END:VEVENT
 END:VCALENDAR

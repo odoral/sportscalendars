@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261101T025133Z
+DTSTAMP:20261106T003546Z
 DTSTART:20261106T201500Z
 DTEND:20261106T221500Z
 SUMMARY:Primera Federación - Real Avilés - CD Extremadura
-UID:54adb5fb-9b8b-417a-93cf-870fb9271b62
+UID:6f98fe76-2f59-315e-832f-edad5d54ab31
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261106T003546Z
+DTSTART:20261115T131500Z
+DTEND:20261115T151500Z
+SUMMARY:Primera Federación - Zamora C.F. - Real Avilés
+UID:e383bf63-de15-38b7-aefc-dbe9e962326a
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
