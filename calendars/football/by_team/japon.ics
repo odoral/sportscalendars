@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260627T064503Z
-DTSTART:20260629T170000Z
-DTEND:20260629T190000Z
-SUMMARY:Mundial 2026 - Brasil - Japón
-UID:0434fb56-f969-464b-b60c-ca8dac8875d5
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
- body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
- dial
+DTSTAMP:20261107T104503Z
+DTSTART:20261107T183000Z
+DTEND:20261107T203000Z
+SUMMARY:Mundial Sub-17 Femenino - Japón - Nigeria
+UID:8a5e03cf-a983-341a-b1b3-4da8d6fa3604
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261107T104503Z
+DTSTART:20261113T180000Z
+DTEND:20261113T200000Z
+SUMMARY:Otras competiciones - España - Japón
+UID:ae15113e-1310-3830-b364-139e2235235a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

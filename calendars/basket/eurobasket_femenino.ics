@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20240422T053450Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,184 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T121500Z
-DTEND:20241110T141500Z
-SUMMARY:Eurobasket Femenino - República de Irlanda - Israel
-UID:9f155e6a-8c1d-499e-b453-8978b052656d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
+DTSTAMP:20261107T104510Z
+DTSTART:20261110T193000Z
+DTEND:20261110T213000Z
+SUMMARY:Eurobasket Femenino - España - República Checa
+UID:bd82cfbe-dcdb-3ca2-8daf-bf82489e8939
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T124500Z
-DTEND:20241110T144500Z
-SUMMARY:Eurobasket Femenino - Grecia - Italia
-UID:4e7ed7fb-7ef7-4cc3-b8b5-a8930eed9e48
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T130000Z
-DTEND:20241110T150000Z
-SUMMARY:Eurobasket Femenino - Suecia - Gran Bretaña
-UID:e4eae2fb-5b5d-4c50-ab56-d7d70df83832
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T140000Z
-DTEND:20241110T160000Z
-SUMMARY:Eurobasket Femenino - Estonia - Dinamarca
-UID:4fe9eeec-2c16-4be3-9658-c17a47775843
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T150000Z
-DTEND:20241110T170000Z
-SUMMARY:Eurobasket Femenino - Finlandia - Bulgaria
-UID:ea3b3696-10fa-462a-818d-fe4da05e002d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T160000Z
-DTEND:20241110T180000Z
-SUMMARY:Eurobasket Femenino - Alemania - República Checa
-UID:447ebc50-f503-427b-99cd-d477296213c9
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T160000Z
-DTEND:20241110T180000Z
-SUMMARY:Eurobasket Femenino - Azerbaiyan - Lituania
-UID:1916d1ca-88c4-4165-abad-60b011c9f0ca
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T160000Z
-DTEND:20241110T180000Z
-SUMMARY:Eurobasket Femenino - Luxemburgo - Suiza
-UID:88bdb074-8449-49c7-a63a-3d7cf49793db
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T161000Z
-DTEND:20241110T181000Z
-SUMMARY:Eurobasket Femenino - Letonia - Francia
-UID:4095a0e0-d572-4182-b8de-64ce44a228cd
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T170000Z
-DTEND:20241110T190000Z
-SUMMARY:Eurobasket Femenino - Eslovenia - Hungría
-UID:c943b902-bbfe-4193-9452-13066692832b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T170000Z
-DTEND:20241110T190000Z
-SUMMARY:Eurobasket Femenino - Montenegro - Bosnia
-UID:d1418868-b403-4a96-8870-0269faf42195
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T170000Z
-DTEND:20241110T190000Z
-SUMMARY:Eurobasket Femenino - Islandia - Rumanía
-UID:1e7ed64b-5f4b-4572-88c4-db1cc74dc669
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T170000Z
-DTEND:20241110T190000Z
-SUMMARY:Eurobasket Femenino - Austria - Holanda
-UID:5445a513-4f28-43fe-9d06-e152478d19fa
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T170000Z
-DTEND:20241110T190000Z
-SUMMARY:Eurobasket Femenino - Eslovaquia - Turquía
-UID:c3476e96-27ad-4c99-a655-97f5177e9ebc
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T170000Z
-DTEND:20241110T190000Z
-SUMMARY:Eurobasket Femenino - Macedonia Norte - Portugal
-UID:e8beca51-a1d1-44c2-aa50-3df697ffd5f6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T180000Z
-DTEND:20241110T200000Z
-SUMMARY:Eurobasket Femenino - España - Croacia
-UID:6fb381f6-a4e8-42fb-aab0-9dfaae016055
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li>\
- n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
- 
-DESCRIPTION:- Open: FIBA YouTube\n- Open: Teledeporte\n- Open: rtve Play
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T193000Z
-DTEND:20241110T213000Z
-SUMMARY:Eurobasket Femenino - Ucrania - Serbia
-UID:9a5a6efb-f21c-467c-b24b-9cd5387c4a16
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20241110T081006Z
-DTSTART:20241110T193000Z
-DTEND:20241110T213000Z
-SUMMARY:Eurobasket Femenino - Polonia - Bélgica
-UID:73b42d20-1e92-4039-bc31-ddeb309423b0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
- /ul></body></html>
-DESCRIPTION:- Open: FIBA YouTube
+DTSTAMP:20261107T104510Z
+DTSTART:20261114T170000Z
+DTEND:20261114T190000Z
+SUMMARY:Eurobasket Femenino - Bulgaria - España
+UID:378ff941-ed8e-3636-993c-5528922af94b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
