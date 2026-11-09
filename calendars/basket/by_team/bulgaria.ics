@@ -16,13 +16,34 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261107T104510Z
+DTSTAMP:20261109T121515Z
+DTSTART:20261111T140000Z
+DTEND:20261111T160000Z
+SUMMARY:Eurobasket Femenino - Bulgaria - Croacia
+UID:d6fd9072-f631-3c2e-b017-978b7de4e5a6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T121515Z
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
 SUMMARY:Eurobasket Femenino - Bulgaria - España
 UID:378ff941-ed8e-3636-993c-5528922af94b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li>\
+ n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+ 
+DESCRIPTION:- Open: FIBA YouTube\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T121515Z
+DTSTART:20261117T161500Z
+DTEND:20261117T181500Z
+SUMMARY:Eurobasket Femenino - República Checa - Bulgaria
+UID:4658c9d3-0fe7-327f-af7c-97eaff28a986
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR

@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260721T092906Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260910T082753Z
-DTSTART:20260910T154500Z
-DTEND:20260910T174500Z
-SUMMARY:FIBA Mundial Femenino - Bélgica - Alemania
-UID:577a7720-2dde-400e-95f5-f2f3f914750b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
- ></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
- + Baloncesto
+DTSTAMP:20261109T121515Z
+DTSTART:20261112T193000Z
+DTEND:20261112T213000Z
+SUMMARY:Eurobasket Femenino - Bélgica - Suecia
+UID:2c15b146-5cc8-357f-978f-658f479c51cf
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T121515Z
+DTSTART:20261115T150000Z
+DTEND:20261115T170000Z
+SUMMARY:Eurobasket Femenino - Suecia - Bélgica
+UID:8fc58553-eb0c-36ef-b28e-8522cb4c15b9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR

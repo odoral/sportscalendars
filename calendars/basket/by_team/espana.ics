@@ -16,23 +16,35 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261107T104510Z
+DTSTAMP:20261109T121515Z
 DTSTART:20261110T193000Z
 DTEND:20261110T213000Z
 SUMMARY:Eurobasket Femenino - España - República Checa
 UID:bd82cfbe-dcdb-3ca2-8daf-bf82489e8939
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li>\
+ n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+ 
+DESCRIPTION:- Open: FIBA YouTube\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261107T104510Z
+DTSTAMP:20261109T121515Z
 DTSTART:20261114T170000Z
 DTEND:20261114T190000Z
 SUMMARY:Eurobasket Femenino - Bulgaria - España
 UID:378ff941-ed8e-3636-993c-5528922af94b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li>\
+ n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+ 
+DESCRIPTION:- Open: FIBA YouTube\n- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261109T121515Z
+DTSTART:20261117T170000Z
+DTEND:20261117T190000Z
+SUMMARY:Eurobasket Femenino - Croacia - España
+UID:d9af82e4-352c-3fa4-86ce-6bcc229834b2
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR
