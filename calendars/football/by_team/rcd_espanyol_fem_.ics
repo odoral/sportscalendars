@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261108T025638Z
+DTSTAMP:20261110T045642Z
 DTSTART:20261114T110000Z
 DTEND:20261114T130000Z
 SUMMARY:Liga F - RCD Espanyol Fem. - Costa Adeje Tenerife
@@ -24,5 +24,15 @@ UID:716d8753-0b08-3205-abff-bcf65f49fa71
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
  \n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
 DESCRIPTION:- Open: Esport3 (Web)\n- Open: rtve Play\n- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261110T045642Z
+DTSTART:20261119T180000Z
+DTEND:20261119T200000Z
+SUMMARY:Copa de la Reina - Celta Fem. - RCD Espanyol Fem.
+UID:ee1672e2-66f3-3c6d-8ece-15a76744ae5d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
