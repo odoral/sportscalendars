@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261108T231503Z
+DTSTAMP:20261112T115721Z
 DTSTART:20261114T110000Z
 DTEND:20261114T130000Z
 SUMMARY:Liga F - RCD Espanyol Fem. - Costa Adeje Tenerife
 UID:716d8753-0b08-3205-abff-bcf65f49fa71
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
- \n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
-DESCRIPTION:- Open: Esport3 (Web)\n- Open: rtve Play\n- PPV: DAZN
+ \n<li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Esport3 (Web)\n- Open: rtve Play\n- PPV: DAZN\n- PPV:
+  DAZN 1
 END:VEVENT
 END:VCALENDAR

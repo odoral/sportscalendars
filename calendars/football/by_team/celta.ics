@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261109T121508Z
+DTSTAMP:20261112T115722Z
 DTSTART:20261113T200000Z
 DTEND:20261113T220000Z
 SUMMARY:Copa del Rey - Salamanca UDS - Celta
@@ -24,5 +24,17 @@ UID:1c460154-b703-3fab-9379-fbc5cd1927fa
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: LaLiga TV Multi 2</
  li>\n<li>PPV: M+ LaLiga</li></ul></body></html>
 DESCRIPTION:- PPV: LaLiga TV Multi 2\n- PPV: M+ LaLiga
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261112T115722Z
+DTSTART:20261121T200000Z
+DTEND:20261121T220000Z
+SUMMARY:Liga EA Sports - Real Madrid - Celta
+UID:51e6658c-6b3c-3e6f-b3c9-6e22a65ef3bd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
+ >PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul></body></ht
+ ml>
+DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
+  1
 END:VEVENT
 END:VCALENDAR
