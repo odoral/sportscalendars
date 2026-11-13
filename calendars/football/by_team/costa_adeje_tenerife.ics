@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261112T115721Z
+DTSTAMP:20261113T114032Z
 DTSTART:20261114T110000Z
 DTEND:20261114T130000Z
 SUMMARY:Liga F - RCD Espanyol Fem. - Costa Adeje Tenerife
@@ -26,5 +26,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
  ></body></html>
 DESCRIPTION:- Open: Esport3 (Web)\n- Open: rtve Play\n- PPV: DAZN\n- PPV:
   DAZN 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T114032Z
+DTSTART:20261122T160000Z
+DTEND:20261122T180000Z
+SUMMARY:Liga F - Costa Adeje Tenerife - Madrid C.F.F.
+UID:35e7fe65-9cb3-3010-8a8a-8ae63bc6a3c4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li>\n<li>PPV: DAZN</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

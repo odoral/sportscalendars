@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261108T231503Z
+DTSTAMP:20261113T114032Z
 DTSTART:20261114T151500Z
 DTEND:20261114T171500Z
 SUMMARY:Liga Hypermotion - Real Sociedad B - Sporting de Gijón
@@ -24,5 +24,17 @@ UID:1e76919e-1256-378b-877c-b81216954223
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   LaLiga TV Hypermotion</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T114032Z
+DTSTART:20261122T151500Z
+DTEND:20261122T171500Z
+SUMMARY:Liga Hypermotion - Sporting de Gijón - Las Palmas
+UID:65a25ae5-a851-3e9f-b6d8-19d27cc5db29
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li>\n<li>PPV: Orange Fútbol 2</li></ul></body></
+ html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: Orange Fútb
+ ol 2
 END:VEVENT
 END:VCALENDAR

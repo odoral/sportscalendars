@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261108T231503Z
+DTSTAMP:20261113T114032Z
 DTSTART:20261114T174500Z
 DTEND:20261114T194500Z
 SUMMARY:Primera Federación - Deportivo Fabril - Barakaldo
@@ -24,5 +24,15 @@ UID:64b422f3-2ff1-32b6-9a64-cac992961f59
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li></ul></body></html>
 DESCRIPTION:- Open: TVG\n- PPV: FanPlay TV\n- PPV: FootballClub TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T114032Z
+DTSTART:20261122T150000Z
+DTEND:20261122T170000Z
+SUMMARY:Primera Federación - Deportivo Fabril - C.D. Coria
+UID:c22e58e1-718d-354a-b3d5-db821f73a660
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR

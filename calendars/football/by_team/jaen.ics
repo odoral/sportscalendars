@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261108T025638Z
+DTSTAMP:20261113T114032Z
 DTSTART:20261114T200000Z
 DTEND:20261114T220000Z
 SUMMARY:Primera Federación - Jaén - Real Zaragoza
 UID:a190ced9-d9d3-3c4e-ac0c-f34e0e3cbfe1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T114032Z
+DTSTART:20261122T150000Z
+DTEND:20261122T170000Z
+SUMMARY:Primera Federación - Cartagena - Jaén
+UID:881c5b4c-2481-3756-900b-554393fd8c60
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

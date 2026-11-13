@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261112T115722Z
+DTSTAMP:20261113T114032Z
 DTSTART:20261115T110000Z
 DTEND:20261115T130000Z
 SUMMARY:Liga F - Real Sociedad F. - Athletic Club Fem.
 UID:b2773b13-dcbc-3268-970f-601fd5e8f1e6
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport3 (Web)</li>
- \n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: DAZN</l
- i>\n<li>PPV: DAZN 1</li></ul></body></html>
-DESCRIPTION:- Open: Esport3 (Web)\n- Open: Teledeporte\n- Open: rtve Play
- \n- PPV: DAZN\n- PPV: DAZN 1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: ETB1</li>\n<li>Ope
+ n: Esport3 (Web)</li>\n<li>Open: Teledeporte</li>\n<li>Open: rtve Play</
+ li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN 1</li></ul></body></html>
+DESCRIPTION:- Open: ETB1\n- Open: Esport3 (Web)\n- Open: Teledeporte\n- O
+ pen: rtve Play\n- PPV: DAZN\n- PPV: DAZN 1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T114032Z
+DTSTART:20261122T110000Z
+DTEND:20261122T130000Z
+SUMMARY:Liga F - Real Sociedad F. - Sevilla FC Fem.
+UID:dbed30c8-f5df-308d-a1bb-fc2cafb65f7c
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  M+ Vamos 2</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: M+ Vamos 2
 END:VEVENT
 END:VCALENDAR

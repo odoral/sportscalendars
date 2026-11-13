@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261108T025638Z
+DTSTAMP:20261113T114032Z
 DTSTART:20261114T120000Z
 DTEND:20261114T140000Z
 SUMMARY:Primera Federación - Bilbao Athletic - Racing Ferrol
 UID:b85cd915-c351-32ef-bcb7-d3b882df1217
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261113T114032Z
+DTSTART:20261122T110000Z
+DTEND:20261122T130000Z
+SUMMARY:Primera Federación - UD Ourense - Racing Ferrol
+UID:59970ae0-caee-3403-92cb-25479d7af731
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
