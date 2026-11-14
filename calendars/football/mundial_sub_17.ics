@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20250410T142246Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,23 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20251127T081546Z
-DTSTART:20251127T123000Z
-DTEND:20251127T143000Z
-SUMMARY:Mundial Sub-17 - Brasil - Italia
-UID:a02ff358-c21f-4221-a848-7ec2ed83324c
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li></ul></b
- ody></html>
-DESCRIPTION:- Open: FIFA+
+DTSTAMP:20261114T110138Z
+DTSTART:20261120T140000Z
+DTEND:20261120T160000Z
+SUMMARY:Mundial Sub-17 - España - China
+UID:0e479eec-de2e-3cd3-a678-560a7563a6c0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251127T081546Z
-DTSTART:20251127T160000Z
-DTEND:20251127T180000Z
-SUMMARY:Mundial Sub-17 - Portugal - Austria
-UID:a918b72d-de54-48ff-a8fd-8cdc380b958b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIFA+</li></ul></b
- ody></html>
-DESCRIPTION:- Open: FIFA+
+DTSTAMP:20261114T110138Z
+DTSTART:20261123T123000Z
+DTEND:20261123T143000Z
+SUMMARY:Mundial Sub-17 - España - Fiyi
+UID:19c57ecb-7b79-3681-8cb3-e905e53be9d6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
