@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261112T115722Z
+DTSTAMP:20261115T032718Z
 DTSTART:20261121T200000Z
 DTEND:20261121T220000Z
 SUMMARY:Liga EA Sports - Real Madrid - Celta
@@ -26,5 +26,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga</li>\n<li
  ml>
 DESCRIPTION:- PPV: M+ LaLiga\n- PPV: Movistar Plus+\n- PPV: Orange Fútbol
   1
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261115T032718Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:Champions League - Real Madrid - PSV Eindhoven
+UID:05f1c06b-30da-3c64-9e03-6e9ddfde620f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s</li>\n<li>PPV: Movistar Plus+</li>\n<li>PPV: Orange Fútbol 1</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+\n- PPV: Or
+ ange Fútbol 1
 END:VEVENT
 END:VCALENDAR
