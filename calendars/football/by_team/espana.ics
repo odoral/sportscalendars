@@ -16,7 +16,17 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261115T233805Z
+DTSTAMP:20261117T170914Z
+DTSTART:20261117T180000Z
+DTEND:20261117T200000Z
+SUMMARY:Otras competiciones - Albania - España
+UID:aa761cc6-e8a9-3d09-a835-077be0adfcc3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: rtve Play</li></ul
+ ></body></html>
+DESCRIPTION:- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T170914Z
 DTSTART:20261120T140000Z
 DTEND:20261120T160000Z
 SUMMARY:Mundial Sub-17 - España - China
@@ -26,11 +36,21 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261115T233805Z
+DTSTAMP:20261117T170914Z
 DTSTART:20261123T123000Z
 DTEND:20261123T143000Z
 SUMMARY:Mundial Sub-17 - España - Fiyi
 UID:19c57ecb-7b79-3681-8cb3-e905e53be9d6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261117T170914Z
+DTSTART:20261126T150000Z
+DTEND:20261126T170000Z
+SUMMARY:Mundial Sub-17 - Marruecos - España
+UID:911dbe88-04fc-3ec3-89ac-f8e363b88e18
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play

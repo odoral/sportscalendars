@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260306T231828Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260708T062009Z
-DTSTART:20260709T200000Z
-DTEND:20260709T220000Z
-SUMMARY:Mundial 2026 - Francia - Marruecos
-UID:4cea317e-c30c-49ab-b4ef-05ded3b150eb
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: La 1</li>\n<li>Ope
- n: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Mundial</li></ul></
- body></html>
-DESCRIPTION:- Open: La 1\n- Open: rtve Play\n- PPV: DAZN\n- PPV: DAZN Mun
- dial
+DTSTAMP:20261117T170914Z
+DTSTART:20261126T150000Z
+DTEND:20261126T170000Z
+SUMMARY:Mundial Sub-17 - Marruecos - España
+UID:911dbe88-04fc-3ec3-89ac-f8e363b88e18
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR
