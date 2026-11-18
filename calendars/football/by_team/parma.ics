@@ -16,13 +16,15 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261112T115722Z
+DTSTAMP:20261118T122317Z
 DTSTART:20261121T170000Z
 DTEND:20261121T190000Z
 SUMMARY:Serie A Italia - Parma - Roma
 UID:dd16e11e-22c8-3b23-aa0b-c393d52d56cf
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
- y></html>
-DESCRIPTION:- PPV: DAZN
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Multi 5</li>\n<li>PPV: M+ Vamos</li>\n<li>PPV: Orange Fútbol 
+ 3</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Multi 5\n- PPV: M+ Vamos\n- PPV
+ : Orange Fútbol 3
 END:VEVENT
 END:VCALENDAR

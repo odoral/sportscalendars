@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261115T233805Z
+DTSTAMP:20261118T122317Z
 DTSTART:20261118T180000Z
 DTEND:20261118T200000Z
 SUMMARY:Copa del Rey - Utebo C.F. - Sabadell
@@ -26,13 +26,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
 DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261115T233805Z
+DTSTAMP:20261118T122317Z
 DTSTART:20261121T130000Z
 DTEND:20261121T150000Z
 SUMMARY:Liga Hypermotion - Sabadell - Granada C.F.
 UID:c246c65e-4fe9-313f-bd31-fe5b3c9cc914
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  LaLiga TV Hypermotion</li></ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
+  LaLiga TV Hypermotion</li>\n<li>PPV: LaLiga TV Multi 2</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n- PPV: LaLiga TV M
+ ulti 2
 END:VEVENT
 END:VCALENDAR
