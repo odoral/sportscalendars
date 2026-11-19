@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T113000Z
 DTEND:20261122T133000Z
 SUMMARY:Liga Femenina Endesa - Valencia Basket - Baloncesto Leganés
@@ -24,5 +24,15 @@ UID:c3dbf600-3a61-3df6-9c6e-b4685dae45d4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T044529Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Liga Femenina Endesa - Baloncesto Leganés - Celta Zorka
+UID:87e4c9bc-db62-38c3-98c4-9777e184c628
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR

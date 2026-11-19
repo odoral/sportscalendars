@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261115T032719Z
+DTSTAMP:20261119T044524Z
 DTSTART:20261121T153000Z
 DTEND:20261121T173000Z
 SUMMARY:Primera Federación - Real Zaragoza - Rayo Majadahonda
 UID:fd3459ff-3ffe-3415-879a-904e346e672b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T044524Z
+DTSTART:20261128T174500Z
+DTEND:20261128T194500Z
+SUMMARY:Primera Federación - Alcorcón - Real Zaragoza
+UID:48e55206-8b4b-33fc-8dbc-5a595eb750ef
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

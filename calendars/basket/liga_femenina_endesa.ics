@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
 SUMMARY:Liga Femenina Endesa - Lointek Gernika - Cadi La Seu
@@ -26,7 +26,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
 SUMMARY:Liga Femenina Endesa - BAXI Ferrol - Azulmarino Basket Mallorca
@@ -36,7 +36,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
 SUMMARY:Liga Femenina Endesa - Ensino Lugo - Spar Girona
@@ -48,7 +48,7 @@ DESCRIPTION:- Open: Siroko TV\n- Open: Teledeporte\n- Open: rtve Play\n-
  PPV: M+ Baloncesto 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T113000Z
 DTEND:20261122T133000Z
 SUMMARY:Liga Femenina Endesa - CAB Estepona - Celta Zorka
@@ -58,7 +58,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 5
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T113000Z
 DTEND:20261122T133000Z
 SUMMARY:Liga Femenina Endesa - Valencia Basket - Baloncesto Leganés
@@ -68,7 +68,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T160000Z
 DTEND:20261122T180000Z
 SUMMARY:Liga Femenina Endesa - C.B. Jairis - Movistar Estudiantes
@@ -78,7 +78,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos 3</li></ul
 DESCRIPTION:- PPV: M+ Vamos 3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
 SUMMARY:Liga Femenina Endesa - IDK Euskotren - Casademont Zaragoza
@@ -90,7 +90,7 @@ DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- Open: Siroko TV\n-
  PPV: M+ Baloncesto
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
 SUMMARY:Liga Femenina Endesa - Kutxabank Araski - Perfumerías Avenida
@@ -98,5 +98,55 @@ UID:8a844aa6-2c14-30f2-8806-2777eabb6341
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T044529Z
+DTSTART:20261128T160000Z
+DTEND:20261128T180000Z
+SUMMARY:Liga Femenina Endesa - Baloncesto Leganés - Celta Zorka
+UID:87e4c9bc-db62-38c3-98c4-9777e184c628
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T044529Z
+DTSTART:20261128T170000Z
+DTEND:20261128T190000Z
+SUMMARY:Liga Femenina Endesa - Perfumerías Avenida - BAXI Ferrol
+UID:28531c70-aeaa-34ac-8f8d-5ec0489d2622
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T044529Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:Liga Femenina Endesa - Azulmarino Basket Mallorca - Ensino Lugo
+UID:1af5954a-fba0-311f-b879-752668cf140f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T044529Z
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+SUMMARY:Liga Femenina Endesa - Cadi La Seu - Kutxabank Araski
+UID:629ef750-6ab2-39e7-9c74-8402f5c89308
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T044529Z
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - IDK Euskotren
+UID:e8c004d1-31a4-3506-a20f-50749ab329fa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR

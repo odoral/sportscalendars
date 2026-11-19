@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T110000Z
 DTEND:20261122T130000Z
 SUMMARY:Liga Femenina Endesa - BAXI Ferrol - Azulmarino Basket Mallorca
@@ -24,5 +24,15 @@ UID:08ad3807-5d81-3a6b-b5df-0cb49f36a3ee
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  i>PPV: M+ Baloncesto 2</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T044529Z
+DTSTART:20261128T180000Z
+DTEND:20261128T200000Z
+SUMMARY:Liga Femenina Endesa - Azulmarino Basket Mallorca - Ensino Lugo
+UID:1af5954a-fba0-311f-b879-752668cf140f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR

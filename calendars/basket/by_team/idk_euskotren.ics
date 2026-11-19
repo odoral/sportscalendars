@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
+DTSTAMP:20261119T044529Z
 DTSTART:20261122T170000Z
 DTEND:20261122T190000Z
 SUMMARY:Liga Femenina Endesa - IDK Euskotren - Casademont Zaragoza
@@ -26,5 +26,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
  to</li></ul></body></html>
 DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- Open: Siroko TV\n- 
  PPV: M+ Baloncesto
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261119T044529Z
+DTSTART:20261128T183000Z
+DTEND:20261128T203000Z
+SUMMARY:Liga Femenina Endesa - Movistar Estudiantes - IDK Euskotren
+UID:e8c004d1-31a4-3506-a20f-50749ab329fa
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR
