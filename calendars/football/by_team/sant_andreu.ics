@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261115T032719Z
+DTSTAMP:20261120T012845Z
 DTSTART:20261121T200000Z
 DTEND:20261121T220000Z
 SUMMARY:Primera Federación - Sant Andreu - At. Madrid B
@@ -26,5 +26,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Betevé (Bcn)</li>\
  /li>\n<li>PPV: Primera Federación</li></ul></body></html>
 DESCRIPTION:- Open: Betevé (Bcn)\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: 
  FootballClub TV\n- PPV: Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261120T012845Z
+DTSTART:20261129T193000Z
+DTEND:20261129T213000Z
+SUMMARY:Primera Federación - Real Murcia - Sant Andreu
+UID:c5316a5e-f69d-33ec-8978-d81299ff9e2e
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >PPV: DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>
+ \n<li>PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: Foot
+ ballClub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR
