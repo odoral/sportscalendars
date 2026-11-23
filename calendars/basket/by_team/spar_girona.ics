@@ -16,19 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261121T154246Z
-DTSTART:20261122T110000Z
-DTEND:20261122T130000Z
-SUMMARY:Liga Femenina Endesa - Ensino Lugo - Spar Girona
-UID:11beb8b2-5a06-3656-97b2-e911ece70090
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
- i>Open: Teledeporte</li>\n<li>Open: rtve Play</li>\n<li>PPV: M+ Balonces
- to 3</li></ul></body></html>
-DESCRIPTION:- Open: Siroko TV\n- Open: Teledeporte\n- Open: rtve Play\n- 
- PPV: M+ Baloncesto 3
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261121T154246Z
+DTSTAMP:20261123T042154Z
 DTSTART:20261125T190000Z
 DTEND:20261125T210000Z
 SUMMARY:Eurocup Women - Spar Girona - BC Montana 2003
@@ -38,7 +26,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
 DESCRIPTION:- Open: Esport 3\n- Open: FIBA YouTube
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261121T154246Z
+DTSTAMP:20261123T042154Z
 DTSTART:20261128T160000Z
 DTEND:20261128T180000Z
 SUMMARY:Liga Femenina Endesa - Spar Girona - Lointek Gernika
@@ -46,5 +34,15 @@ UID:7636df2c-a35b-3a1d-9eca-d130347e1367
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos 2</li></ul
  ></body></html>
 DESCRIPTION:- PPV: M+ Vamos 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T042154Z
+DTSTART:20261202T190000Z
+DTEND:20261202T210000Z
+SUMMARY:Eurocup Women - Spar Girona - Rutronik Stars Keltern
+UID:00204bb7-e334-3102-a128-afe3dcdd9a98
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: FIBA YouTube</li><
+ /ul></body></html>
+DESCRIPTION:- Open: FIBA YouTube
 END:VEVENT
 END:VCALENDAR

@@ -16,19 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261122T034457Z
-DTSTART:20261122T170000Z
-DTEND:20261122T190000Z
-SUMMARY:Liga Femenina Endesa - IDK Euskotren - Casademont Zaragoza
-UID:119eb29c-2e9f-3c98-95ad-1a6c1005747b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
- <li>Open: Aragón TV</li>\n<li>Open: Siroko TV</li>\n<li>PPV: M+ Balonces
- to</li></ul></body></html>
-DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- Open: Siroko TV\n- 
- PPV: M+ Baloncesto
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261122T034457Z
+DTSTAMP:20261123T042154Z
 DTSTART:20261125T190000Z
 DTEND:20261125T210000Z
 SUMMARY:Euroliga Femenina - Casademont Zaragoza - Athinaikos WBC
@@ -38,7 +26,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
 DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV\n- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261122T034457Z
+DTSTAMP:20261123T042154Z
 DTSTART:20261129T111500Z
 DTEND:20261129T131500Z
 SUMMARY:Liga Femenina Endesa - Casademont Zaragoza - C.B. Jairis
@@ -46,5 +34,14 @@ UID:a4b6fd2c-ce06-33a3-a389-7ff781651bec
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
  ></body></html>
 DESCRIPTION:- Open: Siroko TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T042154Z
+DTSTART:20261202T170000Z
+DTEND:20261202T190000Z
+SUMMARY:Euroliga Femenina - Kibirkstis Vilnius - Casademont Zaragoza
+UID:34a7b3c3-6671-3288-a546-1de72603f22f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
+DESCRIPTION:
 END:VEVENT
 END:VCALENDAR

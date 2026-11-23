@@ -16,19 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261120T121641Z
-DTSTART:20261122T163000Z
-DTEND:20261122T183000Z
-SUMMARY:Premier League - Liverpool - Manchester United
-UID:2b1d4bac-8ccf-3e22-a8de-7d009e66fa0d
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
-  DAZN 1</li>\n<li>PPV: M+ Liga de Campeones</li>\n<li>PPV: M+ Vamos</li>
- </ul></body></html>
-DESCRIPTION:- PPV: DAZN\n- PPV: DAZN 1\n- PPV: M+ Liga de Campeones\n- PP
- V: M+ Vamos
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20261120T121641Z
+DTSTAMP:20261123T042147Z
 DTSTART:20261125T200000Z
 DTEND:20261125T220000Z
 SUMMARY:Champions League - Sporting Portugal - Manchester United
@@ -38,11 +26,21 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
 DESCRIPTION:- PPV: M+ Liga de Campeones 4\n- PPV: M+ Liga de Campeones 8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261120T121641Z
+DTSTAMP:20261123T042147Z
 DTSTART:20261128T150000Z
 DTEND:20261128T170000Z
 SUMMARY:Premier League - Manchester United - Brentford
 UID:f7729caa-0cee-3bd1-bf4a-4b6abd22e1e4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T042147Z
+DTSTART:20261202T201500Z
+DTEND:20261202T221500Z
+SUMMARY:Premier League - Newcastle - Manchester United
+UID:fc975d37-3c3f-3107-a3bf-f0027c5619f4
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
  y></html>
 DESCRIPTION:- PPV: DAZN
