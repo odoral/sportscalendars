@@ -17,6 +17,7 @@ import org.slf4j.LoggerFactory;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.nio.charset.StandardCharsets;
+import java.time.ZoneOffset;
 import java.util.Comparator;
 import java.util.List;
 import java.util.UUID;
@@ -75,7 +76,10 @@ public class ICal4jWriter implements ICalendarWriter {
     private static Uid buildUid(SportEvent sportEvent) {
         String identity = String.join("|",
                 normalized(sportEvent.getName()),
-                Long.toString(sportEvent.getStartTimestamp().getTime()),
+                sportEvent.getStartTimestamp().toInstant()
+                        .atZone(ZoneOffset.UTC)
+                        .toLocalDate()
+                        .toString(),
                 normalized(sportEvent.getTeamA()),
                 normalized(sportEvent.getTeamB()));
         return new Uid(UUID.nameUUIDFromBytes(identity.getBytes(StandardCharsets.UTF_8)).toString());
