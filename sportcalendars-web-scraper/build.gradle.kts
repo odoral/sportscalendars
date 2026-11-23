@@ -23,6 +23,12 @@ dependencies {
     runtimeOnly("ch.qos.logback:logback-core:1.5.38")
     runtimeOnly("ch.qos.logback:logback-classic:1.5.38")
 
+    constraints {
+        implementation("commons-beanutils:commons-beanutils:1.11.0") {
+            because("Fixes CVE-2025-48734 in the transitive commons-validator dependency")
+        }
+    }
+
     compileOnly("org.projectlombok:lombok:1.18.48")
     annotationProcessor("org.projectlombok:lombok:1.18.48")
 
