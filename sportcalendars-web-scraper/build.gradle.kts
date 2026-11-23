@@ -1,6 +1,6 @@
 plugins {
     id("java")
-    id("io.ktor.plugin") version "2.3.11"
+    id("io.ktor.plugin") version "2.3.13"
 }
 
 application {
@@ -15,20 +15,21 @@ repositories {
 }
 
 dependencies {
-    implementation("info.picocli:picocli:4.7.6")
-    implementation("org.htmlunit:htmlunit:4.2.0")
-    implementation("org.mnode.ical4j:ical4j:3.2.18")
-    implementation("org.slf4j:slf4j-api:2.0.13")
-    implementation("com.google.guava:guava:33.7.1-jre")
-    runtimeOnly("ch.qos.logback:logback-core:1.5.34")
-    runtimeOnly("ch.qos.logback:logback-classic:1.5.34")
+    implementation("info.picocli:picocli:4.7.7")
+    implementation("org.htmlunit:htmlunit:4.21.0")
+    implementation("org.mnode.ical4j:ical4j:3.2.19")
+    implementation("org.slf4j:slf4j-api:2.0.20")
+    implementation("com.google.guava:guava:33.8.0-jre")
+    runtimeOnly("ch.qos.logback:logback-core:1.5.38")
+    runtimeOnly("ch.qos.logback:logback-classic:1.5.38")
 
-    compileOnly("org.projectlombok:lombok:1.18.32")
-    annotationProcessor("org.projectlombok:lombok:1.18.32")
+    compileOnly("org.projectlombok:lombok:1.18.48")
+    annotationProcessor("org.projectlombok:lombok:1.18.48")
 
-    testImplementation(platform("org.junit:junit-bom:5.10.0"))
+    testImplementation(platform("org.junit:junit-bom:5.14.4"))
     testImplementation("org.junit.jupiter:junit-jupiter")
-    testImplementation("org.mockito:mockito-core:3.5.13")
+    testRuntimeOnly("org.junit.platform:junit-platform-launcher")
+    testImplementation("org.mockito:mockito-core:3.12.4")
 }
 
 tasks.test {
