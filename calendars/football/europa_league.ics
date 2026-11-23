@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261117T170914Z
+DTSTAMP:20261123T132951Z
 DTSTART:20261126T174500Z
 DTEND:20261126T194500Z
 SUMMARY:Europa League - Celta - Bournemouth
@@ -25,7 +25,77 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
 DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261117T170914Z
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Europa League - Viktoria Plzen - Benfica
+UID:920c870d-50de-3ee5-90c9-8e84045b37ab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 6</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Europa League - O. Marsella - Levski Sofia
+UID:c40b0280-411c-32d1-96bb-adde4d39866f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 5</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Europa League - Dinamo Zagreb - Bayer Leverkusen
+UID:872c6b05-144e-3d92-9fa0-4a79cd4f86a9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 7</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Europa League - Olympiacos - A.C. Milan
+UID:bdab702e-1f69-3f39-a1f7-95726182a85b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Europa League - Red Bull Salzburg - Ararat-Armenia
+UID:8a46e3ab-cabd-37c6-9451-6128f87213ba
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 9</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 9
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Europa League - Union Saint-Gilloise - Lech Poznan
+UID:36701083-7882-35a1-8eac-a08b363b59f5
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 10</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T174500Z
+DTEND:20261126T194500Z
+SUMMARY:Europa League - Besiktas - Hapoel Beer Sheva
+UID:ecac4ade-ab9e-34ed-92a0-e9d1fb3f6f0f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 8</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
 DTSTART:20261126T200000Z
 DTEND:20261126T220000Z
 SUMMARY:Europa League - Crystal Palace - Real Sociedad
@@ -33,5 +103,95 @@ UID:c0a26ffc-9c8f-3f34-91a4-89eb4b9aa21e
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
  s</li>\n<li>PPV: Movistar Plus+</li></ul></body></html>
 DESCRIPTION:- PPV: M+ Liga de Campeones\n- PPV: Movistar Plus+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Europa League - Sunderland - Jagiellonia Bialystok
+UID:2fae4472-b61a-3a35-988f-bfeeb464cbab
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 4</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 4
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Europa League - Hoffenheim - Sturm Graz
+UID:8debaacf-9ff5-38b5-83f9-2f409fecefb3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 7</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Europa League - Juventus - AC Omonia
+UID:b9a52e18-5351-3fe7-ba75-b5f2fd091c99
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 2</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Europa League - SCU Torreense - Celtic FC
+UID:dde6fc6d-293b-3f73-b5e6-827dd1242a2b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 6</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Europa League - OFI Creta - Anderlecht
+UID:cc10b058-28bb-3b9d-909d-e81731ecc938
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 10</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 10
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Europa League - Ferencvaros - NK Celje
+UID:9678e019-3cd9-3655-9fa8-6e87802a5a36
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 11</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 11
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Europa League - Sparta Praga - AZ Alkmaar
+UID:16ce4153-f9ae-3032-af1c-8a72cbb0c53f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 8</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Europa League - Olympique Lyon - Lillestrøm SK
+UID:9d2cd5ad-fa17-3ec6-8807-b06fd2c90cfe
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 5</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261123T132951Z
+DTSTART:20261126T200000Z
+DTEND:20261126T220000Z
+SUMMARY:Europa League - NEC Nijmegen - Stade Rennais
+UID:b327f366-bfa1-3a9c-809e-f1404f48d26b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
+ s 9</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 9
 END:VEVENT
 END:VCALENDAR
