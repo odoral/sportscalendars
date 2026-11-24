@@ -16,13 +16,14 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261123T132951Z
+DTSTAMP:20261124T190919Z
 DTSTART:20261126T200000Z
 DTEND:20261126T220000Z
 SUMMARY:Europa League - OFI Creta - Anderlecht
-UID:cc10b058-28bb-3b9d-909d-e81731ecc938
+UID:5a0593bc-a8a0-3758-846b-5f17cf948d86
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Liga de Campeone
- s 10</li></ul></body></html>
-DESCRIPTION:- PPV: M+ Liga de Campeones 10
+ s 10</li>\n<li>PPV: M+ Liga de Campeones 3</li></ul></body></html>
+DESCRIPTION:- PPV: M+ Liga de Campeones 10\n- PPV: M+ Liga de Campeones 3
+ 
 END:VEVENT
 END:VCALENDAR
