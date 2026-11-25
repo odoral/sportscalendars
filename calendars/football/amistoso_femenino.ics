@@ -16,21 +16,31 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261123T132951Z
+DTSTAMP:20261125T031301Z
 DTSTART:20261128T110000Z
 DTEND:20261128T130000Z
 SUMMARY:Amistoso Femenino - Catalunya - Corea del Sur
-UID:1f275998-6ef9-38b8-beed-5af46b6c38c8
+UID:626836da-3137-33c4-8d7e-843c65df0b8f
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li></ul></bod
  y></html>
 DESCRIPTION:- Open: TV3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261123T132951Z
+DTSTAMP:20261125T031301Z
 DTSTART:20261128T170000Z
 DTEND:20261128T190000Z
 SUMMARY:Amistoso Femenino - España - Chile
-UID:42549155-c641-3cde-a540-b026774e4641
+UID:f7042a4c-9c66-35cf-a23e-91a424ddd402
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T031301Z
+DTSTART:20261204T200000Z
+DTEND:20261204T220000Z
+SUMMARY:Amistoso Femenino - España - Venezuela
+UID:7ce48409-2975-33e8-a3f3-1ff94929bb62
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
  <li>Open: rtve Play</li></ul></body></html>
 DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
