@@ -16,33 +16,163 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261114T110138Z
-DTSTART:20261118T180000Z
-DTEND:20261118T200000Z
-SUMMARY:Copa del Rey - Utebo C.F. - Sabadell
-UID:43de9ab1-bd04-3c66-9b94-781fd890643b
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
- <li>Open: Aragón TV</li></ul></body></html>
-DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Real Zaragoza - Burgos C.F.
+UID:d947432f-4604-3d32-9558-2f4ea657462b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261114T110138Z
-DTSTART:20261118T190000Z
-DTEND:20261118T210000Z
-SUMMARY:Copa del Rey - Alcoyano - Mallorca
-UID:36e2df37-a6a2-3c44-a7e3-726ec975a429
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li>\n<li>Open
- : À Punt (València)</li></ul></body></html>
-DESCRIPTION:- Open: IB3\n- Open: À Punt (València)
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Numancia - Athletic Club
+UID:a7622447-0232-3fa6-8c22-a2e64659302d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261114T110138Z
-DTSTART:20261118T190000Z
-DTEND:20261118T210000Z
-SUMMARY:Copa del Rey - Badajoz - Tenerife
-UID:989ffc2f-24a7-3b2e-bbe2-af3e0e694c31
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
- l></body></html>
-DESCRIPTION:- Open: TV Canaria
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Amorebieta - Osasuna
+UID:cc6845f3-4c41-3c1b-9985-4340bafe75df
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Sestao River - Villarreal
+UID:0f534bf0-305d-3437-892f-4db968835677
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Gimnástica T. - Alavés
+UID:e428d57d-a076-3331-8249-0bedad9207a0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Jaén - Valencia
+UID:a6b7dc83-44b3-3cba-9406-be8f122838e4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Cartagena - Elche
+UID:a2de4e0d-40d0-3fbe-98e6-2e7ed6f05f0d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - C.E. Europa - Rayo Vallecano
+UID:110894d4-447a-3e2d-bb2f-bcfed7802a8f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Arosa S.C. - Celta
+UID:277c5879-428d-380a-a660-32d0e7ea003d
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Portugalete - Deportivo
+UID:08beca5f-da21-3013-b3c7-500d4a5dfa85
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Real Ávila - Getafe
+UID:f80db6e1-1c28-366f-8114-5c871ca374dd
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Antequera - Levante
+UID:94b2db57-6867-3397-94ba-8f94474a100a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - C.D. Coria - Málaga
+UID:1b20a26b-6bae-33a0-9d40-ab6834dce174
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - C.D. Atlético Paso - Sevilla
+UID:902e49b4-ae71-34aa-8db2-ac2cc9260698
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Reus FC Reddis - Racing de Santander
+UID:d60e3228-586b-3d14-b21f-95bbf86dc544
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - CD Extremadura - Betis
+UID:f187d523-793b-381b-84f8-c77f989dbea4
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
+ <li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 END:VCALENDAR

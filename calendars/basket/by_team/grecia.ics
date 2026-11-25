@@ -16,23 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261123T132957Z
+DTSTAMP:20261125T134106Z
 DTSTART:20261126T180000Z
 DTEND:20261126T200000Z
 SUMMARY:FIBA World Cup - Grecia - Georgia
-UID:b1f4abcd-22d4-3bea-bfee-fa5b50a3b570
+UID:aac6ac5f-4651-39d9-8967-2e04d33a8287
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Baloncesto 4</li
  ></ul></body></html>
 DESCRIPTION:- PPV: M+ Baloncesto 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261123T132957Z
+DTSTAMP:20261125T134106Z
 DTSTART:20261129T170000Z
 DTEND:20261129T190000Z
 SUMMARY:FIBA World Cup - España - Grecia
-UID:0588ea4f-6876-30fa-88e3-4abd774cbdaa
+UID:78ff4dd0-bfb3-37fc-b57b-4a80b1be641c
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: M+ Vamos 2</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: M+ Vamos 2
+ <li>Open: rtve Play</li>\n<li>PPV: M+ Baloncesto</li>\n<li>PPV: M+ Vamos
+  2</li></ul></body></html>
+DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: M+ Baloncesto\
+ n- PPV: M+ Vamos 2
 END:VEVENT
 END:VCALENDAR

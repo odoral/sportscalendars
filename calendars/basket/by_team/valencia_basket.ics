@@ -16,9 +16,9 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261125T031308Z
-DTSTART:20261125T170000Z
-DTEND:20261125T190000Z
+DTSTAMP:20261125T134106Z
+DTSTART:20261125T180000Z
+DTEND:20261125T200000Z
 SUMMARY:Euroliga Femenina - Carolo Basket - Valencia Basket
 UID:76d31180-1ee2-39a5-ba15-928b72d08cf7
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li>\
@@ -26,17 +26,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li>\
 DESCRIPTION:- Open: À Punt Mèdia\n- PPV: M+ Baloncesto 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261125T031308Z
+DTSTAMP:20261125T134106Z
 DTSTART:20261129T111500Z
 DTEND:20261129T131500Z
 SUMMARY:Liga Femenina Endesa - Valencia Basket - CAB Estepona
 UID:2405a5a3-7f6f-3ddd-ac01-7e57cbc6c871
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
- ></body></html>
-DESCRIPTION:- Open: Siroko TV
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
+ i>PPV: M+ Baloncesto 2</li></ul></body></html>
+DESCRIPTION:- Open: Siroko TV\n- PPV: M+ Baloncesto 2
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261125T031308Z
+DTSTAMP:20261125T134106Z
 DTSTART:20261202T173000Z
 DTEND:20261202T193000Z
 SUMMARY:Euroliga Femenina - CS Rapid Bucuresti (Fem.) - Valencia Basket
@@ -46,12 +46,13 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt Mèdia</li><
 DESCRIPTION:- Open: À Punt Mèdia
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261125T031308Z
+DTSTAMP:20261125T134106Z
 DTSTART:20261203T173000Z
 DTEND:20261203T193000Z
 SUMMARY:Euroliga - Anadolu Efes Istanbul - Valencia Basket
 UID:6b4b18dc-ffac-3ffe-86cb-a257a2881d32
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul></ul></body></html>
-DESCRIPTION:
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
+ /body></html>
+DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 END:VCALENDAR

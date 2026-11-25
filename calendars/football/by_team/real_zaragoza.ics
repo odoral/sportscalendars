@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261122T034451Z
+DTSTAMP:20261125T134101Z
 DTSTART:20261128T174500Z
 DTEND:20261128T194500Z
 SUMMARY:Primera Federación - Alcorcón - Real Zaragoza
-UID:48e55206-8b4b-33fc-8dbc-5a595eb750ef
+UID:fdb0a14a-8fbe-33bb-b514-556056f3c347
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T134101Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Real Zaragoza - Burgos C.F.
+UID:d947432f-4604-3d32-9558-2f4ea657462b
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
+ </body></html>
+DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 END:VCALENDAR
