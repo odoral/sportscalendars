@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261125T134106Z
+DTSTAMP:20261125T235105Z
 DTSTART:20261128T190000Z
 DTEND:20261128T210000Z
 SUMMARY:Liga Femenina Endesa - Azulmarino Basket Mallorca - Ensino Lugo
@@ -26,5 +26,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li>\n<l
  to 2</li></ul></body></html>
 DESCRIPTION:- Open: Siroko TV\n- Open: Teledeporte\n- Open: rtve Play\n- 
  PPV: M+ Baloncesto 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261125T235105Z
+DTSTART:20261205T153000Z
+DTEND:20261205T173000Z
+SUMMARY:Liga Femenina Endesa - Celta Zorka - Azulmarino Basket Mallorca
+UID:c967953b-60e6-3b37-8b15-64d6c7c19b55
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Siroko TV</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Siroko TV
 END:VEVENT
 END:VCALENDAR
