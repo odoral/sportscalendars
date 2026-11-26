@@ -4,7 +4,7 @@ VERSION:2.0
 PRODID:-//Sport Events App//iCal4j 1.0//ES
 BEGIN:VTIMEZONE
 TZID:Etc/UTC
-LAST-MODIFIED:20260721T092906Z
+LAST-MODIFIED:20261009T235635Z
 TZURL:https://www.tzurl.org/zoneinfo/Etc/UTC
 X-LIC-LOCATION:Etc/UTC
 X-PROLEPTIC-TZNAME:UTC
@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20260910T082753Z
-DTSTART:20260910T184500Z
-DTEND:20260910T204500Z
-SUMMARY:FIBA Mundial Femenino - Australia - España
-UID:b671c9be-5bdb-44bc-ab78-51b6003cddbf
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li>\n<li>PPV: DAZN</li>\n<li>PPV: M+ Baloncesto</li
- >\n<li>PPV: M+ Vamos</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play\n- PPV: DAZN\n- PPV: M
- + Baloncesto\n- PPV: M+ Vamos
+DTSTAMP:20261126T175651Z
+DTSTART:20261127T090000Z
+DTEND:20261127T110000Z
+SUMMARY:FIBA World Cup - Irán - Australia
+UID:26b9c5f1-3872-3481-9f03-282c98f2efc9
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li></ul></bod
+ y></html>
+DESCRIPTION:- PPV: DAZN
 END:VEVENT
 END:VCALENDAR
