@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261125T134101Z
+DTSTAMP:20261126T054157Z
 DTSTART:20261127T193000Z
 DTEND:20261127T213000Z
 SUMMARY:Liga Hypermotion - Leganés - Sabadell
@@ -26,5 +26,15 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
   Multi 2</li></ul></body></html>
 DESCRIPTION:- Open: Esport 3\n- PPV: DAZN\n- PPV: LaLiga TV Hypermotion\n
  - PPV: LaLiga TV Multi 2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261126T054157Z
+DTSTART:20261205T151500Z
+DTEND:20261205T171500Z
+SUMMARY:Liga Hypermotion - Sabadell - Eibar
+UID:ae0449db-910f-3823-8e49-9f8df06b5039
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  LaLiga TV Hypermotion</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: LaLiga TV Hypermotion
 END:VEVENT
 END:VCALENDAR
