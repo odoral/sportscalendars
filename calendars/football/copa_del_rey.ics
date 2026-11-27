@@ -16,17 +16,17 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261201T180000Z
 DTEND:20261201T200000Z
 SUMMARY:Copa del Rey - Antequera - Levante
 UID:cd5ef6fe-7d8a-3189-aad9-98cc4ae33a22
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
- </body></html>
-DESCRIPTION:- PPV: Movistar+
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 2</li>\n<
+ li>PPV: Movistar+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 2\n- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261201T180000Z
 DTEND:20261201T200000Z
 SUMMARY:Copa del Rey - Reus FC Reddis - Racing de Santander
@@ -36,7 +36,27 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
+DTSTART:20261201T183000Z
+DTEND:20261201T203000Z
+SUMMARY:Copa del Rey - Huesca - Girona
+UID:b52abd38-2f76-3edd-8f75-62d4045f27d3
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Aragón Play</li>\n
+ <li>Open: Aragón TV</li></ul></body></html>
+DESCRIPTION:- Open: Aragón Play\n- Open: Aragón TV
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T131524Z
+DTSTART:20261201T190000Z
+DTEND:20261201T210000Z
+SUMMARY:Copa del Rey - Albacete - Las Palmas
+UID:d183b074-c1ad-3857-b534-aefddee048da
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: CMM (Castilla-LM)<
+ /li>\n<li>Open: TV Canaria</li></ul></body></html>
+DESCRIPTION:- Open: CMM (Castilla-LM)\n- Open: TV Canaria
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T131524Z
 DTSTART:20261201T200000Z
 DTEND:20261201T220000Z
 SUMMARY:Copa del Rey - Numancia - Athletic Club
@@ -46,47 +66,49 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261201T200000Z
 DTEND:20261201T220000Z
 SUMMARY:Copa del Rey - Gimnástica T. - Alavés
 UID:9f987c9c-3758-305a-bbdb-a1e983dfee7a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
- </body></html>
-DESCRIPTION:- PPV: Movistar+
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 4</li>\n<
+ li>PPV: Movistar+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 4\n- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261201T200000Z
 DTEND:20261201T220000Z
 SUMMARY:Copa del Rey - Cartagena - Elche
 UID:3607604c-9668-305e-bb19-df0e4ae7fcd2
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
- </body></html>
-DESCRIPTION:- PPV: Movistar+
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 3</li>\n<
+ li>PPV: Movistar+</li></ul></body></html>
+DESCRIPTION:- PPV: M+ LaLiga 3\n- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261201T200000Z
 DTEND:20261201T220000Z
 SUMMARY:Copa del Rey - C.E. Europa - Rayo Vallecano
 UID:151fe436-56a3-38ae-8da5-3695bc6cf7b1
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
- </body></html>
-DESCRIPTION:- PPV: Movistar+
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ LaLiga 2</li>\n<
+ li>PPV: M+ Liga de Campeones 2</li>\n<li>PPV: Movistar+</li></ul></body>
+ </html>
+DESCRIPTION:- PPV: M+ LaLiga 2\n- PPV: M+ Liga de Campeones 2\n- PPV: Mov
+ istar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261201T200000Z
 DTEND:20261201T220000Z
 SUMMARY:Copa del Rey - CD Extremadura - Betis
 UID:891366e3-50f9-38bd-9290-76f400355326
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Teledeporte</li>\n
- <li>Open: rtve Play</li></ul></body></html>
-DESCRIPTION:- Open: Teledeporte\n- Open: rtve Play
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li>\n<li
+ >Open: Teledeporte</li>\n<li>Open: rtve Play</li></ul></body></html>
+DESCRIPTION:- Open: Esport 3\n- Open: Teledeporte\n- Open: rtve Play
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261202T180000Z
 DTEND:20261202T200000Z
 SUMMARY:Copa del Rey - Portugalete - Deportivo
@@ -96,7 +118,57 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:Copa del Rey - Sant Andreu - Eibar
+UID:6177e1c0-d90a-375f-ac92-75cf9758b49f
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Esport 3</li></ul>
+ </body></html>
+DESCRIPTION:- Open: Esport 3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T131524Z
+DTSTART:20261202T190000Z
+DTEND:20261202T210000Z
+SUMMARY:Copa del Rey - Almería - Granada C.F.
+UID:9815786c-9fa8-3368-b808-6dc4bc8d85d1
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: Canal Sur</li></ul
+ ></body></html>
+DESCRIPTION:- Open: Canal Sur
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T131524Z
+DTSTART:20261202T190000Z
+DTEND:20261202T210000Z
+SUMMARY:Copa del Rey - Sabadell - Sporting de Gijón
+UID:e1484a76-d8d3-36f9-8b98-57bd45f3686a
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TPA7</li></ul></bo
+ dy></html>
+DESCRIPTION:- Open: TPA7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T131524Z
+DTSTART:20261202T190000Z
+DTEND:20261202T210000Z
+SUMMARY:Copa del Rey - Cultural Leonesa - C.D. Castellón
+UID:ebedd11d-8e61-33dd-a5c8-79f59ec08eac
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: À Punt (València)<
+ /li></ul></body></html>
+DESCRIPTION:- Open: À Punt (València)
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T131524Z
+DTSTART:20261202T190000Z
+DTEND:20261202T210000Z
+SUMMARY:Copa del Rey - C.D. Eldense - Tenerife
+UID:93ec5280-590f-352b-b694-39001c4f9b99
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV Canaria</li></u
+ l></body></html>
+DESCRIPTION:- Open: TV Canaria
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T131524Z
 DTSTART:20261202T200000Z
 DTEND:20261202T220000Z
 SUMMARY:Copa del Rey - Sestao River - Villarreal
@@ -106,7 +178,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261202T200000Z
 DTEND:20261202T220000Z
 SUMMARY:Copa del Rey - Arosa S.C. - Celta
@@ -116,7 +188,17 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
+DTSTART:20261202T200000Z
+DTEND:20261202T220000Z
+SUMMARY:Copa del Rey - Rayo Majadahonda - Mallorca
+UID:0ddab63c-8921-3e50-82ff-29d494b221e0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: IB3</li></ul></bod
+ y></html>
+DESCRIPTION:- Open: IB3
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T131524Z
 DTSTART:20261203T180000Z
 DTEND:20261203T200000Z
 SUMMARY:Copa del Rey - Real Ávila - Getafe
@@ -126,7 +208,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261203T180000Z
 DTEND:20261203T200000Z
 SUMMARY:Copa del Rey - C.D. Atlético Paso - Sevilla
@@ -136,7 +218,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: M+ Vamos</li></ul><
 DESCRIPTION:- PPV: M+ Vamos
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261203T200000Z
 DTEND:20261203T220000Z
 SUMMARY:Copa del Rey - Real Zaragoza - Burgos C.F.
@@ -146,7 +228,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261203T200000Z
 DTEND:20261203T220000Z
 SUMMARY:Copa del Rey - Amorebieta - Osasuna
@@ -156,7 +238,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261203T200000Z
 DTEND:20261203T220000Z
 SUMMARY:Copa del Rey - Jaén - Valencia
@@ -166,7 +248,7 @@ X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: Movistar+</li></ul>
 DESCRIPTION:- PPV: Movistar+
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T175645Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261203T200000Z
 DTEND:20261203T220000Z
 SUMMARY:Copa del Rey - C.D. Coria - Málaga

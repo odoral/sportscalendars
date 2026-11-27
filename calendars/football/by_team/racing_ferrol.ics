@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261126T054157Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261129T110000Z
 DTEND:20261129T130000Z
 SUMMARY:Primera Federación - Racing Ferrol - Mérida
@@ -28,13 +28,15 @@ DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261126T054157Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261205T174500Z
 DTEND:20261205T194500Z
 SUMMARY:Primera Federación - Cultural Leonesa - Racing Ferrol
 UID:f48688c4-d928-323a-affe-701c17981dc0
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TVG</li>\n<li>PPV:
+  DAZN</li>\n<li>PPV: FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li
+ >PPV: Primera Federación</li></ul></body></html>
+DESCRIPTION:- Open: TVG\n- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballC
+ lub TV\n- PPV: Primera Federación
 END:VEVENT
 END:VCALENDAR

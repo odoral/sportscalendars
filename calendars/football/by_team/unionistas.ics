@@ -16,7 +16,7 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261127T023009Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261128T153000Z
 DTEND:20261128T173000Z
 SUMMARY:Primera Federación - Unionistas - Deportivo Fabril
@@ -28,13 +28,15 @@ DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV: LaLiga TV M
  ulti 4
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20261127T023009Z
+DTSTAMP:20261127T131524Z
 DTSTART:20261206T193000Z
 DTEND:20261206T213000Z
 SUMMARY:Primera Federación - Pontevedra - Unionistas
 UID:e2eca63d-4455-3fa6-b393-c1520d51783a
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
- i>PPV: FootballClub TV</li></ul></body></html>
-DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
 END:VEVENT
 END:VCALENDAR
