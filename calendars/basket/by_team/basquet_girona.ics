@@ -16,15 +16,13 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261118T122324Z
-DTSTART:20261122T110000Z
-DTEND:20261122T130000Z
-SUMMARY:Liga Endesa - Monbus Obradoiro - Bàsquet Girona
-UID:de5474c5-2e6b-3e24-bbda-b9d6ae92f436
-X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>Open
- : TVG</li>\n<li>PPV: DAZN</li>\n<li>PPV: DAZN Baloncesto 3</li></ul></bo
- dy></html>
-DESCRIPTION:- Open: TV3\n- Open: TVG\n- PPV: DAZN\n- PPV: DAZN Baloncesto
-  3
+DTSTAMP:20261127T023016Z
+DTSTART:20261206T110000Z
+DTEND:20261206T130000Z
+SUMMARY:Liga Endesa - Bàsquet Girona - Barça Basket
+UID:89ee1756-4bda-369f-a7f7-eb21d57edb54
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>Open: TV3</li>\n<li>PPV:
+  DAZN</li></ul></body></html>
+DESCRIPTION:- Open: TV3\n- PPV: DAZN
 END:VEVENT
 END:VCALENDAR

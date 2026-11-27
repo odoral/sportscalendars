@@ -16,15 +16,25 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261122T034451Z
+DTSTAMP:20261127T023009Z
 DTSTART:20261128T120000Z
 DTEND:20261128T140000Z
 SUMMARY:Primera Federación - C.D. Coria - Ponferradina
-UID:ddc6695b-1926-3507-af8f-4470e3ad3e43
+UID:e1e9dacc-a18d-3271-acdc-2812ba9c0c05
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
 DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
  : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261127T023009Z
+DTSTART:20261206T150000Z
+DTEND:20261206T170000Z
+SUMMARY:Primera Federación - Ponferradina - U.D. Logroñés
+UID:9c745c34-776d-3cdd-bd4e-076b7db43b54
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: FanPlay TV</li>\n<l
+ i>PPV: FootballClub TV</li></ul></body></html>
+DESCRIPTION:- PPV: FanPlay TV\n- PPV: FootballClub TV
 END:VEVENT
 END:VCALENDAR
