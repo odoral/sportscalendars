@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261123T042147Z
+DTSTAMP:20261128T051305Z
 DTSTART:20261129T110000Z
 DTEND:20261129T130000Z
 SUMMARY:Primera Federación - Racing Ferrol - Mérida
-UID:ec95af02-3e96-3d0f-a1c5-7d378f04f827
+UID:2a428d2a-c8eb-3bd3-8a33-2bb3cb48f2b0
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261128T051305Z
+DTSTART:20261207T150000Z
+DTEND:20261207T170000Z
+SUMMARY:Primera Federación - Mérida - Zamora C.F.
+UID:57580290-eb62-38f8-bb62-d08683c986d6
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>

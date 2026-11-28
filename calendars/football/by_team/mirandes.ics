@@ -16,11 +16,23 @@ DTSTART:16010101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTAMP:20261122T034451Z
+DTSTAMP:20261128T051305Z
 DTSTART:20261129T171500Z
 DTEND:20261129T191500Z
 SUMMARY:Primera Federación - Real Avilés - Mirandés
-UID:7d789067-14b2-378c-be06-2864323ecd46
+UID:eea72733-2bde-3442-abb4-91f86e9526d6
+X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
+  FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
+ ción</li></ul></body></html>
+DESCRIPTION:- PPV: DAZN\n- PPV: FanPlay TV\n- PPV: FootballClub TV\n- PPV
+ : Primera Federación
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20261128T051305Z
+DTSTART:20261207T171500Z
+DTEND:20261207T191500Z
+SUMMARY:Primera Federación - Mirandés - CD Extremadura
+UID:a71147f9-b7a5-3e08-a3b1-648c4a688206
 X-ALT-DESC;FMTTYPE=text/html:<html><body><ul><li>PPV: DAZN</li>\n<li>PPV:
   FanPlay TV</li>\n<li>PPV: FootballClub TV</li>\n<li>PPV: Primera Federa
  ción</li></ul></body></html>
